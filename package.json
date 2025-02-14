@@ -1,13 +1,14 @@
 {
-  "name": "hovi-data",
+  "name": "opleidingen-data",
   "version": "1.0.0",
-  "description": "Script to fetch all hovi data and transform it into something useful",
+  "description": "Script to fetch all hovi and kiesmbo data and transform it into something useful",
   "author": "Onderwijs in",
   "license": "ISC",
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "extract": "tsx ./extract.ts",
+    "extract-hovi": "tsx ./extract-hovi.ts",
+    "extract-mbo": "tsx ./extract-kiesmbo.ts",
     "directus": "tsx ./directus.ts"
   },
   "devDependencies": {
@@ -26,6 +27,8 @@
   },
   "engines": {
     "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "ofetch": "^1.4.1"
   }
-  
 }

@@ -9,12 +9,12 @@ import dotenv from 'dotenv';
 import fs from 'fs';
 import { degrees } from './degrees';
 import type { Product, ProductForm, Organization, Location } from './types';
-
+import {ofetch} from 'ofetch'
 import type { paths } from './hovi';
 
 // Load environment variables from .env file
 dotenv.config();
-const token = process.env.HOVI_TOKEN;
+const token = process.env.HOVI_TOKEN as string;
 
 const rate_limit = 20;
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
@@ -23,7 +23,7 @@ const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 const get = async (path: string) => {
     try {
         await delay(1000 / rate_limit); // Delay to adhere to rate limit
-        return await fetch('https://api.hovi.nl/api/3' + path, {
+        return await ofetch('https://api.hovi.nl/api/3' + path, {
             headers: {
                 Authorization: 'Bearer ' + token
             }
@@ -134,7 +134,7 @@ const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{org
 const organizationIds: paths['/organization']['get']['responses']['200']['content']['application/json'] = await get('/organization');
 
 // Read existing files and filter out already processed organization IDs
-const existingFiles = fs.readdirSync('./output');
+const existingFiles = fs.readdirSync('./output/hovi');
 const existingOrganizationIds = new Set(
     existingFiles
         .filter(file => file.startsWith('organization_') && file.endsWith('.json'))
@@ -291,7 +291,7 @@ const locationData = await Promise.all(uniqueLocations.map(async location => {
 }))
 
 // Write unique locations to file
-fs.writeFileSync('./output/locations/locations_with_geodata.json', JSON.stringify(locationData, null, 2));
+fs.writeFileSync('./output/hovi/locations/locations_with_geodata.json', JSON.stringify(locationData, null, 2));
 
 
 
@@ -313,6 +313,6 @@ const organizationData = validOrganizations.map(org => {
 
 
 organizationData.forEach(org => {
-    const filePath = `./output/organization_${org.hovi_id}.json`;
+    const filePath = `./output/hovi/organization_${org.hovi_id}.json`;
     fs.writeFileSync(filePath, JSON.stringify(org, null, 2));
 })
