@@ -1,0 +1,65 @@
+{
+  "title": "International University of Applied Sciences Amsterdam",
+  "code": "IUASA",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "32DF",
+  "hovi_id": "2123",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "International University of Applied Sciences Amsterdam",
+  "products": [
+    {
+      "title": "Toegepaste Islamitische Theologie",
+      "english_title": "Applied Islamic Theologie",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70235",
+      "croho_name": "Toegepaste Islamitische Theologie",
+      "croho_sector": "gedrag_en_maatschappij",
+      "financing": "private",
+      "location_hovi_id": "495",
+      "organization_hovi_id": "2123",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "495",
+        "name": "International University of Applied Sciences  Amsterdam, vestiging Amsterdam",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vestiging_SK123_id": "3329",
+        "url": null
+      }
+    }
+  ]
+}

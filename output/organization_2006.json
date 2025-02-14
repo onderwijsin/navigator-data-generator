@@ -1,0 +1,116 @@
+{
+  "title": "De Ateliers",
+  "code": "ATEL",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "De Ateliers is een onafhankelijk kunstenaarsinstituut, opgericht in 1963 door en voor beeldend kunstenaars. De instelling richt zich op intensieve begeleiding van jonge, getalenteerde kunstenaars uit binnen- en buitenland. In het monumentale gebouw in het centrum van Amsterdam werken 23 kunstenaars, ieder in een eigen atelier, waar zij zich onder wekelijkse internationale begeleiding ontwikkelen in het kunstenaarschap op het hoogste niveau. De Ateliers behoort niet tot de educatieve instellingen. Het beleid van de stichting wordt bepaald door de begeleidende kunstenaars. Als internationaal gerenommeerde kunstenaarsinstelling krijgt De Ateliers financiële support van het Ministerie van Onderwijs, Cultuur en Wetenschappen, het Mondriaan Fonds en het Ateliers Support Fund. De Ateliers staat open voor jonge kunstenaars die aan het begin staan van hun professionele ontwikkeling. Deelnemers nemen een beurs mee uit het land van herkomst. Kunstenaars voor wie dit niet mogelijk is kunnen aanspraak maken op een stipendium. De Ateliers is een ANBI met een minimale overhead. Alle inkomsten worden direct geïnvesteerd in de kwaliteit van de begeleiding van de deelnemende kunstenaars."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "internationaal onderwijs",
+  "brin_code": "9006",
+  "hovi_id": "2006",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "De Ateliers",
+  "products": [
+    {
+      "title": "Post academic Fine Art Course",
+      "english_title": "Post-academic fine art course",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "336",
+      "organization_hovi_id": "2006",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "lecture",
+            "oral_presentation",
+            "research",
+            "self_evaluation",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Ateliers is an independent artists' institute which is run by visual artists. It focuses on the artistic development of young, talented artists from within the Netherlands and abroad. De Ateliers is an independent artists' institute which is run by visual artists. It focuses on the artistic development of young, talented artists from within the Netherlands and abroad. The monumental building in the center of Amsterdam offers twenty-three spacious studios. These are placed at the disposal of beginning artists who wish to combine intensive self-motivation with critical guidance. Though similar to a post-academic teaching facility, de Ateliers is not an educational institution. Its policy as a foundation is determined by the supervising artists. Dominic van den Boogerd is its director. As an internationally renowned institution, de Ateliers receives financial support from the Department of Culture of the Dutch Ministry of Education, Culture and Sciences. Throughout the working year, teaching artists and art critics make individual studio visits every Tuesday. The number and the duration of the visits varies from week to week. Every participant has contact with every tutor; de Ateliers does not use sign-up lists for studio visits."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Ateliers is an independent artists' institute which is run by visual artists. It focuses on the artistic development of young, talented artists from within the Netherlands and abroad. De Ateliers is an independent artists' institute which is run by visual artists. It focuses on the artistic development of young, talented artists from within the Netherlands and abroad. The monumental building in the center of Amsterdam offers twenty-three spacious studios. These are placed at the disposal of beginning artists who wish to combine intensive self-motivation with critical guidance. Though similar to a post-academic teaching facility, de Ateliers is not an educational institution. Its policy as a foundation is determined by the supervising artists. Dominic van den Boogerd is its director; Elly Reurslag and Corine Lindenbergh are responsible for the day-to-day management. As an internationally renowned institution, de Ateliers receives financial support from the Department of Culture of the Dutch Ministry of Education, Culture and Sciences. Throughout the working year, teaching artists and art critics make individual studio visits every Tuesday. The number and the duration of the visits varies from week to week. Every participant has contact with every tutor; de Ateliers does not use sign-up lists for studio visits."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2016-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-01",
+              "end_date": "2018-08-31"
+            }
+          ],
+          "product_url": "www.de-ateliers.nl",
+          "product_url_en": "www.de-ateliers.nl",
+          "scholarships": [
+            "stipendium_de_ateliers"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "336",
+        "name": "Vestiging Amsterdam",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

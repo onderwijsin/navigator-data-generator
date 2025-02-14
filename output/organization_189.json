@@ -1,0 +1,209 @@
+{
+  "title": "NCOI / Pro Education",
+  "code": "PROED",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "28DU",
+  "hovi_id": "189",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "NCOI / Pro Education",
+  "products": [
+    {
+      "title": "Opleiding tot Fysiotherapeut",
+      "english_title": "Physiotherapy",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34570",
+      "croho_name": "Opleiding tot Fysiotherapeut",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "113",
+      "organization_hovi_id": "189",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "113",
+        "name": "NCOI / Pro Education, vestiging Amsterdam",
+        "street": "Hoogoorddreef 5",
+        "zip": "1101 BA",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "251",
+        "url": "http://www.proeducation.nl"
+      }
+    },
+    {
+      "title": "Opleiding voor Ergotherapie",
+      "english_title": "Occupational Therapy",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34574",
+      "croho_name": "Opleiding voor Ergotherapie",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "113",
+      "organization_hovi_id": "189",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "113",
+        "name": "NCOI / Pro Education, vestiging Amsterdam",
+        "street": "Hoogoorddreef 5",
+        "zip": "1101 BA",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "251",
+        "url": "http://www.proeducation.nl"
+      }
+    },
+    {
+      "title": "Opleiding voor Logopedie",
+      "english_title": "Speech and Language Therapy",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34578",
+      "croho_name": "Opleiding voor Logopedie",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "113",
+      "organization_hovi_id": "189",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "113",
+        "name": "NCOI / Pro Education, vestiging Amsterdam",
+        "street": "Hoogoorddreef 5",
+        "zip": "1101 BA",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "251",
+        "url": "http://www.proeducation.nl"
+      }
+    },
+    {
+      "title": "Voeding en Diëtetiek",
+      "english_title": "Nutrition and Dietetics",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34579",
+      "croho_name": "Voeding en Diëtetiek",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "113",
+      "organization_hovi_id": "189",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "113",
+        "name": "NCOI / Pro Education, vestiging Amsterdam",
+        "street": "Hoogoorddreef 5",
+        "zip": "1101 BA",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "251",
+        "url": "http://www.proeducation.nl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Maritime & Logistics University of Applied Sciences",
+  "code": "MLUA",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Netherlands Maritime University is a specialized training and educational institute for the maritime industry. NMU offers a Master of Science in Shipping and Transport, a management program for port and shipping professionals. This program is provided in Rotterdam, the Netherlands. STC-Group is a worldwide strategic combination of well-established education, training, research, consultancy and implementation service providers for the entire shipping, port, transport and logistics chain as well as for the port-related oil and chemical industry. STC-Group is renowned for its unique simulator park which forms a vital part of STC-Group's didactical model. Over 4,500 students are participating in vocational, Bachelor's and Master's programs. Home base of STC-Group is Rotterdam, the Netherlands. The STC-Group has developed knowledge hubs in Vietnam, Philippines, South-Africa, Oman and Brazil."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "29UK",
+  "hovi_id": "219",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Maritime & Logistics University of Applied Sciences",
+  "products": [
+    {
+      "title": "Maritieme Techniek / Scheepsbouwkunde",
+      "english_title": "Maritime Engineering / Naval Architecture",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "30032",
+      "croho_name": "Maritieme Techniek / Scheepsbouwkunde",
+      "croho_sector": "techniek",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "122",
+      "organization_hovi_id": "219",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "122",
+        "name": "Maritime & Logistics University of Applied Sciences, vestiging Rotterdam",
+        "street": "Lloydstraat 300",
+        "zip": "3024 EA",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "311",
+        "url": "http://stc-group.nl"
+      }
+    },
+    {
+      "title": "Diploma Management Studies Port, Shipping and Transport Management",
+      "english_title": "Diploma Management Studies Port, Shipping and Transport Management",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "122",
+      "organization_hovi_id": "219",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "practicum",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Post-graduate course, focused on educating tomorrow's transport managers. The course provides a solid basis in managerial skills and in-depth knowledge of the port and shipping industry. Course objectives • To provide the participants with the knowledge, skills and techniques necessary to deal with all kinds of developments in international maritime transport. • To enable the participants to make effective use of management information and management control systems. Target group The post graduate DMS course is targeted at people working at a middle managerial or supervisory level in private or public organizations in the maritime and transport industry. Also people from other branches of industry, e.g. banking and insurance, operating in a maritime environment are able to participate successfully. Many merchant marine officers, preparing for a shore-based job have graduated from this course."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-05-02"
+            }
+          ],
+          "product_url_en": "www.stc-group.nl",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: visa, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "8000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "11195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "11195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "11195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "11195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "122",
+        "name": "Maritime & Logistics University of Applied Sciences, vestiging Rotterdam",
+        "street": "Lloydstraat 300",
+        "zip": "3024 EA",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "311",
+        "url": "http://stc-group.nl"
+      }
+    }
+  ]
+}

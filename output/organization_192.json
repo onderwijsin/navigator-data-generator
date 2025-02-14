@@ -1,0 +1,103 @@
+{
+  "title": "NSO-CNA Leiderschapsacademie",
+  "code": "NSONC",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "29UJ",
+  "hovi_id": "192",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "NSO-CNA Leiderschapsacademie",
+  "products": [
+    {
+      "title": "Master of Educational Management (MEM)",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70139",
+      "croho_name": "Educational Leadership",
+      "degrees": [
+        "Master"
+      ],
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "location_hovi_id": "207",
+      "organization_hovi_id": "192",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "colloquium",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "project",
+            "research",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De NSO-CNA Master of Educational Management (MEM) is een dynamische master voor ervaren schoolleiders. Wij onderscheiden ons door aandacht voor de inhoud: in onze opleidingen gaan leiderschapsontwikke De NSO-CNA Master of Educational Management (MEM) is een dynamische master voor ervaren schoolleiders. Wij onderscheiden ons door aandacht voor de inhoud: in onze opleidingen gaan leiderschapsontwikkeling en schoolontwikkeling hand in hand. Focus op persoonlijke groei gaat gepaard met een hoge mate van professionaliteit en praktijknabijheid. MASTER OF EDUCATIONAL MANAGEMENT Voor leidinggevenden in alle sectoren van het onderwijs. Modulair studeren. Betekenisvolle verbinding met wetenschappelijke kennis en onderzoek. Unieke aandacht voor bedrijfsvoering & management. Opdrachten doen waar je in je werk voordeel van hebt. Specialistische docenten en experts in alle modules, begeleiding door leiderschapscoach. Deels vaste, deels wisselende deelnemersgroep. Studieduur: twee tot vijf jaar. De Master of Educational Management is NVAO-gecertificeerd."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "visie op onderwijs en leren persoonlijk leiderschap bedrijfsvoering en organisatieontwikkeling teamontwikkeling handelen binnen de context onderzoek"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.nso-cna.nl/nso-cna-opleidingen/master-educational-management/",
+          "scholarships": [
+            "lerarenbeurs"
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "207",
+        "name": "NSO-CNA Leiderschapsacademie, vestiging Diemen",
+        "street": "Dalsteindreef 141",
+        "zip": "1112 XJ",
+        "city": "DIEMEN",
+        "country": "NL",
+        "vestiging_SK123_id": "3279",
+        "url": null
+      }
+    }
+  ]
+}

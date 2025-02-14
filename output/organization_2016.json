@@ -1,0 +1,1350 @@
+{
+  "title": "International Institute of Social Studies of Erasmus University Rotterdam (ISS)",
+  "code": "ISS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Institute of Social Studies (ISS) is an international postgraduate school and one of the oldest and largest centres for the comparative study and research of social, political and economic development and change. ISS is part of Erasmus University Rotterdam. The ISS provides top-quality education in the social sciences to postgraduate professionals, mostly from developing countries and countries in transition. The courses  all taught in English  provide knowledge and insights acquired in a number of fields including development economics, sociology, politics, public policy and management, governance, gender, employment, population, social security, children and youth, and human rights. Every year, the ISS is host to hundreds of students participating in its PhD, Masters and Diploma programmes. Over 10.000 students from more than 160 countries have participated in the Institute's programmes. The staff is drawn from around thirty countries from all over the world. The multicultural community at the ISS offers an excellent learning environment both inside and outside the classroom, in which students can gain from each others’ diverse experience."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "onderzoeksuniversiteit",
+  "brin_code": "9016",
+  "hovi_id": "2016",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "International Institute of Social Studies of Erasmus University Rotterdam (ISS)",
+  "products": [
+    {
+      "title": "Erasmus Mundus Master in Public Policy (Mundus MAPP)",
+      "english_title": "Erasmus Mundus Master in Public Policy (Mundus MAPP)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Erasmus Mundus Masters Program in Public Policy (Mundus MAPP) is a 2-year-long joint MA programme that embeds the nascent field of transnational public policy into a European context. The program provides a detailed and systematic understanding of how political institutions, processes and public policies operate and interact from the global political economy through to national and local levels with a direct focus on European engagements at these levels of governance. The multidisciplinary curriculum is conceptually grounded in public policy, international relations, development studies, public administration and public management. Mundus MAPP prepares graduates for international professional careers as policy-makers, policy-analysts and advisors in either politics, the civil service, international organisations or the corporate and non-governmental sectors. The program lasts two years. The first or foundation year is spent either at the Institute of Social Studies in the Hague, or at the Central European University in Budapest, Hungary. Having completed their courses and a thesis report students move for a second academic year either at the Barcelona Institute of International Studies in Spain or to the University of York in the UK."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2014-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2015-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2016-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2017-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "2018-08-31"
+            }
+          ],
+          "product_url_en": "http://www.mundusmapp.org/",
+          "scholarships": [
+            "erasmus_mundus_programme_action_1",
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Social Policy",
+      "english_title": "MA in Development Studies major in Social Policy for Development",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Social Policy focuses on the analysis of conditions for sustained and equitable development, particularly the policies that promote inclusion, livelihoods and citizenship. Social policy focuses on understanding the conditions for sustainable and equitable growth through an understanding of the central role of social provisioning within the development process. This implies critical analysis of patterns of welfare provisioning in health, food security, education, social protection, and organization of employment and livelihoods. It studies the role of public policies in promoting citizenship, rights and universalism, and how these patterns are influenced by globalization and population trends. Social policy includes analysis of marginalized groups, like elderly, children and youth, disabled, migrants, casual workers, etc., and of causes of deprivation, including exclusionary economic growth, safety and rule of law, gender discrimination, sexual and reproductive health, inter-generational processes and structural inequalities. It provides in-depth understanding of responsibilities of different actors in promoting well-being. This Major offers students the possibility to specialize in areas of children and youth, population studies, poverty studies, and work and employment, in each case with a strong focus on policy analysis."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "product_url": "http://www.iss.nl/MA-Programme",
+          "product_url_en": "http://www.iss.nl/education/ma_programme/social_policy_for_development_spd/",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Governance and Development Policy",
+      "english_title": "MA in Development Studies major in Governance and Development Policy",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Major in Governance and Development Policy provides students with a grounding in the study of issues related to governance at local, national and international levels. The Major addresses problems of governance and policy in relation to local, national and international processes of development. It combines a thorough theoretical understanding with a practical, policy-oriented approach. The Major is built around several concerns: • the way in which processes of governance, markets and democracy relate to issues of participation, accountability, representation, rule of law and of civil and human rights; • public policy processes and major factors influencing them, the roles of various groups and actors, and methods for formulating and evaluating policies, programmes; • the actions, reactions and interactions of local government, private enterprises and community organizations in line with the challenges and opportunities brought by globalization, decentralization and increasing competition; and • the emergence of institutions through which global governance takes, as well as the (supra) national and regional resistance. This Major offers offers students the possibility to specialize further in the areas of governance and democracy, local development studies, international political economy, and public policy and management."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "product_url_en": "http://www.iss.nl/education/ma_programme/governance_policy_and_political_economy_gppe/",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "atlantis_eu_us_cooperation_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "PhD in Development Studies",
+      "english_title": "PhD in Development Studies",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_discussion",
+            "literature_study",
+            "oral_presentation",
+            "research",
+            "self_study",
+            "seminar"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ISS offers a four-year programme leading to the PhD degree of Erasmus University Rotterdam in Development Studies. ISS research focus on development studies, a multidisciplinary and interdisciplinary field of study seeking to understand, social, political and economic change and development. In a globalizing world development studies has to deal with the interconnectedness of societies on the one hand and with regional and local specifities on the other hand. It examines societal change within a historical, comparative and global perspective. It translates insights into strategies for development. ISS offers a four-year programme leading to the PhD degree of Erasmus University Rotterdam in Development Studies. Resident PhD researchers are provided with excellent facilities such as a computer, Internet access and an office shared with another doctoral researcher. The programme offers flexible academic arrangements to accommodate the constraints arising from the professional obligations of mid-career applicants. Well-prepared and well-supported candidates who are based in a research-oriented organization or university elsewhere may be able to follow a non-resident PhD tailor-made programme, with shorter periods spent in The Hague."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-01-01",
+              "end_date": "2016-12-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-01-01",
+              "end_date": "2017-12-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-01-01",
+              "end_date": "2018-12-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-01-01",
+              "end_date": "2019-12-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2017-01-01",
+              "end_date": "2020-12-31"
+            }
+          ],
+          "product_url_en": "http://www.iss.nl/education/phd_programme/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Human Rights, Gender and Conflict Studies: Social Justice Perspe…",
+      "english_title": "MA in Development Studies major in Human Rights, Gender and Conflict Studies: Social Justice Perspe…",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Major provides a grounding in understanding and remedying sources of injustice related to contemporary development. Conflict and peace, human and labour rights, women inequalities are key themes. This Major is about justice and injustice in relation to national and global development. Courses cover 3 interlinked areas that offer the students the possibility for further specialization: conflict and peace, human and labour rights, and women and gender. 1. Conflict and peace: social, economic, political and cultural roots of a range of types of collective violence and war. Contemporary geo-political dynamics of militarism and insecurities are explored. Local and global control over material and symbolic resources, and practices and discourses of reconstruction and peace are examined. 2. Human rights: theoretical foundations, human rights protection instruments at regional, local and global levels; rights-promoting practices from a social justice and development perspective (e.g. philosophical, socio-legal, international law, labour rights, feminist, social movements). 3. Women and Gender: gendered relations of power within wider knowledge production processes in development studies. Gendered social change processes, patterns and policy implications in context of global restructuring; social and labour protection policies."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "product_url_en": "http://www.iss.nl/education/ma_programme/human_rights_gender_and_conflict_studies_social_justice_perspectives_sjp/",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Agrarian, Food and Environmental Studies",
+      "english_title": "MA in Development Studies major in Agrarian, Food and Environmental Studies",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Major provides students with a grounding in the study of problems related to agricultural and rural development, food security, and developing societies and their natural environments The Major offers an interdisciplinary, political economy perspective on agrarian, food and environmental problems and policies, with an emphasis on practical, critical understandings required of successful professionals. The focus of the Major is on the social and political processes around dynamics of agrarian change, rural poverty, food security and environmental degradation, as well as on interventions undertaken in these fields by government agencies and grassroots organisations. It offers a balance between theory, policy and practice. The main problem areas addressed in the Major are: • Land, water and natural resources use, access and property relations; • rural poverty, social exclusion and marginalization; • Food security and sovereignty and food movements; • rural resource conflicts and environmental degradation; • the extraction, use, management, and distribution of natural resources; and • global agrarian and environmental politics, including (trans)national agrarian and environmental justice movements This Major offers students the possibility to specialise further in the areas of agricultural and rural development, and environment and sustainable development."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "0217-12-15"
+            }
+          ],
+          "product_url_en": "http://www.iss.nl/education/ma_programme/agrarian_and_environmental_studies_aes/",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "skill",
+            "stuned_scholarship_programme",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Economics of Development",
+      "english_title": "MA in Development Studies major in Economics of Development",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The major provides students with the theoretical knowledge, policy awareness and analytical techniques to tackle many of the key issues relating to economic development of their countries. Developing countries are vulnerable to internal and external shocks and regularly suffer from periods of economic instability. Stabilization policies are required to prevent and manage such shocks. However, macroeconomic stability is a necessary, but not sufficient, condition for growth and poverty alleviation. Many developing countries suffer from endemic poverty, slow economic growth, unequal distribution of income and wealth, low levels of agricultural and industrial investment, and the lack of effective government services. This major concentrates on economic policy issues in the area of stabilization, including fiscal, monetary and exchange rate policies, on issues in the areas of trade, growth, health inequality and poverty, food security, human capital, institutional development and rule of law. Students will be able to specialize in policy areas and develop analytical skills that are directly relevant to them. The programme provides training in applied econometrics and impact evaluation, microeconomic and macroeconomic policy analysis. In addition to mainstream economics, the programme also exposes students to alternative schools of economic thought."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-31",
+              "end_date": "2015-12-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "product_url_en": "http://www.iss.nl/education/ma_programme/economics_of_development_ecd/",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

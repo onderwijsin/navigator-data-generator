@@ -1,0 +1,52 @@
+{
+  "title": "Opleidingsinstelling Geestelijke Gezondheidszorg Verpleegkundig Specialist",
+  "code": "OGGVS",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "30EA",
+  "hovi_id": "232",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Opleidingsinstelling Geestelijke Gezondheidszorg Verpleegkundig Specialist",
+  "products": [
+    {
+      "title": "Verpleegkundig Specialist / ANP GGZ",
+      "english_title": "Advanced Nursing Practice in Health care",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70110",
+      "croho_name": "Verpleegkundig Specialist / ANP GGZ",
+      "croho_sector": "gezondheidszorg",
+      "financing": "private",
+      "location_hovi_id": "138",
+      "organization_hovi_id": "232",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "138",
+        "name": "Opleidingsinstelling Geestelijke Gezondheidszorg Verpleegkundig Specialist, vestiging Utrecht",
+        "street": "Catharijnesingel 56",
+        "zip": "3511 GE",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vestiging_SK123_id": "365",
+        "url": "http://www.ggzvs.nl"
+      }
+    }
+  ]
+}

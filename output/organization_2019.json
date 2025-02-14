@@ -1,0 +1,1665 @@
+{
+  "title": "The Hague Academy for Local Governance",
+  "code": "HALG",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9019",
+  "hovi_id": "2019",
+  "phone": null,
+  "email": "scholarships@thehagueacademy.com",
+  "website": [
+    {
+      "url": "https://thehagueacademy.com/",
+      "lang": "Engels"
+    }
+  ],
+  "english_title": "The Hague Academy for Local Governance",
+  "products": [
+    {
+      "title": "Migration and Local Authorities",
+      "english_title": "Migration and Local Authorities",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course explores the role of local actors in receiving migrants, including dilemmas of integration and municipal service delivery to host communities and migrants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Worldwide, an estimated 84 million people have been forced to leave their homes. Among them, nearly 26.6 million refugees. Local governments often find themselves at the forefront of the global response to human displacement. They need to take measures even before national governments develop and adopt policies."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course discusses how local authorities can develop innovative solutions to the complex challenges of displaced populations. We will discuss how they can provide housing and health care for migrants and refugees while maintaining the level of services for the host community. We will also discuss how local authorities can promote employment opportunities for migrants and refugees. And how they can include the needs of migrants and refugees in local development planning. Furthermore, attention is paid to social cohesion between migrants and host communities, especially in communities with a large presence of migrants."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-07-04",
+              "end_date": "2022-07-15"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-07-10",
+              "end_date": "2022-07-21"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-06-26",
+              "end_date": "2024-07-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-07-07",
+              "end_date": "2025-07-18"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/migration-and-local-authorities/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Local Climate Response",
+      "english_title": "Local Climate Response",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The course discusses how local authorities can adapt to climate change and increase their climate resilience. We start with discussing climate change projections and scenarios, and further explore policy implications of climate change projections in a case study. We will identify tools to measure climate change vulnerabilities and practice with assessing their own local context."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "After that, we zoom in on the design and planning of sustainable development policies. Attention is paid to the integration of smart solutions for food, water, energy and transport as well as to city-region relations. In a special module, we explore instruments for financing climate adaptation. Further, we will address change management and how to deal with obstacles during the implementation of climate policies."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In interactive sessions, best practices from different parts of the world are discussed and linked to the context of the participants. In addition, we visit inspiring examples from the Netherlands, such as a climate proof neighbourhood of Culemborg, combining green buildings with smart energy and waste management, urban farming in Rotterdam, and projects to adapt to floods and rising sea levels."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Understand key concepts of climate change, climate adaptation, mitigation, risk, resilience and climate justice;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Increase insights into climate change scenarios and policy implications;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Assess climate vulnerabilities using well-established tools and methodologies;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Design community-based climate policies and action plans, including the use of nature-based solutions and energy transition strategies;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Implement and finance climate policies with stakeholders in your organisation and community;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Mainstream sustainability and climate actions in your organisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-06-19",
+              "end_date": "2023-06-30"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-05-29",
+              "end_date": "2024-06-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-06-30",
+              "end_date": "2025-07-11"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/blog/2021/02/climate-adaptation-local-resilience-2/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Le Développement économique local",
+      "english_title": "Le Développement économique local",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Cette formation a pour thème les stratégies et les outils de gestion des processus de développement économique local (DEL) inclusif et durable. Elle aborde des questions telles que : comment développer une vision commune pour le secteur de manière participative, impliquant les pouvoirs publics, les citoyens, les entreprises et les OSC? Comment favoriser la création d'emplois et l'esprit d'entreprise ? Comment améliorer les conditions pour les investissements dans le commerce et l'industrie et pour les petites et moyennes entreprises ? Et comment financer le développement économique local ?"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2017-05-08",
+              "end_date": "2017-05-19"
+            }
+          ],
+          "product_url_en": "http://thehagueacademy.com/blog/2016/08/le-developpement-economique-local/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Conflict, Rule of Law & Local Security",
+      "english_title": "Conflict, Rule of Law & Local Security",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You will discuss instruments for effective cooperation between different public security actors as well as ways to involve the local community in promoting reconciliation and local security. How can governments in conflict-affected settings restore security, services and state legitimacy and improve inclusive development? What policies and instruments do they have to foster reconciliation and peacebuilding amongst different ethnic or religious groups and reintegrate ex-combatants? Together with international experts, you will explore the concepts of good governance and rule of law in a post-conflict setting, discuss case studies and lessons from fragile countries, and relate these to your own work context. You will learn more about the role of the different institutions – with a focus on subnational government - in restoring human security, government legitimacy and basic services. In exercises, you will increase your understanding of the influence of the political economy of conflict on state performance. Furthermore, you will increase insight in conflict analysis and conflict sensitive programming and practice with do’s and don’ts in reconciliation processes. Experts come from a.o. Transitional International, the Human Security Collective and PAX for Peace. You will learn about the multi-actor Dutch security approach and pay visits to the Peace Palace and the ICC."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-10-11",
+              "end_date": "2021-10-22"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-31",
+              "end_date": "2022-11-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-11-08",
+              "end_date": "2023-11-21"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-11-13",
+              "end_date": "2024-11-26"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/conflict-rule-of-law-and-local-security/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Local Economic Development",
+      "english_title": "Local Economic Development",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course focuses on strategies to strengthen the economic capacity of a local or regional community, making optimal use of the existing and potential characteristics of the area. You will be provided with strategies, tools and approaches to improve conditions for job creation and inclusive economic growth."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You will discuss questions such as: How to develop and implement a vision for the area together with government, citizens, businesses and CSOs? How to improve the interests of the local community vis-a-vis central government, multinationals and foreign investors, with a particular focus on human rights and business? How to support farmers and small businesses in creating job opportunities and improving food security? As part of the course we visit and interact with projects supporting small entrepreneurs and innovative agricultural programmes."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-06-14",
+              "end_date": "2021-06-25"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-10",
+              "end_date": "2022-10-21"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-10-18",
+              "end_date": "2023-10-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-18",
+              "end_date": "2024-10-01"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/local-economic-development/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Multilevel Water Governance",
+      "english_title": "Multilevel Water Governance",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course explores the building blocks of water governance: administrative, planning, financial, legal, stakeholder & cooperation through (inter)national best practices and study visits. Water provision and governance of water involve complex systems and the coordination of different stakeholders at all levels government. Adding to the challenge are the political and institutional contexts of the country. In many contexts, reforms for effective water management are hampered by an unclear allocation of roles and responsibilities, territorial fragmentation and limited capacity and funds at the local level. This course addresses the six building blocks of sound water governance: administrative, planning, financial, legal, stakeholder and cooperation in a balanced mix of theory, (inter)national best practices and study visit illustrating the Dutch water governance system. Participants will get a unique insight into international best practices and water governance tools and work actively to apply the building blocks for sound water governance for their own local context."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-06",
+              "end_date": "2021-09-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-26",
+              "end_date": "2022-10-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-27",
+              "end_date": "2023-10-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-25",
+              "end_date": "2024-10-08"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/multilevel-water-governance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Fiscal Decentralisation & Local Finance",
+      "english_title": "Fiscal Decentralisation & Local Finance",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Key questions in this course include: how can fiscal relations between national and local authorities be improved? How can local authorities raise their income and finance basic services for the poor? And how can citizens actively help set spending priorities and hold their governments accountable?  You will learn about the four pillars of fiscal decentralisation and discuss relevant tools for income generation and financial management at the local level along with approaches for participatory budgeting (including women and marginalised groups), and public-private partnerships.  You will also get acquainted with practical examples to help increase revenue, improve services and at the same time support civic engagement and government accountability."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In addition to expert-lectures from a.o. UNCDF, there will be study visits to the Netherlands’ Ministry of Interior, the Association of Municipalities and the Dutch Tax and Customs Office. You will learn more about local practices in The Netherlands by visiting the city of The Hague and engaging in a municipal finance quiz. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-02-07",
+              "end_date": "2022-02-18"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-13",
+              "end_date": "2023-02-24"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-08-23",
+              "end_date": "2023-09-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-07",
+              "end_date": "2024-02-20"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/fiscal-decentralisation-and-local-finance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Citizen Participation and Inclusive Governance",
+      "english_title": "Citizen Participation and Inclusive Governance",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sustainable development is driven by local governments that are responsive to the needs of their citizens and willing to involve them in their decision-making processes. To make that work, citizens need to feel empowered to make their voices heard and cooperate effectively with the authorities."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is based on four pillars: participation, inclusion, social accountability and innovation. It discusses concrete examples of innovative strategies to promote transparent, participatory, inclusive and accountable governance. We will examine different communication tools and consider the importance of managing the expectations of citizens, community organisations and other stakeholders. Special attention is given to ensuring all voices are heard, including women, youth and people with disabilities. Furthermore, we will explore how information technologies can ensure greater accountability and transparency within government and facilitate meaningful participation."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-11-01",
+              "end_date": "2023-11-14"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-04-03",
+              "end_date": "2024-04-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-10-09",
+              "end_date": "2024-10-22"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-04-07",
+              "end_date": "2025-04-18"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/citizen-participation-inclusive-governance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Gender Responsive Governance",
+      "english_title": "Gender Responsive Governance",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "exhibition",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course explores the what, why and how of gender responsive governance for transformative change by focusing on gender mainstreaming and equitable service delivery at the local level."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course explores the what, why and how of gender responsive governance and its relation to inclusive development. The practical integration of gender in all dimensions of (local) governance, as well as the role of women and men in equitable service delivery are examined. Special attention is paid to designing strategies for effective and meaningful involvement of marginalized groups (i.e. women, youth) in development initiatives. Throughout, the cross-cutting issues of applying intersectionality and how to involve men are underlined, especially in complex cultural and religious settings."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "By showing examples from around the globe, applying interactive ways of sharing knowledge and working with renowned experts in this field, participants will gain a deeper understanding of gender dynamics and strategies for addressing the different needs and priorities of women, men, young girls and boys."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Key concepts: gender analysis, gender mainstreaming, gender budgeting, equitable service delivery, social economic empowerment, meaningful participation, transformative change, working with gender in complex settings, effective communication."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-11-15",
+              "end_date": "2021-11-26"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-11-14",
+              "end_date": "2022-11-25"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-11-22",
+              "end_date": "2023-12-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-04-10",
+              "end_date": "2024-04-23"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-11-27",
+              "end_date": "2024-12-10"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/gender-responsive-governance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Integrity and Anti-corruption",
+      "english_title": "Integrity and Anti-corruption",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In this course, participants learn how to promote and implement integrity, transparency and anti-corruption policies in government institutions."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The training programme aims to increase understanding of the international anti- corruption framework and related integrity policies. The role of various actors and international instruments in eliminating corruption and promoting the rule of law will be examined and corruption’s relation to international development and human security will be discussed."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Moreover, the course also provides insight in the roles and responsibilities of the different actors in promoting integrity in organisations. The seven building blocks of integrity will be discussed, as well as coherence of integrity policies with the overall financial and HR-policy."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The training is designed to broaden your understanding of the complexities of corruption, its root causes, and impact on society. In addition, knowledge and skills to develop a sustainable policy for the promotion of integrity will be enhanced. Special attention will be paid to obstacles and dilemma´s in the implementation process and how to overcome them. During the course we will visit amongst others the Ministry of Interior and the Municipality of Amsterdam"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "•Have insight in the importance of integrity for well-functioning, transparent government institutions and for economic growth; •Know how the Dutch policy for integrity of civil servants is shaped and organised; •Be able to use the acquired knowledge and best practices as a source of inspiration for dealing with challenges related to integrity policies in their own countries; •Be trained in the"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-27",
+              "end_date": "2021-10-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-05",
+              "end_date": "2022-09-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-06",
+              "end_date": "2023-09-19"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-04",
+              "end_date": "2024-09-17"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/integrity-anti-corruption/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Inclusive Service Delivery and the SDGs",
+      "english_title": "Inclusive Service Delivery and the SDGs",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Local public services, such as waste collection, health services, clean water and social security, have a great impact on our daily lives and well-being. However, in many countries, poor and marginalised people often lack access to these important services. Local governments are best positioned to improve access for all and make a difference. To do this, they need sufficient capacity and resources as well as clear arrangements with and support from central government."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "With the Sustainable Development Goals as a starting point for discussion, the course focuses on how local authorities can increase the quality and accessibility of public services for all citizens. The course discusses tools and methods for financing local services and examples of citizen involvement and public-private partnerships."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-03-06",
+              "end_date": "2023-03-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-28",
+              "end_date": "2024-03-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-05-05",
+              "end_date": "2025-05-16"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/inclusive-service-delivery-the-sdgs/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Urban Governance: Resilient and Smart Cities",
+      "english_title": "Urban Governance: Resilient and Smart Cities",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course focuses on enhancing cities' resilience, enabling them to absorb and recover from external and internal shocks while maintaining essential functions. Collaborating with international experts, the course combines theoretical debates, practical experiences, real-life scenarios, and group work to examine cities' vulnerabilities across different regions. Discussions aim to answer: What must cities be resilient to? How can cities, as complex systems, adapt and be resilient? How can cities finance resilience? How can cities innovate using open data to enhance resilience?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The course also explores integrating smart city technologies with traditional urban planning knowledge. Participants learn how new technologies, such as IoT and AI, can be combined with low-tech (Lo-tek) solutions and traditional strategies to create more adaptive and resilient urban environments. This approach shows how both advanced and cost-effective technologies can address urban challenges sustainably."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Study visits to various relevant organizations and initiatives are selected based on participants' profiles and the most pertinent examples at the time. These visits offer practice-oriented learning and ensure that participants gain practical knowledge from Dutch best practices, including smart city and Lo-tek solutions, as encouraged by the UN 2030 Urban Agenda."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-05-31",
+              "end_date": "2023-06-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-05-15",
+              "end_date": "2024-05-28"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-06-09",
+              "end_date": "2025-06-20"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/urban-governance-resilient-and-smart-cities/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Inclusive Local Economic Development (Online)",
+      "english_title": "Inclusive Local Economic Development (Online)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This practice-oriented and interactive online course explores strategies and tools for local authorities to promote sustainable and inclusive economic growth and job creation. It will provide participants with the knowledge and skills to assess their local economic environment and design an effective local economic development strategy in an inclusive manner."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-25",
+              "end_date": "2022-11-30"
+            }
+          ],
+          "product_url_en": "https://thehagueacademy.com/course/inclusive-local-economic-development-online/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "800",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Digital Governance",
+      "english_title": "Digital Governance",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course discusses how governments can develop and manage digital policies to improve their services, promote transparent and inclusive policies, and involve citizens in decision making. E-government and digitisation are important developments for every field of government. In this course, we will discuss how governments can use data to improve public services, increase citizen participation, promote transparency, and develop better policies."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We will also discuss issues of interoperability, digital security and privacy. Participants will learn about the personal records database in the Netherlands, visit practical examples of spatial planning and digital service delivery, and reflect on the applicability in their own context. This way, the course helps participants to lead the implementation and modernisation of e-government in their home countries."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-12-04",
+              "end_date": "2024-12-17"
+            }
+          ],
+          "product_url": "https://thehagueacademy.com/course/digital-governance/",
+          "product_url_en": "https://thehagueacademy.com/course/digital-governance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

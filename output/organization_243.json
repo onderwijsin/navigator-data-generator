@@ -1,0 +1,297 @@
+{
+  "title": "TSM Business School",
+  "code": "TSM",
+  "description": null,
+  "type": "universiteit",
+  "brin_code": "30HT",
+  "hovi_id": "243",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "TSM Business School",
+  "products": [
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "192",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "192",
+        "name": "TSM Business School, vestiging Leusden",
+        "street": "Heiligenbergweg 5",
+        "zip": "3833 AC",
+        "city": "LEUSDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "522",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "193",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "193",
+        "name": "TSM Business School, vestiging Groningen",
+        "street": "Radesingel 50",
+        "zip": "9711 EK",
+        "city": "GRONINGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "523",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "194",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "194",
+        "name": "TSM Business School, vestiging Nunspeet",
+        "street": "Eperweg 46",
+        "zip": "8072 DB",
+        "city": "NUNSPEET",
+        "country": "NL",
+        "vestiging_SK123_id": "524",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "MBA Innovation & Leadership",
+      "english_title": "MBA Innovation & Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70214",
+      "croho_name": "MBA Innovation & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "193",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "193",
+        "name": "TSM Business School, vestiging Groningen",
+        "street": "Radesingel 50",
+        "zip": "9711 EK",
+        "city": "GRONINGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "523",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "MBA Innovation & Leadership",
+      "english_title": "MBA Innovation & Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70214",
+      "croho_name": "MBA Innovation & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "194",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "194",
+        "name": "TSM Business School, vestiging Nunspeet",
+        "street": "Eperweg 46",
+        "zip": "8072 DB",
+        "city": "NUNSPEET",
+        "country": "NL",
+        "vestiging_SK123_id": "524",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Executive MBA (MSc)",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "75151",
+      "croho_name": "Executive Master in Business Administration",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "153",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Executive MBA is speciaal ontwikkeld voor vakspecialisten die zijn doorgegroeid naar een leidinggevende positie en hun bedrijfskundige kennis én leiderschapsvaardigheden willen ontwikkelen De Executive MBA van TSM Business School is een uniek deeltijd programma dat door haar focus op innovatie, ondernemerschap en persoonlijke ontwikkeling is uitgeroepen tot beste academische MBA van Nederland. Door de wetenschappelijke accreditatie van dit programma ontvang je na afronding de MSc graad. Download de brochure op de website voor meer informatie"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://tsm.nl/opleiding/executive-mba?utm_source=Studielink123_MBA",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "153",
+        "name": "TSM Business School, vestiging Enschede",
+        "street": "Hengelosestraat 583",
+        "zip": "7521 AG",
+        "city": "ENSCHEDE",
+        "country": "NL",
+        "vestiging_SK123_id": "436",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Executive Master in Business Administration",
+      "english_title": "Executive Master in Business Administration",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "75151",
+      "croho_name": "Executive Master in Business Administration",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "192",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "192",
+        "name": "TSM Business School, vestiging Leusden",
+        "street": "Heiligenbergweg 5",
+        "zip": "3833 AC",
+        "city": "LEUSDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "522",
+        "url": "http://www.tsm.nl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "title": "SUAS",
+  "code": "SCHO",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "29VH",
+  "hovi_id": "170",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "SUAS",
+  "products": [
+    {
+      "title": "Kwaliteitsmanagement",
+      "english_title": "Quality Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70078",
+      "croho_name": "Kwaliteitsmanagement",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "205",
+      "organization_hovi_id": "170",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Werkwijze"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze masters zijn speciaal ontworpen als deeltijdopleiding, gericht op werkende professionals. Met extra aandacht voor studeerbaarheid, een digitale leeromgeving en persoonlijke begeleiding kun je efficiënt en effectief studeren in jouw eigen tempo."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze master ontwikkel je een gedegen wetenschappelijke basis. Je maakt kennis met verschillende perspectieven op het vak van kwaliteitsmanagement. Zo kun je jezelf een goed beeld vormen van de mogelijkheden voor verbetering van de processen binnen je organisatie. Bovendien leer je die verbeteringen soepel door te voeren. Zowel de zachte als de harde kant van kwaliteitsmanagement komt aan bod. De master bestaat uit 6 modules, een praktijkonderzoek en een thesis. Je doorloopt deze master in minimaal 2,5 jaar en maximaal 5 jaar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De master kent opstart momenten in januari, april en september. Na inschrijving wordt een persoonlijk studiepad met jou afgestemd die zo goed mogelijk aansluit bij jouw persoonlijke situatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "De volgende onderwerpen komen aan bod:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De basis van kwaliteitsmanagement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De inrichting van kwaliteitsmanagement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Inzicht in kwaliteit en risico's: feiten en cijfers"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Systematisch verbeteren en innoveren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onderzoek in organisaties"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.sn.nl/mkm",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "205",
+        "name": "Schouten & Nelissen, vestiging Zaltbommel",
+        "street": "Van Heemstraweg West 5",
+        "zip": "5301 PA",
+        "city": "ZALTBOMMEL",
+        "country": "NL",
+        "vestiging_SK123_id": "3242",
+        "url": "http://www.sn.nl"
+      }
+    },
+    {
+      "title": "Human Development",
+      "english_title": "Human Development",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70140",
+      "croho_name": "Human Development",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "60",
+      "financing": "private",
+      "location_hovi_id": "205",
+      "organization_hovi_id": "170",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Werkwijze"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze masters zijn speciaal ontworpen als deeltijdopleiding, gericht op werkende professionals. Met extra aandacht voor studeerbaarheid, een digitale leeromgeving en persoonlijke begeleiding kun je efficiënt en effectief studeren in jouw eigen tempo."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij wilt je beslissingen wetenschappelijk onderbouwen zodat je je vak nóg beter kunt uitoefenen. In deze masteropleiding ontwikkel je een brede kijk op Human Development. In de verschillende modules vertaal je de theorie naar de praktijk en reflecteer je volop op je eigen gedrag. De master bestaat uit 6 modules, praktijkonderzoek en een thesis. Je doorloopt deze master in minimaal 2,5 jaar en maximaal 5 jaar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De master kent opstart momenten in januari, april en september. Na inschrijving wordt een persoonlijk studiepad met jou afgestemd die zo goed mogelijk aansluit bij jouw persoonlijke situatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens deze opleiding komen de volgende onderwerpen aan bod:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Organisatietheorie en strategisch HRM"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Psychologie van mensen in organisaties"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onderzoek in organisaties"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leren en innoveren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Psychologie van verandermangement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het brein in de organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Inleiding in conflictmanagement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mediation"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Evidence informed coaching"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Teamcoaching en groepsinterventies"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-01",
+              "end_date": "2028-02-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2028-09-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-01",
+              "end_date": "2029-02-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2029-09-01"
+            }
+          ],
+          "product_url": "https://www.sn.nl/uhd",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "22500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Master"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Jouw investering in deze master bedraagt € 22500,00. Hierover wordt geen btw berekend. Vermelde prijzen zijn onder voorbehoud van eventuele wijzigingen en inclusief arrangementskosten."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Studiemateriaal"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De kosten voor het studiemateriaal zijn niet bij de prijs inbegrepen. Je bent zelf verantwoordelijk voor de aanschaf van je studieboeken (ca. € 125,00 per module). Voor de start van de module ontvang je een modulebeschrijving inclusief literatuurlijst. "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "205",
+        "name": "Schouten & Nelissen, vestiging Zaltbommel",
+        "street": "Van Heemstraweg West 5",
+        "zip": "5301 PA",
+        "city": "ZALTBOMMEL",
+        "country": "NL",
+        "vestiging_SK123_id": "3242",
+        "url": "http://www.sn.nl"
+      }
+    },
+    {
+      "title": "Bedrijfskunde",
+      "english_title": "Business Science",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70220",
+      "croho_name": "Bedrijfskunde",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "205",
+      "organization_hovi_id": "170",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-01",
+              "end_date": "2028-02-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2028-09-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-01",
+              "end_date": "2029-02-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2029-09-01"
+            }
+          ],
+          "product_url": "https://www.sn.nl/mbk",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "205",
+        "name": "Schouten & Nelissen, vestiging Zaltbommel",
+        "street": "Van Heemstraweg West 5",
+        "zip": "5301 PA",
+        "city": "ZALTBOMMEL",
+        "country": "NL",
+        "vestiging_SK123_id": "3242",
+        "url": "http://www.sn.nl"
+      }
+    },
+    {
+      "title": "Bedrijfskunde",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34035",
+      "croho_name": "Bedrijfskunde",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "205",
+      "organization_hovi_id": "170",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.sn.nl/bbk",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "205",
+        "name": "Schouten & Nelissen, vestiging Zaltbommel",
+        "street": "Van Heemstraweg West 5",
+        "zip": "5301 PA",
+        "city": "ZALTBOMMEL",
+        "country": "NL",
+        "vestiging_SK123_id": "3242",
+        "url": "http://www.sn.nl"
+      }
+    },
+    {
+      "title": "Educational Leadership",
+      "english_title": "Educational Leadership",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70139",
+      "croho_name": "Educational Leadership",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "location_hovi_id": "205",
+      "organization_hovi_id": "170",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "205",
+        "name": "Schouten & Nelissen, vestiging Zaltbommel",
+        "street": "Van Heemstraweg West 5",
+        "zip": "5301 PA",
+        "city": "ZALTBOMMEL",
+        "country": "NL",
+        "vestiging_SK123_id": "3242",
+        "url": "http://www.sn.nl"
+      }
+    }
+  ]
+}

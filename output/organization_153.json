@@ -1,0 +1,1072 @@
+{
+  "title": "NTI",
+  "code": "NTI",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Wil jij een cursus of opleiding volgen, maar dan wel in combinatie met een baan en of gezin? Bij NTI bepaal je zelf waar, wanneer en in welk tempo je studeert. We bieden ruim 850 opleidingen aan: van korte cursus tot masteropleiding. Je krijgt les van topdocenten en wordt tijdens je opleiding begeleid door een mentor. Bij NTI volg je opleidingen en cursussen van hoge kwaliteit tegen een betaalbare prijs. Bij NTI studeer je waar en wanneer je wilt, met persoonlijke begeleiding. Bekijk onze opleidingen en cursussen op www.NTI.nl Twijfel je over een opleiding/cursus? Vraag een gratis proefles aan via de volgende link: https://www.nti.nl/proeflessen/ En wist je al dat je bij inschrijving van je Hbo-opleiding, je een Acer Chromebook t.w.v. €249 krijgt voor maar €29? Zie de volgende link voor de actievoorwaarden: https://www.nti.nl/campagnes/acties/"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24UY",
+  "hovi_id": "153",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "NTI",
+  "products": [
+    {
+      "title": "HBO Bachelor Bedrijfskunde MER",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34139",
+      "croho_name": "Bedrijfskunde MER",
+      "degrees": [
+        "Bachelor"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze Bedrijfskunde opleiding bestaat uit "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "vrije modules en begeleide modules"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Bij de vakken met meer interactie (begeleide modules) krijg je extra online begeleiding door je docent en mentor. Ook helpen we je met een planning."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Studeren kun je leren! In de "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Startmodule"
+                  },
+                  {
+                    "type": "text",
+                    "text": " van de Bedrijfskunde opleiding leggen we uit hoe je studeren bij NTI het best kunt aanpakken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de o"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "nline leeromgeving"
+                  },
+                  {
+                    "type": "text",
+                    "text": " vind je uitdagende oefeningen, live e-colleges, video’s en lesmateriaal."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "internship",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Start jouw glansrijke toekomst"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Door toenemende concurrentie, automatisering en informatietechnologie in het bedrijfsleven en de non-profitsector, is de vraag naar breed inzetbare professionals op hbo-niveau erg groot. In het bedrijfsleven zijn bruggenbouwers nodig, en dat word je met de HBO Bedrijfskunde opleiding van NTI. Na deze opleiding kun je bedrijfsprocessen analyseren en verbetervoorstellen doen. Je benadert managementvraagstukken vanuit een economische invalshoek. Je zorgt voor gegevensverzameling, doet analyse en maakt adviesrapporten. Wil jij die onmisbare bedrijfskundige worden? Start vandaag nog met jouw HBO Bedrijfskunde opleiding. Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-bedrijfskunde-mer/"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Studeren bij NTI"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil jij studeren op een manier die echt bij jou past? Kies dan voor FlexibelStuderen® van NTI. Want met de flexibele opleidingen van NTI kan iedereen, overal studeren. Je kiest zelf je startmoment en bepaalt je eigen tempo. Met FlexibelStuderen® heb je de regie zelf in handen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wie het getuigschrift HBO Bedrijfskunde op zak heeft, is iemand die bruggen slaat. Je hebt een professionele benadering van bedrijfsprocessen. Als de beste kan jij bedrijfsprocessen analyseren en verbetervoorstellen doen. Je benadert managementvraagstukken vanuit een economische invalshoek. Zo kan je onder andere rapporten opstellen over ICT-mogelijkheden voor klantcommunicatie, marketing en concurrentieanalyse. Je zorgt voor de gegevensverzameling, analyse en de verwerking van de uitkomsten in een adviesrapport. Je kunt na de opleiding HBO Bedrijfskunde vele kanten op. Je kunt onder andere gaan werken als:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "accountmanager"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "productiemanager "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "projectleider"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "beleidsmedewerker"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-bedrijfskunde-mer/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "HBO Bachelor European Studies",
+      "english_title": "HBO Bachelor European Studies",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34419",
+      "croho_name": "European Studies",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens een aantal "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "interessante praktijkbijeenkomsten "
+                  },
+                  {
+                    "type": "text",
+                    "text": "krijg je van topdocenten meer uitleg over de theorie. Ook leer je samen met medestudenten vaardigheden die je later nodig hebt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je brengt een bezoek aan verschillende "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Europese instellingen in Brussel"
+                  },
+                  {
+                    "type": "text",
+                    "text": ".  Op deze dag gaat Europa echt voor je leven!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In een online leeromgeving ga je aan de slag met kennisclips, lesmateriaal en opdrachten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jouw mentor helpt je bij het maken van een studieplanning, en denkt mee over oplossingen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "internship",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Word die flexibele European Professional"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij interesse in politieke en economische ontwikkelingen binnen de Europese Unie? En streef jij een internationale carrière na? Met de HBO Bachelor European Studies maak je een goede start in jouw loopbaan. Het onderwerp Europa is nu relevanter dan ooit. Van de Europese Unie die EU-brede eisen oplegt tot de gevolgen van de Brexit voor de internationale handel. Na het afronden van de hbo-bachelor European Studies weet jij als geen ander de kennis over Europees beleid, de economische tak en culturele sensitiviteit samen te brengen om zo binnen de nationale of internationale publieke of private sector aan de slag te gaan. Zoek jij een uitdagende opleiding? Meld je aan en studeer waar en wanneer het jou uitkomt. Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-european-studies/"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Studeren bij NTI"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil jij studeren op een manier die echt bij jou past? Kies dan voor FlexibelStuderen® van NTI. Want met de flexibele opleidingen van NTI kan iedereen, overal studeren. Je kiest zelf je startmoment en bepaalt je eigen tempo. Met FlexibelStuderen® heb je de regie zelf in handen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Waar kun je aan de slag na de HBO European Studies opleiding?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de HBO European Studies opleiding ben je door je brede inzetbaarheid en kennis zeer gewild. Je kunt zowel nationaal als internationaal aan de slag gaan. Denk aan Europees (en internationaal) beleidsmedewerker, Europees (en internationaal) communicatiemedewerker of Europees (en internationaal) business manager."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-european-studies/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Psychologie",
+      "english_title": "Applied Psychology",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34507",
+      "croho_name": "Toegepaste Psychologie",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Voeding en Diëtetiek",
+      "english_title": "Nutrition and Dietetics",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34579",
+      "croho_name": "Voeding en Diëtetiek",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Human Resource Management",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34609",
+      "croho_name": "Human Resource Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-human-resource-management/ Werk waarin je werk maakt van werk: dat is de functie van een human resource manager. Je verenigt de sociale en zakelijke belangen binnen een bedrijf met elkaar en je hebt veel verantwoordelijkheid. Een human resource manager heeft naast interne belangen ook te maken met belangrijke externe factoren, zoals de arbeidsmarkt, arbeidsvoorschriften en nieuwe wetgeving. Weinig banen zijn veelzijdiger dan die van een HRM-professional. Wil jij je ontwikkelen tot een goede HR-adviseur? Kies dan nu voor de HBO Bachelor Human Resource Management en behaal een erkend hbo-diploma!"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-human-resource-management/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Sociaal-Juridische Dienstverlening",
+      "english_title": "Social Legal Services",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34641",
+      "croho_name": "Sociaal-Juridische Dienstverlening",
+      "croho_sector": "recht",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Pedagogiek",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "35158",
+      "croho_name": "Pedagogiek",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "HBO Integrale Veiligheid",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "39201",
+      "croho_name": "Integrale Veiligheid",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-integrale-veiligheid/ Ben jij geïnteresseerd in veiligheidsproblematiek of reeds werkzaam bij de landmacht, luchtmacht, marechaussee of brandweer? Dan is de opleiding HBO Integrale veiligheid perfect voor jou! Door het complexer worden van de samenleving nemen bedreigingen voor de veiligheid en leefbaarheid steeds meer toe. Met een brede visie op veiligheidsproblematiek en een integrale benadering voor private samenwerking, kun jij als deskundige in dit vakgebied bijdragen aan een veiligere samenleving."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-integrale-veiligheid/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "HBO Bachelor Rechten",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "39205",
+      "croho_name": "HBO - Rechten",
+      "degrees": [
+        "Bachelor of Laws"
+      ],
+      "croho_sector": "recht",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze Rechten opleiding bestaat uit "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "vrije modules en begeleide modules"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Bij de vakken met meer interactie (begeleide modules) krijg je extra online begeleiding door je docent en mentor. Ook helpen we je met een planning."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Studeren kun je leren! In de "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Startmodule"
+                  },
+                  {
+                    "type": "text",
+                    "text": " van de Rechten opleiding leggen we uit hoe je studeren bij NTI het best kunt aanpakken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de online leeromgeving vind je uitdagende oefeningen, live e-colleges, video’s en lesmateriaal."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "internship",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Word die veelgevraagde HBO-jurist!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wetten en regels nemen toe en de wereld wordt steeds complexer. Daarom is er bij bedrijven meer behoefte aan hbo-juristen en juridische adviseurs. Laat jij graag je hersens kraken, vind je het leuk om zaken uit te pluizen en ben je niet bang voor een grote hoeveelheid leesvoer? Volg dan de opleiding HBO Rechten. Na deze opleiding kun je aan de slag als praktijkgerichte jurist en mag jij je Bachelor of Laws noemen. Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-rechten/"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Studeren bij NTI"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil jij studeren op een manier die echt bij jou past? Kies dan voor FlexibelStuderen® van NTI. Want met de flexibele opleidingen van NTI kan iedereen, overal studeren. Je kiest zelf je startmoment en bepaalt je eigen tempo. Met FlexibelStuderen® heb je de regie zelf in handen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Wat kun je na de opleiding HBO Rechten?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na HBO Rechten ben jij een teamplayer met sterke sociale en communicatieve vaardigheden. Je bent een denker én een doener die alles weet van bedrijfsprocessen en de regelgeving. Doordat HBO Rechten een praktijkgerichte juridische opleiding is, kun je na de opleiding direct aan de slag in de praktijk. Functies die je onder andere kunt vervullen na deze rechtenstudie zijn:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "hbo-jurist "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "juridisch adviseur "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "juridisch consultant "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "medewerker advocatenkantoor"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-bachelor-opleidingen/hbo-bachelor-rechten/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "HBO Kinderopvang",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80095",
+      "croho_name": "Kinderopvang",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-associate-degrees/associate-degree-kinderopvang/ Maatschappelijke ontwikkelingen gaan steeds sneller, waarbij de opvoeding van kinderen en jeugdigen steeds meer als maatschappelijke verantwoordelijkheid wordt gezien. De rol van begeleiders in de kinderopvang en voor- en naschoolse educatie wordt dan ook steeds groter. Tijdens deze 2-jarige Associate degree Kinderopvang staat de begeleiding van kinderen, jongeren en hun opvoeders centraal. Hoe bied je ondersteuning bij opvoeden? Hoe kun je preventief optreden? Deze erkende opleiding bereidt onder meer uitstekend voor op de functie Pedagogisch Beleidsmedewerker/ Coach."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-associate-degrees/associate-degree-kinderopvang/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "HBO Jeugdwerker",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80118",
+      "croho_name": "Jeugdwerker",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer informatie over de opleiding? Bekijk de volgende link en vraag een gratis proefles aan: https://www.nti.nl/hbo/hbo-associate-degrees/associate-degree-jeugdwerker/ In de samenleving is een grote en toenemende behoefte aan opvoedingsdeskundigheid. Wat moet je doen als een kind voortdurend spijbelt? Waarom heeft een kind woedeaanvallen? Tijdens de Associate degree Jeugdwerker leer je alles over het signaleren en adviseren bij deze opvoedingsvraagstukken én meer. Je gaat o.a. dieper in op gespreksvoering met zowel het kind als de opvoeders en het opstellen van een preventieplan."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.nti.nl/hbo/hbo-associate-degrees/associate-degree-jeugdwerker/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    },
+    {
+      "title": "Social Work",
+      "english_title": "Social Work",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34116",
+      "croho_name": "Social Work",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "93",
+      "organization_hovi_id": "153",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "93",
+        "name": "NTI, vestiging Leiden",
+        "street": "Schuttersveld 6-16",
+        "zip": "2316 ZB",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "202",
+        "url": "http://www.nti.nl"
+      }
+    }
+  ]
+}

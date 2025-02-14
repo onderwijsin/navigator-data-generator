@@ -1,0 +1,2624 @@
+{
+  "title": "Business School Nederland",
+  "code": "BSN",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Business School Netherlands has been active as an international business school since 1988 and continues to expand provision of Action Learning programmes beyond the boundaries of the Netherlands, creating a global Action Learning community of business leaders, all following the same steps to success. To this day a team of specialists has been continuously developing and updating the courseware. The organisation continues to expand, learning from actions taken, assessing the situation, and making the next decisions on the path to success. These values inspire the student body to develop in the best possible way as business managers. Aiming to be the best school will in turn lead to students aspiring to be the best business managers. Non-stop endeavours towards improvement and expansion of management programmes have established Business School Netherlands as top-notch MBA and management training provider. As a University of Applied Sciences, Business School Netherlands develops campuses and locally-driven management programmes outside the Netherlands at a rapid pace with astounding success."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "28DX",
+  "hovi_id": "169",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Business School Netherlands",
+  "products": [
+    {
+      "title": "International Action Learning MBA",
+      "english_title": "International Action Learning MBA",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70053",
+      "croho_name": "Action Learning MBA",
+      "degrees": [
+        "Master",
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water, Food Security, Sexuality and Reproductive Health and Rights or International Management), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, Action Learning based MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topic. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water Management, Food Security, Sexuality and Reproductive Health and Rights or International Management), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To become an efficient performing manager at strategic, policy and process levels of organisations, with a focus on results and people, a manager who has learned to learn and because of this is able to handle new challenges, new task, new positions."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2018-09-10",
+              "end_date": "2020-09-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-02-05",
+              "end_date": "2021-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-09-09",
+              "end_date": "2021-09-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-02-10",
+              "end_date": "2022-02-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-09-07",
+              "end_date": "2022-09-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-02-08",
+              "end_date": "2022-08-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-06",
+              "end_date": "2023-09-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-02-07",
+              "end_date": "2024-02-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-08",
+              "end_date": "2024-09-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-13",
+              "end_date": "2025-09-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-07",
+              "end_date": "2026-02-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-11",
+              "end_date": "2026-09-11"
+            }
+          ],
+          "product_url_en": "https://www.bsn.eu/programmes/mba/international-action-learning/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2019
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "27500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Executive MBA",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70054",
+      "croho_name": "Executive MBA",
+      "degrees": [
+        "Master",
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "65",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Business School Nederland werken we met Action Learning. Dit is een proces waarbij je in een kleine groep leert en werkt aan échte urgente en complexe problemen in je eigen organisatie. Je ontwikkelt jouw leiderschap op basis van onze 4 pijlers waarmee je moeiteloos zakelijk succes met maatschappelijke verantwoordelijkheid combineert."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "project",
+            "research",
+            "research_project",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Executive MBA geeft meer inzicht in management, je verwerft nieuwe vaardigheden, versterkt je netwerk en brengt jouw organisatie in beweging. Bij succesvolle afronding ontvang je de MBA-titel. De Executive MBA is voor executives, senior managers en ondernemers. Met deze MBA krijg je meer inzicht in management, leer je nieuwe vaardigheden aan, versterk je jouw netwerk en breng je jouw organisatie in beweging. Managementgebieden die o.a. aan bod komen: HR, operations, finance, marketing en strategie. Je studeert aan een onderwijsinstituut dat al meer dan 30 jaar MBA-opleidingen aanbiedt in meer dan 10 landen. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Kenmerken Executive MBA:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Nederlandstalig - Unieke Action Learning leermethode - Werken aan échte vraagstukken binnen jouw organisatie - Doordat je projecten in jouw eigen organisatie uitvoert valt 40% van de studiebelasting samen met je werkagenda. Netto studielast: 10 à 15 uur per week - Versterkt door nauwe samenwerking met medestudenten uit diverse branches - Praktijkdocenten uit verschillende branches - Max 20 deelnemers per groep, 4-6 deelnemers per subset - Voldoende coachingssessies in kleine groepen - Parttime studeren: slechts 3 aaneengesloten bijeenkomsten p/m - Speciaal ontworpen voor managers op een strategisch leiderschapsniveau De Executive MBA wordt ook als incompany-opleiding aangeboden."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Wat levert het op?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Geaccrediteerd diploma door ACBSP en NVAO."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hechte band met je medestudenten en uitbreiding van jouw professionele netwerk"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Direct resultaat (hoge ROI)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kennis en hands-on vaardigheden om bestaande en toekomstige organisatorische en persoonlijke uitdagingen aan te gaan"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Een duidelijke visie op de veranderende toekomst van het bedrijfsleven en jouw rol daarin"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Nieuwe en verbeterde persoonlijke leiderschapsvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Managen van veranderingen: innovaties en verbeteringen in de digital age"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vergroting van het eigen probleemoplossend vermogen en dat van anderen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Implementatie van vernieuwingen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onderzoeks-skills: informatie verwerken, ordenen en analyseren"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "2024-09-05",
+              "starting_date": "2024-09-13",
+              "end_date": "2025-01-13"
+            },
+            {
+              "application_deadline": "2025-01-23",
+              "starting_date": "2025-02-13",
+              "end_date": "2027-06-13"
+            }
+          ],
+          "product_url": "https://www.bsn.nl/opleidingen/mba/executive-mba/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "42895",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Jouw kosten voor de opleiding"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Voor de gehele deeltijd Executive Action Learning MBA (28 maanden) betaal je "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "€ 42.895,- btw-vrij"
+                      },
+                      {
+                        "type": "text",
+                        "text": ". Heb je vrijstelling voor de introductiefase? Dan betaal je voor de 2e en 3e fase "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "€ 36.245,- btw-vrij"
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Bij de prijs zijn de volgende zaken inbegrepen:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Lesdagen, boeken, studiemateriaal (artikelen en abstracts)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Lunches, maaltijden en overige consumpties"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Coaching, in kleine groepen"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Project- en scriptiebegeleiding"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "2 minors"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Studiereis"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Management and Leadership Development in Food Security",
+      "english_title": "Management and Leadership Development in Food Security",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This international short course accelerates the development of leadership and managerial skills of managers, mid-career professionals and SME entrepreneurs within a Food Security context. This international programme is specifically designed to meet the developmental needs of SME entrepreneurs, middle managers and mid-career professionals of organisations, especially agribusinesses in the 51 NFP countries. The delivery method of Action Learning enables the course to suit the needs of managers and leaders from public and private institutions, especially for those working in small and medium-sized organisations, National NGOs and Government/Semi-Government Departments. By using the Action Learning approach, students will learn modern management approaches, what and how to apply these approaches to their situation, culture, organisation and country. Students will focus on improving their leadership, decision-making and other managerial skills, while learning to analyse their own organisation, develop inspiring new insights and finalise a development plan for themselves as well as their own organisation. Topics covered include Action Learning, Management and Leadership, Food Security, Interpersonal skills, Marketing, Strategy, Organisational Structure and Culture, Human Resources, Agrifinance and Operations Management."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This international programme accelerates the development of leadership and managerial skills of managers, mid-career professionals and SME entrepreneurs within a Food Security context. This international programme is specifically designed to meet the developmental needs of SME entrepreneurs, middle managers and mid-career professionals of organisations/agribusinesses. The delivery method of Action Learning enables the course to suit the needs of managers and leaders from public and private institutions, especially for those working in small and medium-sized organisations, National NGOs and Government/Semi-Government Departments. By using the Action Learning approach, students will learn modern management approaches, what and how to apply these approaches to their situation, culture, organisation and country. Students will focus on improving their leadership, decision-making and other managerial skills, while learning to analyse their own organisation, develop inspiring new insights and finalise a development plan for themselves as well as their own organisation. Topics covered include Action Learning, Management and Leadership, Food Security, Interpersonal skills, Organisational Structure and Culture, Agrifinance, Operations, Human Resources, Marketing and Strategic Management."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2016-01-18",
+              "end_date": "2016-07-18"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-05-23",
+              "end_date": "2016-11-20"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-09-19",
+              "end_date": "2017-03-19"
+            }
+          ],
+          "product_url": "www.bsn.eu",
+          "product_url_en": "www.bsn.eu",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Action Learning Leadership Programme (ALLP)",
+      "english_title": "Action Learning Leadership Programme (ALLP)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Versnellen van ontwikkeling leiderschap en managementvaardigheden en kennis Business administration voor middle managers en MKB ondernemers De opleiding is speciaal ontwikkeld voor de ontwikkeling van MKB ondernemers , supervisors en middle managers (uit profit en non profit organisaties) Daarbij wordt gebruik gemaakt van action learning waarmee deelnemers met het geleerde aan de slag gaan in hun eigenlijke dagelijkse werk. Men ontwikkeld uiteenlopende skills, doet kennis en kunde op rav diverse managementdisciplines en ontwikkeld een visie op ontwikkeling van eigen functioneren en van het functioneren van de eigen organisatie(ontwikkelingsplan)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This programme accelerates the development of leadership and decision making skills of middle managers and SME entrepreneurs This course is specifically designed to meet the developmental needs of SME entrepreneurs, supervisors and middle managers of organisations. The delivery method of Action Learning enables the course to suit the needs of managers and leaders from public and private institutions, especially for those working in small and medium sized organisations, NGO's and government departments. By using the Action Learning method, participants will learn modern management approaches, what and how to apply these approaches to their situation, culture, organisation and country. Participants will focus on improving their decision-making, creativity and other managerial skills, while learning to analyse their own organisation, develop inspiring new insights and finalise a development plan for themselves as well as their own organisation. Topics covered include action learning and learning to learn, management and leadership, interpersonal skills, team building, presentation skills, marketing, strategy, organisational structure and culture, HRM, ICT, financial management, operations management"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2015-08-10",
+              "end_date": "2016-02-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-01-18",
+              "end_date": "2016-07-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-05-23",
+              "end_date": "2016-11-20"
+            }
+          ],
+          "product_url": "http://www.bsn.eu/internationalmba/leadership-course/leadership-course.html",
+          "product_url_en": "www.bsn.eu",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "6950",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "6950",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Action Learning MBA with a Major in Water Management",
+      "english_title": "Action Learning MBA with a Major in Water Management",
+      "product_type": "content_variant",
+      "description": null,
+      "product_level": "master",
+      "croho": "70053",
+      "croho_name": "Action Learning MBA",
+      "degrees": [
+        "Master"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water Management, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2017-02-13",
+              "end_date": "2019-02-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2017-09-11",
+              "end_date": "2019-09-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-02-05",
+              "end_date": "2020-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-09-10",
+              "end_date": "2020-09-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-02-05",
+              "end_date": "2021-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-09-09",
+              "end_date": "2021-09-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-02-10",
+              "end_date": "2022-02-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-09-07",
+              "end_date": "2022-09-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-02-08",
+              "end_date": "2022-08-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-06",
+              "end_date": "2023-09-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-02-07",
+              "end_date": "2024-02-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-08",
+              "end_date": "2024-09-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-13",
+              "end_date": "2025-09-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-07",
+              "end_date": "2026-02-06"
+            }
+          ],
+          "product_url": "https://www.bsn.eu/programmes/international-action-learning-mba/",
+          "product_url_en": "www.bsn.eu/internationalmba",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2019
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Action Learning MBA with a Major in Sexuality and Reproductive…",
+      "english_title": "Action Learning MBA with a Major in Sexuality and Reproductive…",
+      "product_type": "content_variant",
+      "description": null,
+      "product_level": "master",
+      "croho": "70053",
+      "croho_name": "Action Learning MBA",
+      "degrees": [
+        "Master"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "project",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2017-02-13",
+              "end_date": "2019-02-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2017-09-11",
+              "end_date": "2019-09-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-02-05",
+              "end_date": "2020-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-09-10",
+              "end_date": "2020-09-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-02-05",
+              "end_date": "2021-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-09-09",
+              "end_date": "2021-09-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-02-10",
+              "end_date": "2022-02-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-09-07",
+              "end_date": "2022-09-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-02-08",
+              "end_date": "2022-08-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-06",
+              "end_date": "2023-09-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-02-07",
+              "end_date": "2024-02-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-08",
+              "end_date": "2024-09-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-13",
+              "end_date": "2025-09-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-07",
+              "end_date": "2026-02-06"
+            }
+          ],
+          "product_url": "https://www.bsn.eu/international-action-learning-mba/",
+          "product_url_en": "www.bsn.eu/internationalmba",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2019
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Action Learning MBA with a Major in Food Security",
+      "english_title": "Action Learning MBA with a Major in Food Security",
+      "product_type": "content_variant",
+      "description": null,
+      "product_level": "master",
+      "croho": "70053",
+      "croho_name": "Action Learning MBA",
+      "degrees": [
+        "Master"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "literature_study",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "999",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A part-time, blended learning MBA programme with participating managers from various continents. Two 9-15 days of conferences, combined with e-learning support by specialists in management topics. The International Action Learning MBA is offered in English to managers and business leaders from various continents. In addition to the two 9-day residential conferences at the main campus in the Netherlands, and depending on the Major selected (Water Management, Food Security or Sexuality and Reproductive Health and Rights), an additional four to six days of mandatory Masterclass attendance of the Major will be required during Phase 2 of the programme. Subject areas are 100% relevant to organisations and managers as the Action Learning methodology will be implemented by students within their relevant workplace. Furthermore, this 24 month MBA programme is the perfect, blended learning programme for busy professionals, managers and management trainees where relevance, excellence and flexibility are key criteria."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2017-02-13",
+              "end_date": "2019-02-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2017-09-11",
+              "end_date": "2019-09-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-02-05",
+              "end_date": "2020-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2018-09-10",
+              "end_date": "2020-09-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-02-05",
+              "end_date": "2021-02-05"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-09-09",
+              "end_date": "2021-09-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-02-10",
+              "end_date": "2022-02-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-09-07",
+              "end_date": "2022-09-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-02-08",
+              "end_date": "2022-08-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-06",
+              "end_date": "2023-09-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-02-07",
+              "end_date": "2024-02-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-09-08",
+              "end_date": "2024-09-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-13",
+              "end_date": "2025-09-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-07",
+              "end_date": "2026-02-06"
+            }
+          ],
+          "product_url": "https://www.bsn.eu/international-action-learning-mba/",
+          "product_url_en": "www.bsn.eu/internationalmba",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2019
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "25702",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Masters Class in Food Security",
+      "english_title": "Masters Class in Food Security",
+      "product_type": "course",
+      "description": null,
+      "product_level": "master",
+      "credits": "25",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Practical approach"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Close collaboration with fellow students "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Experienced facilitators with a strong agribusiness background "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maximum of 18 participants per group"
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_discussion",
+            "individual_assignment",
+            "literature_study",
+            "project",
+            "research",
+            "theory",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The masterclasses of Business School Netherlands are aimed at managers who want to sharpen their competencies. All of the short courses deal with current topics. Specialized speakers share their views on contemporary and future developments and invite you to actively participate."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Masterclass in Food Security is designed to give the modern agribusiness or food security professional the skillset necessary to create and maintain a profitable business in the changing digital landscape of agriculture and food security."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to adapt to new challenges, set up value chains to benefit from changing supply and demand dynamics, and network with fellow agribusiness professionals."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The masterclasses of Business School Netherlands are aimed at managers who want to sharpen their competencies. All of the short courses deal with current topics. Specialized speakers share their views on contemporary and future developments and invite you to actively participate."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Masterclass in Food Security is designed to give the modern agribusiness or food security professional the skillset necessary to create and maintain a profitable business in the changing digital landscape of agriculture and food security."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to adapt to new challenges, set up value chains to benefit from changing supply and demand dynamics, and network with fellow agribusiness professionals."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-12",
+              "end_date": "2023-01-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-08",
+              "end_date": "2023-05-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-05-10",
+              "end_date": "2023-08-14"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-10-12",
+              "end_date": "2024-01-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-13",
+              "end_date": "2024-05-10"
+            }
+          ],
+          "product_url_en": "https://www.bsn.eu/programme/executive-programmes/masterclasses/masterclass-food-security/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1950",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "nfp",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Masters Class in Water Management",
+      "english_title": "Masters Class in Water Management",
+      "product_type": "course",
+      "description": null,
+      "product_level": "master",
+      "credits": "25",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "English"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Practical approach"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Close collaboration with fellow students"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maximum 18 participants per group to ensure personal attention"
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "project",
+            "research",
+            "theory",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Masterclass in Water Management is a programme designed for water professionals that want to operate more effectively in complex planning, policy and decision making processes that they are dealing with. Professionals who want to tackle water related challenges by crafting solutions with respect for natural water cycles, meet the demands of society and are implementable in today’s multi-level governance systems."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As part of this Masterclass, you will engage with crucial water management related issues and learn how to implement effective decisions with input from many different stakeholders."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Masterclass in Water Management is a programme designed for water professionals that want to operate more effectively in complex planning, policy and decision making processes that they are dealing with. Professionals who want to tackle water related challenges by crafting solutions with respect for natural water cycles, meet the demands of society and are implementable in today’s multi-level governance systems."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As part of this Masterclass, you will engage with crucial water management related issues and learn how to implement effective decisions with input from many different stakeholders."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-12",
+              "end_date": "2023-01-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-08",
+              "end_date": "2023-05-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-05-10",
+              "end_date": "2023-08-14"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-10-12",
+              "end_date": "2024-01-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-13",
+              "end_date": "2024-05-10"
+            }
+          ],
+          "product_url": "https://www.bsn.eu/programme/executive-programmes/masterclasses/masterclass-water-management/",
+          "product_url_en": "https://www.bsn.eu/programme/executive-programmes/masterclasses/masterclass-water-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "195000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "nfp",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    },
+    {
+      "title": "Action Learning MBA (Nederlandstalig)",
+      "english_title": null,
+      "product_type": "content_variant",
+      "description": null,
+      "product_level": "master",
+      "croho": "70053",
+      "croho_name": "Action Learning MBA",
+      "degrees": [
+        "Master",
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "65",
+      "financing": "private",
+      "location_hovi_id": "100",
+      "organization_hovi_id": "169",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Business School Nederland werken we met Action Learning. Dit is een proces waarbij je in een kleine groep leert en werkt aan échte urgente en complexe problemen in je eigen organisatie. Je ontwikkelt jouw leiderschap op basis van onze 4 pijlers waarmee je moeiteloos zakelijk succes met maatschappelijke verantwoordelijkheid combineert."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "literature_study",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jouw carrière krijgt een boost door onze Action Learning methodiek. Je werkt aan relevante vraagstukken binnen je eigen organisatie, wat resulteert in een leerervaring met directe impact. De expertise van Business School Nederland (BSN) zorgt niet alleen voor jouw persoonlijke groei, maar verbetert ook zichtbaar je organisatie. Processen worden efficiënter, communicatie verbetert en resultaten volgen sneller. Jij vervult je rol met meer effectiviteit, en je collega’s groeien mee."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Het rendement van de Action Learning MBA rust op drie pijlers:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Een optimaal presterende manager"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Een soepel functionerende organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Geen extra kosten voor externe consultants"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Statistieken illustreren overtuigend dat deze benadering tot waardevolle resultaten leidt: de gemiddelde toegevoegde waarde per project, afgezet tegen de initiële kosten, is significant en kan oplopen tot tienduizenden euro’s en meer."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Duurzame inzetbaarheid"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Waar veel MBA’s gericht zijn op het verbeteren van je cv, focust onze opleiding op waardecreatie binnen je huidige werkomgeving. Studenten ervaren een diepere betrokkenheid door te werken aan eigen projecten. Dit maakt hun werk uitdagender en plezieriger. Ze overwinnen weerstand makkelijker, behalen sneller resultaten en hebben meer ruimte voor strategisch handelen. Vaak leiden deze inzichten ook tot mooie doorgroeimogelijkheden in je leiderschapspositie."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Flexibel studeren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met onze modulaire MBA bepaal jij zelf je start en studietempo. Modules zijn los te volgen en worden meerdere keren per jaar aangeboden, zodat je studie, werk en privé optimaal kunt combineren. Met onze MBA pas je theoretische kennis direct toe via Action Learning binnen je organisatie. Je ontwikkelt vaardigheden om duurzame oplossingen te creëren voor huidige en toekomstige uitdagingen. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Masterniveau 7"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze MBA valt onder de Professional Master en is ingeschaald op niveau 7 van het Nederlands Kwalificatieraamwerk (NLQF), gekoppeld aan het Europees Kwalificatieraamwerk (QF). Dit niveau staat in Nederland op het op één na hoogste niveau binnen het hoger onderwijs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Wat levert de deeltijd Action Learning MBA op?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ben jij de leider die:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Elk organisatievraagstuk aankan;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Een strategisch gesprekspartner is;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Inzicht heeft in interne en externe problematiek;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- De kern van uitdagingen blootlegt;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Mensen weet te verbinden;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Anderen in hun kracht zet;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Waarde creëert binnen de organisatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Waarom kiezen voor onze deeltijd MBA?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Nederlandstalig en modulair"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Internationaal geaccrediteerd (NVAO, ACBSP, FIBAA)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Gericht op jouw organisatievraagstukken"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Direct resultaat voor jou en je organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Leren van professionals uit diverse sectoren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Persoonlijke aanpak met kleine groepen"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Na afronding ben jij de leider die:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Elk organisatievraagstuk aankan;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Een strategisch gesprekspartner is;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Inzicht heeft in interne en externe uitdagingen;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- De kern van problemen blootlegt;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Leiderschap effectief inzet om mensen te betrekken;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Anderen in hun kracht zet;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Waarde creëert binnen de organisatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Masterniveau 7"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze MBA is een Professional Master op niveau 7 van het Nederlands Kwalificatieraamwerk (NLQF), gelinkt aan het Europees Kwalificatieraamwerk (QF). Dit niveau is het op één na hoogste binnen het hoger onderwijs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wij creëren duurzame impact met de Action Learning methode, gericht op waardecreatie in je werkomgeving. De theorie wordt direct toegepast in de praktijk, waarbij praktijkervaring de basis is voor het leerproces. In tegenstelling tot wetenschappelijke MSc-studies, richten wij ons op toegepast onderzoek. Dit levert direct rendement voor jouw organisatie op, doordat je de oplossingen meteen implementeert."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-13",
+              "end_date": "2027-01-13"
+            },
+            {
+              "application_deadline": "2025-01-23",
+              "starting_date": "2025-02-13",
+              "end_date": "2027-06-13"
+            }
+          ],
+          "product_url": "https://www.bsn.nl/opleidingen/mba/action-learning/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "3500",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Optionele kosten zijn bedoeld voor de facultatieve internationale studiereis."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "36950",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Voor de gehele deeltijd Action Learning MBA betaal je "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "€ 36.950,- btw-vrij"
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Heb je vrijstelling voor de introductiefase? Dan betaal je voor de 2e en 3e fase "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "€ 30.300,- btw-vrij"
+                      },
+                      {
+                        "type": "text",
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Bij de prijs zijn de volgende zaken inbegrepen:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Lesdagen, boeken, studiemateriaal (artikelen en abstracts)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Lunches, maaltijden en overige consumpties"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Coaching, in kleine groepen"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Project- en scriptiebegeleiding"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Optioneel: studiereis ad "
+                      },
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "€ 3.500,-"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "100",
+        "name": "Business School Nederland, vestiging Buren",
+        "street": "Herenstraat 25",
+        "zip": "4116 BK",
+        "city": "BUREN",
+        "country": "NL",
+        "vestiging_SK123_id": "216",
+        "url": "http://www.bsn.nl"
+      }
+    }
+  ]
+}

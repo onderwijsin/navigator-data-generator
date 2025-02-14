@@ -1,0 +1,296 @@
+{
+  "title": "Artemis Academie, Hogeschool voor Trend Forecasting, Styling & Art Direction",
+  "code": "ARTEM",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Artemis Academie is dé academie voor Trend Forecasting, Styling & Design en Art Direction. Onze vierjarige HBO-opleiding met de erkende titel Bachelor of Arts leidt je op tot allround creative concept developer. Je leert waardevolle concepten ontwikkelen met trend forecasting, styling & design en art direction. We prikkelen je om grenzeloos te denken en dan op verschillende industrieën toe te spitsen. Zo leer je hoe je trends ontstaan, hoe je stijl vormgeeft en hoe je - fysiek en digitaal - krachtige visuele verhalen vertelt."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We zijn een kleinschalige academie en daarmee houden we het persoonlijk en betrokken. Na een tijdje kent iedereen elkaar. We hebben wat voor elkaar over en helpen de ander verder. Het geeft ons tijd en ruimte voor persoonlijke ontwikkeling, een essentieel onderdeel van het creatieve proces."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30DZ",
+  "hovi_id": "236",
+  "phone": "+31 (0)20 6895100",
+  "email": "info@artemisacademie.nl",
+  "website": [
+    {
+      "url": "https://artemisacademie.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "english_title": "Artemis Academy, College of Trend Forecasting, Styling & Art Direction",
+  "products": [
+    {
+      "title": "Allround creative concept developer",
+      "english_title": "Allround creative concept developer",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34137",
+      "croho_name": "Allround Creative Concept Developer",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "142",
+      "organization_hovi_id": "236",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "design_project",
+              "validFor": [
+                "outsideinstitute"
+              ]
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Om toegelaten te kunnen worden op Artemis heb je HAVO, VWO of MBO niveau vier nodig als vooropleiding. Daarnaast willen we een eerste indruk krijgen van hoe je denkt en werkt. Als de aanleg er is kijken we of we een match voor elkaar zijn. "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "research_proposal"
+            }
+          ],
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Trend Forecasting | Styling & Design | Art Direction Artemis Academie "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens de opleiding:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Specialiseer jij je in het onderzoeken van maatschappelijke ontwikkelingen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Baseer je concepten op trendonderzoek"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leer je creatieve concepten te ontwikkelen voor trend forecasting, styling & design en art direction"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word je interdisciplinair opgeleid en leer je probleemoplossend te denken"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leer je trends onderzoeken, conceptdenken, vormgeven en visualiseren"
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "practice",
+            "project",
+            "research",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Creativiteit is één van de vier belangrijkste ‘21st century skills’. Een unieke blik op de wereld wordt dus steeds belangrijker. Bij Artemis leiden we je in vier jaar op tot allround creative concept developer met de titel bachelor of arts die in veeleisende sectoren terecht kan, zoals onder andere mode, interieur, food, retail, events en horeca terecht kan."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Artemis Academie is dé academie voor Trend Forecasting, Styling & Design en Art Direction. Onze vierjarige HBO-opleiding met de erkende titel Bachelor of Arts leidt je op tot allround creatief conceptontwikkelaar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je leert waardevolle concepten ontwikkelen met trend forecasting, styling & design en art direction. We prikkelen je om grenzeloos te denken en dan op verschillende industrieën toe te spitsen. Zo leer je hoe je trends ontstaan, hoe je stijl vormgeeft en hoe je - fysiek en digitaal - krachtige visuele verhalen vertelt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We zijn een kleinschalige academie en daarmee houden we het persoonlijk en betrokken. Na een tijdje kent iedereen elkaar. We hebben wat voor elkaar over en helpen de ander verder. Het geeft ons tijd en ruimte voor persoonlijke ontwikkeling, een essentieel onderdeel van het creatieve proces."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " Kun je terecht in uiteenlopende sectoren zoals mode, interieur, events, media. Onze alumni zijn daarvan het levende bewijs en werken o.a. bij Daily Paper, Crisp Sheets, Museum Boijmans van Beuningen, Nxt Museum, Ace & Tate, Hunkemöller en Natwerk. Alumni zijn daar actief als print- en product designer, trend forecaster, art director, stylist en set designer."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.artemisacademie.nl",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "700",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Om je creativiteit maximaal te kunnen ontplooien is het van belang dat je over een goede laptop en een instapmodel fotocamera beschikt. Ontwikkel- en productiekosten die je buiten de academie maakt zijn voor eigen rekening."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "9200",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De Bachelor Allround Creative Concept Developer is een erkende HBO opleiding waarvoor je studiefinanciering aan kunt vragen bij de Dienst Uitvoering Onderwijs (DUO). Als HBO student heb je recht op collegegeldkrediet, een lening en heb je recht op een studentenreisproduct op je persoonlijke OV-chipkaart."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "142",
+        "name": "Artemis Academie Amsterdam",
+        "street": "Marnixstraat 317",
+        "zip": "1016 TB",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "373",
+        "url": "http://academieartemis.nl"
+      }
+    }
+  ]
+}

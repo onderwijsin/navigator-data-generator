@@ -1,0 +1,852 @@
+{
+  "title": "Protestantse Theologische Universiteit",
+  "code": "PTHU",
+  "description": null,
+  "type": "universiteit",
+  "brin_code": "00DV",
+  "hovi_id": "15",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Protestant Theological University",
+  "products": [
+    {
+      "title": "Ethics of Dignity",
+      "english_title": "Ethics of Dignity",
+      "product_type": "specialization",
+      "description": null,
+      "product_level": "master",
+      "location_hovi_id": "154",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kies je voor het profiel Ehtics of Dignity, dan leer je als theoloog omgaan met medisch-ethische kwesties. Binnen dit profiel heb je de keuze uit een specialisatie Ethiek of Praktische Theologie/Geestelijke zorg."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kies je voor het profiel Ehtics of Dignity, dan leer je als theoloog omgaan met medisch-ethische kwesties. Binnen dit profiel heb je de keuze uit een specialisatie Ethiek of Praktische Theologie/Geestelijke zorg."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "154",
+        "name": "Protestantse Theologische Universiteit, vestiging Daltonlaan",
+        "street": "Daltonlaan 200",
+        "zip": "3584 BJ",
+        "city": "Utrecht",
+        "country": "NL",
+        "url": "http://www.pthu.nl"
+      }
+    },
+    {
+      "title": "Living Texts",
+      "english_title": "Living Texts",
+      "product_type": "specialization",
+      "description": null,
+      "product_level": "master",
+      "location_hovi_id": "154",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kies je voor het profiel Living Texts, dan ben je als theoloog een expert in het interpreteren van bijbelteksten in de context van de moderne maatschappij. Binnen dit profiel heb je de keuze uit een specialisatie Bijbelwetenschappen of Kerkgeschiedenis."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kies je voor het profiel Living Texts, dan ben je als theoloog een expert in het interpreteren van bijbelteksten in de context van de moderne maatschappij. Binnen dit profiel heb je de keuze uit een specialisatie Bijbelwetenschappen of Kerkgeschiedenis."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "154",
+        "name": "Protestantse Theologische Universiteit, vestiging Daltonlaan",
+        "street": "Daltonlaan 200",
+        "zip": "3584 BJ",
+        "city": "Utrecht",
+        "country": "NL",
+        "url": "http://www.pthu.nl"
+      }
+    },
+    {
+      "title": "Missional Communities",
+      "english_title": "Missional Communities",
+      "product_type": "specialization",
+      "description": null,
+      "product_level": "master",
+      "location_hovi_id": "154",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wat zijn de ontwikkelingen binnen de kerk in de moderne samenleving? Binnen het profiel Missional Communities onderzoek je hoe missionair werk vorm krijgt in bestaande gemeenten en bestudeer je nieuwe missionaire en diaconale initiatieven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wat zijn de ontwikkelingen binnen de kerk in de moderne samenleving? Binnen het profiel Missional Communities onderzoek je hoe missionair werk vorm krijgt in bestaande gemeenten en bestudeer je nieuwe missionaire en diaconale initiatieven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "154",
+        "name": "Protestantse Theologische Universiteit, vestiging Daltonlaan",
+        "street": "Daltonlaan 200",
+        "zip": "3584 BJ",
+        "city": "Utrecht",
+        "country": "NL",
+        "url": "http://www.pthu.nl"
+      }
+    },
+    {
+      "title": "Thinking God Interculturally",
+      "english_title": "Thinking God Interculturally",
+      "product_type": "specialization",
+      "description": null,
+      "product_level": "master",
+      "location_hovi_id": "154",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hoe zijn theologische opvattingen door te tijd heen veranderd? En hoe verschillen ze wereldwijd? Kiezen voor het profiel Thinking God Interculturally betekent deze vragen analyseren en onderzoeken. Binnen dit profiel heb je de keuze uit een specialisatie Interculturele Theologie of Dogmatiek."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hoe zijn theologische opvattingen door te tijd heen veranderd? En hoe verschillen ze wereldwijd? Kiezen voor het profiel Thinking God Interculturally betekent deze vragen analyseren en onderzoeken. Binnen dit profiel heb je de keuze uit een specialisatie Interculturele Theologie of Dogmatiek."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "154",
+        "name": "Protestantse Theologische Universiteit, vestiging Daltonlaan",
+        "street": "Daltonlaan 200",
+        "zip": "3584 BJ",
+        "city": "Utrecht",
+        "country": "NL",
+        "url": "http://www.pthu.nl"
+      }
+    },
+    {
+      "title": "Theology",
+      "english_title": "Theology",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "60254",
+      "croho_name": "Theology",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "financing": "government",
+      "location_hovi_id": "505",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Master of Theology bestaat uit twee semesters. Je begint met interdisciplinaire vakken en vakken die horen bij het profiel dat je hebt gekozen: ethiek, bijbelwetenschappen, praktische theologie of systematische theologie. Je tweede semester is volledig gericht op je specialisatie. Je kunt deze master zowel in voltijd als in deeltijd volgen.  "
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "self_study",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben je op zoek naar verdieping? De Protestantse Theologische Universiteit biedt een eenjarige, Engelstalige Master of Theology. Met studenten van over de hele wereld biedt ons programma je een internationale en interculturele academische ervaring. Als je kiest voor deze master, kun je je specialiseren in een van de volgende vier onderwerpen: Ethics of Dignity, Living Texts, Missional Communities of Thinking God Interculturally. Je krijgt colleges waarin de thema's verder worden uitgediept en vervolgens schrijf je een masterthesis die past bij jouw profiel."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Are you preparing for a teaching ministry or doctoral studies in Theology? The Protestant Theological University (PThU) offers a one-year, English-taught Master of Theology programme. Come and enjoy the combination of a climate of academic excellence and the great atmosphere in our home right in the centre of the lively university city of Utrecht. With students from all over the world, our accredited programme offers you a truly international and intercultural academic experience. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog kun je na je studie aan de slag in diverse vakgebieden. Afhankelijk van je specialisatie draag je als expert bij aan internationale (christelijke) gemeenschappen, in de zorg of ga je aan de slag in de Bijbelwetenschappen. Je hebt je leren verdiepen in vraagstukken, analyseren, zelfstandig onderzoek doen. "
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.pthu.nl/onderwijs/master/master-of-theology/",
+          "product_url_en": "https://www.pthu.nl/en/education/master-theology/",
+          "scholarships": [
+            "cwm_scholarships",
+            "holland_scholarship"
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "3053"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "3055"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "3056"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "3057"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "6629",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Master of Theology bestaat uit twee semesters. Je begint met interdisciplinaire vakken en vakken die horen bij het profiel dat je hebt gekozen: ethiek, bijbelwetenschappen, praktische theologie of systematische theologie. Je tweede semester is volledig gericht op je specialisatie. Je kunt deze master zowel in voltijd als in deeltijd volgen.  "
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "self_study",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben je op zoek naar verdieping? De Protestantse Theologische Universiteit biedt een eenjarige, Engelstalige Master of Theology. Met studenten van over de hele wereld biedt ons programma je een internationale en interculturele academische ervaring. Als je kiest voor deze master, kun je je specialiseren in een van de volgende vier onderwerpen: Ethics of Dignity, Living Texts, Missional Communities of Thinking God Interculturally. Je krijgt colleges waarin de thema's verder worden uitgediept en vervolgens schrijf je een masterthesis die past bij jouw profiel."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog kun je na je studie aan de slag in diverse vakgebieden. Afhankelijk van je specialisatie draag je als expert bij aan internationale (christelijke) gemeenschappen, in de zorg of ga je aan de slag in de Bijbelwetenschappen. Je hebt je leren verdiepen in vraagstukken, analyseren, zelfstandig onderzoek doen. "
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.pthu.nl/onderwijs/master/master-of-theology/",
+          "product_url_en": "https://www.pthu.nl/en/education/master-theology/",
+          "scholarships": [
+            "cwm_scholarships",
+            "holland_scholarship"
+          ],
+          "tracks": [
+            {
+              "productForm": "parttime",
+              "track": "3053"
+            },
+            {
+              "productForm": "parttime",
+              "track": "3055"
+            },
+            {
+              "productForm": "parttime",
+              "track": "3056"
+            },
+            {
+              "productForm": "parttime",
+              "track": "3057"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "6629",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "505",
+        "name": "Protestantse Theologische Universiteit, vestiging Utrecht",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vestiging_SK123_id": "3340",
+        "url": null
+      }
+    },
+    {
+      "title": "Theologie (Gemeentepredikant)",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "66122",
+      "croho_name": "Theologie (Gemeentepredikant)",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "financing": "government",
+      "location_hovi_id": "505",
+      "organization_hovi_id": "15",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het studieprogramma bestaat uit zes semesters. Het eerste semester legt de basis voor de master. Vanaf het tweede semester volg je een aaneengesloten beroepsvoorbereidend traject van 1,5 jaar (drie semesters) waarin sprake is van een voortdurende wisselwerking tussen theorie en praktijk (stage). In het vijfde semester heb je vrije ruimte en gelegenheid tot specialisatie. Je kunt bijvoorbeeld in het buitenland studeren of het researchprogramma volgen. Je sluit de studie af met een masterthesis."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog en predikant kun je na je studie aan de slag als gemeentepredikant, maar ook als onderzoeker of missionair-diaconaal pionier."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je wilt predikant worden omdat je er wilt zijn voor mensen met geloofsvragen. Of omdat je gelooft dat de kerk in deze wereld nog steeds iets te zeggen heeft. Wat je motivatie ook is, als predikant heb je een sterke innerlijke overtuiging en doorleefde spiritualiteit nodig. In een wereld waarin kerk-zijn steeds verandert, zijn mensen zoals jij onmisbaar. Mensen die inspirerend en vertrouwenwekkend op kunnen treden. Mensen die gemeenteleden kunnen motiveren en het evangelie hoog houden. In de master Theologie - Gemeentepredikant van de Protestantse Theologische Universiteit werken we op academisch niveau aan dat bewustzijn, de geestelijke houding die daarbij hoort en de theologische reflectie die daarvoor nodig is. De opleiding duurt in totaal 3 jaar en heeft een omvang van 180 ects."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog en predikant kun je na je studie aan de slag als gemeentepredikant of predikant-geestelijk verzorger, maar ook als onderzoeker of missionair-diaconaal pionier. Kijk eens wat reliwerk.nl te bieden heeft. Of bekijk de vacatures van de Protestantse Kerk."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.pthu.nl/onderwijs/master/master-theologie/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "0",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tijdens de studie gebruik je natuurlijk literatuur. Dit kun je deels zelf aanschaffen - al dan niet met ondersteuning van fondsen - of via de bibliotheek lenen. De reiskosten voor stage kunnen deels vergoed worden als je geen aanspraak (meer) kunt doen op het studentenreisproduct."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "6629",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "6629",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het studieprogramma bestaat uit zes semesters. Het eerste semester legt de basis voor de master. Vanaf het tweede semester volg je een aaneengesloten beroepsvoorbereidend traject van 1,5 jaar (drie semesters) waarin sprake is van een voortdurende wisselwerking tussen theorie en praktijk (stage). In het vijfde semester heb je vrije ruimte en gelegenheid tot specialisatie. Je kunt bijvoorbeeld in het buitenland studeren of het researchprogramma volgen. Je sluit de studie af met een masterthesis."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog en predikant kun je na je studie aan de slag als gemeentepredikant, maar ook als onderzoeker of missionair-diaconaal pionier."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je wilt predikant worden omdat je er wilt zijn voor mensen met geloofsvragen. Of omdat je gelooft dat de kerk in deze wereld nog steeds iets te zeggen heeft. Wat je motivatie ook is, als predikant heb je een sterke innerlijke overtuiging en doorleefde spiritualiteit nodig. In een wereld waarin kerk-zijn steeds verandert, zijn mensen zoals jij onmisbaar. Mensen die inspirerend en vertrouwenwekkend op kunnen treden. Mensen die gemeenteleden kunnen motiveren en het evangelie hoog houden. In de master Theologie - Gemeentepredikant van de Protestantse Theologische Universiteit werken we op academisch niveau aan dat bewustzijn, de geestelijke houding die daarbij hoort en de theologische reflectie die daarvoor nodig is. De opleiding duurt in totaal 3 jaar en heeft een omvang van 180 ects."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als afgestudeerd theoloog en predikant kun je na je studie aan de slag als gemeentepredikant of predikant-geestelijk verzorger, maar ook als onderzoeker of missionair-diaconaal pionier. Kijk eens wat reliwerk.nl te bieden heeft. Of bekijk de vacatures van de Protestantse Kerk."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.pthu.nl/onderwijs/master/master-theologie/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "0",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tijdens de studie gebruik je natuurlijk literatuur. Dit kun je deels zelf aanschaffen - al dan niet met ondersteuning van fondsen - of via de bibliotheek lenen. De reiskosten voor stage kunnen deels vergoed worden als je geen aanspraak (meer) kunt doen op het studentenreisproduct."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "6629",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "505",
+        "name": "Protestantse Theologische Universiteit, vestiging Utrecht",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vestiging_SK123_id": "3340",
+        "url": null
+      }
+    }
+  ]
+}

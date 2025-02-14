@@ -1,0 +1,317 @@
+{
+  "title": "Nederlandse Academie voor Beeldcreatie",
+  "code": "NACBE",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Bij de Nederlandse Academie voor Beeldcreatie wordt kwalitatief vakgericht fotografie- en filmonderwijs gegeven dat nauw aansluit op de (veranderende) arbeidsmarkt. Onderwijs dat studenten de ruimte geeft om talenten en creativiteit te ontwikkelen én dat hen bewust maakt van hetgeen nodig is om ondernemend, marktgericht en succesvol te zijn. Het instituut is groot geworden door klein te blijven: beperkt van organisatie met een focus op kleinschalig onderwijs. De academie heeft een voortrekkersrol als het gaat om digitalisering en een leven lang leren. Zo is er de mogelijkheid tot deeltijdonderwijs met een blended learning-programma en is het onderwijs toegankelijker met interactieve tutorials. Daarnaast wordt ondernemerschap met het vakgebied verbonden en worden studenten uitgedaagd om niet alleen vakinhoudelijk te floreren, maar ook marktgericht te handelen. De docenten representeren het beste van twee werelden: zij zijn als professioneel fotograaf of filmmaker inhoudelijk (technisch en conceptueel) zeer goed onderlegd en hebben bovendien vaak een achtergrond als ondernemer, manager, econoom of anders."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30YF",
+  "hovi_id": "261",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "University of Applied Photography",
+  "products": [
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "176",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "176",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Apeldoorn",
+        "street": "Spoorstraat 27",
+        "zip": "7311 PE",
+        "city": "APELDOORN",
+        "country": "NL",
+        "vestiging_SK123_id": "494",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "177",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "177",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Amsterdam",
+        "street": "Nieuwe Spiegelstraat 10",
+        "zip": "1017 DE",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "495",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "178",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "178",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Rotterdam",
+        "street": "Witte de Withstraat 63",
+        "zip": "3012 BN",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "496",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "226",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "226",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Eindhoven",
+        "street": "Den Dolech 2",
+        "zip": "5612 AZ",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "3306",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Film en Audiovisuele Media",
+      "english_title": "Film and Audio-visual Media",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "35526",
+      "croho_name": "Film en Audiovisuele Media",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "177",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "177",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Amsterdam",
+        "street": "Nieuwe Spiegelstraat 10",
+        "zip": "1017 DE",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "495",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Film en Audiovisuele Media",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "35526",
+      "croho_name": "Film en Audiovisuele Media",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "226",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding Film en Audiovisuele Media vormt je tot allround filmmaker. Visuele creativiteit en ondernemerschap verbinden we in één opleiding. Bewegend beeld is het communicatiemiddel bij uitstek. Voor ieder verhaal, op ieder platform, in iedere context. Naast films en series voor het grote publiek ontwikkelen opdrachtfilm en nieuwe online media zich razendsnel. Het gevolg is een groeiende vraag naar jong talent, allround filmmakers met een eigen visie op het medium. De opleidingsvariant Film en Audiovisuele Media speelt in op de groeiende vraag van opdrachtgevers. Iets voor jou? Film en Audiovisuele Media geeft je de ruimte om je te ontplooien tot een creatieve ondernemende allround filmmaker die werkt vanuit eigen visie en onderscheidend vermogen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://dutchfilmersacademy.nl/home/opleidingen/filmes/hbo/film-en-audiovisuele-media#opleiding",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "226",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Eindhoven",
+        "street": "Den Dolech 2",
+        "zip": "5612 AZ",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "3306",
+        "url": "https://navb.nl"
+      }
+    }
+  ]
+}

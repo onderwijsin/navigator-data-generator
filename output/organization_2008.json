@@ -1,0 +1,3568 @@
+{
+  "title": "ICRA",
+  "code": "ICRA",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9008",
+  "hovi_id": "2008",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "ICRA",
+  "products": [
+    {
+      "title": "Making Competency-based Education Work for youth employment in the agri-sector",
+      "english_title": "Making Competency-based Education Work for youth employment in the agri-sector",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Course description"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "This course is a combination of online and face to face training "
+                  },
+                  {
+                    "type": "text",
+                    "text": "on development and facilitation of interactive learning for lecturers and researchers in higher and vocational education.  This course focusses on building the competencies required to design and deliver experiential interactive learning programmes involving students in action-research and outreach programmes with stakeholders in rural innovation. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learning strategy:  involvement of participants in hands-on application of integrated and interactive learning, and builds largely on the participants' own experiences. Participants bring to the course their own learning programs or approved plans for future learning events (case studies) that will be analysed, reflected upon, and improved."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Course content "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Module 1:  Design and delivery of sessions for building competences and perform professional tasks, including: Learning staircase;  Flipping the classroom;  Video making; Mentimeter; Dealing with large audiences"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Module 2:  Practice-based and real-life learning for more employable graduates"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Module 3.  Competence and professional tasks-based curriculum "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Target group: Lecturers and researchers working in higher agricultural and rural education organisations and who are involved in curricula development processes and educational changes to promote competencies in experiential and interactive learning."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-04-17",
+              "end_date": "2023-06-28"
+            }
+          ],
+          "product_url": "http://www.icra.global/courses/making-education-work",
+          "product_url_en": "http://www.icra.global/courses/making-education-work",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Research Work - Solving complex agri-food problems through action research",
+      "english_title": "Making Research Work - Solving complex agri-food problems through action research",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The ‘Making Research Work’ course allows you to solve agri-food problems through action-research"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course helps you to achieve great and sustainable impact by teaching you…."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To identify your role as a researcher in agricultural innovation processes"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "to deal and navigate the complexity and unpredictability that are inherent to innovation processes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To get actors to be motivated and committed to engage with your research"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To formulate and implement demand-driven research that serves the development needs of the community"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To apply different research approaches in line with the goals"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To write proposals that attract funding for action research"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To explain complex ideas in an accessible way"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To negotiate and understand different viewpoints"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "to understand yourself and your role as researcher in multi-stakeholder processes"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-04-17",
+              "end_date": "2023-06-29"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-research-work",
+          "product_url_en": "https://www.icra.global/courses/making-research-work",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Booster l'Agribusiness :  Construire des relations d'affaires pour des profits durables",
+      "english_title": "Booster l'Agribusiness :  Construire des relations d'affaires pour des profits durables",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous négocier de meilleures offres ? Voulez-vous être en mesure de créer un climat de confiance qui débouche sur des relations commerciales durables ? Alors, c’est le module de formation qu’il vous faut !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En tant que "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "professionnel de l’agribusiness"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", vous souhaitez développer votre carrière et votre entreprise de la manière la plus efficace possible. Avec ce "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "cours"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", à la fois en ligne et en présentiel, vous allez développer toutes les compétences nécessaires pour accélérer votre impact au sein des chaînes de valeurs agricoles et agroalimentaires. Êtes-vous prêts ? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "La prochaine étape de votre carrière"
+                  },
+                  {
+                    "type": "text",
+                    "text": " est à portée de main avec l’"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "iCRA"
+                  },
+                  {
+                    "type": "text",
+                    "text": " !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Le contenu de formation : "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences et concepts entrepreneuriaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer de la valeur marchande"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire et maintenir des relations d’affaires"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mise en place de réseaux locaux d’entreprises ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Etudes de cas réels : apprentissage des partenariats public-privé visant les entreprises de transformation locales, approvisionnement auprès des agriculteurs locaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences de courtage et de facilitation"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Négociation commerciale et gestion des conflits"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "L’art de l’écoute"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Développement de contrats durable et marketing"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les services d’appui entrepreneuriaux et le coaching"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous négocier de meilleures offres ? Voulez-vous être en mesure de créer un climat de confiance qui débouche sur des relations commerciales durables ? Alors, c’est le module de formation qu’il vous faut !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En tant que "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "professionnel de l’agribusiness"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", vous souhaitez développer votre carrière et votre entreprise de la manière la plus efficace possible. Avec ce "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "cours"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", à la fois en ligne et en présentiel, vous allez développer toutes les compétences nécessaires pour accélérer votre impact au sein des chaînes de valeurs agricoles et agroalimentaires. Êtes-vous prêts ? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "La prochaine étape de votre carrière"
+                  },
+                  {
+                    "type": "text",
+                    "text": " est à portée de main avec l’"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "iCRA"
+                  },
+                  {
+                    "type": "text",
+                    "text": " !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Le contenu de formation : "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences et concepts entrepreneuriaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer de la valeur marchande"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire et maintenir des relations d’affaires"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mise en place de réseaux locaux d’entreprises ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Etudes de cas réels : apprentissage des partenariats public-privé visant les entreprises de transformation locales, approvisionnement auprès des agriculteurs locaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences de courtage et de facilitation"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Négociation commerciale et gestion des conflits"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "L’art de l’écoute"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Développement de contrats durable et marketing"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les services d’appui entrepreneuriaux et le coaching"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-15",
+              "end_date": "2024-06-15"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-lagro-business/",
+          "product_url_en": "https://www.icra.global/fr/formations/booster-lagro-business/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Booster l’Apprentissage",
+      "english_title": "Booster l’Apprentissage",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours est une combinaison de formations en ligne et en face à face. En combinant des sessions de groupe, des exercices individuels et un coaching personnel, vous vivrez ce que vos participants vivront lors de votre formation. Tout ce que vous apprenez peut être mis en pratique immédiatement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours vous aidera à concevoir et à dispenser des formations en ligne et en face à face de manière à ce que vous vous sentiez en confiance et que les participants obtiennent les résultats souhaités."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours se concentre sur la conception et la mise en œuvre d'une formation (en ligne) qui a un impact sur vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Comment combiner au mieux la formation en ligne et la formation en face à face."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous être un formateur qui"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "crée une atmosphère interactive et s'appuie sur les expériences de vos participants ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "fait travailler le groupe de manière autonome, motivée et ciblée pendant les sessions en ligne ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "obtient un retour des participants sur l'application de ce qu'ils ont appris et donc de meilleures performances dans leur travail ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours a un effet immédiat car vous n'apprenez pas seulement des compétences essentielles mais vous les appliquez directement en utilisant l'une de vos formations comme étude de cas. À la fin du programme, vous aurez (re)conçu et dispensé des sessions de formation mixtes, combinant des sessions de groupe en ligne et en face à face. Vous êtes prêt à commencer à dispenser des formations qui ont un impact et apportent un changement dans la vie de vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules Conception:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en groupe en face à face"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en ligne : synchrone et asynchrone"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Réaliser le mélange parfait : mélanger la formation en ligne et en groupe"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules l'Animation :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Des explications percutantes"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Guider les discussions didactiques"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Motiver les participants"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer des liens et récolter des résultats d'apprentissage"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Donner un retour d'information"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours se concentre sur la conception et la mise en œuvre d'une formation (en ligne) qui a un impact sur vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Comment combiner au mieux la formation en ligne et la formation en face à face."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous être un formateur qui"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "crée une atmosphère interactive et s'appuie sur les expériences de vos participants ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "fait travailler le groupe de manière autonome, motivée et ciblée pendant les sessions en ligne ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "obtient un retour des participants sur l'application de ce qu'ils ont appris et donc de meilleures performances dans leur travail ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours a un effet immédiat car vous n'apprenez pas seulement des compétences essentielles mais vous les appliquez directement en utilisant l'une de vos formations comme étude de cas. À la fin du programme, vous aurez (re)conçu et dispensé des sessions de formation mixtes, combinant des sessions de groupe en ligne et en face à face. Vous êtes prêt à commencer à dispenser des formations qui ont un impact et apportent un changement dans la vie de vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules Conception:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en groupe en face à face"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en ligne : synchrone et asynchrone"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Réaliser le mélange parfait : mélanger la formation en ligne et en groupe"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules l'Animation :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Des explications percutantes"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Guider les discussions didactiques"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Motiver les participants"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer des liens et récolter des résultats d'apprentissage"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Donner un retour d'information"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2023-09-29"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-blended-training-work/",
+          "product_url_en": "https://www.icra.global/courses/making-blended-training-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work Plus - Annual trajectory",
+      "english_title": "Making Agribusiness Work Plus - Annual trajectory",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "practice",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This 8 month part-time course alternates online blocks of 3-4 learning weeks and self-practice weeks at a sustainable pace, all topped by 1-week face-2-face module with workshops, field visits, networking, etc. Each month you gain concrete skills that you can immediately apply in your work."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "After this course you will have gained the perfect mix of personal competencies, interpersonal skills and the right mindset to thrive in the agribusiness coach and facilitator role, and you will be able to foster and facilitate inclusive agribusiness partnerships and to unlock real win-win situations! "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Course outcomes"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Through live sessions, individual and group practical assignments, personal mentorship and individual feedback from our trainers, you will learn how to best:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Establish and reinforce sustainable business relationships among farmers, agri-entrepreneurs, input and service providers by building trust and pursuing common interests;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Create market value in the supply chain you operate in;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use and improve your negotiation skills for better contracts and business deals;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Secure a stable flow of income for your support services;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Manage group dynamics, prevent or resolve possible conflicts among stakeholders."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-01",
+              "end_date": "2024-05-30"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work-plus",
+          "product_url_en": "https://www.icra.global/courses/making-agribusiness-work-plus",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Booster l'Agribusiness :  Facilitation & Coaching",
+      "english_title": "Booster l'Agribusiness :  Facilitation & Coaching",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire la confiance dans des partenariats durables pour une croissance durable"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Êtes-vous un professionnel de l'agribusiness qui souhaite améliorer ses compétences de facilitateur et de coach pour mieux construire et gérer des partenariats, avoir un impact profond non seulement sur les acteurs individuels, mais sur l'ensemble des chaînes d'approvisionnement agricoles ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Une formation intensive d'une semaine au Bénin et de 3 mois de sessions interactives en ligne. Grâce à des sessions en direct, des travaux pratiques individuels et en groupe, un mentorat personnel et un retour d'information individuel de la part de nos formateurs, vous apprendrez à.. :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- instaurer la confiance entre les parties prenantes qui travaillent ensemble dans la chaîne d'approvisionnement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Faciliter la collaboration et maintenir l'engagement de chacun pour atteindre des objectifs communs"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- aider les parties prenantes à trouver ou à redéfinir une vision ou une orientation commune"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Gérer les désaccords et aider les parties prenantes à prendre des décisions sur la base d'un terrain d'entente et de principes gagnant-gagnant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Accompagner la mise en œuvre des activités et permettre aux acteurs impliqués de trouver leurs propres solutions partagées."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Au cours de cette formation, vous pourrez développer vos compétences de manière pratique et appliquer tout ce que vous aurez appris à votre propre cas concret."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire la confiance dans des partenariats durables pour une croissance durable"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Êtes-vous un professionnel de l'agribusiness qui souhaite améliorer ses compétences de facilitateur et de coach pour mieux construire et gérer des partenariats, avoir un impact profond non seulement sur les acteurs individuels, mais sur l'ensemble des chaînes d'approvisionnement agricoles ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Une formation intensive d'une semaine au Bénin et de 3 mois de sessions interactives en ligne. Grâce à des sessions en direct, des travaux pratiques individuels et en groupe, un mentorat personnel et un retour d'information individuel de la part de nos formateurs, vous apprendrez à.. :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- instaurer la confiance entre les parties prenantes qui travaillent ensemble dans la chaîne d'approvisionnement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Faciliter la collaboration et maintenir l'engagement de chacun pour atteindre des objectifs communs"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- aider les parties prenantes à trouver ou à redéfinir une vision ou une orientation commune"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Gérer les désaccords et aider les parties prenantes à prendre des décisions sur la base d'un terrain d'entente et de principes gagnant-gagnant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Accompagner la mise en œuvre des activités et permettre aux acteurs impliqués de trouver leurs propres solutions partagées."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Au cours de cette formation, vous pourrez développer vos compétences de manière pratique et appliquer tout ce que vous aurez appris à votre propre cas concret."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Apres ce cours vous devenirez un professionnel reconnu par votre expertise.  De gagner un revenu confortable et d’être capable de choisir les projets les plus excitants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Vous recevrez des conseils pratiques pour obtenir des revenus stable pour votre entreprise ou services d’accompagnement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vous apprendrez à créer un climat de confiance pour établir des relations commerciales durables entre les agriculteurs, les agro-entrepreneurs, les fournisseurs de crédits, les fournisseurs d’intrants et les fournisseurs de services."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Vous améliorerez vos compétences en négociation vous rendant ainsi plus confiant dans la rédaction de contrats, ouvrant la voie à de meilleures affaires."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vous recevrez un certificat á la fin du cours"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-lagribusiness/",
+          "product_url_en": "https://www.icra.global/fr/formations/booster-lagribusiness/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "nfp",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work - Facilitation and Coaching",
+      "english_title": "Making Agribusiness Work - Facilitation and Coaching",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Are you an Agribusiness professional who wants to improve their facilitation and coaching skills to better build and manage partnerships, have deep impact not only on single actors, but on whole agricultural supply chains? "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1 week intensive f2f training in Kenya and 3 months of online interactive sessions. Through live sessions, individual and group practical assignments, personal mentorship, and individual feedback from our trainers, you will learn how to:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       build trust among stakeholders working together in the supply chain"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Facilitate collaboration and keep everyone engaged towards reaching common goals"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Support stakeholders finding or redefining a common vision or direction"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Manage disagreements and support stakeholders to take decisions based on common ground and win-win principles"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Coaching implementation of activities and enable the actors involved in finding their own shared solutions"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "During this course you will be able to develop your skills in a practical way and apply all that you learn to your own real-life case."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is meant for iCRA Alumni who successfully completed the Making Agribusiness Work course and for all Agribusiness professionals who want to improve their facilitation and coaching skills to better build and manage partnerships, have deep impact not only on single actors, but on whole agricultural supply chains."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "product_url_en": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Booster l'Education: l'apprentissage basé sur la pratique",
+      "english_title": "Booster l'Education: l'apprentissage basé sur la pratique",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Le contenu de la formation:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "La partie du cours en ligne (à temps partiel) y compris des sessions en groupe, des affectations, du coaching et des commentaires individuels et une période de formation en face à face au Pays-Bas sera incluse d'une semaine."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En tant qu’enseignant ou professionnel dans le secteur de l’éducation, vous souhaitez préparer vos apprenants au marché du travail. Mais vous n’êtes peut-être pas tout à fait sûr que votre programme de cours actuel y parvienne vraiment : préparer vos apprenants à leur futur emploi.  Organiser la pratique dans vos cours n’est pas si facile. Vous devez faire des choix sur ce que vos apprenants doivent pratiquer."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Pour professionnels travaillant dans l’enseignement supérieur agricole/rural/dans les domaines connexes. Il vise à fournir des méthodes pratiques et une réflexion critique sur la façon d’améliorer les programmes d’éducation par le biais de"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Procéder à une évaluation du marché du travail et définir un profil de compétences qui prendra en compte les besoins des employeurs potentiels "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Concevoir des séances où les étudiants peuvent mettre en pratique les compétences dont ils ont besoin pour trouver un emploi"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Des approches et outils nouveaux et interdisciplinaires pour concevoir et dispenser des programmes d’apprentissage expérientiels; "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Faire une présentation convaincante à l’aide d’outils vidéo"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours consiste en une formation intensive d'une semaine au Pays-Bas et de 3 mois de sessions interactives en ligne. Grâce à des sessions en direct, des travaux pratiques individuels et en groupe, un mentorat personnel et un retour d'information individuel de la part de nos formateurs."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-leducation/",
+          "product_url_en": "https://www.icra.global/fr/formations/booster-leducation/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Education Work",
+      "english_title": "Making Education Work",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a teacher or professional in the agri-education sector, you want to prepare your students for their future jobs in the labour market. You may be uncertain if your current curriculum is doing this. Moreover, organising practice in your courses is not easy. You need to prioritise what is essential for your students to practice."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Are you looking for solutions to these kind of challenges? Are you looking for ways to motivate your students to participate actively in your courses?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then you are welcome to join."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is aimed at professionals working in agricultural and rural higher education or related fields. It aims to provide practical methods and stimulate critical thinking regarding how to improve education programmes through:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-          New, interdisciplinary approaches and tools for designing and delivering experiential and interactive learning programmes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-          Ideas for grounding education in real life to offer learning that goes beyond the confines of the classroom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-          Strategies to strengthen links with the labour market and partners to produce more employable graduates."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "-          This course builds on your knowledge and experience, helps you discover new opportunities and partnerships and gives you the skills to develop exciting course programmes that enable students to put their knowledge and skills into practice."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-04-15",
+              "end_date": "2024-04-26"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-education-work/",
+          "product_url_en": "https://www.icra.global/courses/making-education-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Research Work",
+      "english_title": "Making Research Work",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Would you like to see research translated into tangible interventions, making an impact on society?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "‘Making Research Work’ shows you how to apply an action-research approach. This course supports you involve and gain stakeholder’s commitment to jointly define and solve problems in your community. Simultaneously, it will help you make more impact on agricultural development and receive greater recognition."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The ‘Making Research Work’ course teaches you to solve agri-food problems through action-research and provides you with concrete skills to apply immediately in your work. Learn how to:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify your role as a researcher in agricultural innovation processes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Navigate the complexity and unpredictability that are inherent to innovation processes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Motivate actors to commit to engaging with your research."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formulate and implement demand-driven research that serves the development needs of the community."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apply different research approaches in line with the research goals."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Write proposals that attract funding for action-research."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Explain complex ideas in an accessible manner."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Negotiate and understand different perspectives."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Understand yourself and your role as researcher in multi-stakeholder processes."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-04-15",
+              "end_date": "2024-04-26"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-research-work/",
+          "product_url_en": "https://www.icra.global/courses/making-research-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Training Work",
+      "english_title": "Making Training Work",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "colloquium",
+            "computer_modeling",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practice",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Would you want to become an agri-trainer who…"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Creates an interactive atmosphere and builds on the experiences of your participants?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Encourages the group work independently and to feel motivated and focused during the training sessions?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Receives positive feedback from the participants indicating that they can apply there knowledge and perform better at work?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "iCRA online course “Making Training Work” will help you to design and deliver training with confidence. You will positively impact participants and help them achieve results."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "COURSE CONTENT"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Module 1: Training design"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identifying the needs of your participants before starting a training course."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Using the “learning staircase method” to design training sessions that focus on practical learning."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "New and interdisciplinary approaches and tools for designing and delivering experiential and interactive learning programmes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ideas for grounding learning in real life to providing learning that goes beyond the classroom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Module 2: Training delivering skills"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Powerful explanations."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Guiding didactical discussions."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Motivating participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Building bridges and harvesting learning outcomes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Giving feedback."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "At the end of the program you will have (re)designed and delivered training sessions. You are ready to start delivering training that makes impact and makes a change to the life of your participants."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-05-01",
+              "end_date": "2024-05-24"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-training-work/",
+          "product_url_en": "https://www.icra.global/courses/making-training-work/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work: 3-month Edition",
+      "english_title": "Making Agribusiness Work: 3-month Edition",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Running a business in the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "agri-food sector"
+                  },
+                  {
+                    "type": "text",
+                    "text": " is not easy. You need to innovate to mitigate climate related water and production problems. You see opportunities to expand your market but sourcing good quality raw materials is often difficult. Overcoming challenges and being a successful "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "agri-food entrepreneur"
+                  },
+                  {
+                    "type": "text",
+                    "text": " demands collaboration with partners that you trust and can rely on."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Our 3-month blended learning program "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Making Agribusiness Work"
+                  },
+                  {
+                    "type": "text",
+                    "text": " will equip you the perfect mix of tools, skill and mindset to:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "build long-term alliances"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "facilitating collaboration all along the value chain"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "engage profitable agribusiness deals"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "unlock real win-win situations!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "3-month"
+                  },
+                  {
+                    "type": "text",
+                    "text": " part-time course alternates online blocks of learning weeks and self-practice weeks at a sustainable pace. This is all topped by a 1-week face-2-face module in the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Netherlands"
+                  },
+                  {
+                    "type": "text",
+                    "text": " with workshops, field visits, networking, and more. Each month you gain concrete skills that you can immediately apply in your work."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is for professionals working in the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "agri, food and water sector"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and want to contribute to local entrepreneurial development and food security. This course is only for highly committed people that want to create impact and are willing to invest "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "6-8 hours per week"
+                  },
+                  {
+                    "type": "text",
+                    "text": " over the whole duration of the course."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The course starts in October 2024 and ends in February 2025. With a holiday break in the middle."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-10-01",
+              "end_date": "2025-02-28"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "product_url_en": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work: Facilitation and Coaching",
+      "english_title": "Making Agribusiness Work: Facilitation and Coaching",
+      "product_type": "course",
+      "description": null,
+      "product_level": "post-graduate",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Do you want to be an "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "agribusiness coach"
+                  },
+                  {
+                    "type": "text",
+                    "text": " who creates market value, builds trustworthy business relationships and generates a stable income?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " 3-month blended course "
+                  },
+                  {
+                    "type": "text",
+                    "text": "consists of a "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "one-week "
+                  },
+                  {
+                    "type": "text",
+                    "text": "intensive"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " face-2-face training "
+                  },
+                  {
+                    "type": "text",
+                    "text": "in"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " The Netherlands "
+                  },
+                  {
+                    "type": "text",
+                    "text": "and weekly"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " online interactive sessions."
+                  },
+                  {
+                    "type": "text",
+                    "text": " You will gain practical skills and the mindset to thrive as an agribusiness coach and facilitator."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Through live sessions, practical individual and group assignments, personal mentorship and individual feedback from our trainers,"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "you will learn how to best:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "improve your negotiation skills"
+                  },
+                  {
+                    "type": "text",
+                    "text": " for better contracts and business deals."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Secure a "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "stable flow of income"
+                  },
+                  {
+                    "type": "text",
+                    "text": " for your support services."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Manage group dynamics, "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "prevent and resolve possible conflicts"
+                  },
+                  {
+                    "type": "text",
+                    "text": " among stakeholders."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is for"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": "those working in an "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "agri-sector business context"
+                  },
+                  {
+                    "type": "text",
+                    "text": " who want to contribute to local "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "entrepreneurial development"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "food security,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " are ambitious and want create impact. The course is only for highly committed people that are willing to invest "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "6-8 hours per week"
+                  },
+                  {
+                    "type": "text",
+                    "text": " over the whole duration of the course."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The course runs from "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "February to May 2025"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-02-01",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "product_url_en": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

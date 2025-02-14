@@ -1,0 +1,2925 @@
+{
+  "title": "Business School Notenboom",
+  "code": "NOOT",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Business School Notenboom biedt opleidingen aan in de richtingen: Business, Hospitality en Events. Wij bieden jou: - het beste persoonlijke onderwijs en optimale begeleiding - een uitdagende en ondernemende leeromgeving - een waardevol professioneel netwerk: Notenboom for life! - docenten met praktijkervaring en didactische kwaliteiten - individuele toetsing bij het begin van je opleiding: zo kunnen we je een gericht aanbod doen om te versnellen of deficiënties aan te pakken Wij geloven dat... iedere student het beste uit zichzelf haalt door persoonlijke begeleiding en uitdagende onderwijsvormen gezamenlijk streven naar excellentie leidt tot het beste onderwijs Na je studie ben je een goed opgeleide, ondernemende professional ben je klaar voor een succesvolle carrière beschik je over een waardevol Notenboom-netwerk"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24GE",
+  "hovi_id": "85",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Business School Notenboom",
+  "products": [
+    {
+      "title": "Hotel & Event Management",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34030",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "86",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stap in de bruisende wereld van gastvrijheid en ondernemerschap met de hbo-opleiding Hotel & Event Management. De combinatie Hbo Eventmanagement & Hbo Hotelmanagement van deze twee werelden vormt jou tot een veelzijdige generalist."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het ontwerp, de organisatie, uitvoering, evaluatie en verbetering van de hospitality van een onderneming staan centraal in deze opleiding. Je verwerft grondige kennis over hotelmanagement, food-beverage management, congres planning, evenementenorganisatie en conceptontwikkeling."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een dynamische carrière in een branche die draait om het creëren van onvergetelijke ervaringen voor gasten en klanten. Met de juiste kennis en vaardigheden ben jij klaar om de wereld van gastvrijheid te veroveren!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je belevingsconcepten te creëren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je concepten en ondernemingsplannen uit"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "vergroot je je communicatie- en presentatievaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je aan je sales- en netwerkvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "doe je onderzoek naar gastvrijheidsconcepten"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2027-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hotel-en-eventmanagement-hbo/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "86",
+        "name": "Business School Notenboom, vestiging Eindhoven",
+        "street": "Beukenlaan 145",
+        "zip": "5616 VD",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "177",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Hotel & Event Management",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34030",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "87",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stap in de bruisende wereld van gastvrijheid en ondernemerschap met de hbo-opleiding Hotel & Event Management. De combinatie Hbo Eventmanagement & Hbo Hotelmanagement van deze twee werelden vormt jou tot een veelzijdige generalist."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het ontwerp, de organisatie, uitvoering, evaluatie en verbetering van de hospitality van een onderneming staan centraal in deze opleiding. Je verwerft grondige kennis over hotelmanagement, food-beverage management, congres planning, evenementenorganisatie en conceptontwikkeling."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een dynamische carrière in een branche die draait om het creëren van onvergetelijke ervaringen voor gasten en klanten. Met de juiste kennis en vaardigheden ben jij klaar om de wereld van gastvrijheid te veroveren!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je belevingsconcepten te creëren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je concepten en ondernemingsplannen uit"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "vergroot je je communicatie- en presentatievaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je aan je sales- en netwerkvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "doe je onderzoek naar gastvrijheidsconcepten"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2027-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hotel-en-eventmanagement-hbo/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "87",
+        "name": "Business School Notenboom, vestiging Hilversum",
+        "street": "Emmastraat 15",
+        "zip": "1211 NE",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "178",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Hotel & Event Management",
+      "english_title": "Hotel & Event Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34030",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "88",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stap in de bruisende wereld van gastvrijheid en ondernemerschap met de hbo-opleiding Hotel & Event Management. De combinatie Hbo Eventmanagement & Hbo Hotelmanagement van deze twee werelden vormt jou tot een veelzijdige generalist."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het ontwerp, de organisatie, uitvoering, evaluatie en verbetering van de hospitality van een onderneming staan centraal in deze opleiding. Je verwerft grondige kennis over hotelmanagement, food-beverage management, congres planning, evenementenorganisatie en conceptontwikkeling."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een dynamische carrière in een branche die draait om het creëren van onvergetelijke ervaringen voor gasten en klanten. Met de juiste kennis en vaardigheden ben jij klaar om de wereld van gastvrijheid te veroveren!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je belevingsconcepten te creëren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je concepten en ondernemingsplannen uit"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "vergroot je je communicatie- en presentatievaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "werk je aan je sales- en netwerkvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "doe je onderzoek naar gastvrijheidsconcepten"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen binnen het brede spectrum van de hospitality-industrie of ga je aan de slag in een leidinggevende functie bij een (inter)nationaal luxe hotel, restaurant, congrescentrum of een evenementenbureau."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2025-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hotel-en-eventmanagement-hbo/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "88",
+        "name": "Business School Notenboom, vestiging Maastricht",
+        "street": "Parallelweg 45C",
+        "zip": "6221 BD",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vestiging_SK123_id": "181",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Bedrijfskunde",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34035",
+      "croho_name": "Bedrijfskunde",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "86",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij wordt die leider die een bedrijf naar de top brengt. In onze bachelor Bedrijfskunde moedigen we je aan om ondernemend te zijn, kansen te creëren én te benutten. Dat is de kracht van onze opleiding."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met het versterken van je personal en business skills, leg je tijdens de bachelor Bedrijfskunde een brede basis voor je toekomstige carrière."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leer met hbo bedrijfskunde alles over bedrijfsinrichting, processen, marktwerking, import/export, business- en operations management, financiën, marketing en communicatie. Als bedrijfskundige ben je de generalist met uitgebreide kennis van alle aspecten binnen een organisatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je je communicatievaardigheden te verbeteren voor effectieve zakelijke interacties."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkel je salesvaardigheden en bouw je waardevolle netwerken op."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "verkrijg je inzicht in bedrijfskundige en managementprocessen voor efficiënt leiderschap."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "los je complexe bedrijfskundige vraagstukken op door analytisch en creatief denken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "initieer en implementeer je veranderingen en innovaties voor concurrentievoordeel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "stel je een ondernemingsplan op voor je eigen onderneming."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "voer je onderzoeken uit ter ondersteuning van gegevensgestuurde besluitvorming."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2027-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-bedrijfskunde/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "86",
+        "name": "Business School Notenboom, vestiging Eindhoven",
+        "street": "Beukenlaan 145",
+        "zip": "5616 VD",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "177",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Bedrijfskunde",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34035",
+      "croho_name": "Bedrijfskunde",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "87",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij wordt die leider die een bedrijf naar de top brengt. In onze bachelor Bedrijfskunde moedigen we je aan om ondernemend te zijn, kansen te creëren én te benutten. Dat is de kracht van onze opleiding."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met het versterken van je personal en business skills, leg je tijdens de bachelor Bedrijfskunde een brede basis voor je toekomstige carrière."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leer met hbo bedrijfskunde alles over bedrijfsinrichting, processen, marktwerking, import/export, business- en operations management, financiën, marketing en communicatie. Als bedrijfskundige ben je de generalist met uitgebreide kennis van alle aspecten binnen een organisatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je je communicatievaardigheden te verbeteren voor effectieve zakelijke interacties."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkel je salesvaardigheden en bouw je waardevolle netwerken op."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "verkrijg je inzicht in bedrijfskundige en managementprocessen voor efficiënt leiderschap."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "los je complexe bedrijfskundige vraagstukken op door analytisch en creatief denken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "initieer en implementeer je veranderingen en innovaties voor concurrentievoordeel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "stel je een ondernemingsplan op voor je eigen onderneming."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "voer je onderzoeken uit ter ondersteuning van gegevensgestuurde besluitvorming."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2027-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-bedrijfskunde/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "87",
+        "name": "Business School Notenboom, vestiging Hilversum",
+        "street": "Emmastraat 15",
+        "zip": "1211 NE",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "178",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Bedrijfskunde",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34035",
+      "croho_name": "Bedrijfskunde",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "88",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij wordt die leider die een bedrijf naar de top brengt. In onze bachelor Bedrijfskunde moedigen we je aan om ondernemend te zijn, kansen te creëren én te benutten. Dat is de kracht van onze opleiding."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met het versterken van je personal en business skills, leg je tijdens de bachelor Bedrijfskunde een brede basis voor je toekomstige carrière."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Leer met hbo bedrijfskunde alles over bedrijfsinrichting, processen, marktwerking, import/export, business- en operations management, financiën, marketing en communicatie. Als bedrijfskundige ben je de generalist met uitgebreide kennis van alle aspecten binnen een organisatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je je communicatievaardigheden te verbeteren voor effectieve zakelijke interacties."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkel je salesvaardigheden en bouw je waardevolle netwerken op."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "verkrijg je inzicht in bedrijfskundige en managementprocessen voor efficiënt leiderschap."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "los je complexe bedrijfskundige vraagstukken op door analytisch en creatief denken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "initieer en implementeer je veranderingen en innovaties voor concurrentievoordeel."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "stel je een ondernemingsplan op voor je eigen onderneming."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "voer je onderzoeken uit ter ondersteuning van gegevensgestuurde besluitvorming."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je ondernemen, voor jezelf, binnen het familiebedrijf of een andere organisatie. Omdat je breed opgeleid bent, doorzie je snel wat er beter kan in een organisatie en ben je van grote toegevoegde waarde voor elk type organisatie, groot of klein, profit of non-profit."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2027-07-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2027-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-bedrijfskunde/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "20990",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "88",
+        "name": "Business School Notenboom, vestiging Maastricht",
+        "street": "Parallelweg 45C",
+        "zip": "6221 BD",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vestiging_SK123_id": "181",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Commercieel Management",
+      "english_title": "Commercial Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80096",
+      "croho_name": "Commercieel Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "86",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze opleiding krijg je een diepgaand inzicht in alle aspecten van sales en management, van strategische planning tot relatiebeheer. Je ontwikkelt essentiële vaardigheden als verkoop- en onderhandelingstechnieken en marktanalyse. Zo kun je je positief onderscheiden in een competitieve zakelijke omgeving."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word de sales-expert, die zich in iedere commercieel uitdagende omgeving onderscheidt. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je verkooptechnieken en -strategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in onderhandelingsvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je relatiebeheer goed uit te voeren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "buig je je over prijsstelling en prijsstrategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkeling je een brede kennis van marketing en promotie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ga je aan de slag met product- en dienstontwikkeling"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-ad-commercieel-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "86",
+        "name": "Business School Notenboom, vestiging Eindhoven",
+        "street": "Beukenlaan 145",
+        "zip": "5616 VD",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "177",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Commercieel Management",
+      "english_title": "Commercial Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80096",
+      "croho_name": "Commercieel Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "87",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze opleiding krijg je een diepgaand inzicht in alle aspecten van sales en management, van strategische planning tot relatiebeheer. Je ontwikkelt essentiële vaardigheden als verkoop- en onderhandelingstechnieken en marktanalyse. Zo kun je je positief onderscheiden in een competitieve zakelijke omgeving."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word de sales-expert, die zich in iedere commercieel uitdagende omgeving onderscheidt. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je verkooptechnieken en -strategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in onderhandelingsvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je relatiebeheer goed uit te voeren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "buig je je over prijsstelling en prijsstrategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkeling je een brede kennis van marketing en promotie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ga je aan de slag met product- en dienstontwikkeling"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-ad-commercieel-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "87",
+        "name": "Business School Notenboom, vestiging Hilversum",
+        "street": "Emmastraat 15",
+        "zip": "1211 NE",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "178",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Commercieel Management",
+      "english_title": "Commercial Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80096",
+      "croho_name": "Commercieel Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "88",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze opleiding krijg je een diepgaand inzicht in alle aspecten van sales en management, van strategische planning tot relatiebeheer. Je ontwikkelt essentiële vaardigheden als verkoop- en onderhandelingstechnieken en marktanalyse. Zo kun je je positief onderscheiden in een competitieve zakelijke omgeving."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word de sales-expert, die zich in iedere commercieel uitdagende omgeving onderscheidt. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je verkooptechnieken en -strategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in onderhandelingsvaardigheden"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je relatiebeheer goed uit te voeren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "buig je je over prijsstelling en prijsstrategieën"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ontwikkeling je een brede kennis van marketing en promotie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ga je aan de slag met product- en dienstontwikkeling"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding ga je in een internationale omgeving of bij een internationaal georiënteerd bedrijf aan de slag als bijvoorbeeld exportmanager, internationaal accountmanager of import/export-coördinator."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/hbo-ad-commercieel-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "88",
+        "name": "Business School Notenboom, vestiging Maastricht",
+        "street": "Parallelweg 45C",
+        "zip": "6221 BD",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vestiging_SK123_id": "181",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Hotel & Event Management",
+      "english_title": "Hotel & Event Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80104",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "86",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Krijg een diepgaand inzicht in de vele facetten van de hospitality-industrie, van het beheer van hotels en resorts tot de planning en uitvoering van spectaculaire evenementen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een veelbelovende carrière in de wereld van hospitality en evenementen management."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je de fundamentele principe van hospitality management"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je marketingstrategieën voor hotels en evenementen beheersen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in eventplanning en -organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "scherp je je professionele vaardigheden aan, zoals onderhandelen, probleemoplossen en presenteren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in financieel management, personeelsmanagement en interculturele communicatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "staan de innovatieve trends en ontwikkelingen in de hospitalitysector centraal"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/kort-hbo-hotel-event-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "86",
+        "name": "Business School Notenboom, vestiging Eindhoven",
+        "street": "Beukenlaan 145",
+        "zip": "5616 VD",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "177",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Hotel & Event Management",
+      "english_title": "Hotel & Event Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80104",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "87",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Krijg een diepgaand inzicht in de vele facetten van de hospitality-industrie, van het beheer van hotels en resorts tot de planning en uitvoering van spectaculaire evenementen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een veelbelovende carrière in de wereld van hospitality en evenementen management."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je de fundamentele principe van hospitality management"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je marketingstrategieën voor hotels en evenementen beheersen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in eventplanning en -organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "scherp je je professionele vaardigheden aan, zoals onderhandelen, probleemoplossen en presenteren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in financieel management, personeelsmanagement en interculturele communicatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "staan de innovatieve trends en ontwikkelingen in de hospitalitysector centraal"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/kort-hbo-hotel-event-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "87",
+        "name": "Business School Notenboom, vestiging Hilversum",
+        "street": "Emmastraat 15",
+        "zip": "1211 NE",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "178",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "Hotel & Event Management",
+      "english_title": "Hotel & Event Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80104",
+      "croho_name": "Hotel & Event Management",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "88",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We stimuleren ondernemerschap; dit is de rode draad in alle opleidingen bij Business School Notenboom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met je coach ontdek je wie je bent en wat je talenten en ambities zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij krijgt een individuele afstudeerbegeleider, die samen met jou zicht houdt op de planning en jou van feedback voorziet."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gezakt en toch alvast studeren: Bij Business School Notenboom kun je alvast starten met een opleiding op mbo- of hbo niveau, terwijl je nog een paar vakken van het voortgezet onderwijs afrondt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Krijg een diepgaand inzicht in de vele facetten van de hospitality-industrie, van het beheer van hotels en resorts tot de planning en uitvoering van spectaculaire evenementen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bereid je voor op een veelbelovende carrière in de wereld van hospitality en evenementen management."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tijdens de opleiding"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je de fundamentele principe van hospitality management"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leer je marketingstrategieën voor hotels en evenementen beheersen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in eventplanning en -organisatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "scherp je je professionele vaardigheden aan, zoals onderhandelen, probleemoplossen en presenteren"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "bekwaam je je in financieel management, personeelsmanagement en interculturele communicatie"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "staan de innovatieve trends en ontwikkelingen in de hospitalitysector centraal"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na de opleiding kun je diverse functies bekleden in de hospitality- en evenementenindustrie, zoals (assistent) hotelmanager, eventmanager of eventcoördinator, restaurantmanager, revenuemanager, salesmanager of marketingmanager."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-01-01",
+              "end_date": "2026-12-31"
+            }
+          ],
+          "product_url": "https://notenboom.nl/opleidingen/kort-hbo-hotel-event-management/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "15250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "88",
+        "name": "Business School Notenboom, vestiging Maastricht",
+        "street": "Parallelweg 45C",
+        "zip": "6221 BD",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vestiging_SK123_id": "181",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "International Business Management",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80106",
+      "croho_name": "International Business Management",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "86",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "86",
+        "name": "Business School Notenboom, vestiging Eindhoven",
+        "street": "Beukenlaan 145",
+        "zip": "5616 VD",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "177",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "International Business Management",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80106",
+      "croho_name": "International Business Management",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "87",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "87",
+        "name": "Business School Notenboom, vestiging Hilversum",
+        "street": "Emmastraat 15",
+        "zip": "1211 NE",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "178",
+        "url": "http://www.notenboom.nl"
+      }
+    },
+    {
+      "title": "International Business Management",
+      "english_title": "International Business Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "associate",
+      "croho": "80106",
+      "croho_name": "International Business Management",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "88",
+      "organization_hovi_id": "85",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "88",
+        "name": "Business School Notenboom, vestiging Maastricht",
+        "street": "Parallelweg 45C",
+        "zip": "6221 BD",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vestiging_SK123_id": "181",
+        "url": "http://www.notenboom.nl"
+      }
+    }
+  ]
+}

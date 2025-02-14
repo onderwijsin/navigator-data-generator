@@ -1,0 +1,882 @@
+{
+  "title": "Netherlands Business Academy",
+  "code": "NBA",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Netherlands Business Academy (NLBA) is een particuliere Business School, gericht op zakelijke professionals die in deeltijd een Masteropleiding willen volgen. Wij bieden praktijkgerichte Masteropleidingen, Post-HBO opleidingen en Masterclasses aan. De kracht van onze organisatie ligt in onze persoonlijke en klantgerichte benadering. Wij creëren een veilige, vertrouwde omgeving waarbinnen onze studenten naar een hoger niveau kunnen groeien. Daarbij omschrijven onze studenten ons als flexibel, betrouwbaar en met lessen van hoog niveau. Het hoogwaardig niveau van onze opleidingen is gewaarborgd door onze NVAO accreditaties. De docenten en het management kennen onze studenten persoonlijk en garanderen een optimale begeleiding in uw persoonlijke ontwikkeling, gericht op het behalen van uw doelen. Wij werken uitsluitend met specialisten die een relatie hebben met de praktijk. De wisselwerking tussen theorie en praktijk staat bij ons dan ook centraal. U wordt geacht werksituaties in te brengen en daarop te reflecteren in de vorm van papers, presentaties, discussies, cases en groepswerk."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30ET",
+  "hovi_id": "234",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Netherlands Business Academy",
+  "products": [
+    {
+      "title": "Bedrijfskunde (BBA)",
+      "english_title": null,
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34035",
+      "croho_name": "Bedrijfskunde",
+      "degrees": [
+        "Bachelor"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "188",
+      "organization_hovi_id": "234",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De bachelor in Bedrijfskunde is een maatgerichte HBO opleiding, gericht op werkende professionals. De opleiding leidt op tot de titel BBA. De opleiding HBO Bedrijfskunde ondersteunt bij de overgang naar functies op een hoger bedrijfskundig management niveau waarbij nieuwe aspecten steeds belangrijker worden. Zo zijn er in toenemende mate managementverantwoordelijkheden en moet met een bredere blik naar de processen in het bedrijf worden gekeken. Ook worden vaardigheden als leiderschap, communicatie en vergadertechnieken een essentieel onderdeel van het functioneren. De opleiding HBO Bedrijfskunde geeft invulling aan deze ontwikkeling. De opleiding is bij uitstek geschikt voor middle managers die willen doorgroeien naar HBO-niveau, of die verbreding in kennis zoeken naast een eerder behaald HBO-diploma in een andere richting. De opleiding HBO Bedrijfskunde richt zich in eerste instantie op het functiegebied management, terwijl men in het kader van de gewenste uitstroomrichting tijdens de beroepspraktijkvorming kan werken aan beroepsproducten van bijvoorbeeld de functiegebieden logistieke dienstverlening, marketing management, informatiemanagement, bedrijfseconomische dienstverlening en financieel administratieve dienstverlening. De opleiding HBO Bedrijfskunde is NVAO-geaccrediteerd."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afgestudeerden van de Bachelor Bedrijfskunde zijn door het brede karakter van de opleiding multi-inzetbaar. Zij kunnen werkzaam zijn in verschillende branches in zowel de publieke als private sector. De Bachelor Bedrijfskunde leidt niet op voor specifieke functies, maar is door de brede opzet geschikt voor een heel scala aan functies."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2020-10-02",
+              "end_date": "2024-06-15"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/hbo-opleidingen/hbo-bedrijfskunde-opleiding-bba/",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De bachelor in Bedrijfskunde is een maatgerichte HBO opleiding, gericht op werkende professionals. De opleiding leidt op tot de titel BBA. De opleiding HBO Bedrijfskunde ondersteunt bij de overgang naar functies op een hoger bedrijfskundig management niveau waarbij nieuwe aspecten steeds belangrijker worden. Zo zijn er in toenemende mate managementverantwoordelijkheden en moet met een bredere blik naar de processen in het bedrijf worden gekeken. Ook worden vaardigheden als leiderschap, communicatie en vergadertechnieken een essentieel onderdeel van het functioneren. De opleiding HBO Bedrijfskunde geeft invulling aan deze ontwikkeling. De opleiding is bij uitstek geschikt voor middle managers die willen doorgroeien naar HBO-niveau, of die verbreding in kennis zoeken naast een eerder behaald HBO-diploma in een andere richting. De opleiding HBO Bedrijfskunde richt zich in eerste instantie op het functiegebied management, terwijl men in het kader van de gewenste uitstroomrichting tijdens de beroepspraktijkvorming kan werken aan beroepsproducten van bijvoorbeeld de functiegebieden logistieke dienstverlening, marketing management, informatiemanagement, bedrijfseconomische dienstverlening en financieel administratieve dienstverlening. De opleiding HBO Bedrijfskunde is NVAO-geaccrediteerd."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afgestudeerden van de Bachelor Bedrijfskunde zijn door het brede karakter van de opleiding multi-inzetbaar. Zij kunnen werkzaam zijn in verschillende branches in zowel de publieke als private sector. De Bachelor Bedrijfskunde leidt niet op voor specifieke functies, maar is door de brede opzet geschikt voor een heel scala aan functies."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2020-10-02",
+              "end_date": "2024-06-15"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/hbo-opleidingen/hbo-bedrijfskunde-opleiding-bba/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "5250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2021
+            },
+            {
+              "amount": "5250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2020
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De bachelor in Bedrijfskunde is een maatgerichte HBO opleiding, gericht op werkende professionals. De opleiding leidt op tot de titel BBA. De opleiding HBO Bedrijfskunde ondersteunt bij de overgang naar functies op een hoger bedrijfskundig management niveau waarbij nieuwe aspecten steeds belangrijker worden. Zo zijn er in toenemende mate managementverantwoordelijkheden en moet met een bredere blik naar de processen in het bedrijf worden gekeken. Ook worden vaardigheden als leiderschap, communicatie en vergadertechnieken een essentieel onderdeel van het functioneren. De opleiding HBO Bedrijfskunde geeft invulling aan deze ontwikkeling. De opleiding is bij uitstek geschikt voor middle managers die willen doorgroeien naar HBO-niveau, of die verbreding in kennis zoeken naast een eerder behaald HBO-diploma in een andere richting. De opleiding HBO Bedrijfskunde richt zich in eerste instantie op het functiegebied management, terwijl men in het kader van de gewenste uitstroomrichting tijdens de beroepspraktijkvorming kan werken aan beroepsproducten van bijvoorbeeld de functiegebieden logistieke dienstverlening, marketing management, informatiemanagement, bedrijfseconomische dienstverlening en financieel administratieve dienstverlening. De opleiding HBO Bedrijfskunde is NVAO-geaccrediteerd."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afgestudeerden van de Bachelor Bedrijfskunde zijn door het brede karakter van de opleiding multi-inzetbaar. Zij kunnen werkzaam zijn in verschillende branches in zowel de publieke als private sector. De Bachelor Bedrijfskunde leidt niet op voor specifieke functies, maar is door de brede opzet geschikt voor een heel scala aan functies."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2020-10-02",
+              "end_date": "2024-06-15"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/hbo-opleidingen/hbo-bedrijfskunde-opleiding-bba/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "188",
+        "name": "Netherlands Business Academy, vestiging Breda",
+        "street": "Paardeweide 5a",
+        "zip": "4824 EH",
+        "city": "BREDA",
+        "country": "NL",
+        "vestiging_SK123_id": "514",
+        "url": "http://www.nlba.nl"
+      }
+    },
+    {
+      "title": "Master of Business Administration (MBA)",
+      "english_title": "Master Business Administration (MBA)",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70024",
+      "croho_name": "Master of Business Administration",
+      "degrees": [
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "67",
+      "financing": "private",
+      "location_hovi_id": "188",
+      "organization_hovi_id": "234",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Momenteel wordt deze studie niet duaal aangeboden. Zie deeltijd voor meer informatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "group_assignment",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "self_evaluation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-03-03",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-03-09",
+              "end_date": "2024-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-05",
+              "end_date": "2025-01-31"
+            }
+          ],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Momenteel wordt deze studie niet voltijd aangeboden. Zie deeltijd voor meer informatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "group_assignment",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "self_evaluation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Momenteel wordt deze studie niet voltijd aangeboden. Zie deeltijd voor meer informatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This program is not active at the moment. See part-time for more information."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-03-03",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-03-09",
+              "end_date": "2024-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-05",
+              "end_date": "2025-01-31"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/nederlandstalige-mba-opleiding-master-of-business-administration/",
+          "product_url_en": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/mba-master-of-business-administration/?lang=en",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "STUDIEBELASTING"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De MBA opleiding duurt twee jaar met afsluitend het afstuderen. Buiten de colleges is er een studiebelasting van 10 uur per week, inclusief de college uren."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "TOETSING"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het praktijkgerichte karakter van de opleiding wordt gekenmerkt door de toetsing door middel van het schrijven van een onderzoekspaper per module. Daarnaast kan de docent presentaties en/of aanvullende opdrachten vragen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "self_evaluation",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als goede general manager ben je van alle markten thuis. Je beschikt over een helikopterview. Naast algemene kennis, vraagt de managersrol ook om leiderschapskwaliteiten. Met de Nederlandstalige MBA opleiding verscherp je jouw eigen integrale kritische blik zoals die van een general manager mag worden verwacht."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de MBA worden de bedrijfskundige vakken behandeld die op management niveau vereist zijn, daarnaast wordt er volop aandacht besteed aan persoonlijke ontwikkeling, leiderschap en samenwerking. We kiezen enerzijds voor een praktijkgerichte insteek met veel actuele onderwerpen ingebracht door student en docent. Anderzijds kiest NLBA ervoor om de toetsing van de kennis uit te voeren door het schrijven van papers en opdrachten binnen de eigen werkomgeving. Hierdoor kan je de opgedane kennis direct toepassen in je eigen functie / organisatie en is je opleiding vanaf de eerste lesdag een meerwaarde."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A good general manager has a helicopter view and is an all-rounder. In addition to general knowledge, the manager’s role also requires leadership qualities. The Master of Business Administration of Netherlands Business Academy sharpens your integral critical view as may be expected from a general manager. We offer this as a part-time program. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The MBA covers the business administration courses that are required at management level, in addition, full attention is paid to personal development & leadership. On the one hand, we opt for a practice-oriented approach with many up-to-date topics brought in by student and professor. On the other hand, NLBA chooses to carry out the assessment of knowledge by writing papers and assignments within its own working environment. This allows you to apply the acquired knowledge directly in your own position / organization and your education is an added value from the day you start this program."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De MBA is NVAO geaccrediteerd. De opleiding wordt afgesloten met een MBA diploma en bijbehorende diamond Edu badge inclusief vermelding in het register."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-03-03",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-03-09",
+              "end_date": "2024-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-05",
+              "end_date": "2025-01-31"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/nederlandstalige-mba-opleiding-master-of-business-administration/",
+          "product_url_en": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/mba-master-of-business-administration/?lang=en",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "2756",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Locatiekosten"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1155",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Literatuurkosten"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "22125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2021
+            },
+            {
+              "amount": "22125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2020
+            },
+            {
+              "amount": "23732",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "188",
+        "name": "Netherlands Business Academy, vestiging Breda",
+        "street": "Paardeweide 5a",
+        "zip": "4824 EH",
+        "city": "BREDA",
+        "country": "NL",
+        "vestiging_SK123_id": "514",
+        "url": "http://www.nlba.nl"
+      }
+    },
+    {
+      "title": "Master Finance & Control (MSc Of MFC)",
+      "english_title": "Master Finance & Control (MSc Of MFC)",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70114",
+      "croho_name": "Finance and Control",
+      "degrees": [
+        "Master of Finance and Control",
+        "Master of Science"
+      ],
+      "croho_sector": "economie",
+      "credits": "69",
+      "financing": "private",
+      "location_hovi_id": "188",
+      "organization_hovi_id": "234",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Momenteel wordt deze studie niet voltijd aangeboden. Zie deeltijd voor meer informatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Momenteel wordt deze studie niet voltijd aangeboden. Zie deeltijd voor meer informatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This program is not active at the moment. See part-time for more information."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/master-of-science-in-finance-control/",
+          "product_url_en": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/master-of-science-finance-control/?lang=en#tab1",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "STUDIEBELASTING"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Master Finance & Control duurt twee jaar met afsluitend het afstuderen. Buiten de colleges is er een studiebelasting van ongeveer 10 uur per week, inclusief de college uren."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "TOETSING"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het praktijkgerichte karakter van de opleiding wordt gekenmerkt door de toetsing door middel van het schrijven van een onderzoekspaper per module. Daarnaast kan de docent presentaties en/of aanvullende opdrachten vragen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de Master Finance & Control worden enerzijds de financiële vakgebieden behandeld die voor een controller nodig zijn, anderzijds wordt er aandacht besteed aan managerial vakgebieden zoals leiderschap, verandermanagement en HRM. We kiezen enerzijds voor een praktijkgerichte insteek met veel actuele onderwerpen ingebracht door student en docent. Anderzijds kiest NLBA ervoor om de toetsing van de kennis uit te voeren door het schrijven van papers en opdrachten binnen de eigen werkomgeving. Hierdoor kan je direct de opgedane kennis toepassen in je eigen functie / organisatie en is je opleiding een directe meerwaarde."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met een Master Finance & Control op zak ben je een gewilde sparringpartner voor managers en directie. Je speelt een actieve rol bij het bewaken van ondernemingsdoelstellingen en het verbeteren van bedrijfsprocessen. Je bent in staat complexe vraagstukken op te lossen. Na afronding mag je de titel Master of Science (MSc) of Master Finance & Control (MFC) voeren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In the Master Finance & Control, on the one hand, the financial fields that are required for a controller are treated, and on the other hand, attention is paid to managerial fields such as leadership, change management and HRM. On the one hand, we opt for a practice-oriented approach with many current topics introduced by students and lecturers. On the other hand, NLBA chooses to test the knowledge by writing papers and assignments within its own working environment. This allows you to immediately apply the acquired knowledge in your own position / organization and your training is a direct added value."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "With a Masters in Finance & Control in your pocket, you are a sought-after sparring partner for managers and management. You play an active role in monitoring business objectives and improving business processes. You are able to solve complex issues. Upon completion, you may use the title Master of Science (MSc) or Master Finance & Control (MFC)."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Master Finance & Control is NVAO geaccrediteerd. De opleiding wordt afgesloten met een MSc of MFC diploma (keuze student) en bijbehorende diamond Edu badge inclusief vermelding in het register."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-03-03",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-03-09",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-05",
+              "end_date": "2025-01-31"
+            }
+          ],
+          "product_url": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/master-of-science-in-finance-control/",
+          "product_url_en": "https://www.netherlandsbusinessacademy.nl/masteropleidingen/master-of-science-finance-control/?lang=en#tab1",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "2820",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Totale locatiekosten"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1121",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Literatuurkosten"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "22125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2021
+            },
+            {
+              "amount": "22125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2020
+            },
+            {
+              "amount": "23732",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "188",
+        "name": "Netherlands Business Academy, vestiging Breda",
+        "street": "Paardeweide 5a",
+        "zip": "4824 EH",
+        "city": "BREDA",
+        "country": "NL",
+        "vestiging_SK123_id": "514",
+        "url": "http://www.nlba.nl"
+      }
+    }
+  ]
+}

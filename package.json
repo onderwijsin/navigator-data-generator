@@ -1,0 +1,31 @@
+{
+  "name": "hovi-data",
+  "version": "1.0.0",
+  "description": "Script to fetch all hovi data and transform it into something useful",
+  "author": "Onderwijs in",
+  "license": "ISC",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "extract": "tsx ./extract.ts",
+    "directus": "tsx ./directus.ts"
+  },
+  "devDependencies": {
+    "@directus/sdk": "^19.0.1",
+    "@tiptap/core": "^2.11.5",
+    "@tiptap/extension-bold": "^2.11.5",
+    "@tiptap/extension-document": "^2.11.5",
+    "@tiptap/extension-italic": "^2.11.5",
+    "@tiptap/extension-link": "^2.11.5",
+    "@tiptap/extension-paragraph": "^2.11.5",
+    "@tiptap/extension-text": "^2.11.5",
+    "@tiptap/html": "^2.11.5",
+    "dotenv": "^16.4.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+  
+}

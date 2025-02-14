@@ -1,0 +1,1693 @@
+{
+  "title": "MDF-Training & Consultancy",
+  "code": "MDF",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9010",
+  "hovi_id": "2010",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "MDF-Training & Consultancy",
+  "products": [
+    {
+      "title": "Result Based Management (RBM)",
+      "english_title": "Result Based Management (RBM)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What does Results-Based Management really mean? How do we define Results? What are the tools, techniques and consequences for Planning and Monitoring? Learn to design your result-oriented programme. It's all about achieving Results… Although it sounds very logical and obvious to manage for results, reality is often different. In the last couple of years the concept of Results-Based Management (RBM) has gained influence in the development cooperation sector. However, what does Results-Based Management really mean. How do we define Results? What are the tools, techniques and consequences for Planning and Monitoring? This course will offer you conventional and new tools to plan and monitor your projects and programmes in a participatory and results-oriented manner. PARTICIPANTS You are a staff member of a development organisation involved in managing projects, or a project or programme officer, community development worker, facilitator or consultant in need of mastering RBM concepts and tools while managing projects. You have the wish to strengthen your RBM approach in a practical manner. The starting point is that all tools are participatory by nature, meaning involving stakeholders, with an ultimate focus on results rather than activities. Your own case will serve as the basis for learning and change"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-10-15",
+              "end_date": "2013-10-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-01-14",
+              "end_date": "2014-01-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-09",
+              "end_date": "2014-09-11"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/rbm",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1350",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1350",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1350",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Leadership and People Management (LPM)",
+      "english_title": "Leadership and People Management (LPM)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_modeling",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "oral_presentation",
+            "portfolio",
+            "project",
+            "self_evaluation",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Achieve results by putting people first! Successful people managers are able to recognise and mobilise talents of the people they work with. Are you motivated to manage them effectively? Successful people managers are able to recognise and mobilise the talents of the people they work with. Your ability to lead and inspire individuals and teams is a crucial factor in reaching the desired personal and organisational goals. Are you motivated to manage the people you work with more effectively? Then this course provides you with a unique learning opportunity. PARTICIPANTS You are, or you aspire to be, a professional in a middle to upper management position. You are a people manager, be it in an international project or programme, directing, supporting and supervising others. You are motivated to reflect on your leadership style and hone your people management skills by exploring different ways of communicating with your staff."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2012-07-02",
+              "end_date": "2012-07-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2012-11-12",
+              "end_date": "2012-11-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-05-13",
+              "end_date": "2013-05-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-11-11",
+              "end_date": "2013-11-15"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-05-12",
+              "end_date": "2014-05-16"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-11-03",
+              "end_date": "2014-11-07"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/lpm-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2009
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Management of Development Projects and Programmes (MDPP)",
+      "english_title": "Management of Development Projects and Programmes (MDPP)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "poster_presentation",
+            "practice",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "theory",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course enhances your abilities as program manager on a broad range of relevant topics: planning, monitoring and impact measurement;organisational development, leadership and people management. What will you gain?  Deepened insight in your interpersonal managerial skills and team dynamics  Thorough understanding of project design and stakeholder engagement with principles of sustainable development  Ability to assess the capacity of your organisation and to identify areas for development  Integrate gender dimensions and other important cross-cutting issues  Knowledge and skills for successful advocacy and effective policy influencing Course highlights:  Personal management skills: communication, team building, performance management, leadership, negotiation and conflict management  Project cycle management: stakeholder analysis, results-based planning, monitoring & evaluation, risk analysis and budgeting  Organisational development: assessment of organisational performance in context, identification of capacity development needs  Advocacy & policy influencing  Creating and maintaining partnerships and alliances"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Quality course on project & programme management with practical tools & skills to help managers to focus on sustainable results, improving staff performance & cooperation with external stakeholders. High quality course on project & programme management to help managers to focus on sustainable results, improving staff performance & cooperation with external stakeholders. As a project manager you need to be multi-talented and possess many different skills: planning, financial control, human resource management, communication, networking, motivating, negotiating, monitoring and reporting on results and impact. Let us provide you with more insight on your own management skills and style, and present practical ways to boost your abilities and confidence. PARTICIPANTS You are a manager, head of a department, team or project leader, or you expect to take up such position shortly. Management experience is essential to grasp and apply the concepts in practice. Course Objectives * design a project according to the project cycle approach * successfully conduct project activities within the PC * effectively use your managerial skills, team dynamics & interpersonal skills * understand current international debates on aid effectiveness * align project design & implementation with principles of sustainable development * integrate gender dimension & other cross-cutting issues"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-03-14",
+              "end_date": "2022-04-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-08-29",
+              "end_date": "2022-09-23"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-04-17",
+              "end_date": "2023-05-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-09-04",
+              "end_date": "2023-09-29"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-08-26",
+              "end_date": "2024-09-20"
+            }
+          ],
+          "product_url": "https://www.mdf.nl/scholarships",
+          "product_url_en": "https://www.mdf.nl/scholarships",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "5440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Results Measurement for Sustainable Private Sector Development (RM-PSD",
+      "english_title": "Results Measurement for Sustainable Private Sector Development (RM-PSD",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "There is an increasing demand for solid result measurement (M&E) to assess the effectiveness and efficiency of development cooperation for Sustainable Private Sector Development. There is an increasing demand for solid results measurement to assess the effectiveness and efficiency of development aid. The Donor Committee for Enterprise Development (DCED) has developed practical guidelines, based on proven good practice. Applying these guidelines improves project performance and enables you to communicate credible results. PARTICIPANTS You are a project manager who wants to make use of results measurement for decision-making and reporting credible results. Or you are a monitoring and evaluation (M&E) specialist looking for practical guidelines to conduct results measurement. It may also be that you work for a donor agency, steering Private Sector Development (PSD) projects and M&E processes."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2014-10-06",
+              "end_date": "2014-10-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-10-07",
+              "end_date": "2013-10-11"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/rm-psd-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "2250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "2250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "2250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Writing Winning Proposals (PW)",
+      "english_title": "Writing Winning Proposals (PW)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "design_project",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You have an excellent project idea and now you have to gain access to funding at an appriopriate donor. An attractive, convincing and honest proposal will increase your chances manifold. Matching the client's needs with your capabilities Are you writing for grant calls or service contracts? We believe that writing a winning proposal is something we can all learn! A good understanding of the client's needs and how to turn them into a convincing strategy in line with your organisation’s capabilities is winning half the battle. In this course you will discover how to structure your ideas and how to match them with the donor's demands. You will learn how to go through a smooth writing process and you will achieve a clear writing style. You will walk out the classroom being able to match the client's needs with your unique selling point! PARTICIPANTS You are a (project) manager or staff member working for an organisation such as a consultancy firm, NGO or Government institute and you are involved in writing project proposals in response to tenders for services or grant calls. If you are interested in more specific information for grant proposals such as Call for Proposal for the EC, we refer you to MDF Brussels course calendar: www.mdf.nl/mdf-brx."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-05-21",
+              "end_date": "2013-05-24"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-12-16",
+              "end_date": "2013-12-19"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-05-20",
+              "end_date": "2014-05-23"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-12-15",
+              "end_date": "2014-12-18"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/pw-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2009
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Training of Trainers (TOT)",
+      "english_title": "Training of Trainers (TOT)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "oral_presentation",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Training can be a powerful tool to enhance performance of your team and in building capacities of your clients, partner organisations, and beneficiaries. You need to design and deliver it carefully. People and learning are always central in training. At the same time have theories and approaches to training tremendously changed over the last 10 years. Continue to develop yourself as a trainer and enhance your understanding with the latest insights in learning theories. Practice to apply your skills in design, implementation and evaluation of your training. PARTICIPANTS You are a trainer or teacher involved in designing and conducting training programmes. You are keen to continue developing your skills as a trainer and to enhance your knowledge with the latest insights. COURSE OBJECTIVES Participate in exercises on programme development, lesson planning, material development and evaluation of training programmes. Work on the design of a training programme and you will develop a personal action plan to support the implementation of your newly gained competences. At the end of this course you: • Can set up training needs assessments and destillate measurable learning objectives • Able to design participatory training programmes and sessions related to desired outcomes • Are skilled to use interactive training methods and learned to develop visual aids and other materials"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-09-30",
+              "end_date": "2013-10-04"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-02-03",
+              "end_date": "2014-02-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-09-29",
+              "end_date": "2014-10-03"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/tot-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2009
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Advocacy & Policy Influencing : Strategy and Skills",
+      "english_title": "Advocacy & Policy Influencing : Strategy and Skills",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "oral_presentation",
+            "portfolio",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course offers a broad set of tools and skills to plan, conduct and evaluate Advocacy and Policy Influencing interventions. This course combines 3 training modules: • Advocacy and Policy Influencing - 5 days Understand how you can influence a policy process. Obtain a broad set of tools to plan effective advocacy strategies. Conduct actions with well-framed messages, and create coherent paths with your allies for powerful joint interventions. • Evaluation of Advocacy and Policy Influencing – 3 days Advocacy programmes are hard to evaluate. Learn the specific features of these programmes so you will be able to develop well-adapted monitoring systems and design evaluation exercises that make sense. • Advocacy Skills Training – 2 Days Learn to formulate your messages, to make use of legal and human rights arguments and to prepare your campaigns. You also practice personal skills for conveying your messages in the most convincing way. All sessions combine theory with application exercises, role plays or simulations. And you can bring in your own case and apply newly learned methods and tools. Do you want to influence powerful stakeholders or policy processes? Or do you need to coordinate the monitoring and evaluation of advocacy programmes? Then this course is designed for you"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is about enhancing your effectiveness to change practice and behaviour through your policy influencing. You will be equipped with combined strategies, useful insights, tools and skills. Advocacy and Policy Influencing is crucial to achieve lasting change. This is why an increasing amount of actors (civil society organisations, state actors, international organisations and business) engage in policy influencing. However, it is a challenge to truly effect change through policy influencing. Often initiatives concentrate on changing policies and laws and hardly on changing practice and behaviour through effective implementation of such policies and laws. Participants You are a programme officer working in development cooperation or human rights and part of your work is to influence policies. You are a manager or lobbyist/advocate and working for a civil society organisation, a governmental body or an international institution. Course Objectives Get to know the Policy Influencing Cycle Identify relevant issues for Policy influencing and Advocacy Analyse the policy environment and choose effective strategies and tactics for policy influencing with your beneficiaries and stakeholders Know how to influence decision makers Reinforce your influencing attitude and practice skills Prepare policy change goals with different stakeholder settings"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2019-04-08",
+              "end_date": "2019-04-19"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2019-09-30",
+              "end_date": "2019-10-11"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-03-30",
+              "end_date": "2020-04-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2020-09-28",
+              "end_date": "2020-10-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "",
+              "end_date": ""
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2021-09-20",
+              "end_date": "2021-10-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-02-27",
+              "end_date": "2023-03-10"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-10-23",
+              "end_date": "2023-11-03"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-10-07",
+              "end_date": "2024-10-18"
+            }
+          ],
+          "product_url": "https://www.mdf.nl/scholarships",
+          "product_url_en": "https://www.mdf.nl/scholarships",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "EN: 100% funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Organisational Development & Capacity Building",
+      "english_title": "Organisational Capacity Development (OCD)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course is about understanding organisations and change. It will learn you to look at organisations as 'open systems' and provides you with tools and insights to assess organisational performance. If you wish to strengthen the capacity of your organisation or to support the capacity development of a partner organisation, this course is for you! In this course you learn how to identify organisational capacity issues and to develop scenario’s to improve an organisation’s ability to effectively respond to changes. What will you gain?  Tools to carry out a systematic and comprehensive capacity assessment, using the 5 Core Capabilities model and other proven concepts  Ability to develop and prioritise strategic options to improve organisational capacity  Insight in the importance of balancing external and internal analysis  Capacity to combine objectively verifiable capacity indicators with subjective and intuitive indicators  Thorough understanding of the conditions for successful change and change drivers in your organisation"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Need a starting point to develop your organisation? Want to help a partner organisation improve its capacity? Have you ever thought about how external factors influence your internal functioning? Understanding organisations and change Need a starting point to develop your organisation? Want to help a partner organisation improve its capacity? Have you ever thought about how external factors influence your internal functioning? If you are keen to learn tools and approaches to diagnose capacity issues, and identify different avenues to strengthen an organisation, this is your course. COURSE OBJECTIVES * carry out a systematic and comprehensive capacity assessment, using the 5 C model and other proven concepts * develop and prioritise strategic options to improve organisational capacity * gain insight in the importance of balancing external and internal analysis, as well as combining objectively verifiable capacity indicators with subjective and intuitive indicators * understand the essential conditions for successful change in organisations and what drives change in your organisation PARTICIPANTS You are a manager, adviser or consultant responsible for enhancing the performance of your organisation, or supporting the capacity development of others."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-05-27",
+              "end_date": "2013-06-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-10-28",
+              "end_date": "2013-11-08"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-05-19",
+              "end_date": "2014-05-30"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-10-27",
+              "end_date": "2014-11-07"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-05-18",
+              "end_date": "2015-05-29"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-10-26",
+              "end_date": "2015-11-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-05-16",
+              "end_date": "2016-05-27"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2016-10-24",
+              "end_date": "2016-11-04"
+            }
+          ],
+          "product_url": "www.mdf.nl/course",
+          "product_url_en": "www.mdf.nl/course/ocd-nfp",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2009
+            },
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            },
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Knowledge Management for Development (KMD)",
+      "english_title": "Knowledge Management for Development (KMD)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "design_project",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Knowledge Management is about having the right information at the right place and at the right time."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Knowledge Management is about having the right information at the right place and at the right time. Make efficient use of knowledge within your network and organise it systematiscally. Knowledge Management captures, filters and assimilates organisational knowledge and streamlines it for a maximum contribution towards achieving organisational goals. It is critical for effective and efficient operations in the development field. • Knowledge management and what it can mean for you • Know the uniqueness and relevance of knowledge management for development • Start a participatory process to develop a knowledge management strategy • Importance and adoption of effective technology to support knowledge processes • Gain ideas how to stimulate staff in your organisation to become active actors in knowledge processes In this course you learn to manage the information in your team, organisation, or network and turn it into knowledge. Participants You are a project manager, team leader, human resource professional, knowledge manager or consultant that would like to understand the tools and methodology for managing knowledge flows within your own or other organisations. You may also be a professional in any field that simply wants to gain insight into the differences between raw data, information and knowledge."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-04-22",
+              "end_date": "2013-04-25"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-12-16",
+              "end_date": "2013-12-19"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-05-20",
+              "end_date": "2015-05-23"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-12-15",
+              "end_date": "2014-12-18"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-05-26",
+              "end_date": "2015-05-29"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/kmd-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2009
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1650",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Group Facilitation (FAC)",
+      "english_title": "Group Facilitation (FAC)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A successful facilitator knows how to create mutual understanding among participants and achieves consensus to find workable solutions. Are you ready to become a professional facilitator? A successful facilitator knows how to create mutual understanding among participants and achieves consensus to find workable solutions. When competent, the facilitator will align the diversity of individuals within groups in order to reach common goals. This course will work with you on exactly those aspects. Are you ready to become a professional facilitator? PARTICIPANTS You are a team leader, development practitioner, consultant, trainer or adviser who wants to realise meaningful, high-quality results from participative meetings and workshops. The course contributes to the development of the foundational areas of competency as identified by the Internal Association of Facilitators (IAF) and is therefore a good preparation for those interested in the Certified Professional Facilitator (CPF) designation offered by IAF, who have their own certification assessment process."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2013-05-13",
+              "end_date": "2013-05-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2013-12-09",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-05-05",
+              "end_date": "2014-05-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2014-12-08",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2015-04-13",
+              "end_date": "2015-04-17"
+            }
+          ],
+          "product_url_en": "www.mdf.nl/course/fac-nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "1980",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Gender Mainstreaming in Development Programmes",
+      "english_title": "Gender Mainstreaming in Development Programmes",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "poster_presentation",
+            "practice",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gender Mainstreaming in Develop Programmes"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "'Gender’ is more than a buzzword in development jargon. This course builds your ability in dealing with gender issues. You learn to systematically analyse gender differences in interest and influence. And we will guide you in defining concrete strategies to achieve equitable development benefits for men and women. At the end of this course you are able to: *  apply a gender perspective to ensure equality and equity in your development intervention *  include gender-related aspects in the formulation, planning, implementation, monitoring and evaluation of interventions *  apply an appreciative inquiry approach at relevant stages of the project or programme *  understand the process of social change *  solve gender issues in the workplace PARTICIPANTS You are an adviser or desk officer in a development project or programme, a trainer or a consultant. Or you are involved in project design, fundraising or proposal writing. COURSE HIGHLIGHTS * Development interventions and gender issues * Stages in project cycle management and gender * Developing objectives for sustainable social change * Gender impact assessment * Gender in the workplace"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2021-06-14",
+              "end_date": "2021-06-26"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-06-20",
+              "end_date": "2022-07-01"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-06-19",
+              "end_date": "2023-06-30"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-06-17",
+              "end_date": "2024-06-28"
+            }
+          ],
+          "product_url": "https://www.mdf.nl/scholarships",
+          "product_url_en": "https://www.mdf.nl/scholarships",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3550",
+              "definitive": false,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "EN: cholarship is 100% fully funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "EN: Scholarship is 100% fully funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "NL:EN: Scholarship is 100% fully funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Monitoring, Evaluation & Learning (MEL)",
+      "english_title": "Monitoring,Evaluation and Learning (MEL)",
+      "product_type": "course",
+      "description": null,
+      "location_hovi_id": "339",
+      "organization_hovi_id": "2010",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "literature_study",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn how to design, implement and develop monitoring and evaluating systems for accountability, decision-making, communication and learning. Achieving sustainable development results by a network of individuals and organisations is grounded on systematic monitoring and evaluation. Monitoring and evaluation are the \"learning and innovation\" loops leading to more effective interventions and therefore to better outcome and impact. But how to go about it? This course provides standard indicator-steered M&E as well as more qualitative tools (Outcome Mapping and Most Significant Change). The course is proactive and participatory."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Capture real changes that come into effect through development interventions. Learn to improve your MEL practices and choose appropriate tools for tracking both quantitative and qualitative changes. Linking organisational learning to Monitoring & Evaluation Which methods ensure accountability and learning? How to empower organisations, development practitioners and partners with monitoring and evaluation information? Course objectives At the end of this course you: * know how to effectively monitor and evaluate projects, programmes and organisations; * know which information you need to understand the context and manage both results (outputs, outcome, impact) and organisational performance; * can collect, analyse, process and present this information; * can turn monitoring and evaluation into (participative) learning; * can design and steer evaluations to contribute to accountability and stimulate learning by all stakeholders. For whom? This course is highly relevant if you are: * participating in formulating, managing or monitoring development interventions; * preparing, supervising, using or participating in evaluations; * keen to improve your M&E skills or the practices of a national or local government, an international donor agency or a non-governmental organisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2022-06-06",
+              "end_date": "2022-06-17"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2022-10-03",
+              "end_date": "2022-10-14"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-05-29",
+              "end_date": "2023-06-09"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2023-10-02",
+              "end_date": "2023-10-13"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-10-07",
+              "end_date": "2024-10-18"
+            }
+          ],
+          "product_url": "https://mdf.nl/full-scholarships",
+          "product_url_en": "https://mdf.nl/full-scholarships",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "NL:EN: scholarship fully 100% funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3550",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "NL:EN: scholarship fully 100% funded by Nuffic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "339",
+        "name": "Vestiging Ede",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

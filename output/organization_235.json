@@ -1,0 +1,66 @@
+{
+  "title": "Hogeschool Scheidegger",
+  "code": "SCHEI",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Wij verzorgen al meer dan 70 jaar klassikale, praktijkgerichte opleidingen en trainingen, van MBO- tot HBO Bachelorniveau. Inmiddels hebben al meer dan één miljoen mensen een of meerdere diploma’s bij Scheidegger behaald en daarmee zijn wij dé diplomaspecialist van Nederland! Haal je diploma met onze 6 gouden garanties Kies je voor Scheidegger, dan kies je voor kwaliteit. Gegarandeerd. Het liefst zouden we je een diploma garanderen, maar dat kan natuurlijk niet. Een diploma krijg je niet cadeau. Scheidegger is een wettelijk erkend opleidingsinstituut, dat onder strenge controle staat van de overheid en brancheorganisaties. En precies dat maakt onze diploma’s zo waardevol. En daar moet je dus wel wat voor doen. Wat we je wel kunnen garanderen, is dat wij er alles aan doen om jouw slagingskans zo groot mogelijk te maken. Daarom krijg je van ons de 6 gouden garanties. De beste keuze Een opleiding volgen in combinatie met een druk privéleven of een baan is best pittig.Het kiezen van een opleiding kan dus best lastig zijn. Maar ook dan kun je op ons rekenen: wij helpen jou bij het vinden van de opleiding die het beste past bij jouw wensen, ambities en toekomstplannen."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24GL",
+  "hovi_id": "235",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Scheidegger University of Applied Sciences",
+  "products": [
+    {
+      "title": "Sociaal Pedagogische Hulpverlening",
+      "english_title": "Social Educational Care",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34116",
+      "croho_name": "Social Work",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "225",
+      "organization_hovi_id": "235",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "225",
+        "name": "Hogeschool Scheidegger, vestiging Hilversum",
+        "street": "Marathon 7",
+        "zip": "1213 PD",
+        "city": "HILVERSUM",
+        "country": "NL",
+        "vestiging_SK123_id": "3304",
+        "url": "www.scheidegger.nl"
+      }
+    }
+  ]
+}

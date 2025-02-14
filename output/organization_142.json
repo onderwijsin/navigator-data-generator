@@ -1,0 +1,155 @@
+{
+  "title": "Breederode Hogeschool",
+  "code": "BREED",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "27WJ",
+  "hovi_id": "142",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Breederode Hogeschool",
+  "products": [
+    {
+      "title": "Verpleegkunde",
+      "english_title": "Nursing",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "39283",
+      "croho_name": "Verpleegkunde",
+      "croho_sector": "gezondheidszorg",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "211",
+      "organization_hovi_id": "142",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "211",
+        "name": "Breederode Hogeschool, vestiging Rotterdam",
+        "street": "Wijnhaven 42",
+        "zip": "3011 WS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "3289",
+        "url": "https://www.breederode.nl"
+      }
+    },
+    {
+      "title": "Manuele Therapie",
+      "english_title": "Manual Therapy Health Care",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70072",
+      "croho_name": "Manuele Therapie",
+      "croho_sector": "gezondheidszorg",
+      "financing": "private",
+      "location_hovi_id": "211",
+      "organization_hovi_id": "142",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "211",
+        "name": "Breederode Hogeschool, vestiging Rotterdam",
+        "street": "Wijnhaven 42",
+        "zip": "3011 WS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "3289",
+        "url": "https://www.breederode.nl"
+      }
+    },
+    {
+      "title": "Master Kinderfysiotherapie",
+      "english_title": "Master Child Physiotherapy",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70216",
+      "croho_name": "Master Kinderfysiotherapie",
+      "croho_sector": "gezondheidszorg",
+      "financing": "private",
+      "location_hovi_id": "211",
+      "organization_hovi_id": "142",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "211",
+        "name": "Breederode Hogeschool, vestiging Rotterdam",
+        "street": "Wijnhaven 42",
+        "zip": "3011 WS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "3289",
+        "url": "https://www.breederode.nl"
+      }
+    }
+  ]
+}

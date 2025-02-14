@@ -1,0 +1,52 @@
+{
+  "title": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut",
+  "code": "KAGA",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "30FA",
+  "hovi_id": "242",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut",
+  "products": [
+    {
+      "title": "Executive Master of Actuarial Science",
+      "english_title": "Executive Master of Actuarial Science",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "75088",
+      "croho_name": "Executive Master of Actuarial Science",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "151",
+      "organization_hovi_id": "242",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "hovi_id": "151",
+        "name": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut, vestiging Utrecht",
+        "street": "Groenewoudsedijk 80",
+        "zip": "3528 BK",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vestiging_SK123_id": "430",
+        "url": "http://www.ag-ai.nl/view.php?Pagina_Id=188"
+      }
+    }
+  ]
+}

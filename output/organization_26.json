@@ -1,0 +1,1607 @@
+{
+  "title": "Hotelschool The Hague",
+  "code": "HOHAG",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We are proud of the fact that Hotelschool The Hague is one of the last independent single sector Universities of Applied Sciences in The Netherlands. Hotelschool The Hague was founded and funded in 1929 by the hospitality industry, to create a central place where industry partners could gain and share new insight, skills and knowledge. Since its foundation, Hotelschool The Hague has become an international school specialised in hospitality management. Hotelschool The Hague offers a 4 year Bachelor of Arts (BA) in Hotel Management; also available as the accelerated 2.5 year International Fast Track Programme. Furthermore, Hotelschool The Hague offers a 13-month Master of Business Administration (MBA) in International Hospitality Management. The student population is very international and consists of over 50 different nationalities. All study programmes are accredited by the Dutch Flemish Accreditation Organization (Nederlands Vlaamse Accreditatie Organisatie NVAO). Currently Hotelschool has over 7000 alumni, many of whom occupy leading positions in the international hospitality industry, as well as in related industries such as catering, events, retail, consultancy and banking."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "02NR",
+  "hovi_id": "26",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Hotelschool The Hague",
+  "products": [
+    {
+      "title": "Bachelor degree in Hospitality Management",
+      "english_title": "Bachelor degree in Hospitality Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34411",
+      "croho_name": "Hotel Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "23",
+      "organization_hovi_id": "26",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "oral_exam",
+              "validFor": [
+                "international",
+                "ownstudents"
+              ]
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "During the online selection day, you are given the opportunity to demonstrate your motivation and affinity with the world of hospitality and our school through various components such as an interview with a pitch, and an English language-, numerical and knowledge computer test."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "oral_exam"
+            }
+          ],
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "computer_modeling",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "traineeship",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "toefl_internet_based",
+          "lang_exam_minimum_score": "80",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ben jij ambitieus, gepassioneerd en klaar om de wereld te ontdekken? Zoek je een studie met veel mogelijkheden en wil je werken in een internationale managementfunctie? JA? Lees dan verder."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hotelschool The Hague is opgericht in 1929 en is daarmee een van de oudste onafhankelijke hotelscholen ter wereld. De school heeft twee campussen, een in Den Haag en een in Amsterdam."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het 4-jarige bachelor programma is een dynamische, internationaal georiënteerde en Engelstalige managementopleiding. De focus ligt op een combinatie van gastvrijheid en bedrijfskunde en biedt uitstekende carrièremogelijkheden wereldwijd. De opleiding heeft ook praktische componenten, zoals internationale stage(s) en werken binnen de school zelf."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het eerste jaar woon je op de campus in het Skotel, dit is een unieke ervaring waar onze studenten met 75+ nationaliteiten samenwonen. Hotelschool The Hague heeft een uitstekende reputatie en is door Keuzegids sinds 2014 uitgeroepen tot beste publieke hotelschool van Nederland en behoort volgens QS World University Rankings tot de top Hospitality Management Schools wereldwijd."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "\"Bij Hotelschool The Hague maak ik deel van een internationale en sterke community. De overgebrachte kennis en waarden van niet alleen de horeca, maar ook van het bedrijfsleven maken het een toonaangevende instelling.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " NIKLAS, BACHELOR STUDENT"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer weten? Kijk op www.hotelschool.nl"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Are you professional, and ambitious and would you like to work in an international business environment? YES? Please keep on reading."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Hotelschool The Hague was founded in 1929 and is one of the oldest independent hotel schools in the world. The school has two campuses, one in The Hague and one in Amsterdam."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "During the 4-year dynamic, international, and English-taught Bachelor Programme, you develop your social, business, and practical skills in hospitality management. You explore the world of hospitality, participating in two (inter)national internships at leading hospitality chains and businesses worldwide."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You will join a warm, welcoming, and international community, and make lifelong friendships while living your first year on campus with 75+ nationalities. Hotelschool The Hague has been voted the best public hotel school in The Netherlands since 2014 and ranks among the top hospitality management schools worldwide according to QS World University Rankings."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "\"At Hotelschool The Hague, I got the chance to become part of an international and strong community. The conveyed values and the in-depth understanding of not only the hospitality industry but also the world of business as a whole make it a leading institution.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "NIKLAS, BACHELOR STUDENT"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "More information at www.hotelschool.nl"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je bent afgestudeerd aan Hotelschool The Hague, bied je potentiële werkgevers een unieke set vaardigheden, gebaseerd op een mix van theorie, ervaring en persoonlijkheid, die je in staat stellen strategisch en pragmatisch te opereren. Je bent een aanwinst voor elke organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-08-25",
+              "end_date": "2029-07-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2026-02-09",
+              "end_date": "2030-02-11"
+            }
+          ],
+          "product_url": "https://www.hotelschool.nl/",
+          "product_url_en": "https://www.hotelschool.nl/",
+          "scholarships": [
+            "holland_scholarship",
+            "erasmusplus"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 51,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "8132",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Wonen en leven op de Campus in Het Skotel plus de praktijklessen vormen een integraal onderdeel van het curriculum. Studenten moeten tijdens het eerste jaar verblijven in de Skotel (het trainings- en studiehotel), in Amsterdam of Den Haag. De vergoeding is inclusief ontbijt en één maaltijd per dag op school gedurende 40 schoolweken, evenals toegang tot internet gedurende 45 weken. Na het eerste jaar moeten studenten zelf hun huisvesting regelen. Deze vergoeding omvat ook een borg van € 250."
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Extra kosten voor praktijklessen"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Deze gemiddelde kosten omvatten uniformen, een badge en een messenset en bedragen ongeveer € 750. Dit bedrag is exclusief optionele producten zoals sokken, een riem en schoenen."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4358",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hotelschool The Hague is een bekostigde school, waardoor de kosten aanzienelijk lager zijn dan bij andere bekende particuliere hotelscholen. Het collegegeld voor 2025-2026 is vastgesteld op € 4.358 voor alle studenten, behalve voor niet-EEA-studenten (European Economic Area)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Collegegeld gehalveerd 1e jaar studenten in HO "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Studenten die aan de voorwaarden voldoen, hoeven voor hun eerste jaar slechts de helft van het wettelijke collegegeld te betalen. Kijk op rijksoverheid.nl voor informatie "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2025
+            },
+            {
+              "amount": "17181",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld voor academisch jaar 2025 -2026 is vastgesteld op € €17.181 voor alle niet-EU/EEA studenten. De Nederlandse overheid heeft bepaald niet-EU/EEA studenten een hoger collegegeld betalen dan EU/EAA studenten."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meer informatie www.hotelschool.nl "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2025
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "23",
+        "name": "Hotelschool The Hague, vestiging Den Haag",
+        "street": "Brusselselaan 2",
+        "zip": "2587 AH",
+        "city": "DEN HAAG",
+        "country": "NL",
+        "vestiging_SK123_id": "69",
+        "url": "http://www.hotelschool.nl"
+      }
+    },
+    {
+      "title": "Bachelor degree in Hospitality Management",
+      "english_title": "Bachelor degree in Hospitality Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "bachelor",
+      "croho": "34411",
+      "croho_name": "Hotel Management",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "110",
+      "organization_hovi_id": "26",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "oral_exam",
+              "validFor": [
+                "international",
+                "ownstudents"
+              ]
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "During the online selection day, you are given the opportunity to demonstrate your motivation and affinity with the world of hospitality and our school through various components such as an interview with a pitch, a role-play and an English language-, numerical and knowledge computer test."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "oral_exam"
+            }
+          ],
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "computer_modeling",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "traineeship",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "toefl_internet_based",
+          "lang_exam_minimum_score": "80",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ben jij ambitieus, gepassioneerd en klaar om de wereld te ontdekken? Zoek je een studie met veel mogelijkheden en wil je werken in een internationale managementfunctie? Ja? Lees dan verder."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hotelschool The Hague is opgericht in 1929 en is daarmee een van de oudste onafhankelijke hotelscholen ter wereld. De school heeft twee campussen, een in Den Haag en een in Amsterdam."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het 4-jarige bachelor programma is een dynamische, internationaal georiënteerde en Engelstalige managementopleiding. De focus ligt op een combinatie van gastvrijheid en bedrijfskunde en biedt uitstekende carrièremogelijkheden wereldwijd. De opleiding heeft ook praktische componenten, zoals internationale stage(s) en werken binnen de school zelf."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het eerste jaar woon je op de campus in het Skotel, dit is een unieke ervaring waar onze studenten met 75+ nationaliteiten samenwonen. Hotelschool The Hague heeft een uitstekende reputatie en is door Keuzegids sinds 2014 uitgeroepen tot beste publieke hotelschool van Nederland en behoort volgens QS World University Rankings tot de top Hospitality Management Schools wereldwijd."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "\"Bij Hotelschool The Hague maak ik deel van een internationale en sterke community. De overgebrachte kennis en waarden van niet alleen de horeca, maar ook van het bedrijfsleven maken het een toonaangevende instelling.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "NIKLAS, BACHELOR STUDENT"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je meer weten? Kijk op hotelschool.nl"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Are you professional, and ambitious and would you like to work in an international business environment? YES? Please keep on reading."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Hotelschool The Hague was founded in 1929 and is one of the oldest independent hotel schools in the world. The school has two campuses, one in The Hague and one in Amsterdam."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "During the 4-year dynamic, international, and English-taught Bachelor Programme, in hospitality management, you develop your social skills, business skills and practical skills. You explore the world of hospitality, participating in two (inter)national internships at leading hospitality chains and businesses around the world."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You will join a warm, welcoming and international community, and make lifelong friendships while living your first year on campus with 75+ nationalities. Hotelschool The Hague has been voted the best public hotel school in The Netherlands since 2014 and ranks among the top hospitality management schools worldwide according to QS World University Rankings."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "\"At Hotelschool The Hague, I got the chance to become part of an international and strong community. The conveyed values and the in-depth understanding of not only the hospitality industry but also the world of business as a whole make it a leading institution.\""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "NIKLAS, BACHELOR STUDENT"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "More information at Hotelschool.nl"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je bent afgestudeerd aan Hotelschool The Hague, bied je potentiële werkgevers een unieke set vaardigheden, gebaseerd op een mix van theorie, ervaring en persoonlijkheid, die je in staat stellen strategisch en pragmatisch te opereren. Je bent een aanwinst voor elke organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-08-25",
+              "end_date": "2029-07-06"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2026-02-09",
+              "end_date": "2030-02-11"
+            }
+          ],
+          "product_url": "https://www.hotelschool.nl/",
+          "product_url_en": "https://www.hotelschool.nl/",
+          "scholarships": [
+            "holland_scholarship",
+            "erasmusplus"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 51,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "8132",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Wonen en leven op de Campus in Het Skotel plus de praktijklessen vormen een integraal onderdeel van het curriculum. Studenten moeten tijdens het eerste jaar verblijven in de Skotel (het trainings- en studiehotel), in Amsterdam of Den Haag. De vergoeding is inclusief ontbijt en één maaltijd per dag op school gedurende 40 schoolweken, evenals toegang tot internet gedurende 45 weken. Na het eerste jaar moeten studenten zelf hun huisvesting regelen. Deze vergoeding omvat ook een borg van € 250."
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Extra kosten voor praktijklessen"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Deze gemiddelde kosten omvatten uniformen, een badge en een messenset en bedragen ongeveer € 750. Dit bedrag is exclusief optionele producten zoals sokken, een riem en schoenen."
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4358",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Hotelschool The Hague is een bekostigde school, waardoor de kosten aanzienlijk lager zijn dan bij andere bekende particuliere hotelscholen. Het collegegeld voor 2025-2026 is vastgesteld op € 4.358 voor alle studenten, behalve voor niet-EEA-studenten (European Economic Area)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Collegegeld gehalveerd 1e jaar in het HO "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Studenten die aan de voorwaarden voldoen, hoeven voor hun eerste jaar slechts de helft van het wettelijke collegegeld te betalen. Kijk voor meer info op rijksoverheid.nl."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2025
+            },
+            {
+              "amount": "17181",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld voor academisch jaar 2025 -2026 is vastgesteld op € 17.181 voor alle niet-EU/EEA studenten. De Nederlandse overheid heeft bepaald niet-EU/EEA studenten een hoger collegegeld betalen dan EU/EAA studenten."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Meer informatie www.hotelschool.nl"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2025
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "110",
+        "name": "Hotelschool The Hague, vestiging Amsterdam",
+        "street": "Jan Evertsenstraat 171",
+        "zip": "1057 BW",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "238",
+        "url": "http://www.hotelschool.nl"
+      }
+    },
+    {
+      "title": "Master of Business Administration in International Hospitality Management",
+      "english_title": "Master of Business Admnistration in International Hospitality Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70177",
+      "croho_name": "Master of International Hospitality Management",
+      "degrees": [
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "75",
+      "financing": "private",
+      "location_hovi_id": "23",
+      "organization_hovi_id": "26",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For tomorrow’s service innovators!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The programme prepares students to become future leaders in service innovation and caters to the demands of the industry, focusing in particular on business development, concept innovation and change management. Designed for ambitious, open-minded and creative young professionals with a strong passion for business. When MBA students graduate, they are ready to embed hospitality principles and service excellence into any business, making it more valuable and future-proof."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Amsterdam-based, located in the west part of the city, just a stone's throw from the urban park Rembrandtpark, a vast oasis at the heart of the city. The city centre is easily accessible by bike, tram or walking."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Join our MBA programme, where you will learn to excel and make a difference in industries where hospitality is a key differentiator."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For tomorrow’s service innovators!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The programme prepares students to become future leaders in service innovation and caters to the demands of the industry, focusing in particular on business development, concept innovation and change management. Designed for ambitious, open-minded and creative young professionals with a strong passion for business. When MBA students graduate, they are ready to embed hospitality principles and service excellence into any business, making it more valuable and future-proof."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Amsterdam-based, located in the west part of the city, just a stone's throw from the urban park Rembrandtpark, a vast oasis at the heart of the city. The city centre is easily accessible by bike, tram or walking."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Join our MBA programme, where you will learn to excel and make a difference in industries where hospitality is a key differentiator."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-09-01",
+              "end_date": "2026-10-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-01",
+              "end_date": "2025-10-31"
+            }
+          ],
+          "product_url": "https://www.hotelschool.nl/mba-international-hospitality-management/",
+          "product_url_en": "https://www.hotelschool.nl/mba-international-hospitality-management/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Literature and study materials "
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "19500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "23",
+        "name": "Hotelschool The Hague, vestiging Den Haag",
+        "street": "Brusselselaan 2",
+        "zip": "2587 AH",
+        "city": "DEN HAAG",
+        "country": "NL",
+        "vestiging_SK123_id": "69",
+        "url": "http://www.hotelschool.nl"
+      }
+    },
+    {
+      "title": "Master of Business Admnistration in International Hospitality Management",
+      "english_title": "Master of Business Admnistration in International Hospitality Management",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "70177",
+      "croho_name": "Master of International Hospitality Management",
+      "degrees": [
+        "Master of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "75",
+      "financing": "private",
+      "location_hovi_id": "110",
+      "organization_hovi_id": "26",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For tomorrow’s service innovators!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The programme prepares students to become future leaders in service innovation and caters to the demands of the industry, focusing in particular on business development, concept innovation and change management. Designed for ambitious, open-minded and creative young professionals with a strong passion for business. When MBA students graduate, they are ready to embed hospitality principles and service excellence into any business, making it more valuable and future-proof."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Amsterdam-based, located in the west part of the city, just a stone's throw from the urban park Rembrandtpark, a vast oasis at the heart of the city. The city centre is easily accessible by bike, tram or walking."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Join our MBA programme, where you will learn to excel and make a difference in industries where hospitality is a key differentiator."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For tomorrow’s service innovators!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The programme prepares students to become future leaders in service innovation and caters to the demands of the industry, focusing in particular on business development, concept innovation and change management. Designed for ambitious, open-minded and creative young professionals with a strong passion for business. When MBA students graduate, they are ready to embed hospitality principles and service excellence into any business, making it more valuable and future-proof."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Amsterdam-based, located in the west part of the city, just a stone's throw from the urban park Rembrandtpark, a vast oasis at the heart of the city. The city centre is easily accessible by bike, tram or walking."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Join our MBA programme, where you will learn to excel and make a difference in industries where hospitality is a key differentiator."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2024-09-02",
+              "end_date": "2025-10-31"
+            },
+            {
+              "application_deadline": "",
+              "starting_date": "2025-09-01",
+              "end_date": "2026-10-31"
+            }
+          ],
+          "product_url": "https://www.hotelschool.nl/mba-international-hospitality-management/",
+          "product_url_en": "https://www.hotelschool.nl/mba-international-hospitality-management/",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Literature and study materials "
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "19500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "The fee includes courses, guest lectures, workshops, a study trip abroad and access to all the facilities the Amsterdam Campus of Hotelschool The Hague has to offer."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "110",
+        "name": "Hotelschool The Hague, vestiging Amsterdam",
+        "street": "Jan Evertsenstraat 171",
+        "zip": "1057 BW",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "238",
+        "url": "http://www.hotelschool.nl"
+      }
+    },
+    {
+      "title": "Master in Leading Hotel Transformation",
+      "english_title": "Master in Leading Hotel Transformation",
+      "product_type": "croho_program",
+      "description": null,
+      "product_level": "master",
+      "croho": "49151",
+      "croho_name": "Leading Hotel Transformation",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "60",
+      "financing": "government",
+      "location_hovi_id": "110",
+      "organization_hovi_id": "26",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Meer dan ooit moeten hotelorganisaties zich aanpassen aan verandering."
+                  },
+                  {
+                    "type": "text",
+                    "text": " Daarom heeft Hotelschool The Hague samen met de hotelindustrie een masterprogramma ontworpen en ontwikkeld. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ben jij een jonge hospitality-professional met een sterke passie voor hotels? "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ons masterprogramma ‘Leading Hotel Transformation’ bereidt je voor om de weg te leiden bij het aanpakken van de uitdagingen en kansen waarmee de internationale hotelindustrie vandaag en in de toekomst te maken heeft."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dit éénjarige programma richt zich op het opleiden van professionals met een sterke focus op transformatie en strategisch denken, innovatie, cultuur, stakeholdermanagement, gastervaring en (project)leiderschap. Je leert complexe problemen op hoog niveau te identificeren, onderzoeken en analyseren, bijvoorbeeld door middel van strategische besluitvorming en design-based onderzoek, in een context die nieuw, onbekend, onduidelijk en onvoorspelbaar is."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben jij een student of jonge professional met een bachelor in hospitality management of een gerelateerd vakgebied, zoals toerisme of vrijetijdsmanagement? Heb je minimaal één jaar relevante werkervaring in een hotelomgeving en wil je jouw carrière in de hotelindustrie voortzetten? Dan zijn wij op zoek naar jou!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Neem contact met ons op via "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "master@hotelschool.nl"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en bezoek onze website."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "More than ever, hotel organisations need to adapt to change."
+                  },
+                  {
+                    "type": "text",
+                    "text": " That’s why Hotelschool The Hague designed and co-created a master’s programme together with the hotel industry. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Are you a young hospitality professional with a strong passion for hotels?"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Our master’s programme in ‘Leading the Hotel Transformation’ will prepare you to lead the way in tackling the challenges and opportunities facing the international hotel industry today and in the future."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This one-year programme prepares transformation professionals with a strong focus on strategic thinking, innovation, culture, stakeholder management, guest experience, and (project) leadership. You will learn how to identify, research and analyse complex problems at a high abstract level using e.g. strategic decision-making and design-based research in a context that is new, unknown, unclear and unpredictable."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Are you a student- or young professional who already has a bachelor's degree in hospitality management or a related field, like tourism or leisure management? Do you have one year of relevant work experience in a hotel environment and want to pursue your career in the hotel industry? Then we are looking for you!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Contact us via master@hotelschool.nl and visit our website."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": "",
+              "starting_date": "2025-08-25",
+              "end_date": "2026-09-30"
+            }
+          ],
+          "product_url": "https://www.hotelschool.nl/master-leading-hotel-transformation/",
+          "product_url_en": "https://www.hotelschool.nl/master-leading-hotel-transformation/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "13680",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tuition fees for 1 September 2020–31 August 2021 have been set at € 13.680 for all non-EEA students. Due to Dutch governmental policies, Hotelschool The Hague (and all other professional universities) are not funded by the Dutch government for the education of non-EEA students. Non-EEA students thereforepay higher tuition fees than EEA students."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "hovi_id": "110",
+        "name": "Hotelschool The Hague, vestiging Amsterdam",
+        "street": "Jan Evertsenstraat 171",
+        "zip": "1057 BW",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "238",
+        "url": "http://www.hotelschool.nl"
+      }
+    }
+  ]
+}
