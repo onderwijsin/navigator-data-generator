@@ -1,5 +1,5 @@
 # Extract HOVI data
-The Hovi API contains data about higher education in the Netherlands. This tool fetches particular data models and transforms them into something more useful. The primary goal is to seed the data into a Directus instance (datahub.onderwijs.in).
+The Hovi API contains data about higher education in the Netherlands. This tool fetches particular data models and transforms them into something more useful. The primary goal is to seed the data into a Directus instance [Datahub](https://datahub.onderwijs.in).
 
 Data models that are processed:
 - Organizations
