@@ -8,7 +8,9 @@ import Italic from '@tiptap/extension-italic';
 import dotenv from 'dotenv';
 import fs from 'fs';
 import { degrees } from './degrees';
-import type { Product, ProductForm, HoviProduct, HoviOrganization, Organization, HoviLocation, Location, OrganizationIds, LocationIds, ProductIds } from './types';
+import type { Product, ProductForm, Organization, Location } from './types';
+
+import type { paths } from './hovi';
 
 // Load environment variables from .env file
 dotenv.config();
@@ -33,19 +35,19 @@ const get = async (path: string) => {
 };
 
 // Function to transform HoviProduct to Product
-const transformHoviProductToProduct = (hoviProduct: HoviProduct): Product => {
+const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json']): Product => {
     // Function to transform product form
-    const transformProductForm = (form): ProductForm => ({
+    const transformProductForm = (form: paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json']['productForms'][number]): ProductForm => ({
         admission_description: form.admissionDescription?.nl ? generateJSON(`${form.admissionDescription.nl}`, [
             Document, Paragraph, Text, Bold, Link, Italic
         ]) : null,
-        admission_selections: form.admissionSelections,
+        admission_selections: form?.admissionSelections || null,
         admission_tests: form.admissionTests?.map(test => ({
             ...test,
             description: test.description?.nl ? generateJSON(`${test.description.nl}`, [
                 Document, Paragraph, Text, Bold, Link, Italic
             ]) : null
-        })),
+        })) || null,
         admission_url: form.admissionURL?.nl,
         instruction_mode_description: form.instructionModeDescription?.nl ? generateJSON(`${form.instructionModeDescription.nl}`, [
             Document, Paragraph, Text, Bold, Link, Italic
@@ -60,9 +62,9 @@ const transformHoviProductToProduct = (hoviProduct: HoviProduct): Product => {
         lang_exam: form.languageRequirements?.[0]?.languageExam,
         lang_exam_minimum_score: form.languageRequirements?.[0]?.minimumScore,
         numerus_fixus: !!form.numerusFixus,
-        numerus_fixus_capacity: form.numerusFixus?.capacity,
-        numerus_fixus_tries: form.numerusFixus?.numberOfTries,
-        numerus_fixus_url: form.numerusFixus?.numerusUrl?.nl,
+        numerus_fixus_capacity: form?.numerusFixus?.[0].capacity,
+        numerus_fixus_tries: form.numerusFixus?.[0].numberOfTries,
+        numerus_fixus_url: form.numerusFixus?.[0].numerusUrl?.nl,
         product_description: form.productDescription?.nl ? generateJSON(`${form.productDescription.nl}`, [
             Document, Paragraph, Text, Bold, Link, Italic
         ]) : null,
@@ -73,13 +75,13 @@ const transformHoviProductToProduct = (hoviProduct: HoviProduct): Product => {
             Document, Paragraph, Text, Bold, Link, Italic
         ]) : null,
         application_deadlines: form.productStarts?.map(start => ({
-            application_deadline: start.applicationDeadlineNL,
-            starting_date: start.startingDate,
-            end_date: start.endDate
+            application_deadline: start.applicationDeadlineNL || null,
+            starting_date: start.startingDate || null,
+            end_date: start.endDate || null
         })) || [],
         product_url: form.productURL?.nl,
         product_url_en: form.productURL?.en,
-        scholarships: form.scholarships?.map(scholarship => scholarship.scholarship) || [],
+        scholarships: form.scholarships?.map(scholarship => scholarship?.scholarship || '').filter(r => !!r) || [],
         study_advices: form.studyAdvices,
         study_costs: form.studyCosts?.map(cost => ({
             ...cost,
@@ -94,16 +96,12 @@ const transformHoviProductToProduct = (hoviProduct: HoviProduct): Product => {
                 Document, Paragraph, Text, Bold, Link, Italic
             ]) : null
         })),
-        tuition_fee_url: form.tuitionFeeUrl?.nl
     });
 
     return {
         title: hoviProduct.productName?.nl || '',
         english_title: hoviProduct.productName?.en || null,
         product_type: hoviProduct.productType,
-        description: hoviProduct.description?.nl ? generateJSON(`${hoviProduct.description.nl}`, [
-            Document, Paragraph, Text, Bold, Link, Italic
-        ]) : null,
         product_level: hoviProduct.productLevel,
         croho: hoviProduct.croho,
         croho_name: hoviProduct.crohoName?.nl,
@@ -118,10 +116,10 @@ const transformHoviProductToProduct = (hoviProduct: HoviProduct): Product => {
 };
 
 // Function to transform HoviLocation to Location
-const transformHoviLocationToLocation = (hoviLocation: HoviLocation): Location => {
+const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json']): Location => {
     const { locationId, locationName, visitorAddress, vestigingSK123Id, webLink } = hoviLocation;
     return {
-        hovi_id: locationId,
+        hovi_id: locationId || null,
         name: locationName?.nl || null,
         street: visitorAddress?.street && visitorAddress?.nr_detail ? `${visitorAddress?.street} ${visitorAddress?.nr_detail}` : visitorAddress?.street || null,
         zip: visitorAddress?.zip || null,
@@ -133,7 +131,7 @@ const transformHoviLocationToLocation = (hoviLocation: HoviLocation): Location =
 };
 
 // Fetch organization IDs
-const organizationIds: OrganizationIds = await get('/organization');
+const organizationIds: paths['/organization']['get']['responses']['200']['content']['application/json'] = await get('/organization');
 
 // Read existing files and filter out already processed organization IDs
 const existingFiles = fs.readdirSync('./output');
@@ -143,27 +141,34 @@ const existingOrganizationIds = new Set(
         .map(file => file.replace('organization_', '').replace('.json', ''))
 );
 
-const filteredOrganizationIds = organizationIds.filter(({ organizationId }) => !existingOrganizationIds.has(organizationId));
+const filteredOrganizationIds = organizationIds.filter(({ organizationId }) => !!organizationId && !existingOrganizationIds.has(organizationId));
+
+// Array to store all locations. After processing all organizations, this array will be used to fetch location data from Google Apis for each unique location
+const globalLocations: Location[] = []
 
 // Process each organization
 for (const { organizationId } of filteredOrganizationIds) {
     try {
-        const organization: HoviOrganization = await get(`/organization/${organizationId}`);
+        const organization: paths['/organization/{organizationId}']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}`);
         const { brin, brinName, description, organizationType, shortCode, phone, email, webLink } = organization;
 
         // Fetch product and location IDs for the organization
-        const productIds: ProductIds = await get(`/organization/${organizationId}/product`);
-        const locationIds: LocationIds = await get(`/organization/${organizationId}/location`);
+        const productIds: paths['/organization/{organizationId}/product']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}/product`);
+        const locationIds: paths['/organization/{organizationId}/location']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}/location`);
 
         // Transform locations
         const locations = await Promise.all(locationIds.map(async ({ locationId }): Promise<Location> => {
-            const location: HoviLocation = await get(`/organization/${organizationId}/location/${locationId}`);
+            const location: paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}/location/${locationId}`);
             return transformHoviLocationToLocation(location);
         }));
 
+        globalLocations.push(...locations);
+
+
+
         // Transform products and associate them with locations
         const products = await Promise.all(productIds.map(async ({ productId }): Promise<Product & { location: Location | null }> => {
-            const product: HoviProduct = await get(`/organization/${organizationId}/product/${productId}`);
+            const product: paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}/product/${productId}`);
             const location = locations.find(location => location.hovi_id === product.location);
             return {
                 ...transformHoviProductToProduct(product),
@@ -173,14 +178,14 @@ for (const { organizationId } of filteredOrganizationIds) {
 
         // Create organization data object
         const data: Organization = {
-            title: brinName.nl,
-            code: shortCode,
+            title: brinName?.nl || null,
+            code: shortCode || null,
             description: description?.nl ? generateJSON(`${description.nl}`, [
                 Document, Paragraph, Text, Bold, Link, Italic
             ]) : null,
             type: organizationType === 'university' ? 'universiteit' : organizationType === 'university_of_applied_sciences' ? 'hogeschool' : organizationType === 'international_education' ? 'internationaal onderwijs' : 'onderzoeksuniversiteit',
-            brin_code: brin,
-            hovi_id: organizationId,
+            brin_code: brin || null,
+            hovi_id: organizationId || null,
             phone: phone || null,
             email: email || null,
             website: !!webLink ? Object.entries(webLink).map(([key, value]) => ({
