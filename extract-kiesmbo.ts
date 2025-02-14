@@ -22,3 +22,6 @@ const response: paths['/api/v2/export']['get']['responses']['200']['content'] = 
         'Ocp-Apim-Subscription-Key': token,
     }
 })
+
+fs.writeFileSync('./output/kiesmbo/export/export_v2.json', JSON.stringify(response, null, 2));
+
