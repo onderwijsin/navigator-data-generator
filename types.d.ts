@@ -98,5 +98,41 @@ type Location = {
     city: string | null,
     country: string | null
     url: string | null // webLink.nl
-    vestiging_SK123_id
+    vestiging_SK123_id?: string
+}
+
+
+type LocationComponents = {
+    geometry: {
+      coordinates: [number, number];
+      type: "Point";
+    };
+    properties: {
+      country: string;
+      postalCode: string;
+      administrativeArea: string;
+      raw: {
+        longText: string;
+        shortText: string;
+        types: string[];
+      }[];
+      displayName: string;
+      formated: string;
+      viewport: {
+        south: number;
+        west: number;
+        north: number;
+        east: number;
+      };
+    };
+    type: "Feature";
+};
+
+type GeoFields = {
+    "location_address": string | null,
+    "location_components": LocationComponents | null,
+    "location_data": {
+        type: "Point",
+        coordinates: [number, number]
+    } | null,
 }

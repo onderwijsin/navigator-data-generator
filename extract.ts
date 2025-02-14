@@ -147,7 +147,7 @@ const filteredOrganizationIds = organizationIds.filter(({ organizationId }) => !
 const globalLocations: Location[] = []
 
 // Process each organization
-for (const { organizationId } of filteredOrganizationIds) {
+const organizations = await Promise.all(filteredOrganizationIds.map(async ({ organizationId }) => {
     try {
         const organization: paths['/organization/{organizationId}']['get']['responses']['200']['content']['application/json'] = await get(`/organization/${organizationId}`);
         const { brin, brinName, description, organizationType, shortCode, phone, email, webLink } = organization;
@@ -163,8 +163,6 @@ for (const { organizationId } of filteredOrganizationIds) {
         }));
 
         globalLocations.push(...locations);
-
-
 
         // Transform products and associate them with locations
         const products = await Promise.all(productIds.map(async ({ productId }): Promise<Product & { location: Location | null }> => {
@@ -196,10 +194,125 @@ for (const { organizationId } of filteredOrganizationIds) {
             products
         };
 
-        // Write organization data to file
-        const filePath = `./output/organization_${data.hovi_id}.json`;
-        fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+        return data;
     } catch (err) {
         console.log(`Error processing organizationId ${organizationId}:`, err);
+        return null;
     }
+}));
+
+// Create an array of unique locations based on id
+const uniqueLocations = Array.from(new Map(globalLocations.map(location => [location.hovi_id, location])).values());
+
+const apiKey = process.env.GOOGLE_API_KEY;
+
+function transformPlace(input) {
+    const result = input.results[0];
+    const country = result.address_components.find(component => component.types.includes("country"))?.short_name || "";
+    const postalCode = result.address_components.find(component => component.types.includes("postal_code"))?.short_name || "";
+    const administrativeArea = result.address_components.find(component => component.types.includes("administrative_area_level_1"))?.long_name || "";
+  
+    const raw = result.address_components.map(component => ({
+      longText: component.long_name,
+      shortText: component.short_name,
+      types: component.types
+    }));
+  
+    const displayName = `${result.address_components[0].long_name}`;
+    const formated = result.formatted_address;
+  
+    const viewport = {
+      south: result.geometry.viewport.southwest.lat,
+      west: result.geometry.viewport.southwest.lng,
+      north: result.geometry.viewport.northeast.lat,
+      east: result.geometry.viewport.northeast.lng
+    };
+  
+    return {
+      geometry: {
+        coordinates: [result.geometry.location.lng, result.geometry.location.lat],
+        type: "Point"
+      },
+      properties: {
+        country: country,
+        postalCode: postalCode,
+        administrativeArea: administrativeArea,
+        raw: raw,
+        displayName: displayName,
+        formated: formated,
+        viewport: viewport
+      },
+      type: "Feature"
+    };
 }
+
+const getAddress = (item: Location) => {
+    const { street, zip, city, country } = item;
+    let addressParts: string[] = [];
+
+    if (street) addressParts.push(street);
+    if (zip) addressParts.push(zip);
+    if (city) addressParts.push(city);
+    if (country) addressParts.push(country);
+
+    return addressParts.length ? addressParts.join(', ') : null;
+};
+
+const errors: Location[] = []
+
+const fetchLocationComponents = async (loc: Location) => {
+    const address = getAddress(loc);
+    if (!address) return null
+    const url = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(address)}&key=${apiKey}`;
+
+    const response = await fetch(url);
+    const data = await response.json();
+
+    if (data.status !== 'OK') {
+        errors.push(loc);
+        console.log(`Geocoding API error for: ${loc.hovi_id}`);
+        return null
+    }
+
+    return transformPlace(data);
+}
+
+const locationData = await Promise.all(uniqueLocations.map(async location => {
+    const components = await (fetchLocationComponents(location))
+    return {
+        "location_address": getAddress(location),
+        "location_components": components,
+        "location_data": {
+            type: "Point",
+            coordinates: components?.geometry.coordinates
+        },
+        ...location
+    }
+}))
+
+// Write unique locations to file
+fs.writeFileSync('./output/locations/locations_with_geodata.json', JSON.stringify(locationData, null, 2));
+
+
+
+// Write organization data to file
+const validOrganizations = organizations.filter(org => org !== null);
+
+// Map new locations to products
+const organizationData = validOrganizations.map(org => {
+    return {
+        ...org,
+        products: org.products.map(product => {
+            return {
+                ...product,
+                location: product.location ? locationData.find(location => !!product.location && location.hovi_id === product.location.hovi_id) : null
+            }
+        })
+    }
+})
+
+
+organizationData.forEach(org => {
+    const filePath = `./output/organization_${org.hovi_id}.json`;
+    fs.writeFileSync(filePath, JSON.stringify(org, null, 2));
+})
