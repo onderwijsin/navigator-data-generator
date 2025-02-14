@@ -7,9 +7,9 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "extract-hovi": "tsx ./extract-hovi.ts",
-    "extract-mbo": "tsx ./extract-kiesmbo.ts",
-    "directus": "tsx ./directus.ts"
+    "extract-hovi": "tsx ./scripts/extract-hovi.ts",
+    "extract-mbo": "tsx ./scripts/extract-kiesmbo.ts",
+    "directus": "tsx ./scripts/directus.ts"
   },
   "devDependencies": {
     "@directus/sdk": "^19.0.1",

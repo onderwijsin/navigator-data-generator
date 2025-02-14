@@ -9,9 +9,9 @@ import dotenv from 'dotenv';
 import fs from 'fs';
 import {ofetch} from 'ofetch'
 
-import type { paths } from './kiesmbo'
+import type { paths } from '../kiesmbo'
 
-import type { Product, ProductForm, Organization, Location } from './types';
+import type { Product, ProductForm, Organization, Location } from '../types';
 
 // Load environment variables from .env file
 dotenv.config();
@@ -23,5 +23,5 @@ const response: paths['/api/v2/export']['get']['responses']['200']['content'] = 
     }
 })
 
-fs.writeFileSync('./output/kiesmbo/export/export_v2.json', JSON.stringify(response, null, 2));
+fs.writeFileSync('../output/kiesmbo/export/export_v2.json', JSON.stringify(response, null, 2));
 

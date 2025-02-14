@@ -1,4 +1,4 @@
-import { degrees } from './degrees'
+import { degrees } from './static/degrees'
 
 type Organization = {
     title: string | null,
