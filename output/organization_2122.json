@@ -1,0 +1,58 @@
+{
+  "title": "Stichting BV/BmS Opleidingen",
+  "code": "SBVBM",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "32CZ",
+  "hovi_id": "2122",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Stichting BV/BmS Opleidingen",
+  "products": [
+    {
+      "title": "Constructief Ontwerpen",
+      "english_title": "Structural Engineering",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70233",
+      "croho_name": "Constructief Ontwerpen",
+      "croho_sector": "techniek",
+      "financing": "private",
+      "location_hovi_id": "481",
+      "organization_hovi_id": "2122",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "481",
+        "name": "Stichting BV/BmS Opleidingen, vestiging Utrecht",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vestiging_SK123_id": "3323",
+        "url": null
+      }
+    }
+  ]
+}

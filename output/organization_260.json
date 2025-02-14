@@ -1,0 +1,1454 @@
+{
+  "title": "Nederlandse Loodsencorporatie",
+  "code": "LOODS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Nederlands Loodswezen is een organisatie die bijdraagt aan het veilig en vlot afhandelen van het scheepvaartverkeer. Onze voornaamste taak is het jaarlijks loodsen van de meer dan 90.000 loodsplichtige zeeschepen van en naar de Nederlandse en Vlaamse zeehavens. Hiervoor zijn we 24 uur per dag inzetbaar onder alle weersomstandigheden. Onze ervaring gaat al vierhonderd jaar terug. Vier eeuwen van historische momenten en tradities waar de Nederlandse scheepvaart rijk aan is."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Het loodsen van zeeschepen gebeurt door circa 450 registerloodsen. Zij vormen de spil tussen het schip en de verschillende organisaties in de haven, zoals VTS-operators (radarbegeleiding), sleepdiensten en vastmakers. De loods vervult een belangrijke rol in de communicatie met en tussen deze dienstverleners. Met actuele kennis van getijden, stromingen, procedures, verkeersstromen, havens en ligplaatsen is de loods de adviseur van een kapitein. Het opleiden van loodsen is een wettelijke taak van de Nederlandse Loodsencorporatie (NLc), de landelijke beroepsorganisatie binnen het Loodswezen. De NLc heeft een eigen geaccrediteerde opleiding tot registerloods op Hbo Master niveau. De regionale loodsencorporaties zijn verantwoordelijk voor het regionale deel van de opleiding."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30XN",
+  "hovi_id": "260",
+  "phone": "+ 31 (0) 88 900 25 10",
+  "email": "OTRMMP@loodswezen.nl",
+  "website": [
+    {
+      "url": "https://werkenbijhetloodswezen.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "english_title": "Nederlandse Loodsencorporatie",
+  "products": [
+    {
+      "title": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "english_title": "Master in Maritime Piloting",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70181",
+      "croho_name": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "techniek",
+      "financing": "private",
+      "location_hovi_id": "172",
+      "organization_hovi_id": "260",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "practical_test",
+              "validFor": []
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Als je je hebt ingeschreven gaan wij samen met jou kijken of jij over de juiste eigenschappen beschikt om een goede loods te worden. Dat doen wij met een intakegesprek, een psychologisch onderzoek, een manoeuvreertest en een medische keuring."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "practical_test"
+            }
+          ],
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding bestaat uit een centraal en een regionaal deel. Het centrale deel van de opleiding is regio-onafhankelijk en duurt 10 weken. Tijdens deze fase krijg je theorielessen, ga je praktijkvaren op een opleidingsvaartuig en train je op de simulator. Na 10 weken mag je na het goed afronden verder met je studie. Hierna ga je de regio in waar jij graag loods wil worden. Je maakt dan minimaal 200 instructiereizen samen met een loods in het vaargebied, zowel overdag als 's nachts."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "traineeship",
+            "working_group"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je aan de slag gaat als loods, dan kom je niet in dienst van het Loodswezen. Je wordt lid van de maatschap in de regio waar je gaat werken. Je bent dus zelfstandig ondernemer. Je inkomen wordt gevormd door het aandeel dat je hebt in de winst van de maatschap. De hoogte van het winstdeel is afhankelijk van het scheepsaanbod en varieert dan ook per jaar. Maandelijks ontvang je een voorschot op de winst. Resultaten uit het verleden zijn natuurlijk nooit een garantie voor de toekomst, maar loods is zo lang als het beroep bestaat een meer dan prima betaalde baan. Daarnaast bepaal je als lid van de maatschap samen met je collega’s de koers binnen de organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is Nederlands niet jouw moedertaal, dan verwachten we dat je Nederlands beheerst op niveau B2. Dit heeft te maken met de voertaal in de opleiding en in de havens."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_exam": "nt2_programma_ii",
+          "lang_exam_minimum_score": "600",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als registerloods ben je de verbindende factor tussen het schip, de verkeersdienst en diverse maritieme partijen daaromheen. Weer of geen weer, zicht of geen zicht; jij loodst veilig alle schepen naar de kade en naar zee. Tankers, bulkcarriers, sleepboten met sleep, drijvende bokken, autocarriers, coasters, reefers, containerschepen, cruiseschepen, noem maar op. Als het drijft, moet jij het door de haven kunnen loodsen. Hiervoor heb je niet alleen kennis over de manoeuvreer- en vaareigenschappen van al die typen schepen, maar beschik je ook over inlevingsvermogen: je hebt namelijk te maken met verschillende mensen en culturen met uiteenlopende nationaliteiten en kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zie jij jezelf werken in één van de Nederlandse zeehavens? Wil jij leren om met windkracht 7 dat schip voor de kant te krijgen? Zie jij het als een uitdaging om kapiteins van over de hele wereld te adviseren? Dan zou het beroep van loods wat voor jou kunnen zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding tot registerloods is een hbo master geaccrediteerde opleiding. Je dient te beschikken over de volgende startkwalificaties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        ruime maritieme ervaring als bijvoorbeeld stuurman"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        HBO-bachelor diploma"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        vaarbevoegdheidsbewijs eerste stuurman alle schepen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        BRM/MRM certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        Marcom-A certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Middels een werken-leren traject word je in maximaal 15 maanden klaargestoomd voor het echte werk als loods."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je opleiding ben je als loods in staat om in de door jou gekozen regio zelfstandig schepen naar binnen en buiten te loodsen. Maar dat betekent beslist niet dat je uitgeleerd bent. Na de opleiding gaat je ontwikkeling gewoon door. Je begint met schepen tot 100 meter en krijgt in de loop der jaren steeds grotere schepen onder je hoede, net zolang tot je ook de grootste schepen tot 400 meter lengte naar binnen en buiten kunt varen. Zo groei je letterlijk, want loods zijn is ook een ervaringsberoep."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gedurende je loopbaan krijg je steeds meer bevoegdheden. De schepen die je mag loodsen worden steeds groter. Om de verschillende bevoegdheden te halen, worden er diverse trainingen gegeven: radartrainingen, veiligheidstraining (o.a. persoonlijke veiligheid voor de loods) en natuurlijk helikoptertraining. In elke regio worden diverse aanvullende opleidingen aangeboden waarmee jij je verder kunt specialiseren. Denk hierbij aan Loodsen op Afstand (LOA) waarbij je vanaf de wal met behulp van radar- en vhf-contact de schepen aan de kade helpt. Of juist de specialisatie van ‘geulloods’ (ook wel ‘simtraloods’) waarbij je de grootste en diepste schepen, met minimale marges, veilig in en uit de haven moet loodsen."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-01-30",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://werkenbijhetloodswezen.nl/loods-worden",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "0.1",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De opleiding wordt verzorgd door de Nederlandse Loodsencorporatie en is een afwisselende en praktijkgerichte studie die als doel heeft om jou in 15 maanden klaar te stomen voor het echte werk als loods. Uiteraard ontvang je tijdens deze periode een studievergoeding. En als je dan klaar bent met de opleiding weet je één ding zeker: je bent verzekerd van het mooiste beroep ter wereld! Geen dag is hetzelfde, geen schip is hetzelfde, het weer is altijd anders, je komt nooit zonder verhaal thuis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Schildweg 16a, 9979 XR, EEMSHAVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.8202067,
+              53.443546
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "9979 XR",
+            "administrativeArea": "Groningen",
+            "raw": [
+              {
+                "longText": "16A",
+                "shortText": "16A",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Schildweg",
+                "shortText": "Schildweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Eemshaven",
+                "shortText": "Eemshaven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Het Hogeland",
+                "shortText": "Het Hogeland",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "GR",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "9979 XR",
+                "shortText": "9979 XR",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "16A",
+            "formated": "Schildweg 16A, 9979 XR Eemshaven, Netherlands",
+            "viewport": {
+              "south": 53.4421765197085,
+              "west": 6.818993269708498,
+              "north": 53.44487448029149,
+              "east": 6.821691230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.8202067,
+            53.443546
+          ]
+        },
+        "hovi_id": "172",
+        "name": "Nederlandse Loodsencorporatie, vestiging Het Hogeland",
+        "street": "Schildweg 16a",
+        "zip": "9979 XR",
+        "city": "EEMSHAVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "490",
+        "url": "http://www.loodswezen.nl/nl"
+      }
+    },
+    {
+      "title": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "english_title": "Master in Maritime Piloting",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70181",
+      "croho_name": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "techniek",
+      "financing": "private",
+      "location_hovi_id": "173",
+      "organization_hovi_id": "260",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "practical_test",
+              "validFor": []
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Als je je hebt ingeschreven gaan wij samen met jou kijken of jij over de juiste eigenschappen beschikt om een goede loods te worden. Dat doen wij met een intakegesprek, een psychologisch onderzoek, een manoeuvreertest en een medische keuring."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "practical_test"
+            }
+          ],
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding bestaat uit een centraal en een regionaal deel. Het centrale deel van de opleiding is regio-onafhankelijk en duurt 10 weken. Tijdens deze fase krijg je theorielessen, ga je praktijkvaren op een opleidingsvaartuig en train je op de simulator. Na 10 weken mag je na het goed afronden verder met je studie. Hierna ga je de regio in waar jij graag loods wil worden. Je maakt dan minimaal 200 instructiereizen samen met een loods in het vaargebied, zowel overdag als 's nachts."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "traineeship"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je aan de slag gaat als loods, dan kom je niet in dienst van het Loodswezen. Je wordt lid van de maatschap in de regio waar je gaat werken. Je bent dus zelfstandig ondernemer. Je inkomen wordt gevormd door het aandeel dat je hebt in de winst van de maatschap. De hoogte van het winstdeel is afhankelijk van het scheepsaanbod en varieert dan ook per jaar. Maandelijks ontvang je een voorschot op de winst. Resultaten uit het verleden zijn natuurlijk nooit een garantie voor de toekomst, maar loods is zo lang als het beroep bestaat een meer dan prima betaalde baan. Daarnaast bepaal je als lid van de maatschap samen met je collega’s de koers binnen de organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is Nederlands niet jouw moedertaal, dan verwachten we dat je Nederlands beheerst op niveau B2. Dit heeft te maken met de voertaal in de opleiding en in de havens."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_exam": "nt2_programma_ii",
+          "lang_exam_minimum_score": "600",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als registerloods ben je de verbindende factor tussen het schip, de verkeersdienst en diverse maritieme partijen daaromheen. Weer of geen weer, zicht of geen zicht; jij loodst veilig alle schepen naar de kade en naar zee. Tankers, bulkcarriers, sleepboten met sleep, drijvende bokken, autocarriers, coasters, reefers, containerschepen, cruiseschepen, noem maar op. Als het drijft, moet jij het door de haven kunnen loodsen. Hiervoor heb je niet alleen kennis over de manoeuvreer- en vaareigenschappen van al die typen schepen, maar beschik je ook over inlevingsvermogen: je hebt namelijk te maken met verschillende mensen en culturen met uiteenlopende nationaliteiten en kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zie jij jezelf werken in één van de Nederlandsezeehavens? Wil jij leren om met windkracht 7 dat schip voor de kant te krijgen? Zie jij het als een uitdaging om kapiteins van over de hele wereld te adviseren? Dan zou het beroep van loods wat voor jou kunnen zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding tot registerloods is een hbo master geaccrediteerde opleiding. Je dient te beschikken over de volgende startkwalificaties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        ruime maritieme ervaring als bijvoorbeeld stuurman"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        HBO-bachelor diploma"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        vaarbevoegdheidsbewijs eerste stuurman alle schepen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        BRM/MRM certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        Marcom-A certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Middels een werken-leren traject word je in maximaal 15 maanden klaargestoomd voor het echte werk als loods."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je opleiding ben je als loods in staat om in de door jou gekozen regio zelfstandig schepen naar binnen en buiten te loodsen. Maar dat betekent beslist niet dat je uitgeleerd bent. Na de opleiding gaat je ontwikkeling gewoon door. Je begint met schepen tot 100 meter en krijgt in de loop der jaren steeds grotere schepen onder je hoede, net zolang tot je ook de grootste schepen tot 400 meter lengte naar binnen en buiten kunt varen. Zo groei je letterlijk, want loods zijn is ook een ervaringsberoep."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gedurende je loopbaan krijg je steeds meer bevoegdheden. De schepen die je mag loodsen worden steeds groter. Om de verschillende bevoegdheden te halen, worden er diverse trainingen gegeven: radartrainingen, veiligheidstraining (o.a. persoonlijke veiligheid voor de loods) en natuurlijk helikoptertraining. In elke regio worden diverse aanvullende opleidingen aangeboden waarmee jij je verder kunt specialiseren. Denk hierbij aan Loodsen op Afstand (LOA) waarbij je vanaf de wal met behulp van radar- en vhf-contact de schepen aan de kade helpt. Of juist de specialisatie van ‘geulloods’ (ook wel ‘simtraloods’) waarbij je de grootste en diepste schepen, met minimale marges, veilig in en uit de haven moet loodsen."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-01-30",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://werkenbijhetloodswezen.nl/loods-worden",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "0.1",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De opleiding wordt verzorgd door de Nederlandse Loodsencorporatie en is een afwisselende en praktijkgerichte studie die als doel heeft om jou in 15 maanden klaar te stomen voor het echte werk als loods. Uiteraard ontvang je tijdens deze periode een studievergoeding. En als je dan klaar bent met de opleiding weet je één ding zeker: je bent verzekerd van het mooiste beroep ter wereld! Geen dag is hetzelfde, geen schip is hetzelfde, het weer is altijd anders, je komt nooit zonder verhaal thuis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kanaaldijk 242, 1975 AJ, VELSEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.5931478,
+              52.46334479999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1975 AJ",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "242",
+                "shortText": "242",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kanaaldijk",
+                "shortText": "Kanaaldijk",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "IJmuiden",
+                "shortText": "IJmuiden",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Velsen",
+                "shortText": "Velsen",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1975 AJ",
+                "shortText": "1975 AJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "242",
+            "formated": "Kanaaldijk 242, 1975 AJ IJmuiden, Netherlands",
+            "viewport": {
+              "south": 52.46203566970851,
+              "west": 4.591805019708498,
+              "north": 52.4647336302915,
+              "east": 4.594502980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.5931478,
+            52.46334479999999
+          ]
+        },
+        "hovi_id": "173",
+        "name": "Nederlandse Loodsencorporatie, vestiging Velsen",
+        "street": "Kanaaldijk 242",
+        "zip": "1975 AJ",
+        "city": "VELSEN",
+        "country": "NL",
+        "vestiging_SK123_id": "491",
+        "url": "http://www.loodswezen.nl/nl"
+      }
+    },
+    {
+      "title": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "english_title": "Master in Maritime Piloting",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70181",
+      "croho_name": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "techniek",
+      "financing": "private",
+      "location_hovi_id": "174",
+      "organization_hovi_id": "260",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "practical_test",
+              "validFor": []
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Als je je hebt ingeschreven gaan wij samen met jou kijken of jij over de juiste eigenschappen beschikt om een goede loods te worden. Dat doen wij met een intakegesprek, een psychologisch onderzoek, een manoeuvreertest en een medische keuring."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "practical_test"
+            }
+          ],
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding bestaat uit een centraal en een regionaal deel. Het centrale deel van de opleiding is regio-onafhankelijk en duurt 10 weken. Tijdens deze fase krijg je theorielessen, ga je praktijkvaren op een opleidingsvaartuig en train je op de simulator. Na 10 weken mag je na het goed afronden verder met je studie. Hierna ga je de regio in waar jij graag loods wil worden. Je maakt dan minimaal 200 instructiereizen samen met een loods in het vaargebied, zowel overdag als 's nachts."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "internship",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "traineeship"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je aan de slag gaat als loods, dan kom je niet in dienst van het Loodswezen. Je wordt lid van de maatschap in de regio waar je gaat werken. Je bent dus zelfstandig ondernemer. Je inkomen wordt gevormd door het aandeel dat je hebt in de winst van de maatschap. De hoogte van het winstdeel is afhankelijk van het scheepsaanbod en varieert dan ook per jaar. Maandelijks ontvang je een voorschot op de winst. Resultaten uit het verleden zijn natuurlijk nooit een garantie voor de toekomst, maar loods is zo lang als het beroep bestaat een meer dan prima betaalde baan. Daarnaast bepaal je als lid van de maatschap samen met je collega’s de koers binnen de organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is Nederlands niet jouw moedertaal, dan verwachten we dat je Nederlands beheerst op niveau B2. Dit heeft te maken met de voertaal in de opleiding en in de havens."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_exam": "nt2_programma_ii",
+          "lang_exam_minimum_score": "600",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als registerloods ben je de verbindende factor tussen het schip, de verkeersdienst en diverse maritieme partijen daaromheen. Weer of geen weer, zicht of geen zicht; jij loodst veilig alle schepen naar de kade en naar zee. Tankers, bulkcarriers, sleepboten met sleep, drijvende bokken, autocarriers, coasters, reefers, containerschepen, cruiseschepen, noem maar op. Als het drijft, moet jij het door de haven kunnen loodsen. Hiervoor heb je niet alleen kennis over de manoeuvreer- en vaareigenschappen van al die typen schepen, maar beschik je ook over inlevingsvermogen: je hebt namelijk te maken met verschillende mensen en culturen met uiteenlopende nationaliteiten en kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zie jij jezelf werken in één van de Nederlandse zeehavens? Wil jij leren om met windkracht 7 dat schip voor de kant te krijgen? Zie jij het als een uitdaging om kapiteins van over de hele wereld te adviseren? Dan zou het beroep van loods wat voor jou kunnen zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding tot registerloods is een hbo master geaccrediteerde opleiding. Je dient te beschikken over de volgende startkwalificaties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        ruime maritieme ervaring als bijvoorbeeld stuurman"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        HBO-bachelor diploma"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        vaarbevoegdheidsbewijs eerste stuurman alle schepen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        BRM/MRM certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        Marcom-A certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Middels een werken-leren traject word je in maximaal 15 maanden klaargestoomd voor het echte werk als loods."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je opleiding ben je als loods in staat om in de door jou gekozen regio zelfstandig schepen naar binnen en buiten te loodsen. Maar dat betekent beslist niet dat je uitgeleerd bent. Na de opleiding gaat je ontwikkeling gewoon door. Je begint met schepen tot 100 meter en krijgt in de loop der jaren steeds grotere schepen onder je hoede, net zolang tot je ook de grootste schepen tot 400 meter lengte naar binnen en buiten kunt varen. Zo groei je letterlijk, want loods zijn is ook een ervaringsberoep."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gedurende je loopbaan krijg je steeds meer bevoegdheden. De schepen die je mag loodsen worden steeds groter. Om de verschillende bevoegdheden te halen, worden er diverse trainingen gegeven: radartrainingen, veiligheidstraining (o.a. persoonlijke veiligheid voor de loods) en natuurlijk helikoptertraining. In elke regio worden diverse aanvullende opleidingen aangeboden waarmee jij je verder kunt specialiseren. Denk hierbij aan Loodsen op Afstand (LOA) waarbij je vanaf de wal met behulp van radar- en vhf-contact de schepen aan de kade helpt. Of juist de specialisatie van ‘geulloods’ (ook wel ‘simtraloods’) waarbij je de grootste en diepste schepen, met minimale marges, veilig in en uit de haven moet loodsen."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-01-30",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://werkenbijhetloodswezen.nl/loods-worden",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "0.1",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De opleiding wordt verzorgd door de Nederlandse Loodsencorporatie en is een afwisselende en praktijkgerichte studie die als doel heeft om jou in 15 maanden klaar te stomen voor het echte werk als loods. Uiteraard ontvang je tijdens deze periode een studievergoeding. En als je dan klaar bent met de opleiding weet je één ding zeker: je bent verzekerd van het mooiste beroep ter wereld! Geen dag is hetzelfde, geen schip is hetzelfde, het weer is altijd anders, je komt nooit zonder verhaal thuis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Markweg 200, 3198 NB, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.0901536,
+              51.9588905
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3198 NB",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "200",
+                "shortText": "200",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Markweg",
+                "shortText": "Markweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Botlek",
+                "shortText": "Botlek",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Europoort Rotterdam",
+                "shortText": "Europoort Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3198 NB",
+                "shortText": "3198 NB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "200",
+            "formated": "Markweg 200, 3198 NB Europoort Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9575415197085,
+              "west": 4.089007619708497,
+              "north": 51.96023948029149,
+              "east": 4.091705580291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.0901536,
+            51.9588905
+          ]
+        },
+        "hovi_id": "174",
+        "name": "Nederlandse Loodsencorporatie, vestiging Rotterdam",
+        "street": "Markweg 200",
+        "zip": "3198 NB",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "492",
+        "url": "http://www.loodswezen.nl/nl"
+      }
+    },
+    {
+      "title": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "english_title": "Master in Maritime Piloting",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70181",
+      "croho_name": "Opleiding tot registerloods: Master in Maritime Piloting",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "techniek",
+      "financing": "private",
+      "location_hovi_id": "175",
+      "organization_hovi_id": "260",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": "practical_test",
+              "validFor": []
+            }
+          ],
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Als je je hebt ingeschreven gaan wij samen met jou kijken of jij over de juiste eigenschappen beschikt om een goede loods te worden. Dat doen wij met een intakegesprek, een psychologisch onderzoek, een manoeuvreertest en een medische keuring."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": "practical_test"
+            }
+          ],
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding bestaat uit een centraal en een regionaal deel. Het centrale deel van de opleiding is regio-onafhankelijk en duurt 10 weken. Tijdens deze fase krijg je theorielessen, ga je praktijkvaren op een opleidingsvaartuig en train je op de simulator. Na 10 weken mag je na het goed afronden verder met je studie. Hierna ga je de regio in waar jij graag loods wil worden. Je maakt dan minimaal 200 instructiereizen samen met een loods in het vaargebied, zowel overdag als 's nachts."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "portfolio",
+            "research",
+            "self_study",
+            "traineeship"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je aan de slag gaat als loods, dan kom je niet in dienst van het Loodswezen. Je wordt lid van de maatschap in de regio waar je gaat werken. Je bent dus zelfstandig ondernemer. Je inkomen wordt gevormd door het aandeel dat je hebt in de winst van de maatschap. De hoogte van het winstdeel is afhankelijk van het scheepsaanbod en varieert dan ook per jaar. Maandelijks ontvang je een voorschot op de winst. Resultaten uit het verleden zijn natuurlijk nooit een garantie voor de toekomst, maar loods is zo lang als het beroep bestaat een meer dan prima betaalde baan. Daarnaast bepaal je als lid van de maatschap samen met je collega’s de koers binnen de organisatie."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is Nederlands niet jouw moedertaal, dan verwachten we dat je Nederlands beheerst op niveau B2. Dit heeft te maken met de voertaal in de opleiding en in de havens."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_exam": "nt2_programma_ii",
+          "lang_exam_minimum_score": "600",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als registerloods ben je de verbindende factor tussen het schip, de verkeersdienst en diverse maritieme partijen daaromheen. Weer of geen weer, zicht of geen zicht; jij loodst veilig alle schepen naar de kade en naar zee. Tankers, bulkcarriers, sleepboten met sleep, drijvende bokken, autocarriers, coasters, reefers, containerschepen, cruiseschepen, noem maar op. Als het drijft, moet jij het door de haven kunnen loodsen. Hiervoor heb je niet alleen kennis over de manoeuvreer- en vaareigenschappen van al die typen schepen, maar beschik je ook over inlevingsvermogen: je hebt namelijk te maken met verschillende mensen en culturen met uiteenlopende nationaliteiten en kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zie jij jezelf werken in één van de Nederlandse zeehavens? Wil jij leren om met windkracht 7 dat schip voor de kant te krijgen? Zie jij het als een uitdaging om kapiteins van over de hele wereld te adviseren? Dan zou het beroep van loods wat voor jou kunnen zijn."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding tot registerloods is een hbo master geaccrediteerde opleiding. Je dient te beschikken over de volgende startkwalificaties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        ruime maritieme ervaring als bijvoorbeeld stuurman"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        HBO-bachelor diploma"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        vaarbevoegdheidsbewijs eerste stuurman alle schepen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        BRM/MRM certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·        Marcom-A certificaat"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Middels een werken-leren traject word je in maximaal 15 maanden klaargestoomd voor het echte werk als loods."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je opleiding ben je als loods in staat om in de door jou gekozen regio zelfstandig schepen naar binnen en buiten te loodsen. Maar dat betekent beslist niet dat je uitgeleerd bent. Na de opleiding gaat je ontwikkeling gewoon door. Je begint met schepen tot 100 meter en krijgt in de loop der jaren steeds grotere schepen onder je hoede, net zolang tot je ook de grootste schepen tot 400 meter lengte naar binnen en buiten kunt varen. Zo groei je letterlijk, want loods zijn is ook een ervaringsberoep."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gedurende je loopbaan krijg je steeds meer bevoegdheden. De schepen die je mag loodsen worden steeds groter. Om de verschillende bevoegdheden te halen, worden er diverse trainingen gegeven: radartrainingen, veiligheidstraining (o.a. persoonlijke veiligheid voor de loods) en natuurlijk helikoptertraining. In elke regio worden diverse aanvullende opleidingen aangeboden waarmee jij je verder kunt specialiseren. Denk hierbij aan Loodsen op Afstand (LOA) waarbij je vanaf de wal met behulp van radar- en vhf-contact de schepen aan de kade helpt. Of juist de specialisatie van ‘geulloods’ (ook wel ‘simtraloods’) waarbij je de grootste en diepste schepen, met minimale marges, veilig in en uit de haven moet loodsen."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-01-30",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://werkenbijhetloodswezen.nl/loods-worden",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "0.1",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "De opleiding wordt verzorgd door de Nederlandse Loodsencorporatie en is een afwisselende en praktijkgerichte studie die als doel heeft om jou in 15 maanden klaar te stomen voor het echte werk als loods. Uiteraard ontvang je tijdens deze periode een studievergoeding. En als je dan klaar bent met de opleiding weet je één ding zeker: je bent verzekerd van het mooiste beroep ter wereld! Geen dag is hetzelfde, geen schip is hetzelfde, het weer is altijd anders, je komt nooit zonder verhaal thuis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Boulevard de Ruyter 8, 4381 KA, VLISSINGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              3.5734495,
+              51.44029829999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4381 KA",
+            "administrativeArea": "Zeeland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Boulevard de Ruyter",
+                "shortText": "Boulevard de Ruyter",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Vlissingen",
+                "shortText": "Vlissingen",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Vlissingen",
+                "shortText": "Vlissingen",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zeeland",
+                "shortText": "ZE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "4381 KA",
+                "shortText": "4381 KA",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Boulevard de Ruyter 8, 4381 KA Vlissingen, Netherlands",
+            "viewport": {
+              "south": 51.4389142697085,
+              "west": 3.572087669708498,
+              "north": 51.4416122302915,
+              "east": 3.574785630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            3.5734495,
+            51.44029829999999
+          ]
+        },
+        "hovi_id": "175",
+        "name": "Nederlandse Loodsencorporatie, vestiging Vlissingen",
+        "street": "Boulevard de Ruyter 8",
+        "zip": "4381 KA",
+        "city": "VLISSINGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "493",
+        "url": "http://www.loodswezen.nl/nl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "title": "TSM Business School",
+  "code": "TSM",
+  "description": null,
+  "type": "universiteit",
+  "brin_code": "30HT",
+  "hovi_id": "243",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "TSM Business School",
+  "products": [
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "192",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Heiligenbergweg 5, 3833 AC, LEUSDEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.4093408,
+              52.1385114
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3833 AC",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "5",
+                "shortText": "5",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Heiligenbergerweg",
+                "shortText": "Heiligenbergerweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Leusden",
+                "shortText": "Leusden",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Leusden",
+                "shortText": "Leusden",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3833 AC",
+                "shortText": "3833 AC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "5",
+            "formated": "Heiligenbergerweg 5, 3833 AC Leusden, Netherlands",
+            "viewport": {
+              "south": 52.1371623697085,
+              "west": 5.407924369708497,
+              "north": 52.1398603302915,
+              "east": 5.410622330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.4093408,
+            52.1385114
+          ]
+        },
+        "hovi_id": "192",
+        "name": "TSM Business School, vestiging Leusden",
+        "street": "Heiligenbergweg 5",
+        "zip": "3833 AC",
+        "city": "LEUSDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "522",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "193",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Radesingel 50, 9711 EK, GRONINGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.5752061,
+              53.2159127
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "9711 EK",
+            "administrativeArea": "Groningen",
+            "raw": [
+              {
+                "longText": "50",
+                "shortText": "50",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Radesingel",
+                "shortText": "Radesingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Binnenstad",
+                "shortText": "Binnenstad",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "Groningen",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "Groningen",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "GR",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "9711 EK",
+                "shortText": "9711 EK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "50",
+            "formated": "Radesingel 50, 9711 EK Groningen, Netherlands",
+            "viewport": {
+              "south": 53.2145279697085,
+              "west": 6.573643269708499,
+              "north": 53.2172259302915,
+              "east": 6.576341230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.5752061,
+            53.2159127
+          ]
+        },
+        "hovi_id": "193",
+        "name": "TSM Business School, vestiging Groningen",
+        "street": "Radesingel 50",
+        "zip": "9711 EK",
+        "city": "GRONINGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "523",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Strategy & Leadership",
+      "english_title": "Strategy & Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70203",
+      "croho_name": "Strategy & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "194",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Eperweg 46, 8072 DB, NUNSPEET, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.7974387,
+              52.3771196
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "8072 DB",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "46",
+                "shortText": "46",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Eperweg",
+                "shortText": "Eperweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Nunspeet",
+                "shortText": "Nunspeet",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Nunspeet",
+                "shortText": "Nunspeet",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "8072 DB",
+                "shortText": "8072 DB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "46",
+            "formated": "Eperweg 46, 8072 DB Nunspeet, Netherlands",
+            "viewport": {
+              "south": 52.3755360697085,
+              "west": 5.795700519708498,
+              "north": 52.37823403029149,
+              "east": 5.798398480291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.7974387,
+            52.3771196
+          ]
+        },
+        "hovi_id": "194",
+        "name": "TSM Business School, vestiging Nunspeet",
+        "street": "Eperweg 46",
+        "zip": "8072 DB",
+        "city": "NUNSPEET",
+        "country": "NL",
+        "vestiging_SK123_id": "524",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "MBA Innovation & Leadership",
+      "english_title": "MBA Innovation & Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70214",
+      "croho_name": "MBA Innovation & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "193",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Radesingel 50, 9711 EK, GRONINGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.5752061,
+              53.2159127
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "9711 EK",
+            "administrativeArea": "Groningen",
+            "raw": [
+              {
+                "longText": "50",
+                "shortText": "50",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Radesingel",
+                "shortText": "Radesingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Binnenstad",
+                "shortText": "Binnenstad",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "Groningen",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "Groningen",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Groningen",
+                "shortText": "GR",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "9711 EK",
+                "shortText": "9711 EK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "50",
+            "formated": "Radesingel 50, 9711 EK Groningen, Netherlands",
+            "viewport": {
+              "south": 53.2145279697085,
+              "west": 6.573643269708499,
+              "north": 53.2172259302915,
+              "east": 6.576341230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.5752061,
+            53.2159127
+          ]
+        },
+        "hovi_id": "193",
+        "name": "TSM Business School, vestiging Groningen",
+        "street": "Radesingel 50",
+        "zip": "9711 EK",
+        "city": "GRONINGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "523",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "MBA Innovation & Leadership",
+      "english_title": "MBA Innovation & Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70214",
+      "croho_name": "MBA Innovation & Leadership",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "194",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Eperweg 46, 8072 DB, NUNSPEET, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.7974387,
+              52.3771196
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "8072 DB",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "46",
+                "shortText": "46",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Eperweg",
+                "shortText": "Eperweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Nunspeet",
+                "shortText": "Nunspeet",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Nunspeet",
+                "shortText": "Nunspeet",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "8072 DB",
+                "shortText": "8072 DB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "46",
+            "formated": "Eperweg 46, 8072 DB Nunspeet, Netherlands",
+            "viewport": {
+              "south": 52.3755360697085,
+              "west": 5.795700519708498,
+              "north": 52.37823403029149,
+              "east": 5.798398480291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.7974387,
+            52.3771196
+          ]
+        },
+        "hovi_id": "194",
+        "name": "TSM Business School, vestiging Nunspeet",
+        "street": "Eperweg 46",
+        "zip": "8072 DB",
+        "city": "NUNSPEET",
+        "country": "NL",
+        "vestiging_SK123_id": "524",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Executive MBA (MSc)",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "75151",
+      "croho_name": "Executive Master in Business Administration",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "153",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Executive MBA is speciaal ontwikkeld voor vakspecialisten die zijn doorgegroeid naar een leidinggevende positie en hun bedrijfskundige kennis én leiderschapsvaardigheden willen ontwikkelen De Executive MBA van TSM Business School is een uniek deeltijd programma dat door haar focus op innovatie, ondernemerschap en persoonlijke ontwikkeling is uitgeroepen tot beste academische MBA van Nederland. Door de wetenschappelijke accreditatie van dit programma ontvang je na afronding de MSc graad. Download de brochure op de website voor meer informatie"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://tsm.nl/opleiding/executive-mba?utm_source=Studielink123_MBA",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Hengelosestraat 583, 7521 AG, ENSCHEDE, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.852016799999999,
+              52.2364059
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "7521 AG",
+            "administrativeArea": "Overijssel",
+            "raw": [
+              {
+                "longText": "583",
+                "shortText": "583",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Hengelosestraat",
+                "shortText": "Hengelosestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Bedrijfsterreinen Enschede-West",
+                "shortText": "Bedrijfsterreinen Enschede-West",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Enschede",
+                "shortText": "Enschede",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Enschede",
+                "shortText": "Enschede",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overijssel",
+                "shortText": "OV",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "7521 AG",
+                "shortText": "7521 AG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "583",
+            "formated": "Hengelosestraat 583, 7521 AG Enschede, Netherlands",
+            "viewport": {
+              "south": 52.2350912697085,
+              "west": 6.850704069708498,
+              "north": 52.2377892302915,
+              "east": 6.853402030291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.852016799999999,
+            52.2364059
+          ]
+        },
+        "hovi_id": "153",
+        "name": "TSM Business School, vestiging Enschede",
+        "street": "Hengelosestraat 583",
+        "zip": "7521 AG",
+        "city": "ENSCHEDE",
+        "country": "NL",
+        "vestiging_SK123_id": "436",
+        "url": "http://www.tsm.nl"
+      }
+    },
+    {
+      "title": "Executive Master in Business Administration",
+      "english_title": "Executive Master in Business Administration",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "75151",
+      "croho_name": "Executive Master in Business Administration",
+      "croho_sector": "economie",
+      "financing": "private",
+      "location_hovi_id": "192",
+      "organization_hovi_id": "243",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Heiligenbergweg 5, 3833 AC, LEUSDEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.4093408,
+              52.1385114
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3833 AC",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "5",
+                "shortText": "5",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Heiligenbergerweg",
+                "shortText": "Heiligenbergerweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Leusden",
+                "shortText": "Leusden",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Leusden",
+                "shortText": "Leusden",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3833 AC",
+                "shortText": "3833 AC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "5",
+            "formated": "Heiligenbergerweg 5, 3833 AC Leusden, Netherlands",
+            "viewport": {
+              "south": 52.1371623697085,
+              "west": 5.407924369708497,
+              "north": 52.1398603302915,
+              "east": 5.410622330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.4093408,
+            52.1385114
+          ]
+        },
+        "hovi_id": "192",
+        "name": "TSM Business School, vestiging Leusden",
+        "street": "Heiligenbergweg 5",
+        "zip": "3833 AC",
+        "city": "LEUSDEN",
+        "country": "NL",
+        "vestiging_SK123_id": "522",
+        "url": "http://www.tsm.nl"
+      }
+    }
+  ]
+}

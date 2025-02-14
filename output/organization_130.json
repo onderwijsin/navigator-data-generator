@@ -1,0 +1,836 @@
+{
+  "title": "IVA Driebergen Business School",
+  "code": "IVA",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "IVA Driebergen is dé rijkserkende Business School op hbo- en mbo-niveau. De opleiding heeft verschillende studierichtingen, Automotive, Innovation (hbo), Nautisch en Transport (hbo) Business Management."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Je krijgt een breed vakkenpakket met o.a.; economie, marketing, management, verkoop en techniek. De kleinschalige particuliere school leidt in eerste instantie op tot commerciële en managementgerichte beroepen in de mobiliteit sector."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "De opleiding geef studenten een uitstekende start in het bedrijfsleven. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Kom kennismaken op een van onze Open Dagen of Avonden. "
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "27WU",
+  "hovi_id": "130",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "IVA Driebergen Business School",
+  "products": [
+    {
+      "title": "Hogere Managementopleiding voor de Mobiliteitsbranche",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34935",
+      "croho_name": "Hogere Managementopleiding voor de Mobiliteitsbranche",
+      "degrees": [
+        "Bachelor",
+        "Bachelor of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "85",
+      "organization_hovi_id": "130",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "t"
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "IVA Driebergen is dé rijkserkende Business School op hbo- en mbo-niveau. De opleiding heeft verschillende studierichtingen, Automotive, Innovation (hbo), Nautisch en Transport (hbo) Business Management. Je krijgt een breed vakkenpakket met o.a.; economie, marketing, management, verkoop en techniek. De kleinschalige particuliere school leidt in eerste instantie op tot commerciële en managementgerichte beroepen in de mobiliteit sector. De opleiding geef studenten een uitstekende start in het bedrijfsleven.  Kom kennismaken op een van onze Open Dagen of Avonden. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bachelor of Business Administration (BBA)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hogere managementopleiding voor de mobiliteitsbranche"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-08-25",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.iva.nl/",
+          "scholarships": [
+            "collegegeldkrediet"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "9079"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "16440",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "IVA Driebergen is dé rijkserkende Business School op hbo- en mbo-niveau. De opleiding heeft verschillende studierichtingen, Automotive, Innovation (hbo), Nautisch en Transport (hbo) Business Management. Je krijgt een breed vakkenpakket met o.a.; economie, marketing, management, verkoop en techniek. De kleinschalige particuliere school leidt in eerste instantie op tot commerciële en managementgerichte beroepen in de mobiliteit sector. De opleiding geef studenten een uitstekende start in het bedrijfsleven.  Kom kennismaken op een van onze Open Dagen of Avonden. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.iva.nl/",
+          "scholarships": [
+            "collegegeldkrediet"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "parttime",
+              "track": "9079"
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Hogesteeg 2a, 3972 JT, DRIEBERGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.287436899999999,
+              52.0492571
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3972 JT",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "2A",
+                "shortText": "2A",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Hogesteeg",
+                "shortText": "Hogesteeg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Driebergen-Rijsenburg",
+                "shortText": "Driebergen-Rijsenburg",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrechtse Heuvelrug",
+                "shortText": "Utrechtse Heuvelrug",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3972 JT",
+                "shortText": "3972 JT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2A",
+            "formated": "Hogesteeg 2A, 3972 JT Driebergen-Rijsenburg, Netherlands",
+            "viewport": {
+              "south": 52.0477959197085,
+              "west": 5.2857286,
+              "north": 52.0504938802915,
+              "east": 5.290217
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.287436899999999,
+            52.0492571
+          ]
+        },
+        "hovi_id": "85",
+        "name": "IVA Business School, vestiging Utrechtse Heuvelrug",
+        "street": "Hogesteeg 2a",
+        "zip": "3972 JT",
+        "city": "DRIEBERGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "175",
+        "url": "https://www.iva.nl"
+      }
+    },
+    {
+      "title": "Honours Programme",
+      "english_title": null,
+      "product_type": "honours_track",
+      "product_level": "bachelor",
+      "location_hovi_id": "85",
+      "organization_hovi_id": "130",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Hogesteeg 2a, 3972 JT, DRIEBERGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.287436899999999,
+              52.0492571
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3972 JT",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "2A",
+                "shortText": "2A",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Hogesteeg",
+                "shortText": "Hogesteeg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Driebergen-Rijsenburg",
+                "shortText": "Driebergen-Rijsenburg",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrechtse Heuvelrug",
+                "shortText": "Utrechtse Heuvelrug",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3972 JT",
+                "shortText": "3972 JT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2A",
+            "formated": "Hogesteeg 2A, 3972 JT Driebergen-Rijsenburg, Netherlands",
+            "viewport": {
+              "south": 52.0477959197085,
+              "west": 5.2857286,
+              "north": 52.0504938802915,
+              "east": 5.290217
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.287436899999999,
+            52.0492571
+          ]
+        },
+        "hovi_id": "85",
+        "name": "IVA Business School, vestiging Utrechtse Heuvelrug",
+        "street": "Hogesteeg 2a",
+        "zip": "3972 JT",
+        "city": "DRIEBERGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "175",
+        "url": "https://www.iva.nl"
+      }
+    },
+    {
+      "title": "Honours Programme",
+      "english_title": null,
+      "product_type": "honours_track",
+      "product_level": "bachelor",
+      "location_hovi_id": "85",
+      "organization_hovi_id": "130",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Hogesteeg 2a, 3972 JT, DRIEBERGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.287436899999999,
+              52.0492571
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3972 JT",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "2A",
+                "shortText": "2A",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Hogesteeg",
+                "shortText": "Hogesteeg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Driebergen-Rijsenburg",
+                "shortText": "Driebergen-Rijsenburg",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrechtse Heuvelrug",
+                "shortText": "Utrechtse Heuvelrug",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3972 JT",
+                "shortText": "3972 JT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2A",
+            "formated": "Hogesteeg 2A, 3972 JT Driebergen-Rijsenburg, Netherlands",
+            "viewport": {
+              "south": 52.0477959197085,
+              "west": 5.2857286,
+              "north": 52.0504938802915,
+              "east": 5.290217
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.287436899999999,
+            52.0492571
+          ]
+        },
+        "hovi_id": "85",
+        "name": "IVA Business School, vestiging Utrechtse Heuvelrug",
+        "street": "Hogesteeg 2a",
+        "zip": "3972 JT",
+        "city": "DRIEBERGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "175",
+        "url": "https://www.iva.nl"
+      }
+    },
+    {
+      "title": "Hogere Managementopleiding voor de Mobiliteitsbranche",
+      "english_title": null,
+      "product_type": "content_variant",
+      "product_level": "bachelor",
+      "croho": "34935",
+      "croho_name": "Hogere Managementopleiding voor de Mobiliteitsbranche",
+      "degrees": [
+        "Bachelor"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "85",
+      "organization_hovi_id": "130",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "colloquium",
+            "computer_exercise",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "traineeship",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben je een watersporter? En op zoek naar een managementopleiding? Dan is Nautisch Business Management echt iets voor jou! De nautische richting van IVA Driebergen Business School is dé managementopleiding toegespitst op de jachtbouw en watersportwereld. Je wordt opgeleid voor commerciële- en managementbanen in deze sectoren. Nautisch Business Management is een voltijd lesprogramma. Eén dag in de week zoek je letterlijk de praktijk op. Deze dag biedt jou interessante gastcolleges. Ook ga je geregeld op bedrijfsbezoek bij toonaangevende spelers in de sector. Direct contact met het bedrijfsleven is zo gegarandeerd. De keuzerichting Nautisch Business Management is onderdeel van Hogeschool IVA. Na de eerste twee jaar die op de Nautische branche is gericht, volgt een algemeen managementjaar. Dit jaar geldt als voorbereiding op de afstudeerstage. In vierde jaar is de afstudeerstage van zes maanden die afgesloten wordt met een afstudeerscriptie. Studenten aan de Hogeschool IVA ronden de opleiding af met de bachelor titel “Hogere Management Opleiding voor de Mobiliteitsbranche”. NBM, een mooie toekomst voor de boeg!"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De nautische richting van IVA Driebergen Business School is dé managementopleiding toegespitst op de jachtbouw en watersportwereld. Je wordt opgeleid voor commerciële en managementbanen in deze sectoren."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-08-24",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.iva.nl/",
+          "scholarships": [
+            "collegegeldkrediet"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "820",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "9080"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "9280",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Hogesteeg 2a, 3972 JT, DRIEBERGEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.287436899999999,
+              52.0492571
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3972 JT",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "2A",
+                "shortText": "2A",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Hogesteeg",
+                "shortText": "Hogesteeg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Driebergen-Rijsenburg",
+                "shortText": "Driebergen-Rijsenburg",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrechtse Heuvelrug",
+                "shortText": "Utrechtse Heuvelrug",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3972 JT",
+                "shortText": "3972 JT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2A",
+            "formated": "Hogesteeg 2A, 3972 JT Driebergen-Rijsenburg, Netherlands",
+            "viewport": {
+              "south": 52.0477959197085,
+              "west": 5.2857286,
+              "north": 52.0504938802915,
+              "east": 5.290217
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.287436899999999,
+            52.0492571
+          ]
+        },
+        "hovi_id": "85",
+        "name": "IVA Business School, vestiging Utrechtse Heuvelrug",
+        "street": "Hogesteeg 2a",
+        "zip": "3972 JT",
+        "city": "DRIEBERGEN",
+        "country": "NL",
+        "vestiging_SK123_id": "175",
+        "url": "https://www.iva.nl"
+      }
+    }
+  ]
+}

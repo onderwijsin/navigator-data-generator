@@ -1,0 +1,148 @@
+{
+  "title": "Instituut Defensie Leergangen",
+  "code": "IDL",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "29UH",
+  "hovi_id": "193",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Netherlands Defence Academy",
+  "products": [
+    {
+      "title": "Executive Master of Security and Defence",
+      "english_title": "Executive Master of Security and Defence",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70071",
+      "croho_name": "Executive Master of Security and Defence",
+      "croho_sector": "gedrag_en_maatschappij",
+      "financing": "private",
+      "location_hovi_id": "167",
+      "organization_hovi_id": "193",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Fellenoordstraat 93, 4811 TH, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.772618,
+              51.5839965
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4811 TH",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "93",
+                "shortText": "93",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fellenoordstraat",
+                "shortText": "Fellenoordstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Breda Centrum",
+                "shortText": "Breda Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "4811 TH",
+                "shortText": "4811 TH",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "93",
+            "formated": "Fellenoordstraat 93, 4811 TH Breda, Netherlands",
+            "viewport": {
+              "south": 51.5825842697085,
+              "west": 4.771248019708499,
+              "north": 51.5852822302915,
+              "east": 4.773945980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.772618,
+            51.5839965
+          ]
+        },
+        "hovi_id": "167",
+        "name": "Instituut Defensie Leergangen, vestiging Breda",
+        "street": "Fellenoordstraat 93",
+        "zip": "4811 TH",
+        "city": "BREDA",
+        "country": "NL",
+        "vestiging_SK123_id": "477",
+        "url": "https://www.defensie.nl/onderwerpen/defensieacademie/inhoud/opleidingen"
+      }
+    }
+  ]
+}

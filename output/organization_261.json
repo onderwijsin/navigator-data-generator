@@ -1,0 +1,890 @@
+{
+  "title": "Nederlandse Academie voor Beeldcreatie",
+  "code": "NACBE",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Bij de Nederlandse Academie voor Beeldcreatie wordt kwalitatief vakgericht fotografie- en filmonderwijs gegeven dat nauw aansluit op de (veranderende) arbeidsmarkt. Onderwijs dat studenten de ruimte geeft om talenten en creativiteit te ontwikkelen én dat hen bewust maakt van hetgeen nodig is om ondernemend, marktgericht en succesvol te zijn. Het instituut is groot geworden door klein te blijven: beperkt van organisatie met een focus op kleinschalig onderwijs. De academie heeft een voortrekkersrol als het gaat om digitalisering en een leven lang leren. Zo is er de mogelijkheid tot deeltijdonderwijs met een blended learning-programma en is het onderwijs toegankelijker met interactieve tutorials. Daarnaast wordt ondernemerschap met het vakgebied verbonden en worden studenten uitgedaagd om niet alleen vakinhoudelijk te floreren, maar ook marktgericht te handelen. De docenten representeren het beste van twee werelden: zij zijn als professioneel fotograaf of filmmaker inhoudelijk (technisch en conceptueel) zeer goed onderlegd en hebben bovendien vaak een achtergrond als ondernemer, manager, econoom of anders."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30YF",
+  "hovi_id": "261",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "University of Applied Photography",
+  "products": [
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "176",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Spoorstraat 27, 7311 PE, APELDOORN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.9730683,
+              52.21010769999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "7311 PE",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "27",
+                "shortText": "27",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Spoorstraat",
+                "shortText": "Spoorstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Apeldoorn",
+                "shortText": "Apeldoorn",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Apeldoorn",
+                "shortText": "Apeldoorn",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "7311 PE",
+                "shortText": "7311 PE",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "27",
+            "formated": "Spoorstraat 27, 7311 PE Apeldoorn, Netherlands",
+            "viewport": {
+              "south": 52.20875436970849,
+              "west": 5.971792069708497,
+              "north": 52.21145233029149,
+              "east": 5.974490030291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.9730683,
+            52.21010769999999
+          ]
+        },
+        "hovi_id": "176",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Apeldoorn",
+        "street": "Spoorstraat 27",
+        "zip": "7311 PE",
+        "city": "APELDOORN",
+        "country": "NL",
+        "vestiging_SK123_id": "494",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "177",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Nieuwe Spiegelstraat 10, 1017 DE, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8897714,
+              52.3647976
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1017 DE",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "10",
+                "shortText": "10",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nieuwe Spiegelstraat",
+                "shortText": "Nieuwe Spiegelstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1017 DE",
+                "shortText": "1017 DE",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "10",
+            "formated": "Nieuwe Spiegelstraat 10, 1017 DE Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3634304697085,
+              "west": 4.888480019708497,
+              "north": 52.3661284302915,
+              "east": 4.891177980291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8897714,
+            52.3647976
+          ]
+        },
+        "hovi_id": "177",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Amsterdam",
+        "street": "Nieuwe Spiegelstraat 10",
+        "zip": "1017 DE",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "495",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "178",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Witte de Withstraat 63, 3012 BN, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.476338399999999,
+              51.9156987
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 BN",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "63",
+                "shortText": "63",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Witte de Withstraat",
+                "shortText": "Witte de Withstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 BN",
+                "shortText": "3012 BN",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "63",
+            "formated": "Witte de Withstraat 63, 3012 BN Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9143913197085,
+              "west": 4.474945719708497,
+              "north": 51.91708928029149,
+              "east": 4.477643680291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.476338399999999,
+            51.9156987
+          ]
+        },
+        "hovi_id": "178",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Rotterdam",
+        "street": "Witte de Withstraat 63",
+        "zip": "3012 BN",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "496",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Toegepaste Fotografie en Beeldcommunicatie",
+      "english_title": "Applied Photography",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "30040",
+      "croho_name": "Toegepaste Fotografie en Beeldcommunicatie",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "226",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Den Dolech 2, 5612 AZ, EINDHOVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.484329499999999,
+              51.4463595
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5612 AZ",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Den Dolech",
+                "shortText": "Den Dolech",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5612 AZ",
+                "shortText": "5612 AZ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Den Dolech 2, 5612 AZ Eindhoven, Netherlands",
+            "viewport": {
+              "south": 51.4454384697085,
+              "west": 5.483198869708497,
+              "north": 51.4481364302915,
+              "east": 5.485896830291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.484329499999999,
+            51.4463595
+          ]
+        },
+        "hovi_id": "226",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Eindhoven",
+        "street": "Den Dolech 2",
+        "zip": "5612 AZ",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "3306",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Film en Audiovisuele Media",
+      "english_title": "Film and Audio-visual Media",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35526",
+      "croho_name": "Film en Audiovisuele Media",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "177",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Nieuwe Spiegelstraat 10, 1017 DE, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8897714,
+              52.3647976
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1017 DE",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "10",
+                "shortText": "10",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nieuwe Spiegelstraat",
+                "shortText": "Nieuwe Spiegelstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1017 DE",
+                "shortText": "1017 DE",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "10",
+            "formated": "Nieuwe Spiegelstraat 10, 1017 DE Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3634304697085,
+              "west": 4.888480019708497,
+              "north": 52.3661284302915,
+              "east": 4.891177980291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8897714,
+            52.3647976
+          ]
+        },
+        "hovi_id": "177",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Amsterdam",
+        "street": "Nieuwe Spiegelstraat 10",
+        "zip": "1017 DE",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "495",
+        "url": "https://navb.nl"
+      }
+    },
+    {
+      "title": "Film en Audiovisuele Media",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35526",
+      "croho_name": "Film en Audiovisuele Media",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "226",
+      "organization_hovi_id": "261",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding Film en Audiovisuele Media vormt je tot allround filmmaker. Visuele creativiteit en ondernemerschap verbinden we in één opleiding. Bewegend beeld is het communicatiemiddel bij uitstek. Voor ieder verhaal, op ieder platform, in iedere context. Naast films en series voor het grote publiek ontwikkelen opdrachtfilm en nieuwe online media zich razendsnel. Het gevolg is een groeiende vraag naar jong talent, allround filmmakers met een eigen visie op het medium. De opleidingsvariant Film en Audiovisuele Media speelt in op de groeiende vraag van opdrachtgevers. Iets voor jou? Film en Audiovisuele Media geeft je de ruimte om je te ontplooien tot een creatieve ondernemende allround filmmaker die werkt vanuit eigen visie en onderscheidend vermogen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://dutchfilmersacademy.nl/home/opleidingen/filmes/hbo/film-en-audiovisuele-media#opleiding",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Den Dolech 2, 5612 AZ, EINDHOVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.484329499999999,
+              51.4463595
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5612 AZ",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Den Dolech",
+                "shortText": "Den Dolech",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5612 AZ",
+                "shortText": "5612 AZ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Den Dolech 2, 5612 AZ Eindhoven, Netherlands",
+            "viewport": {
+              "south": 51.4454384697085,
+              "west": 5.483198869708497,
+              "north": 51.4481364302915,
+              "east": 5.485896830291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.484329499999999,
+            51.4463595
+          ]
+        },
+        "hovi_id": "226",
+        "name": "Nederlandse Academie voor Beeldcreatie, vestiging Eindhoven",
+        "street": "Den Dolech 2",
+        "zip": "5612 AZ",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vestiging_SK123_id": "3306",
+        "url": "https://navb.nl"
+      }
+    }
+  ]
+}

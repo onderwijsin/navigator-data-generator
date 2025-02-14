@@ -1,0 +1,1103 @@
+{
+  "title": "Hogeschool Dirksen",
+  "code": "DIRKS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Intake = zekerheid voor student en werkgever • Is voor de start van de opleiding. • Naast opleidingsniveau kijken we ook naar competenties en intrinsieke motivatie. • Werkgever weet of hij juiste investering maakt en student kan vol vertrouwen starten aan studie. Werkomgeving = leeromgeving • In module Werkzaamheden eigen beroepsomgeving leg je de koppeling tussen het geleerde en de eigen werkomgeving. • Je leert in de praktijk de theorie toepassen en dat levert je studiepunten op. • Dit verantwoord je halfjaarlijks in een verslag. • Functie moet een relatie hebben met de inhoud van de studie. Flexibele en praktijkgerichte leervormen • 20 tot 25 colleges per jaar. • Zelfstudie met online begeleiding. • Praktijk- en projectopdrachten. • Persoonlijke coaching. Actueel lesmateriaal dat perfect aansluit op de marktwensen • Intensieve contacten met het bedrijfsleven, brancheorganisaties en exameninstanties. • Vakken waarin je zowel inhoudelijke ICT competenties als softskills ontwikkelt. • Actuele thema’s waarin je verschillende modules in praktijk brengt. Praktijkopdracht en afstudeeropdracht =oplossing voor uitdaging in je organisatie"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "25RR",
+  "hovi_id": "161",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Dirksen, University of Applied Sciences",
+  "products": [
+    {
+      "title": "Technische informatica",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34475",
+      "croho_name": "Technische Informatica",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "techniek",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "computer_modeling",
+            "design_project",
+            "individual_assignment",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De studierichting Technische Informatica biedt je een keuze uit de afstudeerrichtingen ICT-telecom en Industriële automatisering. In de Technische Informatica heb je de keuze uit de afstudeerrichtingen ICT-telecom en Industriële automatisering. Je studie is een combinatie van zelfstudie met online begeleiding, colleges, persoonlijke coaching en praktijkopdrachten die je thuis of op je werk uitvoert."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Zie de specifieke opleidingen Industriële Automatisering & ICT Telecommunicatie van de Hogeschool Dirksen"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2018-09-13",
+              "end_date": "2022-09-13"
+            }
+          ],
+          "product_url": "https://www.dirksen.nl/hbo",
+          "scholarships": [],
+          "tracks": [
+            {
+              "productForm": "parttime",
+              "track": "8815"
+            },
+            {
+              "productForm": "parttime",
+              "track": "8816"
+            },
+            {
+              "productForm": "parttime",
+              "track": "10097"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld is inclusief examenkosten, lesmateriaal, begeleiding en de benodigde hard- en software. Je kunt ieder examen één keer kosteloos afleggen. Voor herkansingen brengen wij het reguliere examengeld in rekening."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    },
+    {
+      "title": "Associate degree ICT-telecom",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80109",
+      "croho_name": "ICT & Telecommunicatie",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "techniek",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "design_project",
+            "individual_assignment",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze studie word je een professional in het ontwerpen van een netwerkarchitectuur en complexe netwerksystemen voor het verbinden van apparatuur. Verdiep je in de interessante wereld van de telecommunicatie- en datanetwerken, telecommunicatiesystemen en netwerkapparatuur met onze Associate degree ICT-telecom. Hiermee word je een expert in het ontwerpen van een netwerkarchitectuur en complete netwerksystemen voor het verbinden van randapparatuur. Via colleges, zelfstudie en praktijkopdrachten leiden we je op in de onderwerpen datacommunicatie, computertechniek, analoge en digitale techniek en programmeren met als eindresultaat je Associate degree-getuigschrift. Al tijdens je studie leer je nieuwe kennis te vertalen naar praktijkgerichte oplossingen binnen je organisatie. Zo ben je aantoonbaar klaar voor de volgende stap in je carrière. Deel van werktijd = deel van studietijd Dit houdt in dat je tijdens de uitoefening van je functie de theorie leert toepassen, die in het aangereikte lesmateriaal aan bod komt. In de module Werkzaamheden eigen beroepsomgeving leggen we deze koppeling. Je leert dus in de praktijk de theorie toe te passen en dat levert je studiepunten op."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De AD ICT Telecom implementeert, test, ondersteunt en onderhoudt complete netwerksystemen voor datacommunicatie, voor het verbinden van randapparatuur zoals LAN’s en WAN’s. Uit bestaande producten en/of diensten bouwt, configureert en test hij/zij netwerksystemen, om te voorzien in een voor de gebruikers veilige netwerkomgeving, en hij/zij rapporteert aan leidinggevenden."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2018-09-13",
+              "end_date": "2020-09-13"
+            }
+          ],
+          "product_url": "www.hogeschool.nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    },
+    {
+      "title": "Associate degree Industriële automatisering",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80110",
+      "croho_name": "Industriële Automatisering",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "techniek",
+      "credits": "120",
+      "financing": "private",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "individual_assignment",
+            "literature_study",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze studie word je een professional in het bouwen, configureren, testen en beveiligen van geautomatiseerde industriële systemen en netwerken. Onze Associate degree-opleiding Industriële automatisering is speciaal opgebouwd voor technici met ambitie. Via colleges, zelfstudie en praktijkopdrachten leiden we je op in de onderwerpen plc-systemen, industriële netwerken, programmeren en projectmanagement met als eindresultaat je Associate degree getuigschrift. Al tijdens je studie leer je nieuwe kennis te vertalen naar praktijkgerichte oplossingen binnen je organisatie. Zo ben je aantoonbaar klaar voor de volgende stap in je carrière."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Een Ad Industriële automatisering is gespecialiseerd in het opbouwen van geautomatiseerde systemen voor industriële toepassingen. In samenwerking met collega’s kan hij/zij kleinschalige projecten economisch verantwoord uitvoeren, functioneel testen en implementeren, om daarmee te kunnen voorzien in de behoefte aan geautomatiseerde systemen en netwerken."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2018-09-13",
+              "end_date": "2020-09-13"
+            }
+          ],
+          "product_url": "www.hogeschool.nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    },
+    {
+      "title": "Industriële Automatisering",
+      "english_title": null,
+      "product_type": "graduation",
+      "product_level": "bachelor",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dit is een afstudeerrichting van de hbo-opleiding Technische informatica. Als bachelor in de industriële automatisering kun je zeer gevarieerd werk doen, waarbij je je richt op toepassingen van mechanica, elektronica, informatica, pneumatiek en hydrauliek. De bedrijfssectoren in dit vakgebied zijn zeer divers. Je kunt denken aan procesbesturing in de voedingsmiddelenindustrie, de geneesmiddelenindustrie of de chemische industrie, aan robots in de auto-industrie of industriële toeleveranciers."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.dirksen.nl/opleiding/75/bachelor-technische-informatica-afstudeerrichting-industriele-automatisering",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld is inclusief examenkosten, lesmateriaal, begeleiding en de benodigde hard- en software. Je kunt ieder examen één keer kosteloos afleggen. Voor herkansingen brengen wij het reguliere examengeld in rekening."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    },
+    {
+      "title": "ICT Telecommunicatie",
+      "english_title": null,
+      "product_type": "graduation",
+      "product_level": "bachelor",
+      "credits": "240",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dit is een afstudeerrichting van de hbo-opleiding Technische informatica. In deze opleiding verdiep je je in de interessante wereld van de telecommunicatie- en datanetwerken, telecommunicatiesystemen en netwerkapparatuur. Hiermee word je een expert in het ontwerpen van een netwerkarchitectuur en complete netwerksystemen voor het verbinden van randapparatuur. Zelfstudie, persoonlijke coaching, online begeleiding, colleges en praktijkopdrachten wisselen elkaar af. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": null,
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.dirksen.nl/opleiding/74/bachelor-technische-informatica-afstudeerrichting-ict-telecom",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld van € 7500,- per 12 maanden is inclusief examenkosten, lesmateriaal, begeleiding en de benodigde hard- en software. Je kunt ieder examen één keer kosteloos afleggen. Voor herkansingen brengen wij het reguliere examengeld in rekening. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Afstudeerkosten: € 375,- "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    },
+    {
+      "title": "Duurzame installaties en systeemintegratie",
+      "english_title": null,
+      "product_type": "graduation",
+      "product_level": "bachelor",
+      "credits": "240",
+      "location_hovi_id": "215",
+      "organization_hovi_id": "161",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dit is een afstudeerrichting van de hbo-opleiding Technische informatica. Met deze bacheloropleiding word jij een expert in het ontwerpen van een (energiemanagement)systeem, waarin de afzonderlijke duurzame installaties zijn samengevoegd. Je kunt met het systeem de opbrengst uit de alternatieve energiebronnen monitoren en het verbruik veilig online aflezen en beheren voor een groter rendement. Tijdens je studie wisselen colleges, zelfstudie, praktijkopdrachten en persoonlijke coaching elkaar af en leer je nieuwe kennis te vertalen naar praktijkgerichte oplossingen binnen je organisatie.  "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.dirksen.nl/opleiding/312/bachelor-technische-informatica-afstudeerrichting-duurzame-installaties-en-systeemintegratie",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "7500",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Het collegegeld van € 7500,- per 12 maanden is inclusief examenkosten, lesmateriaal, begeleiding en de benodigde hard- en software. Je kunt ieder examen één keer kosteloos afleggen. Voor herkansingen brengen wij het reguliere examengeld in rekening. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Afstudeerkosten: € 375,- "
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Nijverheidsweg 21, 6662 NG, ELST, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.8656026,
+              51.9140907
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6662 NG",
+            "administrativeArea": "Gelderland",
+            "raw": [
+              {
+                "longText": "21",
+                "shortText": "21",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Nijverheidsweg",
+                "shortText": "Nijverheidsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Elst",
+                "shortText": "Elst",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overbetuwe",
+                "shortText": "Overbetuwe",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gelderland",
+                "shortText": "GE",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6662 NG",
+                "shortText": "6662 NG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "21",
+            "formated": "Nijverheidsweg 21, 6662 NG Elst, Netherlands",
+            "viewport": {
+              "south": 51.9127466197085,
+              "west": 5.864415519708497,
+              "north": 51.9154445802915,
+              "east": 5.867113480291501
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.8656026,
+            51.9140907
+          ]
+        },
+        "hovi_id": "215",
+        "name": "Hogeschool Dirksen",
+        "street": "Nijverheidsweg 21",
+        "zip": "6662 NG",
+        "city": "ELST",
+        "country": "NL",
+        "vestiging_SK123_id": "3293",
+        "url": "https://www.dirksen.nl/hbo"
+      }
+    }
+  ]
+}

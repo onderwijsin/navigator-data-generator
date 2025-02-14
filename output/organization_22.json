@@ -1,0 +1,1957 @@
+{
+  "title": "Gerrit Rietveld Academie",
+  "code": "RIETV",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "De Gerrit Rietveld Academie wil talentvolle jonge mensen op zo’n manier begeleiden dat ze in staat zijn zelfstandig in de beeldende kunst of vormgeving te functioneren. We willen bereiken dat ze op eigen kracht hun werk gaande kunnen houden en tot de artistieke inspirators van hun vakgebied uitgroeien. De Rietveld Academie wil de capaciteiten en de creativiteit van het individu optimaal tot ontplooiing brengen. We hebben respect voor het individu en voor zijn vrijheid om een persoonlijke benadering te ontwikkelen en de eigen toekomst te bepalen. We kiezen voor onderzoek, experiment en auteurschap. Daarbij hechten we grote waarde aan een open houding tegenover de omgeving en pleiten voor betrokkenheid bij de ander en de maatschappij. Dit doen wij vanuit onze eigenzinnige visie op wat kunstonderwijs zou moeten zijn. De Rietveld Academie is een internationale academie. Met 50% buitenlandse studenten uit meer dan 60 landen reflecteren we het karakter van de hedendaagse wereld van kunst & cultuur. Het samenkomen van verschillende culturen in onze academie zien we als een kracht; studenten en docenten worden uitgedaagd om verschillende perspectieven in te nemen."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "02BY",
+  "hovi_id": "22",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Gerrit Rietveld Academy",
+  "products": [
+    {
+      "title": "Beeldende Kunst en Vormgeving",
+      "english_title": "Art & Design",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39109",
+      "croho_name": "Beeldende Kunst en Vormgeving",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "22",
+      "organization_hovi_id": "22",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": null,
+              "validFor": [
+                "international",
+                "outsideinstitute"
+              ]
+            }
+          ],
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Er wordt verwacht dat studenten een initiatiefrijke houding hebben, in staat zijn tot zelfreflectie en de behoefte voelen tot het uitwisselen van ideeën met anderen. We kiezen voor onderzoek, experiment en kritische bevraging. Daarbij hechten we grote waarde aan een geëngageerde, open houding ten opzichte van de ander en de maatschappij. Alle studenten starten met een basisjaar en kunnen zich daarna specialiseren. De totale duur van de studie is 4 jaar."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "design_project",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "research",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Gerrit Rietveld Academie is een kleinschalige, zelfstandige, internationaal georiënteerde hogeschool voor Beeldende Kunst en Vormgeving in Amsterdam, waar artistieke expertise vanuit vele uiteenlopende invalshoeken samenkomt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Rietveld Academie wil de capaciteiten en de creativiteit van het individu optimaal tot ontplooiing brengen. We hebben respect voor het individu en voor zijn vrijheid om een persoonlijke benadering te ontwikkelen en de eigen toekomst te bepalen. We kiezen voor onderzoek, experiment en auteurschap. Daarbij hechten we grote waarde aan een open houding tegenover de omgeving en pleiten voor betrokkenheid bij de ander en de maatschappij. Dit doen wij vanuit onze eigenzinnige visie op wat kunstonderwijs zou moeten zijn. De Rietveld Academie is een internationale academie. Met 65% buitenlandse studenten uit meer dan 60 landen reflecteren we het karakter van de hedendaagse wereld van kunst & cultuur. Het samenkomen van verschillende culturen in onze academie zien we als een kracht; studenten en docenten worden uitgedaagd om verschillende perspectieven in te nemen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De voltijd bachelor opleiding duurt 4 jaar. het 1ste jaar is het basisjaar en daarna volgen er 3 specialisatiejaren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Gerrit Rietveld Academie is a small-scale, independent, internationally oriented college of Fine Arts and Design in Amsterdam, where artistic expertise from many different perspectives comes together."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Rietveld Academy wants to develop the individual's capacities and creativity to their full potential. We respect the individual and his freedom to develop a personal approach and determine his own future. We opt for research, experimentation and authorship. In doing so, we attach great value to an open attitude to the environment and advocate involvement with others and society. We do this from our distinctive vision of what art education should be."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Rietveld Academie is an international academy. With 65% foreign students from more than 60 countries, we reflect the character of the contemporary world of art & culture. We see the coming together of different cultures in our academy as a strength; students and teachers are challenged to take in different perspectives."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The full-time bachelor's program lasts 4 years. the 1st year is the foundation year and then 3 specialization years follow."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Competenties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Creatief vermogen: Studenten zijn in staat authentiek beeldend werk te maken dat gebaseerd is op onderzoek en de artistieke visie aantoont. Het werk creëert betekenis en is gebaseerd op de persoonlijke ambitie van de kunstenaar/ontwerper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vermogen tot kritische reflectie: Studenten zijn in staat hun eigen werk en werkwijze en die van anderen te onderzoeken door middel van observatie, analyse, probleemstelling, positionering en evaluatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Organiserend vermogen Studenten zijn in staat een inspirerende en professionele werksituatie op te zetten en te onderhouden."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Communicatief vermogen: Studenten kunnen hun ideeën, concepten, werk, werkwijze en artistieke visie verwoorden voor professionals en een breder publiek, zowel binnen als buiten het vakgebied."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Contextueel bewustzijn en betrokkenheid: Studenten zijn in staat een actieve en kritische houding aan te OER bachelor Gerrit Rietveld Academie Academisch Jaar 2022-2023 60 nemen ten opzichte van de context waarin zij werken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vermogen tot samenwerking: In een samenwerkingsverband zijn Studenten in staat zelfstandig en actief bij te dragen aan de ontwikkeling van een artistiek product of proces."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.rietveldacademie.nl",
+          "product_url_en": "https://www.gerritrietveldacademie.nl",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_costs": [
+            {
+              "amount": "171",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: visa, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "4000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: insurance, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "7000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: housing, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: excursions, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "3165"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2814",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Wettelijk collegegeld (NL/EER) met toeslag kleinschalig intensief onderwijs; wanneer je niet eerder een Nederlandse bacheloropleiding hebt afgerond"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "7600",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Instellingscollegegeld nieuwe studenten met een niet-EER nationaliteit (Uitzondering studenten met een Zwitserse of Surinaamse nationaliteit of met een specifiek type verblijfsvergunning betalen het wettelijke collegegeld."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": true,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": null,
+              "validFor": [
+                "international",
+                "outsideinstitute"
+              ]
+            }
+          ],
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Er wordt verwacht dat studenten een initiatiefrijke houding hebben, in staat zijn tot zelfreflectie en de behoefte voelen tot het uitwisselen van ideeën met anderen. We kiezen voor onderzoek, experiment en kritische bevraging. Daarbij hechten we grote waarde aan een geëngageerde, open houding ten opzichte van de ander en de maatschappij. Alle studenten starten met een basisjaar en kunnen zich daarna specialiseren. De totale duur van de studie is 4 jaar."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "design_project",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "research",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Gerrit Rietveld Academie is een kleinschalige, zelfstandige, internationaal georiënteerde hogeschool voor Beeldende Kunst en Vormgeving in Amsterdam, waar artistieke expertise vanuit vele uiteenlopende invalshoeken samenkomt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Rietveld Academie wil de capaciteiten en de creativiteit van het individu optimaal tot ontplooiing brengen. We hebben respect voor het individu en voor zijn vrijheid om een persoonlijke benadering te ontwikkelen en de eigen toekomst te bepalen. We kiezen voor onderzoek, experiment en auteurschap. Daarbij hechten we grote waarde aan een open houding tegenover de omgeving en pleiten voor betrokkenheid bij de ander en de maatschappij. Dit doen wij vanuit onze eigenzinnige visie op wat kunstonderwijs zou moeten zijn. De Rietveld Academie is een internationale academie. Met 65% buitenlandse studenten uit meer dan 60 landen reflecteren we het karakter van de hedendaagse wereld van kunst & cultuur. Het samenkomen van verschillende culturen in onze academie zien we als een kracht; studenten en docenten worden uitgedaagd om verschillende perspectieven in te nemen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De deeltijd bachelor opleiding duurt 5 jaar. De 1ste 2 jaar zijn basisjaar en daarna volgen er 3 specialisatiejaren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Gerrit Rietveld Academie is a small-scale, independent, internationally oriented college of Fine Arts and Design in Amsterdam, where artistic expertise from many different perspectives comes together."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Rietveld Academy wants to develop the individual's capacities and creativity to their full potential. We respect the individual and his freedom to develop a personal approach and determine his own future. We opt for research, experimentation and authorship. In doing so, we attach great value to an open attitude to the environment and advocate involvement with others and society. We do this from our distinctive vision of what art education should be."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Rietveld Academie is an international academy. With 65% foreign students from more than 60 countries, we reflect the character of the contemporary world of art & culture. We see the coming together of different cultures in our academy as a strength; students and teachers are challenged to take in different perspectives."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The part-time bachelor's program lasts 5 years. The 1st 2 years are foundation years, followed by 3 specialization years."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Competenties:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Creatief vermogen: Studenten zijn in staat authentiek beeldend werk te maken dat gebaseerd is op onderzoek en de artistieke visie aantoont. Het werk creëert betekenis en is gebaseerd op de persoonlijke ambitie van de kunstenaar/ontwerper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vermogen tot kritische reflectie: Studenten zijn in staat hun eigen werk en werkwijze en die van anderen te onderzoeken door middel van observatie, analyse, probleemstelling, positionering en evaluatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Organiserend vermogen Studenten zijn in staat een inspirerende en professionele werksituatie op te zetten en te onderhouden."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Communicatief vermogen: Studenten kunnen hun ideeën, concepten, werk, werkwijze en artistieke visie verwoorden voor professionals en een breder publiek, zowel binnen als buiten het vakgebied."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Contextueel bewustzijn en betrokkenheid: Studenten zijn in staat een actieve en kritische houding aan te OER bachelor Gerrit Rietveld Academie Academisch Jaar 2022-2023 60 nemen ten opzichte van de context waarin zij werken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vermogen tot samenwerking: In een samenwerkingsverband zijn Studenten in staat zelfstandig en actief bij te dragen aan de ontwikkeling van een artistiek product of proces."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.rietveldacademie.nl",
+          "product_url_en": "https://www.gerritrietveldacademie.nl",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_costs": [
+            {
+              "amount": "171",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: visa, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "4000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: insurance, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "7000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: housing, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: excursions, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "parttime",
+              "track": "3165"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2814",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Wettelijk collegegeld (NL/EER) met toeslag kleinschalig intensief onderwijs; wanneer je niet eerder een Nederlandse bacheloropleiding hebt afgerond"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "5732",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Instellingscollegegeld (NL/EER) wanneer je eerder een Nederlandse voltijd bacheloropleiding hebt afgerond"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Fred Roeskestraat 96, 1076 ED, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8598037,
+              52.3413107
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1076 ED",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "96",
+                "shortText": "96",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fred. Roeskestraat",
+                "shortText": "Fred. Roeskestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1076 ED",
+                "shortText": "1076 ED",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "96",
+            "formated": "Fred. Roeskestraat 96, 1076 ED Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3397878197085,
+              "west": 4.858484869708498,
+              "north": 52.3424857802915,
+              "east": 4.861182830291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8598037,
+            52.3413107
+          ]
+        },
+        "hovi_id": "22",
+        "name": "Gerrit Rietveld Academie, vestiging Amsterdam",
+        "street": "Fred Roeskestraat 96",
+        "zip": "1076 ED",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "65",
+        "url": "http://www.gerritrietveldacademie.nl"
+      }
+    },
+    {
+      "title": "Master of Arts in Fine Art and Design",
+      "english_title": "Master of Arts in Fine Art and Design",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49114",
+      "croho_name": "Master of Arts in Fine Art and Design",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "120",
+      "financing": "government",
+      "location_hovi_id": "22",
+      "organization_hovi_id": "22",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "project",
+            "research",
+            "self_study",
+            "theory",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Gerrit Rietveld Academie/Sandberg Institute aims to support talented young people in such a way that they can operate independently in the field of visual arts or design. We want to enable them to sustain their work on their own and become sources of artistic inspiration in their area of specialisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Gerrit Rietveld Academie/Sandberg Institute aims to support talented young people in such a way that they can operate independently in the field of visual arts or design. We want to enable them to sustain their work on their own and become sources of artistic inspiration in their area of specialisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Gerrit Rietveld Academie aims to support talented young people in such a way that they can operate independently in the field of visual arts or design. We want to enable them to sustain their work on their own and become sources of artistic inspiration in their area of specialisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "http://www.sandberg.nl",
+          "product_url_en": "http://www.sandberg.nl",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_costs": [
+            {
+              "amount": "171",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: visa, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "4000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: insurance, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "7000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: housing, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: excursions, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2640",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            },
+            {
+              "amount": "6396",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "6396",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2020
+            },
+            {
+              "amount": "2664",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2021
+            },
+            {
+              "amount": "6456",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2021
+            },
+            {
+              "amount": "6456",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Fred Roeskestraat 96, 1076 ED, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8598037,
+              52.3413107
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1076 ED",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "96",
+                "shortText": "96",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fred. Roeskestraat",
+                "shortText": "Fred. Roeskestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1076 ED",
+                "shortText": "1076 ED",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "96",
+            "formated": "Fred. Roeskestraat 96, 1076 ED Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3397878197085,
+              "west": 4.858484869708498,
+              "north": 52.3424857802915,
+              "east": 4.861182830291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8598037,
+            52.3413107
+          ]
+        },
+        "hovi_id": "22",
+        "name": "Gerrit Rietveld Academie, vestiging Amsterdam",
+        "street": "Fred Roeskestraat 96",
+        "zip": "1076 ED",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "65",
+        "url": "http://www.gerritrietveldacademie.nl"
+      }
+    },
+    {
+      "title": "Interieurarchitectuur",
+      "english_title": "Interior Architecture",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49238",
+      "croho_name": "Interieurarchitectuur",
+      "degrees": [
+        "Master of Design",
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "120",
+      "financing": "government",
+      "location_hovi_id": "22",
+      "organization_hovi_id": "22",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": [
+            {
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Toelatingsgesprek + portfolio"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "testMethod": null
+            }
+          ],
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "design_project",
+            "excursion",
+            "exhibition",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "research_project",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Sandberg Institute, affiliated with the Gerrit Rietveld Academie has a strong outward orientation. The Sandberg Institute takes a broad perspective on the discipline of Interior Architecture. The student is educated in an area of expertise that includes the conceptualisation of the direct living space, the development of design concepts and practice from a strong social engagement combined with an independent approach. Based on the objective, core values and educational vision of the Gerrit Rietveld Academie in general, the Master’s programme trains interior architects who are capable of producing innovative and unorthodox designs through autonomous research and experimentation. They are able to generate future-proof solutions for the complex spatial design tasks of today. They are able to create spaces with autonomous qualities. The graduates are independent interior architects. They can execute work for clients and formulate their own tasks. They can work independently or in (international) multidisciplinary teams. They are able to contribute extensively to interdisciplinary projects and have an open attitude towards their environment and involvement with others and society in general."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Sandberg Institute, affiliated with the Gerrit Rietveld Academie has a strong outward orientation. The Sandberg Institute takes a broad perspective on the discipline of Interior Architecture. The student is educated in an area of expertise that includes the conceptualisation of the direct living space, the development of design concepts and practice from a strong social engagement combined with an independent approach. Based on the objective, core values and educational vision of the Gerrit Rietveld Academie in general, the Master’s programme trains interior architects who are capable of producing innovative and unorthodox designs through autonomous research and experimentation. They are able to generate future-proof solutions for the complex spatial design tasks of today. They are able to create spaces with autonomous qualities. The graduates are independent interior architects. They can execute work for clients and formulate their own tasks. They can work independently or in (international) multidisciplinary teams. They are able to contribute extensively to interdisciplinary projects and have an open attitude towards their environment and involvement with others and society in general."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": "2023-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.sandberg.nl",
+          "product_url_en": "https://www.sandberg.nl",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_costs": [
+            {
+              "amount": "4000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "321",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: visa, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "400",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: insurance, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "7000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: housing, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "amount": "750",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: excursions, period: year"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2664",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2021
+            },
+            {
+              "amount": "6456",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2021
+            },
+            {
+              "amount": "6456",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "2664",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Fred Roeskestraat 96, 1076 ED, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8598037,
+              52.3413107
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1076 ED",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "96",
+                "shortText": "96",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fred. Roeskestraat",
+                "shortText": "Fred. Roeskestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1076 ED",
+                "shortText": "1076 ED",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "96",
+            "formated": "Fred. Roeskestraat 96, 1076 ED Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3397878197085,
+              "west": 4.858484869708498,
+              "north": 52.3424857802915,
+              "east": 4.861182830291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8598037,
+            52.3413107
+          ]
+        },
+        "hovi_id": "22",
+        "name": "Gerrit Rietveld Academie, vestiging Amsterdam",
+        "street": "Fred Roeskestraat 96",
+        "zip": "1076 ED",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "65",
+        "url": "http://www.gerritrietveldacademie.nl"
+      }
+    },
+    {
+      "title": "Beeldende Kunst en Vormgeving",
+      "english_title": "Art & Design",
+      "product_type": "specialization",
+      "product_level": "bachelor",
+      "credits": "240",
+      "location_hovi_id": "22",
+      "organization_hovi_id": "22",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afstudeerrichtingen: Beeldende Kunst Audiovisueel Grafisch Ontwerp Architectonisch Ontwerp Design Lab (Industrial Design) Sieraden Glas Keramiek Fotografie Mode Beeld en Taal Textiel"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Moving Image"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Graphic Design"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Architectural Design"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Design Lab"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jewellry- Linked bodies"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The large glass"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ceramics"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Photography"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fashion"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Image and language"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "TxT (textile)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://rietveldacademie.nl/nl",
+          "product_url_en": "https://rietveldacademie.nl/en",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Fred Roeskestraat 96, 1076 ED, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8598037,
+              52.3413107
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1076 ED",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "96",
+                "shortText": "96",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fred. Roeskestraat",
+                "shortText": "Fred. Roeskestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1076 ED",
+                "shortText": "1076 ED",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "96",
+            "formated": "Fred. Roeskestraat 96, 1076 ED Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3397878197085,
+              "west": 4.858484869708498,
+              "north": 52.3424857802915,
+              "east": 4.861182830291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8598037,
+            52.3413107
+          ]
+        },
+        "hovi_id": "22",
+        "name": "Gerrit Rietveld Academie, vestiging Amsterdam",
+        "street": "Fred Roeskestraat 96",
+        "zip": "1076 ED",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "65",
+        "url": "http://www.gerritrietveldacademie.nl"
+      }
+    },
+    {
+      "title": "Honoursprogram Art and Research",
+      "english_title": "Honoursprogram Art and Research",
+      "product_type": "honours_track",
+      "product_level": "bachelor",
+      "location_hovi_id": "22",
+      "organization_hovi_id": "22",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Fred Roeskestraat 96, 1076 ED, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8598037,
+              52.3413107
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1076 ED",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "96",
+                "shortText": "96",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fred. Roeskestraat",
+                "shortText": "Fred. Roeskestraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1076 ED",
+                "shortText": "1076 ED",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "96",
+            "formated": "Fred. Roeskestraat 96, 1076 ED Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3397878197085,
+              "west": 4.858484869708498,
+              "north": 52.3424857802915,
+              "east": 4.861182830291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8598037,
+            52.3413107
+          ]
+        },
+        "hovi_id": "22",
+        "name": "Gerrit Rietveld Academie, vestiging Amsterdam",
+        "street": "Fred Roeskestraat 96",
+        "zip": "1076 ED",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "65",
+        "url": "http://www.gerritrietveldacademie.nl"
+      }
+    }
+  ]
+}

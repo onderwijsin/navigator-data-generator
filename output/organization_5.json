@@ -1,0 +1,5135 @@
+{
+  "title": "Driestar Hogeschool",
+  "code": "DRIES",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Heb jij hart voor kinderen en jongeren? Wil je iets betekenen voor hun toekomst? Dan ben je bij ons aan het goede adres! Bij Driestar Hogeschool hebben we opleidingen op het gebied van onderwijs en opvoeding. In onze hogeschool zijn we gericht op Bron, mens en inhoud. Deze kernwoorden lopen als een rode draad door onze opleidingen heen, met als doel om onze studenten zo goed mogelijk op te leiden en te professionaliseren. Naast bacheloronderwijs hebben wij ook een aanbod van professionele masteropleidingen. Ten slotte heb je bij ons ook volop mogelijkheden om ervaringen op te doen met (christelijk) onderwijs in het buitenland. Meer weten? Kijk op onze website, kom naar een open dag of volg een aantal colleges. Weet je welkom!"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "15BK",
+  "hovi_id": "5",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Driestar Christian University for Teacher Education",
+  "products": [
+    {
+      "title": "Opleiding tot leraar Basisonderwijs (pabo)",
+      "english_title": "Education in Primary Schools (age 4 - 12)",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Driestar hogeschool willen we dat je een goede christelijke leerkracht wordt. Daarom hebben we het met je over identiteit en persoonsvorming. Daarover nadenken helpt je als je straks voor de klas staat en een voorbeeld wilt zijn voor de kinderen. Als tweede leer je pedagogisch en didactisch handelen, zodat jij straks je leerlingen kunt te begeleiden. Tot slot werken we veel aan kennis van vakken die op de basisschool gegeven worden en hoe je die uitlegt aan kinderen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "practice",
+            "project",
+            "self_study",
+            "theory",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je kunt de pabo volgen als duale opleiding (werken-leren-route) als je aanstelling van minimaal twee dagen per week hebt op een basisschool. Het voordeel van deze studieroute is dat je leren en werken combineert met een baan en dus inkomsten hebt. We verwachten bij deze opleiding dat je genoeg discipline hebt om de verschillende taken te organiseren en uit te voeren. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je volgt de colleges tegelijkertijd met de studenten van de deeltijdopleiding. De deadlines voor de tentamens en opdrachten zijn verspreid over het jaar. Je werk op de basisschool geldt als je stage. Het is belangrijk dat je in het eerste jaar 2 keer 14 dagdelen ‘stage’ loopt in een andere groep. Op die manier maak je kennis met de onderbouw, middenbouw en bovenbouw. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-basisonderwijs-(pabo)-duaal#",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 42,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2209",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Driestar hogeschool willen we dat je een goede christelijke leerkracht wordt. Daarom hebben we het met je over identiteit en persoonsvorming. Daarover nadenken helpt je als je straks voor de klas staat en een voorbeeld wilt zijn voor de kinderen. Als tweede leer je pedagogisch en didactisch handelen, zodat jij straks je leerlingen kunt te begeleiden. Tot slot werken we veel aan kennis van vakken die op de basisschool gegeven worden en hoe je die uitlegt aan kinderen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "practice",
+            "project",
+            "self_study",
+            "theory",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze pabo-voltijdopleiding kun je op twee manieren kunt volgen: via een blokvariant en een lintvariant. Je krijgt in beide varianten exact dezelfde colleges, toetsen en stages. Voor welke variant je kiest heeft vooral te maken met je leervoorkeur. Heb je liever graag een flinke theoretische basis voordat je de praktijk in gaat, dan past de blokvariant bij jou. Vind je het juist prettig om dat wat je meekrijgt op de hogeschool meteen uit te proberen in een klas, dan sluit de lintvariant beter aan."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ook kun je mee laten wegen of je tijdens je studietijd graag in Gouda of omgeving wilt wonen, bijvoorbeeld in de gezellige studentenhuisvesting naast onze hogeschool. De blokvariant past daar goed bij, omdat je dan steeds een aantal weken fulltime colleges volgt en dus veel in Gouda moet zijn. Als je liever thuis blijft wonen én ver van Gouda woont, dan is de lintvariant een goede optie."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-basisonderwijs-(pabo)-voltijd#",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 42,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "2100",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Naast het collegegeld dient er soms rekening gehouden te worden met aanvullende studiekosten zoals studie- en moduleboeken. De kosten hiervan zijn voor de:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Pabo voltijdroute:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Boekengeld jaar 1: € 1.500,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Boekengeld overige jaren: € 500,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Werkweek jaar 1: € 100,-"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Driestar hogeschool willen we dat je een goede christelijke leerkracht wordt. Daarom hebben we het met je over identiteit en persoonsvorming. Daarover nadenken helpt je als je straks voor de klas staat en een voorbeeld wilt zijn voor de kinderen. Als tweede leer je pedagogisch en didactisch handelen, zodat jij straks je leerlingen kunt te begeleiden. Tot slot werken we veel aan kennis van vakken die op de basisschool gegeven worden en hoe je die uitlegt aan kinderen."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "practice",
+            "project",
+            "self_study",
+            "theory",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De deeltijdstudie leraar basisonderwijs leidt je op voor hetzelfde diploma als de voltijdstudie. Het grote verschil is dat er minder contactmomenten zijn. In deeltijd studeren is daarom interessant als je naast je studie bijvoorbeeld werkt of al een andere opleiding doet of hebt gedaan. Tijdens het intakegesprek voor de deeltijdroute praten we over jouw vooropleiding en de competenties die je bezit. Samen bespreken we of je op basis daarvan vrijstellingen kunt krijgen of een andere (verkorte) studieroute kunt volgen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-basisonderwijs-(pabo)-deeltijd#",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 42,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "2000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Naast het collegegeld dient er soms rekening gehouden te worden met aanvullende studiekosten zoals studie- en moduleboeken. De kosten hiervan zijn voor de:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "marks": [
+                          {
+                            "type": "bold"
+                          }
+                        ],
+                        "text": "Pabo deeltijdroute:"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Boekengeld jaar 1: € 1.500,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Boekengeld overige jaren: € 500,-"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "1870",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pedagogiek",
+      "english_title": "Educational Theory",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35158",
+      "croho_name": "Pedagogiek",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hart voor jeugdigen en hun opvoeding. Dat kenmerkt onze studenten pedagogiek. Als pedagoog ben je dé expert die jeugdigen en iedereen die met jeugdigen werkt ondersteunt en begeleidt. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hier heb je natuurlijk kennis en vaardigheden voor nodig. Op onze opleiding Pedagogiek bespreek je de laatste theorieën en ontwikkelingen in dit werkveld. Je ontwikkelt een visie hierop en oefent beroepstaken, zoals het begeleiden van gezinnen. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De sfeer op onze hogeschool is persoonlijk; docenten en studenten kennen elkaar en daarom kunnen docenten je goed helpen bij het behalen van jouw leerdoelen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Op onze hogeschool vinden we persoonsvorming belangrijk: hun kun jij jouw talenten leren kennen en ontwikkelen en daardoor de groei van jeugdigen en opvoeders stimuleren en begeleiden? Wat kunnen we daarin leren van christelijke pedagogen? "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding is een volwaardige hbo-studie die je in deeltijd volgt. Dit geeft je veel mogelijkheid om de opleiding zo in te delen dat het in jouw persoonlijke situatie past."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/pedagogiek?utm_source=hovi&utm_medium=referall&utm_campaign=pedagogiek",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 60,
+              "period": 24
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Duits",
+      "english_title": "Teacher Education in German",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35193",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Duits",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze tweedegraads lerarenopleiding word je een vakbekwame leraar Duits, met sterke pedagogische en didactische kwaliteiten. Na succesvol afronden van de opleiding ontvang je een volwaardig hbo-diploma."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding is geschikt voor iedereen met hart voor leerlingen en liefde voor de Duitse taal. Je leert Duits tot op het hoogst internationaal erkende niveau beheersen. Je krijgt vakken als grammatica, idioom en kennis van land, volk en literatuur. Aan het einde van de studie ben je vaardig in het luisteren, spreken en schrijven van de Duitse taal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar en wat is een christelijke leraar? En hoe kun jij er een worden? "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lijkt het jou een mooie uitdaging om tieners enthousiast te maken voor Duits? Dan is deze opleiding je op het lijf geschreven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-duits-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=duits",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En heb je interesse in de Duitse taal en cultuur? Bij Driestar hogeschool in Gouda word je in 4 jaar opgeleid tot een vakbekwame leraar Duits, met sterke pedagogische en didactische kwaliteiten. Na succesvol afronden van de deeltijdopleiding ontvang je een volwaardig hbo-diploma."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding is geschikt voor iedereen met hart voor leerlingen en liefde voor de Duitse taal. Je leert Duits tot op het hoogst internationaal erkende niveau beheersen. Je krijgt vakken als grammatica, idioom en kennis van land, volk en literatuur. Aan het einde van de studie ben je vaardig in het luisteren, spreken en schrijven van de Duitse taal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar en wat is een christelijke leraar? En hoe kun jij er een worden? "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Lijkt het jou een mooie uitdaging om tieners enthousiast te maken voor Duits? Dan is deze opleiding je op het lijf geschreven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-duits-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=duits",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Engels",
+      "english_title": "Teacher Education in English",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35195",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Engels",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens deze tweedegraads lerarenopleiding leer je Engels tot op het hoogst internationaal erkende niveau beheersen. Aan het einde van de studie ben je vaardig in het luisteren, spreken en schrijven van de Engelse taal. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden? Onze opleiding zou niet compleet zijn zonder de mogelijkheid om een Engelstalig land te bezoeken. We dagen je uit om je grenzen te verleggen en helpen je hier graag bij."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-engels-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=engels",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En heb je interesse in de Engelse taal en cultuur? Bij Driestar hogeschool in Gouda word je tijdens de deeltijdopleiding in 4 jaar opgeleid tot een vakbekwame leraar Engels, met sterke pedagogische en didactische kwaliteiten. Na succesvol afronden van de deeltijdopleiding ontvang je een volwaardig hbo-diploma."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding Leraar voortgezet onderwijs Engels is perfect voor iedereen met een hart voor leerlingen en de Engelse taal. Als leraar zie jij het als een uitdaging om de liefde voor de Engelse taal over te brengen aan jouw leerlingen. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens deze tweedegraads lerarenopleiding leer je Engels tot op het hoogst internationaal erkende niveau beheersen. Aan het einde van de studie ben je vaardig in het luisteren, spreken en schrijven van de Engelse taal. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden? Onze opleiding zou niet compleet zijn zonder de mogelijkheid om een Engelstalig land te bezoeken. We dagen je uit om je grenzen te verleggen en helpen je hier graag bij."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-engels-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=engels",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Geschiedenis",
+      "english_title": "Teacher Education in History",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35197",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Geschiedenis",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze tweedegraads lerarenopleiding verdiep je je grondig in de geschiedenis. Alle perioden tussen de Oudheid en het heden komen aan bod. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je verdiept je in historische ontwikkelingen. Die probeer je te beschrijven én te verklaren. Je denkt na over vragen als: Hoe is er in de loop van de tijd over bepaalde gebeurtenissen gedacht? Waardoor ontstaan die verschillende visies en welke visie heb ik eigenlijk? Bij Driestar hogeschool komt de christelijke visie op geschiedenis aan de orde, maar ook die van andere levensbeschouwingen. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En natuurlijk besteden we naast de vakinhoud ook aandacht aan leraarschap: Hoe ga je om met leerlingen? Hoe draag je bij aan hun vorming? Vanuit het beroepsprofiel van de christelijke leraar denk je na over de vraag wat een goede leraar is en ontwikkel je je jezelf tot een startbekwame docent."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-geschiedenis-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=geschiedenis",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En heb je interesse in opgravingen uit de oudheid, verhalen over de Gouden Eeuw en de manier waarop wij nu terugkijken op verschillende historische gebeurtenissen? Bij Driestar hogeschool in Gouda word je tijdens de deeltijdopleiding Leraar geschiedenis in 4 jaar opgeleid tot een vakbekwame leraar met sterke pedagogische en didactische kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze tweedegraads lerarenopleiding verdiep je je grondig in de geschiedenis. Alle perioden tussen de Oudheid en het heden komen aan bod. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je verdiept je in historische ontwikkelingen. Die probeer je te beschrijven én te verklaren. Je denkt na over vragen als: Hoe is er in de loop van de tijd over bepaalde gebeurtenissen gedacht? Waardoor ontstaan die verschillende visies en welke visie heb ik eigenlijk? Bij Driestar hogeschool komt de christelijke visie op geschiedenis aan de orde, maar ook die van andere levensbeschouwingen. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En natuurlijk besteden we naast de vakinhoud ook aandacht aan leraarschap: Hoe ga je om met leerlingen? Hoe draag je bij aan hun vorming? Vanuit het beroepsprofiel van de christelijke leraar denk je na over de vraag wat een goede leraar is en ontwikkel je je jezelf tot een startbekwame docent."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-02",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-geschiedenis-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=geschiedenis",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Nederlands",
+      "english_title": "Teacher Education in Dutch",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35198",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Nederlands",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze tweedegraads lerarenopleiding ga je aan de slag met vakinhoudelijke kennis en met de vaardigheden die je nodig hebt als leerkracht. Je leert niet alleen alles over de Nederlandse taal, je duikt ook in de literatuurgeschiedenis. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We behandelen elke periode, van de Middeleeuwen tot de moderne letterkunde. Uit elk tijdvak lees en bespreek je interessante werken. Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden?"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-nederlands-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=nederlands",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En heb je interesse in de Nederlandse taal en letterkunde? Volg dan de deeltijdopleiding Leraar Nederlands bij Driestar hogeschool in Gouda en word in 4 jaar opgeleid tot een vakbekwame leraar Nederlands, met sterke pedagogische en didactische kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze tweedegraads lerarenopleiding ga je aan de slag met vakinhoudelijke kennis en met de vaardigheden die je nodig hebt als leerkracht. Je leert niet alleen alles over de Nederlandse taal, je duikt ook in de literatuurgeschiedenis. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We behandelen elke periode, van de Middeleeuwen tot de moderne letterkunde. Uit elk tijdvak lees en bespreek je interessante werken. Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden?"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-nederlands-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=nederlands",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Algemene Economie",
+      "english_title": "Teacher Education in General Economics",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35202",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Algemene Economie",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze studieroute combineer je leren en werken. Je leert bij Driestar hogeschool en je werkt op jouw opleidingsschool. Dit is een school voor voortgezet onderwijs of middelbaar beroepsonderwijs waarmee wij een samenwerkingsverband hebben. Zo’n samenwerking noemen we de Opleidingsschool. Op jouw school leer je in de praktijk. Dit doe je niet alleen. Je wordt goed begeleid door een gecertificeerde schoolopleider, een werkplekbegeleider en een onderzoeksbegeleider."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-economie-voltijd?utm_campaign=opleiding_leraar_economie&utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met een deeltijdopleiding ontvang je hetzelfde diploma als bij een voltijdopleiding bij een andere hogeschool. De studielast is ook hetzelfde. Het grote verschil is dat er veel minder contactmomenten zijn. De colleges vinden altijd ’s avonds plaats, tussen 16.00 uur en 22.00 uur. Zo kun je werken en studeren makkelijker combineren. Het vakinhoudelijke deel volg je op 30 donderdagavonden per jaar. Het pedagogisch-didactisch deel volg je op zo’n 12 dinsdagavonden per jaar."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En heb je interesse in winstberekeningen, marketingstrategie en de theorie achter economische beslissingen? Bij Driestar hogeschool in Gouda word je tijdens de deeltijdopleiding Leraar Economie in 4 jaar opgeleid tot een vakbekwame leraar met sterke pedagogische en didactische kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je krijgt theoretische vakken zoals algemene economie, management & organisatie, marketing en recht. Daarnaast dagen we je rekenkundige inzicht uit met wiskunde en statistiek. Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden?"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-economie-deeltijd?utm_campaign=opleiding_leraar_economie&utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Wiskunde",
+      "english_title": "Teacher Education in Mathematics",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35221",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Wiskunde",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je vergroot je je wiskundige kennis en vaardigheden en denkt samen met medestudenten na over bekende wetmatigheden. Hierdoor leer je verbanden te leggen tussen verschillende onderdelen zoals Analyse, Algebra, Meetkunde en Kansberekening."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden? Met de kennis en ervaring die je opdoet tijdens deze opleiding leer jij genieten van het proces om met leerlingen na te denken over getallen, vormen en structuren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-wiskunde-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=wiskunde",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En word jij blij van algebra, meetkunde en kansberekening? Bij Driestar hogeschool in Gouda word je tijdens de deeltijdopleiding leraar wiskunde in 4 jaar opgeleid tot een vakbekwame leraar met sterke pedagogische en didactische kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je vergroot je je wiskundige kennis en vaardigheden en denkt samen met medestudenten na over bekende wetmatigheden. Hierdoor leer je verbanden te leggen tussen verschillende onderdelen zoals Analyse, Algebra, Meetkunde en Kansberekening."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Natuurlijk bereiden we je ook voor op het leraarschap. Wat is een goede leraar? En hoe kun jij dat worden? Met de kennis en ervaring die je opdoet tijdens deze opleiding leer jij genieten van het proces om met leerlingen na te denken over getallen, vormen en structuren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-wiskunde-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=wiskunde",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Godsdienst",
+      "english_title": "Teacher Education in Religion",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35441",
+      "croho_name": "Opleiding tot leraar voortgezet onderwijs van de tweede graad in Godsdienst",
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij binnenkort een havo- of vwo-diploma of een mbo-diploma (niveau 4) op zak? Of heb je één of twee jaar geleden na je middelbare school een vervolgopleiding gekozen, maar wil je nu toch het onderwijs in? En heb je hart voor jongeren en je vak? Dan is de route van Opleiden in de School (OidS) van Driestar hogeschool iets voor jou! Tijdens deze vier jaar durende voltijdopleiding combineer je leren op de hogeschool met werken op een school voor vo of mbo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding wordt vormgegeven in samenwerking met CGO en is geschikt voor iedereen met hart voor leerlingen en liefde voor onderwijs. Na het behalen van de vierjarige opleiding ben je "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Bachelor of education in Theology"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en ben je bevoegd om les te geven op vmbo en mbo, maar ook in de eerste drie leerjaren van havo en vwo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je hebt niet alleen theoretische kennis, maar je bent ook in staat theoretische kennis toe te passen in de praktijk van het onderwijs. Een prachtige opleiding als je een boodschap hebt voor jongeren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-godsdienst-voltijd?utm_source=hovi&utm_medium=referral&utm_campaign=godsdienst",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil je een tweedegraads lerarenopleiding volgen naast je baan? En wil je graag jouw kennis over- en passie voor religie delen met jongeren? Bij Driestar hogeschool in Gouda word je tijdens de deeltijdopleiding leraar Godsdienst in 4 jaar opgeleid tot een vakbekwame leraar met sterke pedagogische en didactische kwaliteiten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding wordt vormgegeven in samenwerking met CGO en is geschikt voor iedereen met hart voor leerlingen en liefde voor onderwijs. Na het behalen van de vierjarige opleiding ben je "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Bachelor of education in Theology"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en ben je bevoegd om les te geven op vmbo en mbo, maar ook in de eerste drie leerjaren van havo en vwo."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je hebt niet alleen theoretische kennis, maar je bent ook in staat theoretische kennis toe te passen in de praktijk van het onderwijs. Een prachtige opleiding als je een boodschap hebt voor jongeren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/leraar-voortgezet-onderwijs-godsdienst-deeltijd?utm_source=hovi&utm_medium=referral&utm_campaign=godsdienst",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Leren en innoveren",
+      "english_title": "Master Learning and innovation",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "44135",
+      "croho_name": "Leren en Innoveren",
+      "degrees": [
+        "Master of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "design_project",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "practice",
+            "project",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De masteropleiding Leren en innoveren is een professionele master voor leraren in het po/vo/mbo/hbo die zich op masterniveau willen ontwikkelen tot "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Teacher Leader. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Een teacher leader is een leraar met een visie op goed onderwijs, die zijn praktijken vernieuwt. Een teacher leader werkt samen met collega’s om het onderwijs te innoveren en kan het verhaal over zijn innovaties delen met anderen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "1)    Een teacher leader is een leraar met een visie op goed onderwijs"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "2)    Een teacher leader vernieuwt zijn praktijken"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "3)    Een teacher leader werkt bij innoveren samen met collega’s"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "4)    Een teacher leader kan het verhaal van zijn innovaties delen"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De master Leren en innoveren is een initiatief van drie christelijke hogescholen die staan voor kwalitatief hoogwaardig onderwijs. De Christelijke Hogeschool Ede, Driestar hogeschool en Hogeschool"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Viaa hebben de handen ineen geslagen en willen jou opleiden totTeacher Leader. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voor informatie over de bijeenkomsten en locaties kijk op www.masterli.org"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "http://www.masterli.org",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1910",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2017
+            },
+            {
+              "amount": "5955",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2017
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Educational Leadership",
+      "english_title": "Educational Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70139",
+      "croho_name": "Educational Leadership",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Als schoolleider is het goed om bij te blijven en je verder te ontwikkelen. De master Educational Leaderschip leidt je op tot een excellente schoolleider die in de school een innoverende onderzoekscultuur kan creëren."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met deze master ontwikkel je de competenties die noodzakelijk zijn om jouw school te leiden in een steeds sneller veranderende omgeving. Je leert op een onderzoeksmatige wijze leiding te even en gebruik te maken van data in jouw school waardoor het leerproces van leerlingen geoptimaliseerd kan worden."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De masteropleiding Educational Leadership is speciaal voor ambitieuze schoolleiders met werkervaring in een integrale leidinggevende functie. Je werkt in het basisonderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs of bve en wil je verder ontwikkelen en professionaliseren. Je hebt een erkende opleiding op het gebied van onderwijsmanagement, zoals onze opleiding Schoolleider Basis - of Vakbekwaam. Een vergelijkbare opleiding bij een andere erkende aanbieder is ook voldoende. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze opleiding is een uitdagend en praktijkgericht masterprogramma. Je leert meer over integraal, onderwijskundig en transformatief leiderschap. De competenties die je ontwikkelt, zijn geschikt voor zowel primair als voortgezet onderwijs. Met behulp van de opdrachten oefen je met onderzoeksmatig leren op een praktijkgerichte manier."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/master-educational-leadership",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pedagogisch Educatief Professional",
+      "english_title": "Pedagogisch Educatief Professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80142",
+      "croho_name": "Pedagogisch Educatief Professional",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "120",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als pedagogisch educatief professional werk je graag met kinderen en tieners. Je hebt verstand van de ondersteuningsbehoeften van alle jeugdigen en weet hoe je hen moet begeleiden, samen met andere professionals."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De kennis en vaardigheden die je daarvoor nodig hebt leer je in deze 2-jarige AD-opleiding. Je krijgt verdieping en uitdaging voor je werk op school, in de kinderopvang of in een andere instelling waar je met kinderen werkt. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens deze niveau-5 opleiding leer je leidinggeven aan een groep, werken in een team en het begeleiden van leer- en ontwikkelingsprocessen. Jouw professionele en persoonlijke ontwikkeling is erg belangrijk. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Aan de hand van de beroepstaken van de Pedagogisch Educatief Professional ontwikkel je je in 2 jaar tijd tot een expert op het gebied van 2 tot 18 jarigen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-03-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.driestar-hogeschool.nl/opleidingen/ad-opleiding-pedagogisch-educatief-professional?utm_source=hovi&utm_medium=referral&utm_campaign=adpep",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 39,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "International Class - Christian Education",
+      "english_title": "International Class - Christian Education",
+      "product_type": "course",
+      "credits": "20",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "project",
+            "research_project",
+            "self_study",
+            "seminar",
+            "theory",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course enables Dutch students together with students from different countries to learn about and familiarise themselves with the background of (Christian) education in different contexts. The International Class is a learning environment between cultures and people from different cultures. The central theme is: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Christian education"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Dialogue will help clarify students’ own ideas and approach and will help them to broaden their perspectives on teaching. An important part of the course focuses on the development of education in developing countries International Class helps the student to be in touch with themselves and others by exchanging views on different educational concepts. The course offers educational help and promotes integration of different ways of thinking and different cultures. The student decides on which aspect to focus on and then sets to work on it. The perspectives of past, present and future all receive due attention. This is in accordance with our aim for participants to gain knowledge during their time with the International Class and for them to then optimally use this knowledge in their own situation (‘oil slick effect’). Students will work on their own individual project, which match the needs in their own country and their own learning goals."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course enables Dutch students together with students from different countries to learn about and familiarise themselves with the background of (Christian) education in different contexts. The International Class is a learning environment between cultures and people from different cultures. The central theme is: (Christian) education crossing the borders. Dialogue will help clarify students’ own ideas and approach and will help them to broaden their perspectives on teaching. An important part of the course focuses on the development of education in developing countries International Class helps the student to be in touch with themselves and others by exchanging views on different educational concepts. The course offers educational help and promotes integration of different ways of thinking and different cultures. The student decides on which aspect to focus on and then sets to work on it. The perspectives of past, present and future all receive due attention. This is in accordance with our aim for participants to gain knowledge during their time with the International Class and for them to then optimally use this knowledge in their own situation (‘oil slick effect’) Students will work on their own individual project, which match the needs in their own country and their own learning goals."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2013-08-27",
+              "end_date": "2013-11-15"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-08-26",
+              "end_date": "2014-11-14"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-09-01",
+              "end_date": "2015-11-20"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2016-11-18"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2017-11-17"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-09-03",
+              "end_date": "2018-11-23"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-09-02",
+              "end_date": "2019-11-22"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2020-08-31",
+              "end_date": "2020-11-20"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2021-08-30",
+              "end_date": "2021-11-21"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-08-29",
+              "end_date": "2022-11-17"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-04",
+              "end_date": "2023-11-22"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/international-class#",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/international-class#",
+          "scholarships": [
+            "stuned_scholarship_programme",
+            "lifelong_learning_programme_erasmus",
+            "erasmusplus"
+          ],
+          "study_costs": [
+            {
+              "amount": "1000",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: cost_of_living, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "950",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2013
+            },
+            {
+              "amount": "950",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2012
+            },
+            {
+              "amount": "995",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2014
+            },
+            {
+              "amount": "995",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "1195",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pabo - Verkorte vwo-studieroute",
+      "english_title": null,
+      "product_type": "content_variant",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je een vwo-diploma hebt gehaald, kun je bij ons de pabo in drie in plaats van vier jaar afronden. In sommige gevallen is dit ook voor mensen met een havo-diploma mogelijk. Als je je pabo-diploma via de verkorte studieroute hebt gehaald, kun je daarna direct een master gaan volgen en haal je dus in vier jaar tijd zowel een bachelor als een master. Met de bachelor rond je de pabo af, met de master specialiseer je je."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je een vwo-diploma hebt gehaald, kun je bij ons de pabo in drie in plaats van vier jaar afronden. In sommige gevallen is dit ook voor mensen met een havo-diploma mogelijk. Als je je pabo-diploma via de verkorte studieroute hebt gehaald, kun je daarna direct een master gaan volgen en haal je dus in vier jaar tijd zowel een bachelor als een master. Met de bachelor rond je de pabo af, met de master specialiseer je je."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pabo - Regulier",
+      "english_title": null,
+      "product_type": "content_variant",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Kenmerkend voor de reguliere studieroute is dat je elk jaar vier perioden hebt die zijn opgebouwd uit zes lesweken, twee stageweken en een of twee tentamenweken. Tijdens de lesweken verzamel je nieuwe kennis en ideeën, en oefen je vaardigheden, die je kunt toepassen in je stage. Tijdens je stages zie je het hele weekprogramma van de basisschoolgroepen voorbij komen. Je loopt een jaar lang stage op dezelfde basisschool, maar iedere periode in een andere groep. De reguliere studieroute wordt in jaar 4 afgerond met een liostage van 21 weken. Op de hogeschool is er in de reguliere studieroute veel ruimte voor ontmoetingen met studenten en/of docenten waardoor je veel van en met elkaar leert. De meeste studenten kiezen voor deze studieroute."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pabo - Verkorte studieroute Onderwijsassistent",
+      "english_title": null,
+      "product_type": "content_variant",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je (binnenkort) je diploma Onderwijsassistent (mbo, niveau 4) op zak hebt, kun je bij ons de pabo gaan doen! Je kunt de reguliere studieroute (vierjarig) volgen, maar als je gemiddeld een 7,2 of hoger op je eindlijst hebt en als je het assessment haalt, kun je deelnemen aan de driejarige verkorte studieroute voor onderwijsassistenten. Het assessment bestaat uit de landelijke reken- en taaltoets, een cognitieve capaciteitentoets en een onderdeel gericht op de stage, waarin onder andere videofragmenten met lessituaties aan de orde komen. Daarnaast heb je een positief advies nodig van het decanaat van je vooropleiding."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je (binnenkort) je diploma Onderwijsassistent (mbo, niveau 4) op zak hebt, kun je bij ons de pabo gaan doen! Je kunt de reguliere studieroute (vierjarig) volgen, maar als je gemiddeld een 7,2 of hoger op je eindlijst hebt en als je het assessment haalt, kun je deelnemen aan de driejarige verkorte studieroute voor onderwijsassistenten. Het assessment bestaat uit de landelijke reken- en taaltoets, een cognitieve capaciteitentoets en een onderdeel gericht op de stage, waarin onder andere videofragmenten met lessituaties aan de orde komen. Daarnaast heb je een positief advies nodig van het decanaat van je vooropleiding."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Pabo - Samen opleiden",
+      "english_title": null,
+      "product_type": "content_variant",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je volgt hetzelfde programma als in de reguliere route, maar daarnaast ben je meer bezig met het leren in de praktijk door het stellen van je eigen leervragen en het bijhouden van een portfolio. Elke week ben je twee dagen op je stageschool, heb je een dag voor zelfstudie en ben je twee aaneengesloten dagen in Gouda voor theoriecolleges. Je kunt tijdens je verblijf in Gouda gebruikmaken van de studentenhuisvesting van Driestar educatief. Deze route heeft voor jou de volgende voordelen: - Je leert meer in de praktijk en hebt meer stage-ervaring; - Je kunt de theorie en praktijk direct aan elkaar koppelen; - Je volgt de ontwikkeling van kinderen in je stageklas gedurende een langere periode; - Je leert direct in een basisschoolteam functioneren, je kunt aanwezig zijn bij tienminutengesprekken etc.; - Je wordt op je stageschool begeleid door speciaal opgeleide mentoren en studieloopbaanbegeleiders (slb’ers); - Je bent meer eigenaar van je eigen leerproces en er is gelegenheid om aan je eigen leervragen te werken; - Je kunt thuis blijven wonen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-01",
+              "end_date": null
+            }
+          ],
+          "product_url": "www.driestar-hogeschool.nl",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Learning and Innovation",
+      "english_title": "Learning and Innovation",
+      "product_type": "content_variant",
+      "product_level": "master",
+      "croho": "44135",
+      "croho_name": "Leren en Innoveren",
+      "degrees": [
+        "Master of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "60",
+      "financing": "government",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "portfolio",
+            "research",
+            "self_study",
+            "seminar"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.0",
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Master’s track in Christian Education will fully focus on the backgrounds and practices of education inspired and informed by the Christian faith. The aim of the Master is to deepen knowledge and skills for teachers who could become teacher leaders, for principals, school leaders in Christian schools and for people working in educational aid organisations. The modules are structured within three strands: • The content strand involves theological, philosophical and historical sources for Christian education, with reference to current debates in education. • The innovation/research strand is about developing innovations within your own context based on practice-oriented research. • The personal development strand is aimed to reflect on your professional role. The lectures will guide you in your current you in your current role in your institution with regard to educational innovation and integrating knowledge and practice. The content strand is defined by four major themes which are discussed from historical, philosophical-theological, social, concrete-practical and a teacher’s personal perspective. You will be working on a research/innovation project. Courses will be taught by an international team of professors from around the world. In each module online distance learning is combined with two weeks of lectures in Gouda."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2018-09-18",
+              "end_date": "2020-07-20"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-09-17",
+              "end_date": "2021-07-18"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2020-09-01",
+              "end_date": "2022-07-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-08-29",
+              "end_date": "2024-07-15"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-01",
+              "end_date": "2026-07-15"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/master-learning-and-innovation-track-christian-edu",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/master-learning-and-innovation-track-christian-edu",
+          "scholarships": [
+            "holland_scholarship",
+            "stuned_master",
+            "erasmusplus"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2083",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2021
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2021
+            },
+            {
+              "amount": "2083",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2024
+            },
+            {
+              "amount": "7988",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Christian Perspective on Education",
+      "english_title": "Christian Perspective on Education",
+      "product_type": "course",
+      "credits": "5",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The short course is part of the Master’s programme on Christian education. The short course programme consists of regular online meetings on Tuesdays, independent learning tasks, group assignments and online lessons. You should expect 140 hours of study for the short course, spread over the full duration of this course. That means that you will need to spend around 8 hours a week on individual study or online meetings."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "self_study",
+            "seminar",
+            "theory",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Within an international community of students and expert (guest) lecturers you will extend your theoretical and practical understanding of Christian education. Starting from your own observations of current practices of Christian education, you will be introduced to various views on Christian education worldwide and philosophical perspectives on Christian education today. The so-called practice-oriented approach (inspired by, amongst others, Smith & Smith, 2009; Smith, 2018), will be shown as applicable in various contexts. You will be invited to formulate the vision for your own school or educational organization. This will help you to envision and to enrich future practices."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "By studying theory and reflection on their own practices, this course helps participants to enrich their practice (or the practices they serve) with insights into Christian pedagogy."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Within an international community of students and expert (guest) lecturers you will extend your theoretical and practical understanding of Christian education. Starting from your own observations of current practices of Christian education, you will be introduced to various views on Christian education worldwide and philosophical perspectives on Christian education today. The so-called practice-oriented approach (inspired by, amongst others, Smith & Smith, 2009; Smith, 2018), will be shown as applicable in various contexts. You will be invited to formulate the vision for your own school or educational organization. This will help you to envision and to enrich future practices."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "By studying theory and reflection on their own practices, this course helps participants to enrich their practice (or the practices they serve) with insights into Christian pedagogy."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-08-29",
+              "end_date": "2023-02-10"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-04",
+              "end_date": "2024-02-17"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/short-course-christian-perspective-on-education",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/short-course-christian-perspective-on-education",
+          "scholarships": [
+            "erasmusplus"
+          ],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": null
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Developing Organisations and People",
+      "english_title": "Developing Organisations and People",
+      "product_type": "course",
+      "credits": "5",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "self_study",
+            "seminar",
+            "theory",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Within an international community of students and expert (guest) lecturers you will extend your theoretical and practical understanding of Christian education. You will examine the concepts of leadership, school ethos, curriculum and development from a Christian perspective. You will apply the insights you have gained from reading a biography of a specific leader you want to know more about. This course aims to equip you to serve your local community in providing justifiable and appropriate incentives for developing the lived ethos and professional competence of all staff. It ultimately aims to foster the spiritual well-being and academic growth of pupils."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-02-06",
+              "end_date": "2023-07-14"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-05",
+              "end_date": "2024-07-13"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/short-course-developing-organisations-and-people#",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/short-course-developing-organisations-and-people#",
+          "scholarships": [
+            "erasmusplus"
+          ],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": null
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Religious Education: Formation of Christian Character",
+      "english_title": "Religious Education: Formation of Christian Character",
+      "product_type": "course",
+      "product_level": "master",
+      "credits": "5",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "self_study",
+            "seminar",
+            "theory",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Within an international community of students and expert (guest) lecturers you will extend your theoretical and practical understanding of Christian education. In this course theology and education meet each other. You will study anthropological issues relevant for education next to Biblical insights about teaching and learning, the Christian image of God, the Kingdom of God and eschatology. The insights are applied to topics of religious education, character/moral education and citizenship education, in light of your desire to serve the development of the Christian character of pupils. By studying theory and reflection on their own practices, this course helps participants to enrich their practice (or the practices they serve) with insights into the development of organisations and people in Christian Education."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-01-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-01",
+              "end_date": "2024-02-29"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/short-course-religious-education#",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/short-course-religious-education#",
+          "scholarships": [
+            "erasmusplus"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    },
+    {
+      "title": "Transforming Society",
+      "english_title": "Transforming Society",
+      "product_type": "course",
+      "credits": "5",
+      "location_hovi_id": "2",
+      "organization_hovi_id": "5",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "self_study",
+            "seminar"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In this course you will work on deepening your vision about how Christian education can serve the community, and how you can play a part in this. We will focus on contemporary and societal challenges related to education, such as inequality, poverty and diversity; and you are encouraged to make this very specific to your own context. All this is done in the light of shalom and justice, as characteristics of God’s Kingdom."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "By studying theory and reflection on their own practices, this course helps participants to enrich their practice (or the practices they serve) with insights into the development of organisations and people in Christian Education."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-01",
+              "end_date": "2024-07-15"
+            }
+          ],
+          "product_url": "https://www.driestar-christian-university.com/en/courses/short-course-transforming-society#",
+          "product_url_en": "https://www.driestar-christian-university.com/en/courses/short-course-transforming-society#",
+          "scholarships": [
+            "erasmusplus"
+          ],
+          "study_costs": [
+            {
+              "amount": "500",
+              "description": null
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "2000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Burg. Jamessingel 2, 2803 PD, GOUDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6990712,
+              52.0190113
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2803 PD",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Burgemeester Jamessingel",
+                "shortText": "Burgemeester Jamessingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gouda",
+                "shortText": "Gouda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2803 PD",
+                "shortText": "2803 PD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Burgemeester Jamessingel 2, 2803 PD Gouda, Netherlands",
+            "viewport": {
+              "south": 52.01752396970849,
+              "west": 4.698183469708498,
+              "north": 52.02022193029149,
+              "east": 4.700881430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6990712,
+            52.0190113
+          ]
+        },
+        "hovi_id": "2",
+        "name": "Driestar Hogeschool, vestiging Gouda",
+        "street": "Burg. Jamessingel 2",
+        "zip": "2803 PD",
+        "city": "GOUDA",
+        "country": "NL",
+        "vestiging_SK123_id": "5",
+        "url": "http://www.driestar-hogeschool.nl"
+      }
+    }
+  ]
+}

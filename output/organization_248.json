@@ -1,0 +1,152 @@
+{
+  "title": "Tyndale Theological Seminary",
+  "code": "TYNTH",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Tyndale Theological Seminary is an interdenominational, evangelical seminary that prepares students for ministries as pastors, teachers, missionaries, church planters and denominational leaders around the world. The seminary is a graduate, professional school offering accredited Masters programs in the English language. Tyndale is located only minutes from the center of Amsterdam, the Netherlands. The seminary’s location provides a wonderful venue for Tyndale’s international student body. Tyndale is unique in that the school was not only founded by missionaries, but continues to be run by missionary faculty and staff. All residential faculty-from the newest assistant professor to the president-are missionaries supported by individuals, families and churches through various mission agencies."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30NC",
+  "hovi_id": "248",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "Tyndale Theological Seminary",
+  "products": [
+    {
+      "title": "Evangelical Theology",
+      "english_title": "Evangelical Theology",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70152",
+      "croho_name": "Evangelical Theology",
+      "croho_sector": "taal_en_cultuur",
+      "financing": "private",
+      "location_hovi_id": "158",
+      "organization_hovi_id": "248",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Egelantierstraat 1, 1171 JM, BADHOEVEDORP, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7935298,
+              52.3322081
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1171 JM",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Egelantierstraat",
+                "shortText": "Egelantierstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Badhoevedorp",
+                "shortText": "Badhoevedorp",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Haarlemmermeer",
+                "shortText": "Haarlemmermeer",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1171 JM",
+                "shortText": "1171 JM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Egelantierstraat 1, 1171 JM Badhoevedorp, Netherlands",
+            "viewport": {
+              "south": 52.3309192197085,
+              "west": 4.792163269708498,
+              "north": 52.3336171802915,
+              "east": 4.794861230291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7935298,
+            52.3322081
+          ]
+        },
+        "hovi_id": "158",
+        "name": "Tyndale Theological Seminary, vestiging Haarlemmermeer",
+        "street": "Egelantierstraat 1",
+        "zip": "1171 JM",
+        "city": "BADHOEVEDORP",
+        "country": "NL",
+        "vestiging_SK123_id": "455",
+        "url": "http://www.tyndale-europe.edu/index.php"
+      }
+    }
+  ]
+}

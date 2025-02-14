@@ -1,0 +1,2518 @@
+{
+  "title": "PTC+",
+  "code": "PTC",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9011",
+  "hovi_id": "2011",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "PTC+",
+  "products": [
+    {
+      "title": "Milkprocessing and entrepreneurship",
+      "english_title": "Milkprocessing and entrepreneurship",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Milk Processing consists of transferring raw milk into high quality dairy products which have extended shelf life, are safe to consume and comply with (inter)national standards. Not only the dairy tec To add value to raw milk processing technologies will be applied to come to marketable, consumable, delicious and healthy dairy products. Techniques of preservation, quality control analyses, marketing and organisation will be trained. Product groups are: pasteurised milk, fermented milk, yoghurts, butter and ghee, different types of cheeses (fresh to semi-hard), ice cream and sweet porridges. For a sustainable milk processing business investments in a plant with equipment are inescapable, but running it profitable decisions need to be made regularly based on correct financial calculations, risk management, organisation and communication."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Milk Processing consists of transferring raw milk into high quality dairy products which have extended shelf life, safe to consume and comply with (inter)national standards. To add value to raw milk processing technologies will be applied to come to marketable, consumable, delicious and healthy dairy products. Techniques of preservation, quality control analyses, marketing and organisation will be trained. Product groups are: pasteurised milk, fermented milk, yoghurts, butter and ghee, different types of cheeses (fresh to semi-hard), ice cream and sweet porridges. For a sustainable milk processing business investments in a plant with equipment are inescapable, but running it profitable decisions need to be made regularly based on correct financial calculations, risk management, organisation and communication."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-09-04",
+              "end_date": "2017-11-24"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-03-05",
+              "end_date": "2018-05-25"
+            }
+          ],
+          "product_url": "www.ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            },
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Dairy farm management, economics and housing of dairy cattle",
+      "english_title": "Dairy farm management, economics and housing of dairy cattle",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "xx xx"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course will specifically focus on what it means to be a manager of a dairy farm and being an entrepreneur instead of being a “worker” who usually does routine tasks The objective of all commercial dairy farmers is to make a profit. The costs and quantities of inputs in combination with the technical results achieved and the output (milk) prices determine whether a dairy farm is commercially viable and therefore sustainable. Being a manager means being able to use the “management cycle”which will require that one can set objectives, implements activities, monitors and evaluates these activities and adjust management if objectives are not achieved. This requires precise farm recording systems which should be used to regularly monitor performance of different aspects of a dairy farm (production, fertility, calf rearing, financial). These records will also be used to calculate key performance indicators which are used for benchmarking the farm and evaluate/ analyse the performance of the dairy farm. Based on this analysis a good manager should be able to pinpoint weak spots in the dairy farm and make plans to improve these weaknesses. Choosing the right housing system has a big impact on the fixed costs of a dairy farm, the labour efficiency, animal welfare and the environment. It also requires working with standard operating procedures (sop's)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-05-01",
+              "end_date": "2017-05-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-10-30",
+              "end_date": "2017-11-24"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-04-30",
+              "end_date": "2018-05-25"
+            }
+          ],
+          "product_url": "www.ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Breeding, reproduction management, AI and PD (pregnancy diagnosis)",
+      "english_title": "Breeding, reproduction management, AI and PD (pregnancy diagnosis)",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Selection of the best animals on a dairy farm to breed better animals which will perform better under specific circumstances is an essential part in the management of every dairy farm worldwide Dairy farmers must be able to select the right breed of cows which fit their circumstances and their management style the best. After this choice has been made a dairy farmer should be able to determine which breeding policy to apply; selection of the best cows within his/ her herd and breeding bulls using the right selection criteria, using latest technologies (cross breeding, genomic selection, use of sexed semen, etc.). Once breeding policy has been determined animals have to be monitored for heat signs, choices have to be made on optimum insemination time, etc. Also in this process new technologies are coming up very fast/ management insights have changed during the last years. Once the cow has been inseminated it should be monitored and it should be checked for pregnancy. For pregnancy diagnosis new technologies are coming up fast which will help the farmer a lot in monitoring his herd and fertility management. This will require a lot of herd administration which will result in the calculation of key fertility performance indicators which need interpretation, analysis and action."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Selection of the best animals on a dairy farm to breed better animals which will perform better under specific circumstances is an essential part in the management of every dairy farm worldwide Dairy farmers must be able to select the right breed of cows which fit their circumstances and their management style the best. After this choice has been made a dairy farmer should be able to determine which breeding policy to apply; selection of the best cows within his/ her herd and breeding bulls using the right selection criteria, using latest technologies (cross breeding, genomic selection, use of sexed semen, etc.). Once breeding policy has been determined animals have to be monitored for heat signs, choices have to be made on optimum insemination time, etc. Also in this process new technologies are coming up very fast/ management insights have changed during the last years. Once the cow has been inseminated it should be monitored and it should be checked for pregnancy. For pregnancy diagnosis new technologies are coming up fast which will help the farmer a lot in monitoring his herd and fertility management. This will require a lot of herd administration which will result in the calculation of key fertility performance indicators which need interpretation, analysis and action."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-04-03",
+              "end_date": "2017-04-28"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-10-02",
+              "end_date": "2017-10-27"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-04-02",
+              "end_date": "2018-04-26"
+            }
+          ],
+          "product_url": "ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Dairy cattle nutrition, forage production and conservation",
+      "english_title": "Dairy cattle nutrition, forage production and conservation",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "practicum",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Optimal fodder production, incl. storage and preservation, in combination with optimum dairy cattle nutrition management in order to achieve maximum technical and financial performance on dairy farms Feeding management on commercial dairy farms is linked, besides milk production levels, with milk quality, condition and health of animals and their fertility status. Also young stock rearing systems determine to a large extend the quality of the dairy cow on the farm. Feeding costs usually make up often over fifty % of the variable costs on a commercial dairy farm. That is why production of good quality and enough quantity of roughage in combination with proper feeding management is the foundation for optimal technical and financial results on commercial dairy farms all over the world. During this course participants will learn how to optimize their fodder production, storage and conservation, feeding of dairy cattle and young stock rearing management taking into consideration as much as possible the conditions in which the participants have to work at home. Attention will also be given to calculation and interpretation of fodder production and feeding management performance indicators in order to monitor fodder production and feeding management including greenhouse gas emissions."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Optimal fodder production, incl. storage and preservation, in combination with optimum dairy cattle nutrition management in order to achieve maximum technical and financial performance on dairy farms Feeding management on commercial dairy farms is linked, besides milk production levels, with milk quality, condition and health of animals and their fertility status. Also young stock rearing systems determine to a large extend the quality of the dairy cow on the farm. Feeding costs usually make up often over fifty % of the variable costs on a commercial dairy farm. That is why production of good quality and enough quantity of roughage in combination with proper feeding management is the foundation for optimal technical and financial results on commercial dairy farms all over the world. During this course participants will learn how to optimize their fodder production, storage and conservation, feeding of dairy cattle and young stock rearing management taking into consideration as much as possible the conditions in which the participants have to work at home. Attention will also be given to calculation and interpretation of fodder production and feeding management performance indicators in order to monitor fodder production and feeding management including greenhouse gas emissions."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-03-06",
+              "end_date": "2017-03-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-09-04",
+              "end_date": "2017-09-29"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-03-05",
+              "end_date": "2018-03-30"
+            }
+          ],
+          "product_url": "www.ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3940",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Dairy farming and entrepreneurship",
+      "english_title": "Dairy farming and entrepreneurship",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "individual_assignment",
+            "lecture",
+            "practicum",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Developing competencies required for managing a commercial dairy farm. It comprises of 3 modules focusing on forage production, nutrition, breeding, reproduction management, housing and farm economics The objective of all commercial dairy farmers is to make a profit. The costs and quantities of inputs in combination with the technical results achieved and the output (milk) prices determine whether a dairy farm is commercially viable and therefore sustainable. Ensuring the production of sufficient quantity and quality of roughages, their preservation and usage in feeding dairy animals are essential. Fodder and feed is supplied according to requirements and used in the optimum way. Breeding and reproduction management are important in order to produce replacement animals of better quality. Getting insight with regard to housing and mechanisation of dairy farms which have their impact on labour efficiency, costs, animal welfare, environment. To monitor and evaluate the technical performance recording and analysis of all farm data will be important in order to make informed decisions. All of the above aspects also have their impact on technical and the financial performance of the dairy farm. As an entrepreneur you are also continuously looking for ideas to improve the technical and financial performance of your farm. This will require preparing business plans"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Developing competencies required for managing a commercial dairy farm. It comprises of 3 modules focusing on forage production, nutrition, breeding, reproduction management, housing and farm economics The objective of all commercial dairy farmers is to make a profit. The costs and quantities of inputs in combination with the technical results achieved and the output (milk) prices determine whether a dairy farm is commercially viable and therefore sustainable. Ensuring the production of sufficient quantity and quality of roughages, their preservation and usage in feeding dairy animals are essential. Fodder and feed is supplied according to requirements and used in the optimum way. Breeding and reproduction management are important in order to produce replacement animals of better quality. Getting insight with regard to housing and mechanisation of dairy farms which have their impact on labour efficiency, costs, animal welfare, environment. To monitor and evaluate the technical performance recording and analysis of all farm data will be important in order to make informed decisions. All of the above aspects also have their impact on technical and the financial performance of the dairy farm. As an entrepreneur you are also continuously looking for ideas to improve the technical and financial performance of your farm. This will require preparing business plans"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-03-06",
+              "end_date": "2017-05-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-09-04",
+              "end_date": "2017-11-24"
+            }
+          ],
+          "product_url": "www.ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "11200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "International diploma animal feed",
+      "english_title": "International diploma animal feed",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "traineeship",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For professionals engaged in feed processing and closely related fields Target Participant is able to: Formulate and produce properly processed compound feedws with the desired nutrient level Develop a plan for the production of compound feed for the situation back home, including the set up of a mill, equiping it, planning the production, formulating the range of feeds to be produced and an estimation of the required investment"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to: • Formulate and produce properly processed compound feeds with the desired nutrient levels. • Develop a plan for the production of compound feed for the situation back • Taking care of production Result: A well-balanced feed can be produced for a specific category of poultry or pigs • Handling of inputs and products Result: The inputs and products are well handled and stored, showing no deviations caused by handling • Taking care of feed production unit and working environment Result: The production unit and environment are ‘clean’ and suitable for use. The risk for contamination is at an acceptable level • Assessing results Result: The production of the feed in the feed production unit is efficient, both technically and economically • Orienting on market possibilities and developments. Result: Local conditions and local available materials, equipment and methods are recognised, described and implemented. • Making a business plan. Result: A well motivated business plan for starting or renewing a feed production unit. • Organising work. Result: The production of the feed in the feed mill is efficient, both technically and economically. • Dealing with feed production unit staff. Result: Feed production unit staff adequately performs their tasks. • Assessing quality and safety deviations. Result: The feed recipes and"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formulate and produce properly processed compound feeds with the desired nutrient level Develop a plan for the production of compound feed for the situation back home, including the set up of a mill, equipping it, planning the production, formulating the range of feeds to be produced and an estimation of the required investment"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-03-06",
+              "end_date": "2017-06-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-03-05",
+              "end_date": "2018-06-01"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-03-04",
+              "end_date": "2019-05-29"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "10400",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Poultry production technology",
+      "english_title": "Poultry production technology",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For managers in the field of poultry production and for extension officers, teachers and instructors on poultry production Taking care of farmhouses and working environmnent; orienting on market possiblities and developments; making a well motivated improvement plan"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to make a relevant choice of applicable technology based on technical, economical and social aspects. Implement advanced technology. The participant is able to: • Make a relevant choice of applicable technology based on technical, economical and social aspects. • Implement advanced technology. Contents • Taking care of farmhouses and working environment. Result: The participant is able to identify bottlenecks in the existing farm technology. • Orienting on market possibilities and developments. Result: Participants produce an overview of technical options. • Make a well motivated improvement plan. Result: an improvement plan, including technical, economical and social aspects. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2016-02-01",
+              "end_date": "2016-02-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-02-06",
+              "end_date": "2017-03-03"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-02-05",
+              "end_date": "2018-03-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-02-04",
+              "end_date": "2019-03-01"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Pig production technology",
+      "english_title": "Pig Production Technology",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "traineeship"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For managers in the field of pig production, for extension officers, teachers and instructors on pig production Taking care of farmhouses and working environment; orienting on market possibilities and developments; make a well motivated improvement plan"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to: • Make a relevant choice of applicable technology based on technical, economical and social aspects. • Implement advanced technology. The participant is able to: • Make a relevant choice of applicable technology based on technical, economical and social aspects. • Implement advanced technology. Contents • Taking care of farmhouses and working environment. Result: The participant is able to identify bottlenecks in the existing farm technology. • Orienting on market possibilities and developments. Result: Participants produce an overview of technical options. • Make a well motivated improvement plan. Result: an improvement plan, including technical, economical and social aspects. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2018-02-05",
+              "end_date": "2018-03-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-02-04",
+              "end_date": "2019-03-01"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "product quality and food safety",
+      "english_title": "Product quality & food safety",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "practicum",
+            "traineeship",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production Assessing quality and safety deviations; communicatig to farm workers/managers and stakeholders; advising on prevention of product deviations"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to explain the concept of quality assurance programs, analyze the present home situation and make a proposal for a new approach towards a food safety program. The participant is able to: • explain the concept of quality assurance programs, analyze the present home situation and make a proposal for a new approach towards a food safety program. • assess the relationship between production method and meat quality & process poultry under good hygienic conditions personal as well as environmental. • add value to a poultry and pig carcass by portioning & know the methods of conservation and preservation of meat. • do an Ante Mortem check during the production phase& recognize major carcass abnormalities and reasons of carcass rejects. Contents • assessing quality and safety deviations. result: policy makers, customers and consumers are aware of some risks of non-hygienically produced and contaminated meat products. • communicating to farm workers/managers and stakeholders. result: producing and selling of safe meat products is of major importance nowadays. • advising on prevention of product deviations. result: It is important to monitor all processes from ‘pork to fork’ and explain the concept of quality assurance programs and design a quality assurance program for local use."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-11-23",
+              "end_date": "2015-12-18"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-06-05",
+              "end_date": "2017-06-30"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-06-04",
+              "end_date": "2018-06-29"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-06-06",
+              "end_date": "2019-07-04"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Incubation and (broiler) parent stock management",
+      "english_title": "Incubation and (broiler) parent stock management",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "integration_module",
+            "lecture",
+            "poster_presentation",
+            "practicum",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For managers in the field of poultry breeding and incubation and for extension officers, teachers and instructors on poultry Taking care of animals; handling of primary livestock products; taking care of farmhouses and working environment; assessing results; make a well motivated improvement plan"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to manage a parent stock flock to produce a maximum of first class hatching eggs. Subsequently, learn to incubate the eggs to realize a high hatchability and first rate chicks. Getting eggs from parent stock and hatching chicks from hatching eggs is commonly not too challenging, but realizing a high hatchability and producing first class chicks with a high production capacity is challenging and involved a careful tuning of all relevant factors."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to train/advise managers/workers on the management and day to day operation of parent stock, poultry breeding and a hatchery"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-01-09",
+              "end_date": "2017-02-03"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-01-08",
+              "end_date": "2018-02-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-01-07",
+              "end_date": "2019-02-01"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Pig breeding & artifical insemination",
+      "english_title": "Pig breeding & artifical insemination",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "traineeship",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and for managers in the field of pig husbandry Taking care of animals; handling of primary livestock products; taking care of farmhouses and working environment; assessing results; making an improvement plan"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to: • Propose and plan methods to improve the genetic make up of a pig husbandry herd. • Practice in the selection of new breeding stock. • Execute AI on farm level, includ The participant is able to: • Propose and plan methods to improve the genetic make up of a pig husbandry herd. • Practice in the selection of new breeding stock. • Execute AI on farm level, including semen collection and semen processing. • Assess the right moment of insemination. Contents • Taking care of animals. Result: The animals are in good condition, showing normal behaviour. • Handling of primary livestock products. Result: The primary products are well handled and stored, showing no deviations caused by handling. • Taking care of farmhouses and working environment. Result: House and equipment are cleaned and disinfected if necessary. The infection pressure is at an acceptable level. • Assessing results. Result: The farm production is efficient, both technically and economically. • Make a well motivated improvement plan. Result: The identification and analysis of farming problems as well as the creation of possible solutions lead to a practical extension plan that is well documented, organised and presented. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Propose and plan methods to improve the genetic make up of a pig husbandry herd; practice in the selection of new breeding stock; execute artificial insemination on farm level, including semen collection and semen processing; assess the right moment of insemination"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2016-01-04",
+              "end_date": "2016-01-29"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-01-09",
+              "end_date": "2017-02-03"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-01-08",
+              "end_date": "2018-02-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-01-07",
+              "end_date": "2019-02-01"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "training and extension",
+      "english_title": "training and extension",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "traineeship",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension workers, researchers, agricultural policy makers and teachers with the need to identify and exchange information and skills with their target groups Developing a training programme; carrying out a training program; evaluate a training programme; transferring knowledge and skills; organising extension and training activities; making a well motivated plan"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to: • explain the relevance and opportunities of agricultural extension for agricultural development. • apply participatory extension planning approaches and techniques to The participant is able to: • explain the relevance and opportunities of agricultural extension for agricultural development. • apply participatory extension planning approaches and techniques to develop and implement extension plans in close cooperation between farmers and extension workers. • Develop, arrange an outline for and evaluate a short training program. • Prepare and conduct a practical class. Contents • Developing a training program. Result: Considering target group, training needs, objectives, content, timing and budget, an appropriate training program is developed. • Carrying out a training program. Result: Based on a good lesson plan, on suitable locations with appropriate teaching aids, an effective training program is conducted. There is a good contact with the group and participant feel they acquire essential knowledge and skills. • Evaluate a training program. Result: An effective evaluation has been prepared and executed, because of which the outcomes of the training program are indicated and justified. • Transferring knowledge and skills. Result: A clear analysis is made of the knowledge and skills that have to be transferred to the tar"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2016-01-04",
+              "end_date": "2016-01-29"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-06-05",
+              "end_date": "2017-06-30"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-06-04",
+              "end_date": "2018-06-29"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2019-06-02",
+              "end_date": "2019-07-04"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Pig farm manager",
+      "english_title": "Pig farm manager",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "integration_module",
+            "lecture",
+            "poster_presentation",
+            "practicum",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For managers in the field of pig production, extension officers, teachers and instructors on pig production Orienting on market possibilities and developments; making a business plan; organising work; dealing with farm staff"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to assess challenges and prospects in pig management, learn about common issues in pig management and compile a sound business plan to overcome challenges and benefit from prospects Pig development inevitably leads to market-oriented enterprises. These enterprises aim to maximise income which can be achieved by technical and economical efficient production. Analysis of the achieved results is important in order to recognise where improvements can be made and whether or not certain investments will be feasible. A proper “business plan” should be available. Health problems can seriously affect the profitability of the enterprise, so much attention is paid for preventive health programmes. Efficient production in itself is no guarantee for success of an enterprise. There should be a certain number of potential consumers with enough purchasing power willing to buy the products (marketing plan)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to compile a business plan in order to start or develop a pig farm/business"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-11-23",
+              "end_date": "2015-12-18"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-11-21",
+              "end_date": "2016-12-23"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-11-27",
+              "end_date": "2017-12-22"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-11-26",
+              "end_date": "2018-12-21"
+            }
+          ],
+          "product_url": "www.ptcplus.com/EN",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3900",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Poultry farm manager",
+      "english_title": "Poultry Farm Manager",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "integration_module",
+            "lecture",
+            "poster_presentation",
+            "practicum",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to assess challenges and prospects in poultry management, learn about common issues in poultry management and compile a sound business plan to overcome challenges and benefit from prospects. Poultry development inevitably leads to market-oriented enterprises. These enterprises aim to maximise income which can be achieved by technical and economical efficient production. Analysis of the achieved results is important in order to recognise where improvements can be made and whether or not certain investments will be feasible. A proper “business plan” should be available. Health problems can seriously affect the profitability of the enterprise, so much attention is paid for preventive health programmes. Efficient production in itself is no guarantee for success of an enterprise. There should be a certain number of potential consumers with enough purchasing power willing to buy the products (marketing plan)."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Learn to assess challenges and prospects in poultry management, learn about common issues in poultry management and compile a sound business plan to overcome challenges and benefit from prospects. Poultry development inevitably leads to market-oriented enterprises. These enterprises aim to maximise income which can be achieved by technical and economical efficient production. Analysis of the achieved results is important in order to recognise where improvements can be made and whether or not certain investments will be feasible. A proper “business plan” should be available. Health problems can seriously affect the profitability of the enterprise, so much attention is paid for preventive health programmes. Efficient production in itself is no guarantee for success of an enterprise. There should be a certain number of potential consumers with enough purchasing power willing to buy the products (marketing plan)."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2016-11-21",
+              "end_date": "2016-12-23"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-11-27",
+              "end_date": "2017-12-22"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-11-26",
+              "end_date": "2018-12-21"
+            }
+          ],
+          "product_url": "www.ptcplus.com/EN",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3900",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "3750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Applied poultry management",
+      "english_title": "Applied poultry management",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and managers in the field of poultry husbandry Taking care of animals, handling of primary livestock products, taking care of farmhouses and working environment, assessing results"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Taking care of a poultry unit is aiming at optimal production. This requires insight in factors effecting productivity, production standards, animal behaviour, monitoring and communication with people Taking care of a poultry unit means the execution of daily, weekly and periodical care, leading to optimal production. This requires insight in the daily, weekly and periodical duties within different units, housing different types of poultry. One should understand how animal related as well as environmental factors effect productivity and should be capable of adjusting their way of working accordingly. This also implies that one should be aware of applicable production standards and using them in an appropriate way. Knowledge on animal behaviour and the ability to monitor animals is also necessary to draw conclusions on the performance of the animals and the state of their environment. Taking care of a poultry unit independently also means that one should be a discussion partner for other people involved, like managers, veterinarians, feed suppliers and consumers. Besides that, one taking care of a poultry or pig unit is not only aware of his/her responsibility towards the animals and their environment, but also of his/her responsibility regarding food quality and food safety. Linked to this, participants develop required competences to return as a confident professionals."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2014-08-25",
+              "end_date": "2014-11-21"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2015-11-20"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2016-11-25"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2017-11-24"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2018-11-23"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "10400",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "Applied pig management",
+      "english_title": "Applied pig management",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "traineeship",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and managers in the field of pig husbandry Taking care of animals; handling of primary livestock; taking care of farmhouses and working environment; assessing results"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The participant is able to: • Take care of a poultry or pig unit independently. Both the animals as well as their environment are taking care of, in order for the animals to produce under optimal c The participant is able to: • Take care of a poultry or pig unit independently. Both the animals as well as their environment are taking care of, in order for the animals to produce under optimal conditions. • Propose improvements for management back home based on acquired skills and knowledge. Contents • Taking care of animals. Result: The animals are in good condition, showing normal behaviour. • Handling of primary livestock products. Result: The primary products are well handled and stored, showing no deviations caused by handling. • Taking care of farmhouses and working environment. Result: House and equipment are cleaned and disinfected if necessary. The infection pressure is at an acceptable level. • Assessing results. Result: The farm production is efficient, both technically and economically. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2015-11-20"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2016-11-25"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2017-11-24"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2018-11-23"
+            }
+          ],
+          "product_url": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "product_url_en": "https://www.aerestrainingcentre.com/for-students/training-offer",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "10400",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "10495",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "International diploma poultry husbandry and animal feed",
+      "english_title": "International diploma poultry husbandry & animal feed",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "traineeship"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and for managers in the field of the husbandry of poultry and compound feed production Target: Manage, supervise or guide a poultry farm, appreciate local poultry farmers and create awareness of sustainable production concepts and methods"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a result of the training the participant is able to: • Manage, supervise or guide poultry production from semi scavenging systems to intermediate scale, intensive poultry farming methods. • App Compulsory modules, including theoretical and practical subjects related to: • Farm management economics and marketing aspects. • Genetics and breeding. • Health, hygiene and pathology. • Housing and equipment. • Management topics. • Nutrition. • Eggs and hatching process. • Animal feed, for details see page 32 • Applied management in the farm facilities of the institute. • Compilation of several reports and a back home improvement plan. Optional modules (in order to qualify for the Diploma the optional modules should add up to 120 study-load hours): • Poultry farming as an enterprise. • Poultry Breeding Management and Incubation. • Poultry husbandry technology. • Sustainable manure utilisation. • Training and extension. • Product quality & Food safety. • Feedstuffs & Feed formulation. • Other species."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2016-05-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2017-06-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2018-06-01"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2019-05-29"
+            }
+          ],
+          "product_url": "www.ptcplus.com/EN",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "31200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "31500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "31500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "31500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "International diploma pig husbandry and animal feed",
+      "english_title": "International diploma pig husbandry & animal feed",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "traineeship"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and managers in the field of pig husbandry Target: - Manage or supervise or guid pig production from backyard systems to intensive, intermediate scale pig farming methods - Appreciate the relevance of local pig farmers' knowledge, experience and practices and create awareness of sustainable production concepts and methods -Identify, recognise and analyse opportunities and problems, taking into account constraints and utilise possibilities concerning pig husbandry"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a result of the training the participant is able to: • Manage or supervise or guide pig production from back-yard systems to intensive, intermediate scale pig farming methods. • Appreciate the As a result of the training the participant is able to: • Manage or supervise or guide pig production from back-yard systems to intensive, intermediate scale pig farming methods. • Appreciate the relevance of local poultry farmers’ knowledge, experience and practices and create awareness of sustainable production concepts and methods. • Identify, recognise and analyse opportunities and problems, taking into account constraints and utilise possibilities concerning pig husbandry and the use of local feed-stuffs. • Co-operate with others of various disciplines in planning, designing and implementing projects in the field of pig husbandry and animal feed production. • Transfer relevant knowledge, skills and technology concepts to small and intermediate scale pig farmers and for animal feed producing units. • Tackle more efficiently the problems with regard to optimum utilisation of locally available feed-stuffs, which are unsuitable for human consumption."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a result of the training the participant is able to: • Manage or supervise or guide pig production from back-yard systems to intensive, intermediate scale pig farming methods. • Appreciate the relevance of local poultry farmers’ knowledge, experience and practices and create awareness of sustainable production concepts and methods. • Identify, recognise and analyse opportunities and problems, taking into account constraints and utilise possibilities concerning pig husbandry and the use of loc As a result of the training the participant is able to: • Manage or supervise or guide pig production from back-yard systems to intensive, intermediate scale pig farming methods. • Appreciate the relevance of local poultry farmers’ knowledge, experience and practices and create awareness of sustainable production concepts and methods. • Identify, recognise and analyse opportunities and problems, taking into account constraints and utilise possibilities concerning pig husbandry and the use of local feed-stuffs. • Co-operate with others of various disciplines in planning, designing and implementing projects in the field of pig husbandry and animal feed production. • Transfer relevant knowledge, skills and technology concepts to small and intermediate scale pig farmers and for animal feed producing units. • Tackle more efficiently the problems with regard to optimum utilisation of locall…"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2016-05-27"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2017-06-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2018-06-01"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2019-05-29"
+            }
+          ],
+          "product_url": "www.ptcplus.com/EN",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "International diploma poultry husbandry",
+      "english_title": "International diploma poultry husbandry",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "tutorial"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a result of the training the participant is able to: • Manage, supervise or guide poultry production from semi scavenging systems to intensive, intermediate scale poultry farming methods. • App Compulsory modules, including theoretical and practical subjects related to: • Farm management economics and marketing aspects. • Genetics and breeding. • Health, hygiene and pathology. • Housing and equipment. • Management topics. • Nutrition. • Eggs and hatching process. • Applied management in the PTC+ farm facilities. • Compilation of several reports and a back home improvement plan. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience. Optional modules (in order to qualify for the Diploma the optional modules should add up to 480 study-load hours): • Poultry farming as an enterprise. • Poultry Breeding Management and Incubation. • Poultry Production Technology. • Organic farming (see page 37). • Sustainable manure utilisation. • Training and extension. • Product quality & food safety. • Feedstuffs & feed formulation. • Project Development. • Other species."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "As a result of the training the participant is able to: • Manage, supervise or guide poultry production from semi scavenging systems to intensive, intermediate scale poultry farming methods. • App Compulsory modules, including theoretical and practical subjects related to: • Farm management economics and marketing aspects. • Genetics and breeding. • Health, hygiene and pathology. • Housing and equipment. • Management topics. • Nutrition. • Eggs and hatching process. • Applied management in the PTC+ farm facilities. • Compilation of several reports and a back home improvement plan. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience. Optional modules (in order to qualify for the Diploma the optional modules should add up to 480 study-load hours): • Poultry farming as an enterprise. • Poultry Breeding Management and Incubation. • Poultry Production Technology. • Organic farming (see page 37). • Sustainable manure utilisation. • Training and extension. • Product quality & food safety. • Feedstuffs & feed formulation. • Project Development. • Other species."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2016-02-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2017-03-03"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2018-03-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2019-03-01"
+            }
+          ],
+          "product_url": "www.ptcplus.com",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "21600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "21750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "21750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2017
+            },
+            {
+              "amount": "21750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    },
+    {
+      "title": "International diploma pig husbandry",
+      "english_title": "International diploma pig husbandry",
+      "product_type": "course",
+      "location_hovi_id": "340",
+      "organization_hovi_id": "2011",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practicum",
+            "self_evaluation",
+            "traineeship"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For extension officers, teachers and instructors in animal production and managers in the field of Pig Husbandry Targets: - manage, supervise or guide a pig production - appreciate the relevance of local pig farmers' knowledge, experience and practices and create awareness of sustainable production concepts and methods"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compulsory modules, including theoretical and practical subjects related to: • Farm management economics and marketing aspects. • Genetics and breeding. • Health, hygiene and pathology. • Housing Compulsory modules, including theoretical and practical subjects related to: • Farm management economics and marketing aspects. • Genetics and breeding. • Health, hygiene and pathology. • Housing and equipment. • Management topics. • Record keeping and production control. • Nutrition. • Applied management in the farm facilities of the institute. • Compilation of several reports and a back home improvement plan. • Linked to these topics participants develop required competences to return as a confident professional, implementing the PTC+ experience. Optional modules (in order to qualify for the Diploma the optional modules should add up to 480 study-load hours): • Pig farming as an enterprise. • Pig breeding and artificial insemination. • Pig husbandry technology. • Organic farming (see page 37). • Sustainable manure utilisation. • Training and extension. • Product quality & Food safety. • Feedstuffs & Feed formulation. • Project Development. • Introduction to poultry husbandry • Introduction to ruminants"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-24",
+              "end_date": "2016-02-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-08-29",
+              "end_date": "2017-03-03"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-08-28",
+              "end_date": "2018-03-02"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2018-08-27",
+              "end_date": "2019-03-01"
+            }
+          ],
+          "product_url": "www.ptcplus.com/EN",
+          "product_url_en": "www.ptcplus.com",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": {
+          "type": "Point"
+        },
+        "hovi_id": "340",
+        "name": "Vestiging Barneveld",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "url": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "title": "IC University of Applied Sciences",
+  "code": "ICBS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ondernemen begint met een goed idee, een plan en de daadwerkelijke uitvoering. Krijg je voor elkaar wat je voor ogen had? Bij Inter College Business School schrijf je businessplannen, ontwikkel je marketingstrategieën en onderzoek je overnames. Elk aspect van een onderneming wordt behandeld. Zodat jij jouw ideeën zo goed mogelijk in de markt zet. Start je eigen bedrijf, of neem er een over Onze HBO Bedrijfskunde stoomt je klaar om je eigen bedrijf te starten, met een focus op het MKB. We besteden extra aandacht aan bedrijfsovernames en opvolging binnen de familie. Natuurlijk kun je ook aan de slag als leidinggevende binnen een bestaande onderneming. Internationaal erkend diploma Als afgestudeerde ontvang je het internationaal erkende diploma, en de officiële titel Bachelor of Business Administration (BBA). Start in 2015! Je kunt in september 2015 starten met HBO Bedrijfskunde. Kom een dag meelopen Wil je weten of HBO Bedrijfskunde iets voor je is, kom dan eens langs voor een goed gesprek, loop een dag mee of bezoek onze open dag. Kijk op de website www.intercollege.nl of bel 020-6758567 voor meer informatie."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "27WK",
+  "hovi_id": "11",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "english_title": "IC University of Applied Sciences",
+  "products": [
+    {
+      "title": "Bachelor of Business Administration / HBO Bedrijfskunde",
+      "english_title": null,
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39226",
+      "croho_name": "Business Administration",
+      "degrees": [
+        "Bachelor"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "location_hovi_id": "150",
+      "organization_hovi_id": "11",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Inter College Business School: van talent tot ondernemer Ondernemen begint met een goed idee, een plan en de daadwerkelijke uitvoering. Krijg je voor elkaar wat je voor ogen had? Bij Inter College Business School schrijf je businessplannen, ontwikkel je marketingstrategieën en onderzoek je overnames. Elk aspect van een onderneming wordt behandeld. Zodat jij jouw ideeën zo goed mogelijk in de markt zet. Start je eigen bedrijf, of neem er een over Onze HBO Bedrijfskunde stoomt je klaar om je eigen bedrijf te starten, met een focus op het MKB. We besteden extra aandacht aan bedrijfsovernames en opvolging binnen de familie. Natuurlijk kun je ook aan de slag als leidinggevende binnen een bestaande onderneming. Internationaal erkend diploma Als afgestudeerde ontvang je het internationaal erkende diploma, en de officiële titel Bachelor of Business Administration (BBA). Start in 2015! Je kunt in februari 2015 en in september 2015 starten met HBO Bedrijfskunde. Kom een dag meelopen Wil je weten of HBO Bedrijfskunde iets voor je is, kom dan eens langs voor een goed gesprek. Of loop een dag mee. Kijk op de website voor een eerstvolgende meeloopdag."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_description_en": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://gus.cvtr.io/lp/icbs-eur-lp",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "16250",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Passeerdersgracht 23, 1016 XG, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8809505,
+              52.3668628
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1016 XG",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "23",
+                "shortText": "23",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Passeerdersgracht",
+                "shortText": "Passeerdersgracht",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1016 XG",
+                "shortText": "1016 XG",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "23",
+            "formated": "Passeerdersgracht 23, 1016 XG Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3654617697085,
+              "west": 4.879469919708498,
+              "north": 52.3681597302915,
+              "east": 4.882167880291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8809505,
+            52.3668628
+          ]
+        },
+        "hovi_id": "150",
+        "name": "Inter College Business School, vestiging Amsterdam",
+        "street": "Passeerdersgracht 23",
+        "zip": "1016 XG",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vestiging_SK123_id": "427",
+        "url": "http://www.intercollege.nl"
+      }
+    }
+  ]
+}
