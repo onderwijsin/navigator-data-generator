@@ -78,16 +78,15 @@ type Product = {
     title: string,
     english_title: string | null,
     product_type: string,
-    description: any, // tiptap JSON (nl only)
-    product_level?: string,
-    croho?: string,
+    product_level?: string | null,
+    croho?: string | null,
     croho_name?: string,
     degrees?: (typeof degrees[number]['title']['nl'])[],
-    croho_sector?: string,
+    croho_sector?: string | null,
     credits?: string,
-    financing?: string,
-    location_hovi_id?: string,
-    organization_hovi_id?: string,
+    financing?: string | null,
+    location_hovi_id?: string | null,
+    organization_hovi_id?: string | null,
     product_forms: ProductForm[]
 }
 
