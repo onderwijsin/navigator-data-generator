@@ -68,9 +68,6 @@ const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organi
         product_description: form.productDescription?.nl ? generateJSON(`${form.productDescription.nl}`, [
             Document, Paragraph, Text, Bold, Link, Italic
         ]) : null,
-        product_description_en: form.productDescription?.en ? generateJSON(`${form.productDescription.en}`, [
-            Document, Paragraph, Text, Bold, Link, Italic
-        ]) : null,
         product_result: form.productResult?.nl ? generateJSON(`${form.productResult.nl}`, [
             Document, Paragraph, Text, Bold, Link, Italic
         ]) : null,
@@ -80,7 +77,6 @@ const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organi
             end_date: start.endDate || null
         })) || [],
         product_url: form.productURL?.nl,
-        product_url_en: form.productURL?.en,
         scholarships: form.scholarships?.map(scholarship => scholarship?.scholarship || '').filter(r => !!r) || [],
         study_advices: form.studyAdvices,
         study_costs: form.studyCosts?.map(cost => ({
@@ -100,7 +96,6 @@ const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organi
 
     return {
         title: hoviProduct.productName?.nl || '',
-        english_title: hoviProduct.productName?.en || null,
         product_type: hoviProduct.productType,
         product_level: hoviProduct.productLevel,
         croho: hoviProduct.croho,
@@ -109,6 +104,7 @@ const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organi
         croho_sector: hoviProduct.crohoSector,
         credits: hoviProduct.credits,
         financing: hoviProduct.financing,
+        vendor: 'hovi',
         location_hovi_id: hoviProduct.location,
         organization_hovi_id: hoviProduct.organization,
         product_forms: hoviProduct.productForms?.map(transformProductForm) || []
@@ -125,8 +121,10 @@ const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{org
         zip: visitorAddress?.zip || null,
         city: visitorAddress?.city || null,
         country: visitorAddress?.country || null,
+        vendor: 'hovi',
         vestiging_SK123_id: vestigingSK123Id,
-        url: webLink?.nl || null
+        url: webLink?.nl || null,
+        brinvest: null
     };
 };
 
@@ -174,6 +172,38 @@ const organizations = await Promise.all(filteredOrganizationIds.map(async ({ org
             };
         }));
 
+        /**
+         * Calculate the most used location by the products of each organization.
+         * @param products - Array of products with location data.
+         * @returns The most used location.
+         */
+        function getMostUsedLocation(products: Array<Product & { location: Location | null }>): Location | null {
+            const locationCount: { [key: string]: { location: Location, count: number } } = {};
+
+            products.forEach(product => {
+                if (product.location) {
+                    const locationKey = JSON.stringify(product.location);
+                    if (locationCount[locationKey]) {
+                        locationCount[locationKey].count++;
+                    } else {
+                        locationCount[locationKey] = { location: product.location, count: 1 };
+                    }
+                }
+            });
+
+            let mostUsedLocation: Location | null = null;
+            let maxCount = 0;
+
+            for (const key in locationCount) {
+                if (locationCount[key].count > maxCount) {
+                    maxCount = locationCount[key].count;
+                    mostUsedLocation = locationCount[key].location;
+                }
+            }
+
+            return mostUsedLocation;
+        }
+
         // Create organization data object
         const data: Organization = {
             title: brinName?.nl || null,
@@ -183,6 +213,8 @@ const organizations = await Promise.all(filteredOrganizationIds.map(async ({ org
             ]) : null,
             type: organizationType === 'university' ? 'universiteit' : organizationType === 'university_of_applied_sciences' ? 'hogeschool' : organizationType === 'international_education' ? 'internationaal onderwijs' : 'onderzoeksuniversiteit',
             brin_code: brin || null,
+            vendor: 'hovi',
+            logoUrl: null,
             hovi_id: organizationId || null,
             phone: phone || null,
             email: email || null,
@@ -190,7 +222,7 @@ const organizations = await Promise.all(filteredOrganizationIds.map(async ({ org
                 url: value,
                 lang: key === 'nl' ? 'Nederlands' : key === 'en' ? 'Engels' : 'Overig'
             })) : null,
-            english_title: brinName?.en || null,
+            main_location: getMostUsedLocation(products),
             products
         };
 

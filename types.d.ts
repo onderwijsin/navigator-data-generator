@@ -9,9 +9,10 @@ type Organization = {
     email: string | null,
     website: { url : string, lang: 'Nederlands' | 'Engels' | 'Overig' }[] | null,
     brin_code: string | null,
+    logoUrl: string | null,
+    vendor: 'hovi' | 'kiesmbo' | string,
     hovi_id: string | null,
-    english_title: string | null
-
+    main_location: Location | null,
     products: Array<Product & { location: Location | null }>
 }
 
@@ -41,7 +42,6 @@ type ProductForm = {
     numerus_fixus_tries?: number,
     numerus_fixus_url?: string,
     product_description?: any, // tiptap JSON (nl only)
-    product_description_en?: any, // tiptap JSON
     product_result?: any, // tiptap JSON (nl only)
     application_deadlines: {
         application_deadline: string | null,
@@ -49,7 +49,6 @@ type ProductForm = {
         end_date: string | null
     }[],
     product_url?: string,
-    product_url_en?: string,
     scholarships?: string[],
     study_advices?: {
         binding?: boolean,
@@ -76,7 +75,6 @@ type ProductForm = {
 
 type Product = {
     title: string,
-    english_title: string | null,
     product_type: string,
     product_level?: string | null,
     croho?: string | null,
@@ -85,6 +83,7 @@ type Product = {
     croho_sector?: string | null,
     credits?: string,
     financing?: string | null,
+    vendor: 'hovi' | 'kiesmbo' | string,
     location_hovi_id?: string | null,
     organization_hovi_id?: string | null,
     product_forms: ProductForm[]
@@ -99,6 +98,9 @@ type Location = {
     country: string | null
     url: string | null // webLink.nl
     vestiging_SK123_id?: string
+    vendor: 'hovi' | 'kiesmbo' | string,
+
+    brinvest: string | null
 }
 
 

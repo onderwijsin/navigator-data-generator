@@ -22,9 +22,9 @@ The extraction script outputs all data on an organization level as JSON files.
    **ONGOING**
 - [ ] We'll also need to extract data from KiesMBO. That means we'll also need to standardize the data. 
 - [ ] Shitty thing is: the KIESMBO and HOVI schema's are reversed. `Locations` are a prop of `Products` for HOVI. `Studies` (or `Products`) are a prop of `Locations` for KiesMBO. HOVI schema makes for sense
+- [ ] Assign main location for each organization based on the number of products that use that location
 
    **NEXT UP**
-- [ ] Assign main location for each organization based on the number of products that use that location
 - [ ] Construct Directus collection schemas based on output types
 - [ ] Consider whether to split products into multiple sub collections (such as `Degrees`). Need to analyze the repetitive datapoints where collections might be needed.
 - [ ] Write the Directus seeding script
