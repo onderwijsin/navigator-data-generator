@@ -9,7 +9,8 @@
   "scripts": {
     "extract-hovi": "tsx ./scripts/extract-hovi.ts",
     "extract-mbo": "tsx ./scripts/extract-kiesmbo.ts",
-    "directus": "tsx ./scripts/directus.ts"
+    "directus": "tsx ./scripts/directus.ts",
+    "datahub": "tsx ./scripts/directus_datahub.ts"
   },
   "devDependencies": {
     "@directus/sdk": "^19.0.1",
@@ -22,13 +23,11 @@
     "@tiptap/extension-text": "^2.11.5",
     "@tiptap/html": "^2.11.5",
     "dotenv": "^16.4.7",
+    "ofetch": "^1.4.1",
     "tsx": "^4.19.2",
     "typescript": "^5.7.3"
   },
   "engines": {
     "node": ">=22.0.0"
-  },
-  "dependencies": {
-    "ofetch": "^1.4.1"
   }
 }
