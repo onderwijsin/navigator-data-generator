@@ -1,0 +1,35 @@
+{
+  "title": "Beveiligings Beroepen Onderwijs Opleidingen Trainingen Advies",
+  "code": "BEVEI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "29YL",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Gravenlanden 109",
+    "zip": "9407 JS",
+    "city": "Assen",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "29YL01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.5608401,
+        53.0194625
+      ]
+    }
+  },
+  "locations": [
+    "29YL01"
+  ],
+  "products": []
+}

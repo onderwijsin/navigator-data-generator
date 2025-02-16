@@ -1,0 +1,40 @@
+{
+  "title": "De Voshaar",
+  "code": "DE VO",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://mbooutdoor.com",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "30YA",
+  "logoUrl": "https://www.kiesmbo.nl/media/4489/voshaar-logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "De Voshaar",
+    "street": "Winterswijkseweg 17",
+    "zip": "7152BV",
+    "city": "Eibergen",
+    "country": "Nederland",
+    "url": "https://mbooutdoor.com",
+    "vendor": "kiesmbo",
+    "brinvest": "30YA01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.6598381,
+        52.0832157
+      ]
+    }
+  },
+  "locations": [
+    "30YA01"
+  ],
+  "products": []
+}

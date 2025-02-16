@@ -1,0 +1,40 @@
+{
+  "title": "Gelders Opleidingsinstituut",
+  "code": "GELDE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.geldersopleidingsinstituut.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "24CE",
+  "logoUrl": "https://www.kiesmbo.nl/media/4312/logo.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Willem Pijperstraat 21",
+    "zip": "6815 AV",
+    "city": "Arnhem",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "24CE01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.9103391,
+        52.0069735
+      ]
+    }
+  },
+  "locations": [
+    "24CE01"
+  ],
+  "products": []
+}

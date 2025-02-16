@@ -1,0 +1,35 @@
+{
+  "title": "VK Opleidingen",
+  "code": "VK OP",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "29ZK",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Csardasstraat 8",
+    "zip": "1326 RX",
+    "city": "ALMERE",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "29ZK01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.2532146,
+        52.3617791
+      ]
+    }
+  },
+  "locations": [
+    "29ZK01"
+  ],
+  "products": []
+}

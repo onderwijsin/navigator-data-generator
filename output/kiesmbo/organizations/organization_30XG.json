@@ -1,0 +1,40 @@
+{
+  "title": "ORGB Opleidingen",
+  "code": "ORGB ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://orgb.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "30XG",
+  "logoUrl": "https://www.kiesmbo.nl/media/6594/orgb-opleidingen.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Grotestraat 24",
+    "zip": "6067 BR",
+    "city": "Linne",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30XG01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.9394904,
+        51.1578916
+      ]
+    }
+  },
+  "locations": [
+    "30XG01"
+  ],
+  "products": []
+}

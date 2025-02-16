@@ -1,0 +1,35 @@
+{
+  "title": "Philipse Business School",
+  "code": "PHILI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "28CJ",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "De Poort 42",
+    "zip": "3991 DV",
+    "city": "Houten",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "28CJ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1580365,
+        52.0265197
+      ]
+    }
+  },
+  "locations": [
+    "28CJ01"
+  ],
+  "products": []
+}

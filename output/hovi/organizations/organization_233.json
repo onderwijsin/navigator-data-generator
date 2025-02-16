@@ -1,0 +1,622 @@
+{
+  "title": "Team Academy",
+  "code": "TEAMA",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Aanmelding mogelijk tot 1 augustus!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Team Academy is een kleine, praktische en internationale HBO opleiding in 'character building' en ondernemerschap in Amsterdam, anders dan reguliere HBO's:  persoonlijker, praktischer., en relevanter."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Je krijgt persoonlijke coaching en niet leraren, maar ondernemers geven je workshops in vakken die belangrijk zijn om jouw ondernemersmentaliteit te vormen. Geen colleges of examens, maar praktisch bezig zijn om jou een ondernemende teamplayer te maken. Je bent niet 1 op de 100, maar 1 persoon in een team en in een community waar we het enorm belangrijk vinden om er met jou achter te komen wat jouw passie is. Wat is jouw drive, waarom vind je dat belangrijk, en hoe ga je hier mee verder?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In een gemiddelde week heb je 15 uur aan workshops van fieldexperts/mentoren, en werk je de overige uren aan opdrachten, presentaties, en je eigen onderneming, project of het project van je team.  Een belangrijk onderdeel van je studie is het team, twee keer per week kom je samen en zijn er sessies om te brainstormen, samen te werken en ervaringen te delen om elkaars ondernemingen te laten groeien. Elk jaar reis je samen meerdere weken naar het buitenland om je "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "team"
+          },
+          {
+            "type": "text",
+            "text": " te versterken en meer te ontdekken over wie "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "jij "
+          },
+          {
+            "type": "text",
+            "text": "wilt zijn in de "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "wereld!"
+          },
+          {
+            "type": "text",
+            "text": " Last but not least: Het is een full time, geaccrediteerde, 4 jarige Bachelor of Business Administration in Entrepreneurship. "
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30EB",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "233",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "139",
+    "name": "Team Academy, vestiging Amsterdam",
+    "street": "Vlaardingenlaan 15",
+    "zip": "1062HM",
+    "city": "AMSTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "366",
+    "url": "http://teamacademy.nl/nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Bachelor of Business Administration in Ondernemerschap",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "30117",
+      "croho_name": "Business Administration Entrepreneurship",
+      "degrees": [
+        "Bachelor of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "139",
+      "organization_hovi_id": "233",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "oral_presentation",
+            "project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Alumni cijfers (februari 2024):"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "30% eigen business"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "30% werkend bij start-up/SME, niet eigen business"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "40% anders: (intrapreneur bij) traditioneel bedrijf"
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Team Academy Amsterdam ontketenen we een "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "revolutie"
+                  },
+                  {
+                    "type": "text",
+                    "text": " in het onderwijs. Wij geloven dat echt leren veel "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "verder gaat dan de muren van het klaslokaal"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en comfortzones. Het bloeit in de onontdekte gebieden waar uitdagingen veranderen in kansen, waar groei geen grenzen kent. Wij bieden een "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "geaccrediteerde "
+                  },
+                  {
+                    "type": "text",
+                    "text": "studie aan, anders dan andere studies in ondernemerschap door een unieke en innovatieve aanpak. Geen colleges, maar interactieve workshops van experts en mentors over alle aspecten van een ondernemer zijn. Geen examens, maar opdrachten en presentaties, zodat je theorie toepast! Je krijgt tijd in je rooster om aan je eigen ontwikkeling en je project te werken, je bezoekt klanten en bedrijven, alleen of met je team van studenten met dezelfde drive als jij. Ons gevarieerde programma helpt je om je te ontwikkelen op persoonlijk, professioneel en sociaal vlak. Je leert "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "levenslange skills"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", start bedrijven, verdient geld en werkt aan je toekomst, terwijl je tegelijkertijd een teamplayer en ondernemer wordt die unieke ideeën durft te starten. Bij ons ontdek jij je "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "passie"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", groei en leer je elke dag en heb je "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "plezier op"
+                  },
+                  {
+                    "type": "text",
+                    "text": " een plek waar je graag bent. Je wordt "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "creatief"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "innovatief"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "bewust "
+                  },
+                  {
+                    "type": "text",
+                    "text": "in een steeds veranderende wereld. Wij geloven dat "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "teamwork"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", een "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "ondernemende mentaliteit"
+                  },
+                  {
+                    "type": "text",
+                    "text": " en het kennen van je"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " doel"
+                  },
+                  {
+                    "type": "text",
+                    "text": " de ingrediënten zijn om als persoon een positieve impact op de wereld te hebben. En jij?"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Om de oprichting van nieuwe bedrijven te leiden, werk aan bedrijfsontwikkeling binnen ondernemingen of blijf werken in het eigen bedrijf."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": "2023-08-15",
+              "starting_date": "2023-09-04",
+              "end_date": "2027-07-10"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2021-08-30",
+              "end_date": "2025-07-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-05",
+              "end_date": "2026-07-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-08-31",
+              "end_date": "2028-07-09"
+            }
+          ],
+          "product_url": "https://www.teamacademy.nl/nl/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 53,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "1275",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Te verwachten jaarlijkse additionele kosten: "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Boeken €500,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Indicatie of additionele kosten voor de learning journeys in het buitenland (vlucht en accommodatie): "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Jaar 1 €1250,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Jaar 2 €2050,-"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Jaar 3 Afhankelijk van het gekozen land"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "12750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2019
+            },
+            {
+              "amount": "12750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "12750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "13750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "13750",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Vlaardingenlaan 15, 1062HM, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8375487,
+              52.34657989999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1062 HM",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "15",
+                "shortText": "15",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vlaardingenlaan",
+                "shortText": "Vlaardingenlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam Nieuw-West",
+                "shortText": "Amsterdam Nieuw-West",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1062 HM",
+                "shortText": "1062 HM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "15",
+            "formated": "Vlaardingenlaan 15, 1062 HM Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.34525206970849,
+              "west": 4.836170619708498,
+              "north": 52.34795003029149,
+              "east": 4.838868580291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8375487,
+            52.34657989999999
+          ]
+        },
+        "hovi_id": "139",
+        "name": "Team Academy, vestiging Amsterdam",
+        "street": "Vlaardingenlaan 15",
+        "zip": "1062HM",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "366",
+        "url": "http://teamacademy.nl/nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "HaKa MBO",
+  "code": "HAKA ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://haka-mbo.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "31RL",
+  "logoUrl": "https://www.kiesmbo.nl/media/6348/haka-mbo.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdkantoor",
+    "street": "Schoonhovenseveer 119",
+    "zip": "2964 GB",
+    "city": "Groot-Ammers",
+    "country": "Nederland",
+    "url": "https://haka-mbo.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "31RL01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.8539568,
+        51.940286
+      ]
+    }
+  },
+  "locations": [
+    "31RL01"
+  ],
+  "products": []
+}

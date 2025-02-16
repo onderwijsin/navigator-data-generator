@@ -1,0 +1,1723 @@
+{
+  "title": "Codarts Hogeschool voor de Kunsten",
+  "code": "CODAR",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Codarts is een in Rotterdam gevestigde internationale hogeschool die hoogwaardig kunstvakonderwijs aanbiedt op het gebied van muziek, dans en circus. De hogeschool telt ongeveer 1.000 studenten, met 50 nationaliteiten, en circa 340 medewerkers. Muziek De muziekopleidingen van Codarts staan sinds jaar en dag hoog aangeschreven in binnen- en buitenland. Die goede naam dankt de school aan de topkwaliteit die zij biedt in een breed aanbod van studierichtingen, afgestemd op de eisen van de internationale beroepspraktijk. Dans Codarts bereidt haar dansstudenten voor op een professionele carrière als danser of docent. Door de nadruk te leggen op excellentie, wordt gestreefd naar het afleveren van hooggekwalificeerde danskunstenaars die aan de slag kunnen op de internationale arbeidsmarkt. Circus De bacheloropleiding Circus Arts leidt jonge talenten in vier jaar op tot professioneel uitvoerend circuskunstenaar. Zij bekwamen zich in een eigen circusspecialisatie. Onderzoek Ten behoeve van een verdere professionalisering van de hogeschool en haar opleidingen besteedt Codarts veel aandacht aan onderzoek."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "14NI",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "38",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "30",
+    "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+    "street": "Kruisplein 26",
+    "zip": "3012 CC",
+    "city": "ROTTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "81",
+    "url": "https://www.codarts.nl/",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Circus Arts",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34128",
+      "croho_name": "Circus Arts",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "portfolio",
+            "project",
+            "research",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "5.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De bachelor Circus Arts is een vierjarige voltijdopleiding. Je wordt opgeleid tot professioneel uitvoerend artiest en verdiept je in minstens een circusspecialisatie. Jij wil de top van het eigentijdse circustheater bereiken. Je zoekt een inspirerende, internationale omgeving waarin jouw talent als performer tot bloei komt. Codarts biedt die omgeving. Bij ons volg je een breed programma aan circusdisciplines. Van acrobatiek tot jongleren en luchtacrobatiek. Daarnaast kies je een specialisatie waarin je wil excelleren. Je leert verschillende kunstvormen te integreren in je performance: muziek, dans en theater. Elk jaar treed je op voor publiek. Je loopt stage in binnen- of buitenland. Uiteindelijk verlaat je Codarts als een breed opgeleid artiest, die zowel solo als in een team de mooiste voorstellingen maakt en speelt."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/bacheloropleidingen/circus/opleiding/",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Muziek",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34739",
+      "croho_name": "Muziek",
+      "degrees": [
+        "Bachelor of Music"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Bachelor Muziek van Codarts Rotterdam staat voor topkwaliteit en een breed aanbod van genres: Muziektheater, Pop, Jazz, Wereldmuziek en Klassieke Muziek. Bij Codarts kom je gemakkelijk in aanraking met zowel verschillende muziekstijlen en studenten uit diverse landen als met sterk gemotiveerde en toegewijde docenten, die op hun vakgebied internationaal naam en faam genieten."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/bacheloropleidingen/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Dans",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34798",
+      "croho_name": "Dans",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "group_assignment"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "5.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De danswereld roept om gedreven, nieuwsgierige en hooggekwalificeerde dansers die hun artistieke persoonlijkheid willen verwezenlijken. Is dit jouw droom? Dan is Codarts de plek waar je moet zijn. De danswereld roept om gedreven, nieuwsgierige en hooggekwalificeerde dansers en dansmakers. Om kunstenaars die hun artistieke persoonlijkheid willen verwezenlijken. Is dit jouw droom? Dan is Codarts de plek waar je moet zijn. Bij ons werk je samen een team van geroemde docenten en choreografen. Zij openen je ogen voor oneindige mogelijkheden en stimuleren jouw eigenheid als danser. Je doet veel podiumervaring op, zowel binnen Codarts als (ver) daarbuiten. Daarbij profiteer je van onze uitstekende connecties met het internationale werkveld. Aan het einde van je studie heb je een zeer hoog technisch niveau bereikt. Je kunt samenwerken, bent proactief, communicatief en hebt een sterke inbreng bij het creatieproces."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/bacheloropleidingen/dans/opleiding/",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Docent Dans",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34940",
+      "croho_name": "Docent Dans",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "project",
+            "research"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "5.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jij doet niets liever dan dansen en je wil je passie voor dans graag delen met anderen. De veelzijdige opleiding Docent Dans biedt je een uitgebreid programma waarin je je talenten kunt ontwikkelen. Jij doet niets liever dan dansen en je wil je passie voor dans graag delen met anderen: van kinderen tot ouderen; van amateurs tot professionals. De veelzijdige opleiding Docent Dans biedt je een uitgebreid programma waarin je je talenten kunt ontwikkelen. We bereiden je in vier jaar tijd voor op het dynamische beroep van docent dans. Onze afgestudeerden zijn o.a. actief bij dansgezelschappen en dansscholen, in het onderwijs en in community arts-projecten. Je krijgt volop mogelijkheden om je eigen interesses te onderzoeken; bijvoorbeeld tijdens (inter)nationale stages. Je ontwikkelt jezelf heel breed: niet alleen als danser en docent, maar ook als dansmaker, ondernemer en onderzoeker."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/bacheloropleidingen/docent-dans/opleiding/",
+          "scholarships": [
+            "holland_scholarship"
+          ],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Docent Muziek",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39112",
+      "croho_name": "Docent Muziek",
+      "degrees": [
+        "Bachelor of Music Education",
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "portfolio",
+            "project",
+            "research",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "999",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de bachelor Docent Muziek leer je hoe je jouw enthousiasme voor muziek overdraagt op anderen. Omdat '"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "zien spelen doet spelen'"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", ontwikkel je je ambachtelijke muzikale vaardigheden en je eigen artistieke geluid als artiest. Ook pedagogisch en didactisch leer je wat je nodig hebt om inspirerend en effectief les te geven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding Docent muziek leidt op tot muziekdocent in het primair, voortgezet onderwijs en hoger onderwijs. Daarnaast werken afgestudeerden van deze opleiding als zelfstandige in heel diverse muziek-educatieve projecten, geven ze instrumentale en vocale lessen, leiden koren en ensembles en ontwikkelen ze educatief materiaal."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2021-09-06",
+              "end_date": "2025-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/bacheloropleidingen/docent-muziek/opleiding/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 45,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master Muziek",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "44739",
+      "croho_name": "Muziek",
+      "degrees": [
+        "Master of Music"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als muziekprofessional van nu moet je echt van alle markten thuis zijn en de Master Muziek stoomt je daarvoor klaar. Daarbij sta je zelf aan het roer: jij bepaalt de koers op weg naar een succesvolle carrière als uitvoerend musicus of componist."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We bieden een uitdagend programma. In het hoofdvak draait het om je stem, je instrument of het makerschap. Begeleid door ervaren docenten werk je aan de verdere ontwikkeling als professioneel musicus. Dit hoofdvak heeft veel raakvlakken met het onderdeel Onderzoek. Daarin leer je hoe je je eigen artistieke onderzoek in je beroepspraktijk kunt integreren. Een belangrijk deel van de opleiding vul je zelf in. Wil je een keuzevak volgen aan een ander instituut als verdieping of verbreding? Kies je voor een stage in het buitenland? Of krijg je de kans waardevolle praktijkervaring op te doen bij bijvoorbeeld het Rotterdams Philharmonisch Orkest? Van ons krijg je alle gelegenheid om je eigen unieke portfolio samen te stellen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2028-07-07"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/masteropleidingen/master-muziek/opleiding/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master of Arts Therapies",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49108",
+      "croho_name": "Master of Arts Therapies",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-02",
+              "end_date": "2026-07-03"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/masteropleidingen/master-of-arts-therapies/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "10206",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master Kunsteducatie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49117",
+      "croho_name": "Kunsteducatie",
+      "croho_sector": "onderwijs",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "literature_study",
+            "portfolio",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master Choreografie (joint degree)",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49502",
+      "croho_name": "Master Choreografie (joint degree)",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "taal_en_cultuur",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "30",
+      "organization_hovi_id": "38",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-07-09"
+            }
+          ],
+          "product_url": "https://www.codarts.nl/onderwijs/masteropleidingen/master-choreography/about/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Kruisplein 26, 3012 CC, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4720244,
+              51.9222752
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3012 CC",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "26",
+                "shortText": "26",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kruisplein",
+                "shortText": "Kruisplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3012 CC",
+                "shortText": "3012 CC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "26",
+            "formated": "Kruisplein 26, 3012 CC Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.9209580197085,
+              "west": 4.470662669708497,
+              "north": 51.9236559802915,
+              "east": 4.473360630291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4720244,
+            51.9222752
+          ]
+        },
+        "hovi_id": "30",
+        "name": "Codarts Rotterdam, hoofdlocatie Kruisplein",
+        "street": "Kruisplein 26",
+        "zip": "3012 CC",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "81",
+        "url": "https://www.codarts.nl/",
+        "brinvest": null
+      }
+    }
+  ]
+}

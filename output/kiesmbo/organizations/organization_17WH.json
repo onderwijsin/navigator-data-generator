@@ -1,0 +1,54 @@
+{
+  "title": "SVO vakopleiding food",
+  "code": "SVO V",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.svo.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "17WH",
+  "logoUrl": "https://www.kiesmbo.nl/media/3513/17wh.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "SVO Houten, Sleepboot",
+    "street": "Sleepboot 2",
+    "zip": "3991 CN",
+    "city": "Houten",
+    "country": "Nederland",
+    "url": "http://www.svo.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "17WH20",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1507435,
+        52.0196922
+      ]
+    }
+  },
+  "locations": [
+    "17WH01",
+    "17WH02",
+    "17WH03",
+    "17WH06",
+    "17WH07",
+    "17WH08",
+    "17WH09",
+    "17WH10",
+    "17WH11",
+    "17WH12",
+    "17WH13",
+    "17WH15",
+    "17WH16",
+    "17WH18",
+    "17WH20"
+  ],
+  "products": []
+}

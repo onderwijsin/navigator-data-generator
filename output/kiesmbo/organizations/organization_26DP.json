@@ -1,0 +1,35 @@
+{
+  "title": "Stichting Kappersacademie Hair Point",
+  "code": "STICH",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26DP",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Volendamlaan 1272",
+    "zip": "2547 CZ",
+    "city": "Den Haag",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26DP01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.2602772,
+        52.0620331
+      ]
+    }
+  },
+  "locations": [
+    "26DP01"
+  ],
+  "products": []
+}

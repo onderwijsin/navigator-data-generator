@@ -1,0 +1,264 @@
+{
+  "title": "The New School for Information Services",
+  "code": "NSIS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ooit gedacht aan een toekomst in public relations, marketing, reclame, crossmedia management, televisieproductie of -redactie of website design? Het veelzijdige lesprogramma biedt je een breed vakinhoudelijk pakket. Deze worden gegeven door docenten die ook in de praktijk werkzaam zijn in hun vakgebied. De kleine klassen maken het mogelijk om aandacht te schenken aan je persoonlijke en algemene ontwikkeling die onmisbaar is voor één van deze creatieve beroepen. The New School biedt een informele sfeer. Sinds 2019 dragen bij het door de NVAO toegekende Bijzondere kenmerk Bildung. Wij zijn een geaccrediteerde particuliere hbo opleiding. Dit betekent dat je zelf betaalt voor je opleiding, maar wel studiefinanciering en een OV-jaarkaart voor vier jaar ontvangt en dat je een erkend bachelordiploma Marketing communicatie kunt halen. Meer weten? Kom naar open avond op maandag 18 mei van 19:00-21:00. Je kunt je opgeven via onze website. Je kunt ook gewoon even langskomen voor een indruk. Bel 020-4711787 of mail naar info@thenewschool"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24KM",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "93",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "94",
+    "name": "The New School for Information Services, vestiging Amsterdam",
+    "street": "Jan Luijkenstraat 98",
+    "zip": "1071 CV",
+    "city": "AMSTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "206",
+    "url": "http://www.thenewschool.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "The New School for Information Services",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34510",
+      "croho_name": "Marketing Communicatie",
+      "degrees": [
+        "Bachelor of Arts"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "94",
+      "organization_hovi_id": "93",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": false,
+              "grades": false,
+              "preEducation": true,
+              "testMethod": null,
+              "validFor": []
+            }
+          ],
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "oral_presentation",
+            "project",
+            "research_project",
+            "seminar",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Een toekomst in public relations, marketing, reclame, of crossmedia management? The New School in Amsterdam, de beste kleine hbo van Nederland, biedt een uniek en veelzijdig lesprogramma. Het veelzijdige lesprogramma (van lessen tot seminars tot studiereis) op The New School is uniek en biedt je een breed vakinhoudelijk pakket. De vakken worden gegeven door docenten die ook in de praktijk werkzaam zijn in hun vakgebied. De kleine klassen maken het mogelijk om aandacht te schenken aan je persoonlijke en algemene ontwikkeling; onmisbaar voor de creatieve beroepen in het vakgebied van marketing en communicatie.  The New School for Information Services is de kleinste marketing communicatie hbo-opleiding van Nederland, met een informele sfeer en persoonlijke aandacht. Wij zijn een geaccrediteerde particuliere hbo-opleiding. Dit betekent dat je zelf betaalt voor je opleiding, maar wel studiefinanciering en een OV-kaart voor 4 jaar ontvangt en dat je een erkend bachelordiploma Marketing-Communicatie kunt halen. Meer weten? Meld je aan voor een van onze (online) open avonden via onze website: www.thenewschool.nl Je kunt ook een afspraak maken voor een kennismakingsgesprek of een meeloopdag. E: info@thenewschool.nl T: 020-4711787"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-08-30",
+              "end_date": "2024-08-31"
+            }
+          ],
+          "product_url": "https://www.thenewschool.nl",
+          "scholarships": [],
+          "study_costs": [
+            {
+              "amount": "0",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "15650",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Jaar 1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2020
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Jan Luijkenstraat 98, 1071 CV, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8786502,
+              52.3592384
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1071 CV",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "98",
+                "shortText": "98",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Jan Luijkenstraat",
+                "shortText": "Jan Luijkenstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Zuid",
+                "shortText": "Amsterdam-Zuid",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1071 CV",
+                "shortText": "1071 CV",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "98",
+            "formated": "Jan Luijkenstraat 98, 1071 CV Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3578577197085,
+              "west": 4.877327319708498,
+              "north": 52.3605556802915,
+              "east": 4.880025280291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8786502,
+            52.3592384
+          ]
+        },
+        "hovi_id": "94",
+        "name": "The New School for Information Services, vestiging Amsterdam",
+        "street": "Jan Luijkenstraat 98",
+        "zip": "1071 CV",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "206",
+        "url": "http://www.thenewschool.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

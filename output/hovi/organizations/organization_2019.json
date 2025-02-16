@@ -1,0 +1,1384 @@
+{
+  "title": "The Hague Academy for Local Governance",
+  "code": "HALG",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9019",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "2019",
+  "phone": null,
+  "email": "scholarships@thehagueacademy.com",
+  "website": [
+    {
+      "url": "https://thehagueacademy.com/",
+      "lang": "Engels"
+    }
+  ],
+  "main_location": {
+    "hovi_id": "344",
+    "name": "Vestiging Den Haag",
+    "street": null,
+    "zip": null,
+    "city": null,
+    "country": null,
+    "vendor": "hovi",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Migration and Local Authorities",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-07-04",
+              "end_date": "2022-07-15"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-07-10",
+              "end_date": "2022-07-21"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-06-26",
+              "end_date": "2024-07-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-07-07",
+              "end_date": "2025-07-18"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Local Climate Response",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Understand key concepts of climate change, climate adaptation, mitigation, risk, resilience and climate justice;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Increase insights into climate change scenarios and policy implications;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Assess climate vulnerabilities using well-established tools and methodologies;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Design community-based climate policies and action plans, including the use of nature-based solutions and energy transition strategies;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Implement and finance climate policies with stakeholders in your organisation and community;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "·       Mainstream sustainability and climate actions in your organisation."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-06-19",
+              "end_date": "2023-06-30"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-05-29",
+              "end_date": "2024-06-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-06-30",
+              "end_date": "2025-07-11"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Le Développement économique local",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2017-05-08",
+              "end_date": "2017-05-19"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Conflict, Rule of Law & Local Security",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-10-11",
+              "end_date": "2021-10-22"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-10-31",
+              "end_date": "2022-11-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-11-08",
+              "end_date": "2023-11-21"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-11-13",
+              "end_date": "2024-11-26"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Local Economic Development",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-06-14",
+              "end_date": "2021-06-25"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-10-10",
+              "end_date": "2022-10-21"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-10-18",
+              "end_date": "2023-10-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-18",
+              "end_date": "2024-10-01"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Multilevel Water Governance",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-09-06",
+              "end_date": "2021-09-17"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-26",
+              "end_date": "2022-10-07"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-27",
+              "end_date": "2023-10-10"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-25",
+              "end_date": "2024-10-08"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Fiscal Decentralisation & Local Finance",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-02-07",
+              "end_date": "2022-02-18"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-02-13",
+              "end_date": "2023-02-24"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-08-23",
+              "end_date": "2023-09-05"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-07",
+              "end_date": "2024-02-20"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Citizen Participation and Inclusive Governance",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-11-01",
+              "end_date": "2023-11-14"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-04-03",
+              "end_date": "2024-04-16"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-10-09",
+              "end_date": "2024-10-22"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-04-07",
+              "end_date": "2025-04-18"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Gender Responsive Governance",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "exhibition",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-11-15",
+              "end_date": "2021-11-26"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-11-14",
+              "end_date": "2022-11-25"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-11-22",
+              "end_date": "2023-12-05"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-04-10",
+              "end_date": "2024-04-23"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-11-27",
+              "end_date": "2024-12-10"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Integrity and Anti-corruption",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "•Have insight in the importance of integrity for well-functioning, transparent government institutions and for economic growth; •Know how the Dutch policy for integrity of civil servants is shaped and organised; •Be able to use the acquired knowledge and best practices as a source of inspiration for dealing with challenges related to integrity policies in their own countries; •Be trained in the"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-09-27",
+              "end_date": "2021-10-08"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-05",
+              "end_date": "2022-09-16"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-06",
+              "end_date": "2023-09-19"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-09-04",
+              "end_date": "2024-09-17"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3150",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2020
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Inclusive Service Delivery and the SDGs",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-03-06",
+              "end_date": "2023-03-17"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-28",
+              "end_date": "2024-03-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-05-05",
+              "end_date": "2025-05-16"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Urban Governance: Resilient and Smart Cities",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-05-31",
+              "end_date": "2023-06-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2024-05-15",
+              "end_date": "2024-05-28"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-06-09",
+              "end_date": "2025-06-20"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Inclusive Local Economic Development (Online)",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2022-10-25",
+              "end_date": "2022-11-30"
+            }
+          ],
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "800",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Digital Governance",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "344",
+      "organization_hovi_id": "2019",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This course discusses how governments can develop and manage digital policies to improve their services, promote transparent and inclusive policies, and involve citizens in decision making. E-government and digitisation are important developments for every field of government. In this course, we will discuss how governments can use data to improve public services, increase citizen participation, promote transparency, and develop better policies."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We will also discuss issues of interoperability, digital security and privacy. Participants will learn about the personal records database in the Netherlands, visit practical examples of spatial planning and digital service delivery, and reflect on the applicability in their own context. This way, the course helps participants to lead the implementation and modernisation of e-government in their home countries."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-12-04",
+              "end_date": "2024-12-17"
+            }
+          ],
+          "product_url": "https://thehagueacademy.com/course/digital-governance/",
+          "scholarships": [
+            "mena_scholarship_programme_msp",
+            "stuned_short_courses"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3595",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "344",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

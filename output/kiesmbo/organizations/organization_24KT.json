@@ -1,0 +1,35 @@
+{
+  "title": "Kappers Opleidingsschool",
+  "code": "KAPPE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "24KT",
+  "logoUrl": "https://www.kiesmbo.nl/media/3527/24kt.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Insulindeplein 18",
+    "zip": "5014 BD",
+    "city": "Tilburg",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "24KT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1016636,
+        51.5613173
+      ]
+    }
+  },
+  "locations": [
+    "24KT01"
+  ],
+  "products": []
+}

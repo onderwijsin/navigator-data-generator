@@ -1,0 +1,35 @@
+{
+  "title": "Kappersschool van Wetten",
+  "code": "KAPPE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26CP",
+  "logoUrl": "https://www.kiesmbo.nl/media/4321/logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Kerkstraat 10",
+    "zip": "5741 GL",
+    "city": "Beek en Donk",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26CP01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.6371283,
+        51.528976
+      ]
+    }
+  },
+  "locations": [
+    "26CP01"
+  ],
+  "products": []
+}

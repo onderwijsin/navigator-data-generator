@@ -1,0 +1,40 @@
+{
+  "title": "mbo Menso Alting Zwolle",
+  "code": "MBO M",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.mensoaltingzwolle.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "00ZZ",
+  "logoUrl": "https://www.kiesmbo.nl/media/3537/00zz.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Fuchsiastraat 1",
+    "zip": "8013 ZC",
+    "city": "Zwolle",
+    "country": "Nederland",
+    "url": "https://www.mensoaltingzwolle.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "00ZZ00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.1137863,
+        52.5033737
+      ]
+    }
+  },
+  "locations": [
+    "00ZZ00"
+  ],
+  "products": []
+}

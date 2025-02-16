@@ -1,0 +1,40 @@
+{
+  "title": "Nimeto",
+  "code": "NIMET",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.nimeto.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "02PK",
+  "logoUrl": "https://www.kiesmbo.nl/media/7885/nimeto_typografisch-logo_zwart_22-1.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Nimeto",
+    "street": "Smijerslaan 2",
+    "zip": "3572 LP",
+    "city": "Utrecht",
+    "country": "Nederland",
+    "url": "http://www.nimeto.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "02PK00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1413252,
+        52.1006468
+      ]
+    }
+  },
+  "locations": [
+    "02PK00"
+  ],
+  "products": []
+}

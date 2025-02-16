@@ -1,0 +1,35 @@
+{
+  "title": "VIBO Transport & Logistiek College B.V.",
+  "code": "VIBO ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30NY",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "t Hoefje 20",
+    "zip": "4311 EZ",
+    "city": "Bruinisse",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30NY01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.0872661,
+        51.6610626
+      ]
+    }
+  },
+  "locations": [
+    "30NY01"
+  ],
+  "products": []
+}

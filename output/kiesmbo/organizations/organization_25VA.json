@@ -1,0 +1,35 @@
+{
+  "title": "Prive Coiffures Vakopleiding",
+  "code": "PRIVE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "25VA",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Nieuwsteeg 1 B",
+    "zip": "1621 KX",
+    "city": "Hoorn",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "25VA01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.0558772,
+        52.6407282
+      ]
+    }
+  },
+  "locations": [
+    "25VA01"
+  ],
+  "products": []
+}

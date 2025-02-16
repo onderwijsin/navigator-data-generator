@@ -1,0 +1,42 @@
+{
+  "title": "De Rooi Pannen",
+  "code": "DE RO",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.derooipannen.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25LV",
+  "logoUrl": "https://www.kiesmbo.nl/media/4233/drp_logo.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Tilburg, Dr. Ahausstraat",
+    "street": "Dr. Ahausstraat 1",
+    "zip": "5042 EK",
+    "city": "Tilburg",
+    "country": "Nederland",
+    "url": "http://www.derooipannen.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25LV01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.0636535,
+        51.5688407
+      ]
+    }
+  },
+  "locations": [
+    "25LV01",
+    "25LV02",
+    "25LV03"
+  ],
+  "products": []
+}

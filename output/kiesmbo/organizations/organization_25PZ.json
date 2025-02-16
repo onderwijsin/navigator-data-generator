@@ -1,0 +1,71 @@
+{
+  "title": "ROC van Amsterdam",
+  "code": "ROC V",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.rocva.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25PZ",
+  "logoUrl": "https://www.kiesmbo.nl/media/3503/25pz.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Fraijlemaborg 141",
+    "street": "Fraijlemaborg 141",
+    "zip": "1102CV",
+    "city": "Amsterdam",
+    "country": "Nederland",
+    "url": "https://www.rocva.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "25PZ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.94989209,
+        52.31635353
+      ]
+    }
+  },
+  "locations": [
+    "25PZ01",
+    "25PZ03",
+    "25PZ04",
+    "25PZ06",
+    "25PZ07",
+    "25PZ09",
+    "25PZ10",
+    "25PZ12",
+    "25PZ15",
+    "25PZ21",
+    "25PZ22",
+    "25PZ08",
+    "25PZ17",
+    "25PZ19",
+    "25PZ20",
+    "25PZ23",
+    "25PZ24",
+    "25PZ26",
+    "25PZ27",
+    "25PZ31",
+    "25PZ29",
+    "25PZ30",
+    "25PZ32",
+    "25PZ28",
+    "25PZ35",
+    "25PZ37",
+    "25PZ34",
+    "25PZ38",
+    "25PZ33",
+    "25PZ39",
+    "25PZ41",
+    "25PZ42"
+  ],
+  "products": []
+}

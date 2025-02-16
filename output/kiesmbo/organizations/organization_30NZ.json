@@ -1,0 +1,35 @@
+{
+  "title": "Zorgcampus Rotterdam",
+  "code": "ZORGC",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30NZ",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Mathenesserlaan 480",
+    "zip": "3023 HL",
+    "city": "Rotterdam",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30NZ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.446389,
+        51.9162252
+      ]
+    }
+  },
+  "locations": [
+    "30NZ01"
+  ],
+  "products": []
+}

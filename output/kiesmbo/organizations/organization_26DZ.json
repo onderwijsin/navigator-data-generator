@@ -1,0 +1,35 @@
+{
+  "title": "SVOZ B.V.",
+  "code": "SVOZ ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26DZ",
+  "logoUrl": "https://www.kiesmbo.nl/media/4318/logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Kaap Hoorndreef 44",
+    "zip": "3563 AV",
+    "city": "Utrecht",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26DZ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1064698,
+        52.1150667
+      ]
+    }
+  },
+  "locations": [
+    "26DZ01"
+  ],
+  "products": []
+}

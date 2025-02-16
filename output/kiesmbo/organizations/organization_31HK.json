@@ -1,0 +1,35 @@
+{
+  "title": "Danner & Danner B.V.",
+  "code": "DANNE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "31HK",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Noorderweg",
+    "street": "Noorderweg 68",
+    "zip": "1221 AB",
+    "city": "HILVERSUM",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "31HK01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1786817,
+        52.2302978
+      ]
+    }
+  },
+  "locations": [
+    "31HK01"
+  ],
+  "products": []
+}

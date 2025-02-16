@@ -1,0 +1,403 @@
+{
+  "title": "Hogeschool De Kempel",
+  "code": "KEMP",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ben jij nieuwsgierig naar het leren van kinderen en wil jij kinderen inspireren? Ben jij de toekomstige leraar die voor kinderen het verschil gaat maken? Realiseer dan je toekomstdromen op Hogeschool de Kempel! Het beroep 'leraar basisonderwijs' is een veelzijdig en verantwoordelijk beroep. Je bent direct betrokken bij het ontwikkelingsproces van kinderen tot mondige wereldburgers. Je bouwt samen met collega's aan een school waar kinderen graag naar toe gaan. Het is een uitdagend vak, waarin geen dag hetzelfde is. Misschien iets voor jou? Aan Hogeschool de Kempel kun je ook een volwaardige academische opleiding volgen. Dat is het vernieuwde challenge program! De opleiding tot leraar basisonderwijs wordt daardoor nog interessanter en aantrekkelijker voor vwo-ers en excellente havisten. Met het diploma van het challenge program kun je doorstromen naar de master Onderwijskunde aan de Open Universiteit. Voor meer informatie: www.kempel.nl (onder ‘opleidingen’ vind je informatie over alle opleidingen aan Hogeschool de Kempel). Pssst, Hogeschool de Kempel is al negen jaar op rij de beste voltijd en deeltijd pabo van Nederland!"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "08OK",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "32",
+  "phone": "0492 514 400",
+  "email": "info@kempel.nl",
+  "website": [
+    {
+      "url": "https://www.kempel.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "main_location": {
+    "hovi_id": "27",
+    "name": "Hogeschool De Kempel, vestiging Helmond",
+    "street": "Deurneseweg 11",
+    "zip": "5709 AH",
+    "city": "HELMOND",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "75",
+    "url": "http://www.kempel.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Opleiding tot leraar Basisonderwijs",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "27",
+      "organization_hovi_id": "32",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ben jij onze (nieuwe) leraar met lef?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wat we doen bij De Kempel? Heel simpel: we leiden je in vier tijd tijd op tot een leraar met lef. En we zorgen ervoor dat je na de pabo een nog betere versie van jezelf als leraar wordt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hoe we dat doen? We dagen je uit om telkens nét een stapje verder te gaan. Om uit je comfortzone te stappen en nieuwe kennis en vaardigheden aan te leren. Om je eigen(wijze) keuzes te maken en continu te zoeken naar mogelijkheden om het onderwijs elke dag beter te maken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Op die manier heb je straks alles in huis om het maximale uit de kinderen in je klas te halen. Jij bent die inspirerende leraar die ervoor zorgt dat ze niet naar school 'moeten', maar willen!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Studeren aan De Kempel is gegarandeerd een succes!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is leraar worden ook jouw toekomstdroom? Geen betere plek om die droom waar te maken dan op De Kempel. Wist je dat we de beste pabo van Nederland zijn volgens de Keuzegids hbo 2021? En dat al zes jaar op rij. Studeren aan onze hogeschool is gewoon erg leuk. Nog leuker is het om kinderen te helpen hún dromen waar te maken! En na de pabo kun je ook nog eens bij ons terecht voor een groot aantal trainingen, opleidingen en masters. Zo krijg je de kans om jezelf continu te blijven ontwikkelen en uitdagen! "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": null,
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.kempel.nl",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 13,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Heb jij het lef om een nieuwe carrière voor de klas te starten?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Droom jij ervan om met kinderen te werken? Wil jij een baan die geen enkele dag hetzelfde is? En durf jij het roer om te gooien? Dan helpt onze deeltijdopleiding tot leraar basisonderwijs jou om het verschil te gaan maken voor de klas!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Versneld voor de klas"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Als je een hbo- of wo-bachelor-diploma op zak hebt, dan kun je een studie (direct) combineren met werken in het onderwijs. Eén ding is zeker: het is een afwisselende en uitdagende baan als juf of meester. Je haalt niet alleen het beste in kinderen naar boven, maar krijgt ook de kans om het maximale uit jezelf te halen. Dat noemen wij leren met lef...durf jij het aan?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Drie deeltijdvarianten"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je hebt bij ons de keuze uit drie deeltijdvarianten, zodat er altijd een traject is dat bij jou en jouw persoonlijke situatie past. Je hebt de keuze uit 'Deeltijd verkort en daarna voor de klas', 'Deeltijd verkort en versneld voor de klas' of 'Zij-instroom en direct voor de klas'."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Studeren aan De Kempel is gegarandeerd een succes!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is leraar worden ook jouw toekomstdroom? Geen betere plek om die droom waar te maken dan op De Kempel. Wist je dat we de beste pabo van Nederland zijn volgens de Keuzegids hbo 2021? En dat al zes jaar op rij. Studeren aan onze hogeschool is gewoon erg leuk. Nog leuker is het om kinderen te helpen hún dromen waar te maken! "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": null,
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.kempel.nl",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 13,
+              "period": 12
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Deurneseweg 11, 5709 AH, HELMOND, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.7108737,
+              51.4704363
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5709 AH",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "11",
+                "shortText": "11",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Deurneseweg",
+                "shortText": "Deurneseweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Helmond",
+                "shortText": "Helmond",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Helmond",
+                "shortText": "Helmond",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5709 AH",
+                "shortText": "5709 AH",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "11",
+            "formated": "Deurneseweg 11, 5709 AH Helmond, Netherlands",
+            "viewport": {
+              "south": 51.4690824197085,
+              "west": 5.709611069708497,
+              "north": 51.47178038029149,
+              "east": 5.712309030291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.7108737,
+            51.4704363
+          ]
+        },
+        "hovi_id": "27",
+        "name": "Hogeschool De Kempel, vestiging Helmond",
+        "street": "Deurneseweg 11",
+        "zip": "5709 AH",
+        "city": "HELMOND",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "75",
+        "url": "http://www.kempel.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

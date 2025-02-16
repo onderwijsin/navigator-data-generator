@@ -1,0 +1,60 @@
+{
+  "title": "Albeda",
+  "code": "ALBED",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.albeda.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "00GT",
+  "logoUrl": "https://www.kiesmbo.nl/media/3451/00gt.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Rosestraat",
+    "street": "Rosestraat 1101",
+    "zip": "3071 AL",
+    "city": "Rotterdam",
+    "country": "Nederland",
+    "url": "http://www.albeda.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "00GT00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.508195,
+        51.9057913
+      ]
+    }
+  },
+  "locations": [
+    "00GT00",
+    "00GT01",
+    "00GT02",
+    "00GT03",
+    "00GT05",
+    "00GT15",
+    "00GT16",
+    "00GT17",
+    "00GT19",
+    "00GT24",
+    "00GT26",
+    "00GT54",
+    "00GT55",
+    "00GT59",
+    "00GT62",
+    "00GT66",
+    "00GT67",
+    "00GT68",
+    "00GT71",
+    "00GT73",
+    "00GT72"
+  ],
+  "products": []
+}

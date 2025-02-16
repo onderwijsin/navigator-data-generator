@@ -1,0 +1,46 @@
+{
+  "title": "ROC Da Vinci College",
+  "code": "ROC D",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.davinci.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "20MQ",
+  "logoUrl": "https://www.kiesmbo.nl/media/4228/corporate-logo-da-vinci-fullcolour-png.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Dordrecht Leerpark",
+    "street": "Leerparkpromenade 100",
+    "zip": "3312 KW",
+    "city": "Dordrecht",
+    "country": "Nederland",
+    "url": "https://www.davinci.nl/over-ons/overdavinci/locaties/dordrecht-leerpark/",
+    "vendor": "kiesmbo",
+    "brinvest": "20MQ00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.6794113,
+        51.7986883
+      ]
+    }
+  },
+  "locations": [
+    "20MQ00",
+    "20MQ08",
+    "20MQ12",
+    "20MQ21",
+    "20MQ22",
+    "20MQ23",
+    "20MQ25"
+  ],
+  "products": []
+}

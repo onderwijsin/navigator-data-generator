@@ -1,0 +1,698 @@
+{
+  "title": "HBO Academy",
+  "code": "DRECH",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Goed onderwijs is geen eenrichtingsverkeer. Bij HBO Drechtsteden geloven we daarom in co-creatie. Want wie beter dan jijzelf weet wat je nodig hebt voor de beste resultaten? Onze opleidingen zijn op maat gemaakt. En ons onderwijs staat middenin de snel bewegende wereld van vandaag. Dat zie je niet alleen terug in wat je leert, maar ook hoe je dat doet. Kleinschalig, modern, betrokken. Dat is HBO Drechtsteden."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30WG",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "259",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "170",
+    "name": "HBO Drechtsteden, vestiging Dordrecht",
+    "street": "Achterom 103",
+    "zip": "3311 KB",
+    "city": "DORDRECHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "480",
+    "url": "https://www.hbodrechtsteden.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Toegepaste Psychologie",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34507",
+      "croho_name": "Toegepaste Psychologie",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "170",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Een afgestudeerde van de opleiding Toegepaste Psychologie is een specialist die veelvuldig ingeschakeld wordt bij vragen die te maken hebben met beoordeling, onderzoek en beïnvloeding van gedrag. Wat is Toegepaste Psychologie? Tijdens de bachelor Toegepaste Psychologie leer je psychologische theorieën om het gedrag van mensen beter te begrijpen. De opleiding is heel praktijkgericht: je leert veel praktische vaardigheden die je meteen kunt toepassen. Binnen organisaties kan je aan het werk als coach, counselor of trainer. Ook zijn er afgestudeerden die een eigen praktijk beginnen. Deze hbo-opleiding kun je in voltijd of deeltijd volgen. Als je afgestudeerd bent, kun je aan de slag als coach, counselor of trainer. Je bent specialist op het gebied van de beïnvloeding van menselijk gedrag. Je kunt gaan werken als zelfstandige of in dienst gaan bij commerciële of non-profitorganisaties op het gebied van HRM, onderwijs of zorg & welzijn."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.hbodrechtsteden.nl/studeren/opleidingen/bachelor-toegepaste-psychologie",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Een afgestudeerde van de opleiding Toegepaste Psychologie is een specialist die veelvuldig ingeschakeld wordt bij vragen die te maken hebben met beoordeling, onderzoek en beïnvloeding van gedrag. Wat is Toegepaste Psychologie? Tijdens de bachelor Toegepaste Psychologie leer je psychologische theorieën om het gedrag van mensen beter te begrijpen. De opleiding is heel praktijkgericht: je leert veel praktische vaardigheden die je meteen kunt toepassen. Binnen organisaties kan je aan het werk als coach, counselor of trainer. Ook zijn er afgestudeerden die een eigen praktijk beginnen. Deze hbo-opleiding kun je in voltijd of deeltijd volgen. Als je afgestudeerd bent, kun je aan de slag als coach, counselor of trainer. Je bent specialist op het gebied van de beïnvloeding van menselijk gedrag. Je kunt gaan werken als zelfstandige of in dienst gaan bij commerciële of non-profitorganisaties op het gebied van HRM, onderwijs of zorg & welzijn."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.hbodrechtsteden.nl/studeren/opleidingen/bachelor-toegepaste-psychologie",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Achterom 103, 3311 KB, DORDRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6660954,
+              51.8117808
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3311 KB",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "103",
+                "shortText": "103",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Achterom",
+                "shortText": "Achterom",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3311 KB",
+                "shortText": "3311 KB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "103",
+            "formated": "Achterom 103, 3311 KB Dordrecht, Netherlands",
+            "viewport": {
+              "south": 51.81041656970851,
+              "west": 4.664793519708498,
+              "north": 51.8131145302915,
+              "east": 4.667491480291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6660954,
+            51.8117808
+          ]
+        },
+        "hovi_id": "170",
+        "name": "HBO Drechtsteden, vestiging Dordrecht",
+        "street": "Achterom 103",
+        "zip": "3311 KB",
+        "city": "DORDRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "480",
+        "url": "https://www.hbodrechtsteden.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Topsportmanagement en Ondernemerschap",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34646",
+      "croho_name": "Ondernemerschap",
+      "degrees": [
+        "Bachelor"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "170",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens de opleiding bekwaam je je als topsporter in de competenties die je nodig hebt als manager en ondernemer. De deeltijdopleiding Topsportmanagement en Ondernemerschap kun je vanuit huis volgen en is daarom ook geschikt voor studenten die in het buitenland wonen en werken. Je studeert naast je werk of sport. Door de flexibele opbouw in losse modulen ronden de meeste studenten deze hbo-opleiding in vier tot zes jaar succesvol af."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.hbodrechtsteden.nl/studeren/opleidingen/ondernemerschap",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Achterom 103, 3311 KB, DORDRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6660954,
+              51.8117808
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3311 KB",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "103",
+                "shortText": "103",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Achterom",
+                "shortText": "Achterom",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3311 KB",
+                "shortText": "3311 KB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "103",
+            "formated": "Achterom 103, 3311 KB Dordrecht, Netherlands",
+            "viewport": {
+              "south": 51.81041656970851,
+              "west": 4.664793519708498,
+              "north": 51.8131145302915,
+              "east": 4.667491480291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6660954,
+            51.8117808
+          ]
+        },
+        "hovi_id": "170",
+        "name": "HBO Drechtsteden, vestiging Dordrecht",
+        "street": "Achterom 103",
+        "zip": "3311 KB",
+        "city": "DORDRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "480",
+        "url": "https://www.hbodrechtsteden.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "ICT-Engineer",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80161",
+      "croho_name": "ICT-Engineer",
+      "croho_sector": "techniek",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "227",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Mollenburgseweg 82, 4205 MB, GORINCHEM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.967302,
+              51.8482894
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4205 NB",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "82",
+                "shortText": "82",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Mollenburgseweg",
+                "shortText": "Mollenburgseweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Gorinchem",
+                "shortText": "Gorinchem",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Gorinchem",
+                "shortText": "Gorinchem",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "4205 NB",
+                "shortText": "4205 NB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "82",
+            "formated": "Mollenburgseweg 82, 4205 NB Gorinchem, Netherlands",
+            "viewport": {
+              "south": 51.8470978697085,
+              "west": 4.965880369708498,
+              "north": 51.8497958302915,
+              "east": 4.968578330291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.967302,
+            51.8482894
+          ]
+        },
+        "hovi_id": "227",
+        "name": "HBO Drechtsteden, vestiging Gorinchem",
+        "street": "Mollenburgseweg 82",
+        "zip": "4205 MB",
+        "city": "GORINCHEM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3307",
+        "url": "https://www.hbodrechtsteden.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Culinary professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80183",
+      "croho_name": "Culinary professional",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "459",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "459",
+        "name": "HBO Drechtsteden, vestiging Duivendrecht",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3320",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Tailor Professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80186",
+      "croho_name": "Tailor Professional",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "477",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "477",
+        "name": "HBO Drechtsteden, vestiging Amsterdam",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3322",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Business & Innovation",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80196",
+      "croho_name": "Business & Innovation",
+      "croho_sector": "economie",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "170",
+      "organization_hovi_id": "259",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Achterom 103, 3311 KB, DORDRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.6660954,
+              51.8117808
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3311 KB",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "103",
+                "shortText": "103",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Achterom",
+                "shortText": "Achterom",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Dordrecht",
+                "shortText": "Dordrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3311 KB",
+                "shortText": "3311 KB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "103",
+            "formated": "Achterom 103, 3311 KB Dordrecht, Netherlands",
+            "viewport": {
+              "south": 51.81041656970851,
+              "west": 4.664793519708498,
+              "north": 51.8131145302915,
+              "east": 4.667491480291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.6660954,
+            51.8117808
+          ]
+        },
+        "hovi_id": "170",
+        "name": "HBO Drechtsteden, vestiging Dordrecht",
+        "street": "Achterom 103",
+        "zip": "3311 KB",
+        "city": "DORDRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "480",
+        "url": "https://www.hbodrechtsteden.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

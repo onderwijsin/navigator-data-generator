@@ -1,0 +1,63 @@
+{
+  "title": "Summa College",
+  "code": "SUMMA",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.summacollege.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25MB",
+  "logoUrl": "https://www.kiesmbo.nl/media/8090/summa-logo-2025.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Sterrenlaan 10",
+    "street": "Sterrenlaan 10",
+    "zip": "5631 KA",
+    "city": "Eindhoven",
+    "country": "Nederland",
+    "url": "http://www.summacollege.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "25MB01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.4963294,
+        51.4669822
+      ]
+    }
+  },
+  "locations": [
+    "25MB01",
+    "25MB02",
+    "25MB03",
+    "25MB04",
+    "25MB05",
+    "25MB06",
+    "25MB08",
+    "25MB09",
+    "25MB11",
+    "25MB13",
+    "25MB14",
+    "25MB17",
+    "25MB19",
+    "25MB20",
+    "25MB22",
+    "25MB24",
+    "25MB26",
+    "25MB29",
+    "25MB30",
+    "25MB31",
+    "25MB32",
+    "25MB35",
+    "25MB36",
+    "25MB37"
+  ],
+  "products": []
+}

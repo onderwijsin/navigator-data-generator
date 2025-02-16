@@ -1,0 +1,35 @@
+{
+  "title": "G&D B.V.",
+  "code": "G&D B",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "31JB",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Waalwijk",
+    "street": "Burgemeester van der Klokkenlaan 21 a",
+    "zip": "5141 EE",
+    "city": "Waalwijk",
+    "country": "Nederland",
+    "url": "https://www.gdnet.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "31JB01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.0606169,
+        51.684192
+      ]
+    }
+  },
+  "locations": [
+    "31JB01"
+  ],
+  "products": []
+}

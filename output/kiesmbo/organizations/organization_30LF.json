@@ -1,0 +1,41 @@
+{
+  "title": "Heads Academy",
+  "code": "HEADS",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.headsacademy.nl/heads-academy/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "30LF",
+  "logoUrl": "https://www.kiesmbo.nl/media/4347/heads-academy.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Delft",
+    "street": "Molslaan 92a",
+    "zip": "2629 RP",
+    "city": "Delft",
+    "country": "Nederland",
+    "url": "http://www.headsacademy.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "30LF01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.478924,
+        51.9160137
+      ]
+    }
+  },
+  "locations": [
+    "30LF01",
+    "30LF02"
+  ],
+  "products": []
+}

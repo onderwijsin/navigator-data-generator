@@ -1,0 +1,40 @@
+{
+  "title": "Instituut Broers BV",
+  "code": "INSTI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://instituutbroers.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "26CR",
+  "logoUrl": "https://www.kiesmbo.nl/media/6493/instituut-broers-2.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Stappegoorweg  190",
+    "zip": "5022 DL",
+    "city": "Tilburg",
+    "country": "Nederland",
+    "url": "https://instituutbroers.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "26CR02",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.0790688,
+        51.5411773
+      ]
+    }
+  },
+  "locations": [
+    "26CR02"
+  ],
+  "products": []
+}

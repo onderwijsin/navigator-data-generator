@@ -1,0 +1,36 @@
+{
+  "title": "Laurentius College",
+  "code": "LAURE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "31EN",
+  "logoUrl": "https://www.kiesmbo.nl/media/3474/31en.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Schiphol",
+    "street": "Evert van de Beekstraat 39",
+    "zip": "1118 CL",
+    "city": "Schiphol",
+    "country": "Nederland",
+    "url": "http://www.laurentiuscollege.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "31EN02",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.7506488,
+        52.3044099
+      ]
+    }
+  },
+  "locations": [
+    "31EN01",
+    "31EN02"
+  ],
+  "products": []
+}

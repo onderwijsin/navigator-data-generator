@@ -1,0 +1,35 @@
+{
+  "title": "Scholings Trainings en Opleidings Centrum STOC B.V.",
+  "code": "SCHOL",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "27RF",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "J F Kennedylaan 99",
+    "zip": "3981 GB",
+    "city": "Bunnik",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "27RF01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1952348,
+        52.0674641
+      ]
+    }
+  },
+  "locations": [
+    "27RF01"
+  ],
+  "products": []
+}

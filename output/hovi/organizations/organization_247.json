@@ -1,0 +1,1535 @@
+{
+  "title": "Faculteit Militaire Wetenschappen",
+  "code": "FMW",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "De Faculteit Militaire Wetenschappen (FMW), onderdeel van de NLDA verzorgt het militair-wetenschappelijke deel van de officiersopleidingen. De universitaire bacheloropleidingen Krijgswetenschappen, Militaire Bedrijfswetenschappen en Militaire Systemen & Technologie zijn vanaf 1 september 2011 geaccrediteerd. Daarmee zijn het civiel erkende bacheloropleidingen. Naast deze bacheloropleidingen biedt de FMW de Engelstalige masteropleiding Military Strategic Studies. Afgestudeerden van de master krijgen de wetenschappelijke titel Master of Arts. De academie telt 350 militairen en burgers in de vaste staf en ongeveer 900 studenten en (internationale) cursisten. De studenten van het NLDA heten ook wel cadetten (landmacht, luchtmacht en marechaussee) en adelborsten (marine). De adelborsten volgen hun opleiding aan het Koninklijk Instituut voor de Marine (KIM) in Den Helder. De cadetten doen dat aan de Koninklijke Militaire Academie (KMA) in Breda."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "universiteit",
+  "brin_code": "30NA",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "247",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "156",
+    "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+    "street": "De la Reyweg 120",
+    "zip": "4818 BB",
+    "city": "BREDA",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "453",
+    "url": "https://www.faculteitmilitairewetenschappen.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Militaire Bedrijfswetenschappen",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "50422",
+      "croho_name": "Militaire Bedrijfswetenschappen",
+      "croho_sector": "economie",
+      "credits": "180",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens de opleiding Militaire Bedrijfswetenschappen leert de toekomstige officier om te gaan met bedrijfswetenschappelijke vraagstukken, zowel in de vredessituatie als in crisisomstandigheden. Door bedrijfswetenschappelijke vraagstukken te vertalen naar de krijgsmacht is de studie Militaire Bedrijfswetenschappen een unieke opleiding in Nederland."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Officieren moeten na hun opleiding onder de zwaarste omstandigheden leiding kunnen geven. Dit onderdeel krijgt daarom ruime aandacht. Verder is er aandacht voor financiën, beheer, organisatiekunde, bestuursrecht, ICT en logistiek. Tijdens de opleiding werk je aan analytische en sociale vaardigheden. En bouw je aan een portfolio van presentatietechnieken in het Nederlands en in het Engels."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de loop van de studie specialiseren de officieren-in-opleiding zich. Het onderwerp hangt af van de latere werkplek. Denk daarbij aan Defensie, economie, logistiek, personeelsmanagement of human factors en veiligheid. Na afronding van de studie is er doorstroommogelijkheid naar de wetenschappelijke NLDA-masteropleiding Military Strategic Studies of een masteropleiding aan een universiteit."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Militaire Systemen & Technologie",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "50423",
+      "croho_name": "Militaire Systemen & Technologie",
+      "croho_sector": "techniek",
+      "credits": "180",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "157",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding Militaire Systemen en Technologie (MS&T) is een technische studie, vergelijkbaar met een studie aan een technische universiteit. MS&T onderscheidt zich door de focus op Defensie en de systemen die daar worden gebruikt."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De MS&T studie kent 3 hoofdstromen. Alle starten met het leggen van een wetenschappelijke basis met vakken als wiskunde, natuurkunde, IT, signaalverwerking en regeltechniek. Daarna volgen de toekomstige officieren 1 van de 3 opleidingsvarianten:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "een 'harde' technische variant bedoeld voor toekomstige officieren in de technische korpsen of dienstvakken. Binnen deze opleidingsvariant zijn er vakken op het gebied van werktuigbouwkunde en wapen-, sensor-, maritieme- en luchtvaarttechniek."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "een technisch bedrijfskundige variant, waarin technisch operationeel gerelateerde vakken gecombineerd worden met economische en logistieke. Speciale aandacht is er voor inzet en onderhoud van militaire systemen en navigatie-, communicatie- en informatiesystemen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "een civieltechnische variant, waarin aandacht is voor vakken als grondmechanica, constructieleer, bouwkunde, pyrotechniek en ontwerpprojecten."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In het laatste deel van de opleiding specialiseren de toekomstige officieren zich op een bepaald gebied: militaire schepen, vliegtuigen, voertuigen, navigatie, operationele analyse, onderhoud, civiele techniek of informatiesystemen."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Het Nieuwe Diep 8, 1781 AC, DEN HELDER, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7739426,
+              52.9634145
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1781 AC",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Het Nieuwe Diep",
+                "shortText": "Het Nieuwe Diep",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Den Helder",
+                "shortText": "Den Helder",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Den Helder",
+                "shortText": "Den Helder",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1781 AC",
+                "shortText": "1781 AC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Het Nieuwe Diep 8, 1781 AC Den Helder, Netherlands",
+            "viewport": {
+              "south": 52.96229571970849,
+              "west": 4.772620319708498,
+              "north": 52.96499368029149,
+              "east": 4.775318280291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7739426,
+            52.9634145
+          ]
+        },
+        "hovi_id": "157",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Den Helder",
+        "street": "Het Nieuwe Diep 8",
+        "zip": "1781 AC",
+        "city": "DEN HELDER",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "454",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Krijgswetenschappen",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "50424",
+      "croho_name": "Krijgswetenschappen",
+      "croho_sector": "sectoroverstijgend",
+      "credits": "180",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Op een wetenschappelijke manier behandelt de opleiding de inzet van de krijgsmacht in verleden, heden en toekomst. Internationaal recht, strategie en tactiek en internationale betrekkingen vormen de kern van Krijgswetenschappen. De studie kijkt hoe veranderende internationale machtsverhoudingen, nieuwe technologie en het informatietijdperk de toepassing van geweld beïnvloeden. Verder is er aandacht voor wat militairen kunnen leren van ervaringen uit het verleden. En voor de dilemma’s waarmee officieren te maken krijgen. Na afronding van de studie is er doorstroommogelijkheid naar de wetenschappelijke NLDA masteropleiding Military Strategic Studies of een masteropleiding aan een universiteit."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens de studie Krijgswetenschappen krijgen toekomstige officieren de gelegenheid zich via een minor te verdiepen in bijvoorbeeld Militair recht of te verbreden in cursussen van andere studierichtingen. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master Military Strategic Studies",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "60469",
+      "croho_name": "Master Military Strategic Studies",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "sectoroverstijgend",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_discussion",
+            "individual_assignment",
+            "research_proposal",
+            "self_study"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het veelzijdige programma van Military Strategic Studies draagt bij aan het begrijpen, analyseren en verklaren van de militaire dimensie van internationale veiligheid. Het programma gaat verder in op de relatie tussen de politiek en de vele vormen van militaire macht – van irreguliere oorlogvoering tot cyberdreiging en de mogelijke inzet van nucleaire wapens. Lessen worden getrokken uit geschiedenis, veiligheidsstudies, politicologie,sociologie, psychologie, recht, bedrijfskunde, bouwkunde, ethiek en economie. Daarnaast verzorgt MSS een grondige analyse van de hedendaagse strategische problemen, de uitdagingen van het management in een militair bedrijf en van ideeën – strategische theorie en doctrine – omtrent het uitoefenen van macht in de moderne wereld. In de loop van de studie specialiseren de studenten zich in één van de volgende afstudeerrichtingen: War studies, Intelligence & Security,Military Management & Logistics."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-05",
+              "end_date": "2016-09-02"
+            }
+          ],
+          "product_url": "http://www.defensie.nl/onderwerpen/defensieacademie/inhoud/opleidingen/masteropleiding-military-strategic-studies",
+          "scholarships": [],
+          "tracks": [
+            {
+              "productForm": "parttime",
+              "track": "9336"
+            },
+            {
+              "productForm": "parttime",
+              "track": "9337"
+            },
+            {
+              "productForm": "parttime",
+              "track": "9338"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "1628",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2014
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master Compliance and Integrity in International Military Trade",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "60966",
+      "croho_name": "Master Compliance and Integrity in International Military Trade",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In deze managementopleiding onderzoek en bestudeer je beheersvraagstukken rond de internationale handel van strategische goederen en diensten. Deze vraagstukken bevatten vaak ethische, economische, organisatorische, juridische en strategische elementen. Onder meer komen de volgende thema’s aan bod:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "International trade and business in Defence Markets;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Strategic Trade Law;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Managing (non-)Compliance and Integrity in organisations"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Designing and monitoring Internal Compliance Programs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze master leert je, door gebruik te maken van de nieuwste wetenschappelijke kennis en inzichten, managementvraagstukken te beantwoorden rond strategische handel. En het geeft je handvatten voor het opzetten van een effectief internal compliance program."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Military Technology, Processes and Systems (MTPS)",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "69323",
+      "croho_name": "Military Technology, Processes and Systems (MTPS)",
+      "croho_sector": "techniek",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "157",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de breed opgezette master leren studenten complexe technisch-operationele problemen rondom militaire missies en de systemen die daarbij worden gebruikt te identificeren, analyseren en op te lossen. Veel aandacht gaat uit naar modellering en simulatie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het programma bestaat uit een gemeenschappelijk deel van 25 EC. Na een jaar splitst het programma in een processes track en een systems track. Het gemeenschappelijke deel bestaat uit 5 vakken van 5 EC. Deze vakken vormen de gemeenschappelijke basis voor de 2 tracks en het afstuderen. In de processes track ga je dieper in op het optimaliseren van de beschikbaarheid van middelen (onder meer onderhoud en logistiek) en het verbeteren van de effectiviteit van de operatie (bijvoorbeeld optimale inzet van systemen)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De keuzerichting systems track behandelt hoe het gedrag van het systeem te voorspellen en begrijpen is door simulaties. Daarnaast komt de architectuur van het (besturings-)systeem waar jij je mee bezig gaat houden aan bod. Tot slot bestudeer je de interactie van het systeem met de omgeving. De laatste 20 EC van de opleiding is voor het afstuderen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De master duurt 2 jaar en is in deeltijd te volgen. De colleges zijn wekelijks op vrijdag op de faculteitslocatie in Den Helder. Je studeert met een kleine groep van maximaal 30 studenten. Daardoor kunnen docenten veel persoonlijke aandacht geven. "
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Het Nieuwe Diep 8, 1781 AC, DEN HELDER, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7739426,
+              52.9634145
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1781 AC",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Het Nieuwe Diep",
+                "shortText": "Het Nieuwe Diep",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Den Helder",
+                "shortText": "Den Helder",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Den Helder",
+                "shortText": "Den Helder",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1781 AC",
+                "shortText": "1781 AC",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Het Nieuwe Diep 8, 1781 AC Den Helder, Netherlands",
+            "viewport": {
+              "south": 52.96229571970849,
+              "west": 4.772620319708498,
+              "north": 52.96499368029149,
+              "east": 4.775318280291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7739426,
+            52.9634145
+          ]
+        },
+        "hovi_id": "157",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Den Helder",
+        "street": "Het Nieuwe Diep 8",
+        "zip": "1781 AC",
+        "city": "DEN HELDER",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "454",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "European Joint Master's in Strategic Border Management (joint degree)",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "75124",
+      "croho_name": "European Joint Master's in Strategic Border Management (joint degree)",
+      "croho_sector": "gedrag_en_maatschappij",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Faculteit Militaire Wetenschappen (FMW) ontwikkelde samen met marechausseecollega’s in Europees verband de masteropleiding over strategisch grensmanagement. Het initiatief hiervoor is genomen door het Europese agentschap Frontex (European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met instellingen voor hoger onderwijs in Estland, Spanje, Litouwen en Letland maken de Nederlandse Defensie Academie, FMW en marechaussee deel uit van een samenwerkingsverband van geaccrediteerde partners die werken aan de ontwikkeling van het masterprogramma."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "War Studies",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Intelligence & Security",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Military Management & Logistics",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "156",
+      "organization_hovi_id": "247",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "De la Reyweg 120, 4818 BB, BREDA, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.7917102,
+              51.5820012
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "4818 BB",
+            "administrativeArea": "North Brabant",
+            "raw": [
+              {
+                "longText": "4818 BB",
+                "shortText": "4818 BB",
+                "types": [
+                  "postal_code"
+                ]
+              },
+              {
+                "longText": "Breda Oost",
+                "shortText": "Breda Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Breda",
+                "shortText": "Breda",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "North Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "4818 BB",
+            "formated": "4818 BB Breda, Netherlands",
+            "viewport": {
+              "south": 51.5805327,
+              "west": 4.7900529,
+              "north": 51.58576979999999,
+              "east": 4.7955403
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.7917102,
+            51.5820012
+          ]
+        },
+        "hovi_id": "156",
+        "name": "Faculteit Militaire Wetenschappen, vestiging Breda",
+        "street": "De la Reyweg 120",
+        "zip": "4818 BB",
+        "city": "BREDA",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "453",
+        "url": "https://www.faculteitmilitairewetenschappen.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

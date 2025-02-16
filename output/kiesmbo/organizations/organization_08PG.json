@@ -1,0 +1,58 @@
+{
+  "title": "Firda",
+  "code": "FIRDA",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.firda.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "08PG",
+  "logoUrl": "https://www.kiesmbo.nl/media/6874/firda_logo_groen_rgb.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Centrale diensten",
+    "street": "De eenhoorn 4",
+    "zip": "8932NX",
+    "city": "Leeuwarden",
+    "country": "Nederland",
+    "url": "https://www.firda.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "08PG20",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.798329499999999,
+        53.196572
+      ]
+    }
+  },
+  "locations": [
+    "08PG01",
+    "08PG03",
+    "08PG04",
+    "08PG05",
+    "08PG06",
+    "08PG07",
+    "08PG09",
+    "08PG10",
+    "08PG11",
+    "08PG12",
+    "08PG13",
+    "08PG14",
+    "08PG15",
+    "08PG16",
+    "08PG17",
+    "08PG18",
+    "08PG19",
+    "08PG20",
+    "08PG21"
+  ],
+  "products": []
+}

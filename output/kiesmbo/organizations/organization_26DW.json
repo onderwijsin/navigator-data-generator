@@ -1,0 +1,35 @@
+{
+  "title": "Best Alert BV",
+  "code": "BEST ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26DW",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "De Waal 5",
+    "zip": "5684 PH",
+    "city": "Best",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26DW01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.3946158,
+        51.4868351
+      ]
+    }
+  },
+  "locations": [
+    "26DW01"
+  ],
+  "products": []
+}

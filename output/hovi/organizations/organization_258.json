@@ -1,0 +1,2236 @@
+{
+  "title": "Thomas More Hogeschool",
+  "code": "MORE",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Bij Thomas More Hogeschool ligt de focus 100% op de pabo, er worden geen andere opleidingen aangeboden. Op de pabo (pedagogische academie basisonderwijs) komen praktijk en theorie samen; je volgt als student onderwijs op de opleiding, maar je staat minstens zo vaak zelf voor de klas. Naast de voltijdopleiding van vier jaar biedt Thomas More Hogeschool ook deeltijd en diverse verkorte trajecten aan, zoals het 3-jarig voltijdtraject voor vwo'ers of het deeltijd (h)alo-traject. Om te ontdekken welke studie het beste bij jou past is het slim om bij verschillende opleidingen te kijken. Bij Thomas More Hogeschool kies je voor: - 100% pabo (=het maximale uit je opleiding halen) - Prachtige locatie midden in wereldstad Rotterdam (op 300 meter van Rotterdam cs) - Extra bevoegdheden (=meer baanmogelijkheden na je studie) - Hechte samenwerking met het werkveld (=carrière en baanperspectief) - Aandacht voor jou als uniek mens (=persoonlijke én professionele ontwikkeling)"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "30VP",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "258",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "169",
+    "name": "Thomas More Hogeschool, vestiging Rotterdam",
+    "street": "Stationssingel 80",
+    "zip": "3033 HJ",
+    "city": "ROTTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "479",
+    "url": "https://www.thomasmorehs.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Lerarenopleiding Basisonderwijs (pabo)",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De voltijd pabo bestaat uit een propedeuse-, specialisatie- en afstudeerfase. Elke fase heeft zijn eigen focus en bouwt logisch op, zodat jij je optimaal ontwikkelt als mens en leraar. Tijdens je eerste studiejaar maak je kennis met de basisvaardigheden van het leraarschap. Je loopt vanaf het begin stage. Bij de eerste stage leer je de diversiteit aan basisscholen kennen. In de tweede periode heb je een eigen vaste stageplek, waarbij je naast jouw mentor de juf/meester bent en lessen verzorgt."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "project",
+            "research",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thomas More Hogeschool is een zelfstandige pabo vlakbij Rotterdam CS. Volg de lerarenopleiding basisonderwijs voltijd of deeltijd. Versneld studeren en professionaliseren is ook mogelijk. Op 300 meter van Rotterdam Centraal station vind je Thomas More Hogeschool. Bij Thomas More Hogeschool ligt de focus 100% op de pabo, er worden geen andere opleidingen aangeboden. Op de pabo (pedagogische academie basisonderwijs) komen praktijk en theorie samen; je volgt als student onderwijs op de opleiding, maar je staat minstens zo vaak zelf voor de klas. Naast de voltijdopleiding van vier jaar biedt Thomas More Hogeschool ook deeltijd en diverse verkorte trajecten aan, zoals het 3-jarig voltijdtraject voor vwo'ers. Om te ontdekken welke studie het beste bij jou past is het slim om bij verschillende opleidingen te kijken. Bij Thomas More Hogeschool kies je voor: - 100% pabo (=het maximale uit je opleiding halen) - Prachtige locatie midden in wereldstad Rotterdam - Extra bevoegdheden (=meer baanmogelijkheden na je studie) - Hechte samenwerking met het werkveld (=carrière en baanperspectief) - Aandacht voor jou als uniek mens (=persoonlijke én professionele ontwikkeling)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met ruim 150 basisscholen willen we ervoor zorgen dat alle leerlingen in Rotterdam en omgeving de beste leraren krijgen: leraren die het verschil maken, leraren die het geloof hebben in ieder kind en dit nooit opgeven, leraren die onderwijs maken waarin kinderen zich kunnen ontwikkelen tot levenskunstenaars."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/opleidingen/voltijd-pabo/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 50,
+              "period": 4
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "13547"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13548"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13550"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13549"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13555"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13551"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13553"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13554"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13552"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13556"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wanneer je de opleiding in deeltijd gaat volgen, combineer je studeren met werken en je privéleven. Onze deeltijdopleiding heeft een duidelijke structuur door de opbouw in modules en is tegelijkertijd flexibel doordat je op jouw gewenste tempo kunt studeren. Je ontwikkelt je richting leeruitkomsten. Zo weet je al meteen waar je naartoe werkt. Afhankelijk van je vooropleiding, ervaring en studiesucces kun je de opleiding in 2-4 jaar doorlopen. "
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "project",
+            "research",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thomas More Hogeschool is een zelfstandige pabo vlakbij Rotterdam CS. Volg de lerarenopleiding basisonderwijs voltijd of deeltijd. Versneld studeren en professionaliseren is ook mogelijk. Op 300 meter van Rotterdam Centraal station vind je Thomas More Hogeschool. Bij Thomas More Hogeschool ligt de focus 100% op de pabo, er worden geen andere opleidingen aangeboden. Op de pabo (pedagogische academie basisonderwijs) komen praktijk en theorie samen; je volgt onderwijs op de opleiding, maar je staat minstens zo vaak zelf voor de klas. Er zijn verschillende routes om leraar in het basisonderwijs te worden. Ongeacht jouw persoonlijke situatie, er is een route die bij jou past! Zo kun je je opleiding combineren met een baan en je privé situatie. Veel deeltijdstudenten starten in de loop van de opleiding met werken in het basisonderwijs.Om te ontdekken welke studie het beste bij jou past is het slim om bij verschillende opleidingen te kijken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Bij Thomas More Hogeschool kies je voor: - 100% pabo (=het maximale uit je opleiding halen) - Prachtige locatie midden in wereldstad Rotterdam - Extra bevoegdheden (=meer baanmogelijkheden na je studie) - Hechte samenwerking met het werkveld (=carrière en baanperspectief) - Aandacht voor jou als uniek mens (=persoonlijke én professionele ontwikkeling)"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samen met ruim 150 basisscholen willen we ervoor zorgen dat alle leerlingen in Rotterdam en omgeving de beste leraren krijgen: leraren die het verschil maken, leraren die het geloof hebben in ieder kind en dit nooit opgeven, leraren die onderwijs maken waarin kinderen zich kunnen ontwikkelen tot levenskunstenaars."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/opleidingen/deeltijd-pabo/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 50,
+              "period": 4
+            }
+          ],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "13555"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13547"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13551"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13553"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13548"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13554"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13552"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "13556"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2143",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2020
+            },
+            {
+              "amount": "2083",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2019
+            },
+            {
+              "amount": "2084",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Bewegingsonderwijs",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Haal de volledige bevoegdheid om bewegingsonderwijs te geven aan groep 3 t/m 8"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil jij bewegingsonderwijs geven aan alle groepen op je basisschool? Dan is deze minor echt iets voor jou. Als leerkracht basisonderwijs mag je alleen aan groepen 1 en 2 bewegingsonderwijs geven, voor de hogere groepen is een extra certificaat vereist. Met onze minor bewegingsonderwijs haal je dat benodigde certificaat. Je krijgt naast je pabo-diploma ook een erkend post-hbo diploma ‘vakbekwaamheid bewegingsonderwijs’."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/bewegingsonderwijs/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Onderwijsinnovatie",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Specialiseer je in dalton-, montessori of jenaplanonderwijs"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Geen mens is gelijk: daarom is het eigenlijk vreemd dat we in het onderwijs zo vaak uitgaan van gemiddelden. Gelukkig komen er steeds meer alternatieve manieren om om onderwijs op maat te bieden. Denk aan montessorionderwijs, daltononderwijs, jenaplan, freinetonderwijs of de vrijeschoolbeweging. In welke wil jij je specialiseren?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Vernieuwingsonderwijs: iets voor jou?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wil jij:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "als leerkracht liever begeleiden dan leiden?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leerlingen meer betrekken bij hun eigen leerproces?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "graag samen met collega’s werken aan beter onderwijs?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "leren het onderwijs beter af te stemmen op jouw groep leerlingen en eventueel maatwerk bieden?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dan is de minor ‘onderwijsinnovatie’ echt iets voor jou. Er zijn basisscholen waar leerlingen inspraak krijgen in hun eigen leerproces. Jouw rol als leerkracht is om leerlingen hier wegwijs te maken. Dat doe je door hen te begeleiden, in plaats van te leiden. Kenmerkend voor dalton-, montessori- of jenaplanonderwijs, is dat de lesmethode niet leidend is. Je kunt dit type onderwijs gebruiken als hulpmiddel om jouw einddoelen te halen. Lesgeven is namelijk méér dan alleen maar de lesmethode uitvoeren."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/onderwijsinnovatie/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Vakspecialisatie Sport",
+      "product_type": "specialization",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sporten is voor kinderen een ideale uitlaatklep en een leuke, sociale manier van leren. Als jij dit ook belangrijk vindt en wilt bijdragen aan een gezonde lifestyle van kinderen (en collega’s), dan is de Thomas More Hogeschool sportroute misschien wel wat voor jou!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met het volgen van de sportroute ga je samen sporten en bewegen en kun je kiezen om op opgeleid te worden tot specialist op het gebied van bewegingsonderwijs aan groepen 3 t/m 8 en op bewegen en gezondheid. Zo word jij de nieuwe BN-er op je school. Wie kent de gymjuf of gymmeester nou niet?!"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/sport/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Vakspecialisatie Muziek",
+      "product_type": "specialization",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We vinden het belangrijk dat iedereen z’n passie kwijt kan. Bijvoorbeeld je passie voor muziek. Daarom kun je bij ons naast de voltijdopleiding de vakspecialisatie muziek volgen. Hiermee haal je binnen een aantal jaar een extra diploma waarmee je muziekles kunt geven in de klas en op alle groepen van jouw toekomstige basisschool.  Deze post-hbo opleiding (die je dus tegelijkertijd met de pabo volgt) bieden we samen met het Rotterdams conservatorium Codarts aan."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/muziek/",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Cultuur",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Meer aandacht voor kunst en cultuur in het basisonderwijs"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb jij een grote belangstelling voor alles wat met kunst en erfgoed te maken heeft? Zie jij een leerkracht ook als cultuurdrager en cultuuroverdrager? Dan is de minor ‘kunst en cultuur’ echt iets voor jou. Je hoeft geen kunstenaar te zijn om deze minor te volgen. Ook is het niet noodzakelijk om veel kennis te hebben van ons cultureel erfgoed. Wel verwachten we dat je veel belangstelling, interesse en nieuwsgierigheid hebt voor cultuur. Ook ben je ervan overtuigd dat het basisonderwijs meer aandacht voor kunst en cultuur zou moeten hebben."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/cultuur/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Passend onderwijs",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Lesgeven aan kinderen met en zonder speciale onderwijsbehoeften"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens deze minor ga je zowel de breedte als de diepte verkennen op het gebied van passend onderwijs. Het is een rijk programma waar je leert van de expertise van docenten. Zij laten je zien hoe je met verschillende brillen (orthopedagogisch, oplossingsgericht en systemisch) naar Passend Onderwijs kijkt. Je krijgt tijdens de minor een aanbod van bijeenkomsten met experts op het gebied van trauma, de methode rots en water, oplossingsgericht werken, pesten, hoogbegaafdheid, uitdagend gedrag, culturele diversiteit, familiesystemen en meer. Op basis van jouw interesses kies je zelf aan welke bijeenkomsten je deelneemt. Zo ontwikkel je een eigen visie en leer je welke werkwijze in welke situatie van toepassing is."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/passend-onderwijs/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Internationalisering",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met onze minor Internationalisering word je een wereldwijze leerkracht, voorbereid op de vrije Europese markt. Door een verblijf in het buitenland bereid je jezelf voor op een internationale toekomst. Je maakt kennis met de wereld en leert omgaan met andere culturen, tradities en samenlevingen. Hierdoor leer je jezelf beter staande te houden in een multiculturele samenleving."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/internationalisering/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Onderzoekend en ontwerpend leren",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Leren buiten het leslokaal"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Jonge kinderen verbazen zich over alles in de wereld om hen heen. De wereld is klein, en toch groot genoeg om veel nieuwe dingen te leren die belangrijk zijn. Aan ons leerkrachten is het de taak om kinderen te vormen tot nieuwsgierige, onderzoek- en ontwerpgerichte mensen. Mensen die zich verwonderen, die vragen durven te stellen en actie ondernemen. Tijdens deze minor zet je het kind, zijn omgeving en die van de school centraal. Je gebruikt de didactiek van het onderzoeken en ontwerpend leren om met de leerlingen antwoorden en oplossingen te vinden op vragen en uitdagingen in de wereld. Je leer hoe je onderwijs in en uit de omgeving kunt bieden. Zo lever je een effectieve bijdrage aan de cognitieve, sociale en persoonlijke ontwikkeling van jouw leerlingen. Leerlingen willen graag leren van nu en ze willen voorbereid zijn op de toekomst. Daarom werk je in deze minor met de sustainable development goals (SDG’s) die ontwikkeld zijn door de VN."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/onderzoekend-en-ontwerpend-leren/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "I-Minor",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Onderwijs ontwerpen met de nieuwste technieken"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben je op zoek naar verdieping op het snijvlak van onderwijsinnovatie en digitale geletterdheid? Wil je leermiddelen ontwikkelen met de meest moderne lesmaterialen? Ben je benieuwd naar de laatste ontwikkelingen op het gebied van onderwijsinnovatie? Dan is de I-minor echt wat voor jou. Met modern lesmateriaal bereik je de makers van de toekomst. Maar welk materiaal is nou het meest geschikt en welke innovaties zijn er momenteel? In de I-minor experimenteer je in masterclasses met zeer uiteenlopende materialen om je lessen te verrijken zoals VR- en AR-technology, Activefloor, greenscreen, robotica en 3D-printing. Naast de masterclasses gaan we op zoek naar voorbeelden in de praktijk. Als afsluiting maken we een studiereis naar de Bett beurs in Londen of we organiseren een vergelijkbaar programma in eigen land indien dit niet mogelijk is."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/i-minor/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Minor Werken in het basisonderwijs",
+      "product_type": "minor",
+      "product_level": "bachelor",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Een inspirerende kijk in het werken in het primair onderwijs (PO)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De minor “Werken in het basisonderwijs” is ontworpen voor iedere studerende aan een HBO of WO instelling die behoefte heeft aan een gedegen en inspirerende inkijk in het werken in het primair onderwijs. Misschien wil je je oriënteren om zelf leerkracht te worden, maar de minor biedt ook meerwaarde als je vanuit je huidige studie in het werkveld PO wilt werken."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/specialisaties-minoren/werken-in-het-basisonderwijs/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Deeltijd compact",
+      "product_type": "short_variant",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "169",
+      "organization_hovi_id": "258",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "oral_presentation",
+            "project",
+            "research",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "theory",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wanneer je de compacte deeltijdpabo volgt, kun je over twee jaar als afgestudeerde leerkracht basisonderwijs voor de klas staan. Maar dat is natuurlijk niet de eerste keer dat je voor de klas staat. Na het behalen van je propedeuse (1e half jaar), kun je (eventueel) aan het werk als leerkrachtondersteuner op een basisschool. Je maakt daardoor meer vlieguren waardoor je steeds steviger voor de groep komt te staan. Na twee jaar behaal je je bevoegdheid leerkracht basisonderwijs, je ontvangt dan je pabo diploma. Je kunt de compacte deeltijd volgen als je een afgeronde bachelor of masteropleiding op zak hebt. Heb je dit niet? Dan is de flexibele deeltijd voor jou waarschijnlijk een goede optie."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.thomasmorehs.nl/opleidingen/deeltijd-pabo/compact/?utm_source=studiekeuze123&utm_medium=referral",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Stationssingel 80, 3033 HJ, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.4640597,
+              51.9254562
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3033 HJ",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Stationssingel",
+                "shortText": "Stationssingel",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Rotterdam Noord",
+                "shortText": "Rotterdam Noord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3033 HJ",
+                "shortText": "3033 HJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Stationssingel 80, 3033 HJ Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.92419436970849,
+              "west": 4.462559469708498,
+              "north": 51.92689233029149,
+              "east": 4.465257430291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.4640597,
+            51.9254562
+          ]
+        },
+        "hovi_id": "169",
+        "name": "Thomas More Hogeschool, vestiging Rotterdam",
+        "street": "Stationssingel 80",
+        "zip": "3033 HJ",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "479",
+        "url": "https://www.thomasmorehs.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

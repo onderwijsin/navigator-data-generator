@@ -1,0 +1,162 @@
+{
+  "title": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut",
+  "code": "KAGA",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "30FA",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "242",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "151",
+    "name": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut, vestiging Utrecht",
+    "street": "Groenewoudsedijk 80",
+    "zip": "3528 BK",
+    "city": "UTRECHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "430",
+    "url": "http://www.ag-ai.nl/view.php?Pagina_Id=188",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Executive Master of Actuarial Science",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "75088",
+      "croho_name": "Executive Master of Actuarial Science",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "151",
+      "organization_hovi_id": "242",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Groenewoudsedijk 80, 3528 BK, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.0871597,
+              52.0665553
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3528 BK",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "80",
+                "shortText": "80",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Groenewoudsedijk",
+                "shortText": "Groenewoudsedijk",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Leidsche Rijn",
+                "shortText": "Leidsche Rijn",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3528 BK",
+                "shortText": "3528 BK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "80",
+            "formated": "Groenewoudsedijk 80, 3528 BK Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.0652062697085,
+              "west": 5.085820819708498,
+              "north": 52.0679042302915,
+              "east": 5.088518780291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.0871597,
+            52.0665553
+          ]
+        },
+        "hovi_id": "151",
+        "name": "Koninklijk Actuarieel Genootschap & Actuarieel Instituut, vestiging Utrecht",
+        "street": "Groenewoudsedijk 80",
+        "zip": "3528 BK",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "430",
+        "url": "http://www.ag-ai.nl/view.php?Pagina_Id=188",
+        "brinvest": null
+      }
+    }
+  ]
+}

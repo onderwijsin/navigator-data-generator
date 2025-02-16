@@ -1,0 +1,749 @@
+{
+  "title": "Unknown University of Applied Sciences",
+  "code": "GSE",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "30RK",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "253",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "224",
+    "name": "Global School for Entrepreneurship, vestiging Amsterdam",
+    "street": "Raamgracht 8",
+    "zip": "1011 KK",
+    "city": "AMSTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "3303",
+    "url": "https://www.globalschoolforentrepreneurship.com",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "SPD Bedrijfsadministratie",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34426",
+      "croho_name": "SPD Bedrijfsadministratie",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "162",
+      "organization_hovi_id": "253",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Fruitweg 22f, 2322 GK, LEIDEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.488143099999999,
+              52.1478378
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "2321 GK",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "2322",
+                "shortText": "2322",
+                "types": [
+                  "subpremise"
+                ]
+              },
+              {
+                "longText": "22",
+                "shortText": "22",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Fruitweg",
+                "shortText": "Fruitweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Leiden",
+                "shortText": "Leiden",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Leiden",
+                "shortText": "Leiden",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "2321 GK",
+                "shortText": "2321 GK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2322",
+            "formated": "Fruitweg 22, 2322, 2321 GK Leiden, Netherlands",
+            "viewport": {
+              "south": 52.1464372697085,
+              "west": 4.486709319708497,
+              "north": 52.1491352302915,
+              "east": 4.489407280291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.488143099999999,
+            52.1478378
+          ]
+        },
+        "hovi_id": "162",
+        "name": "Global School for Entrepreneurship, vestiging Leiden",
+        "street": "Fruitweg 22f",
+        "zip": "2322 GK",
+        "city": "LEIDEN",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "461",
+        "url": "http://www.hogeschoolnifa.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Entrepreneurship & Innovation",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35527",
+      "croho_name": "Entrepreneurship & Innovation",
+      "degrees": [
+        "Bachelor of Science"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "224",
+      "organization_hovi_id": "253",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze Bachelor bestaat uit  5-weekse modules die het process volgen van het starten en groeien van een bedrijf. Op deze manier kunnen we ervoor zorgen dat de inhoud die we bieden is afgestemd op jouw groeibehoeften. Het is niet nodig om bij Global School te starten met een bestaande onderneming of een bedrijfsidee. Wij helpen jou bij het ontdekken en creëren van de mogelijkheden vanaf de start. Het enige wat jij hoeft mee te brengen, is de bereidheid om ondernemer te worden."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "colloquium",
+            "computer_exercise",
+            "design_project",
+            "excursion",
+            "gaming",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_evaluation",
+            "self_study",
+            "seminar",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6",
+          "numerus_fixus": true,
+          "numerus_fixus_capacity": 40,
+          "numerus_fixus_tries": 1,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Get your Bachelor's degree and create your startup at the same time. Where other educators only offer you a minor of half a year to apply theory, we guide you for four years, and from day one We want you to learn how to become an entrepreneur by being one. We facilitate our students to create their own business with modules. The modules take five weeks and they are focused on a single topic. Together they offer you the bachelor degree. The order of our modules is aligned with the process of starting and growing your business. This way we ensure that our modules are relevant to you personally. We also offer incubator time from day one. This is a massively important part of our program because every student is different. The incubator is there to help you create your dream. From day one, we will coach and mentor you alongside the modules to apply the lessons learned immediately to your own startup during the incubator time. This is also why students find it difficult to explain to their friends what we are. They tell us: “you are not a school. You are a platform where you go and become great.” (Kenneth)."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2021-09-06",
+              "end_date": null
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-02-14",
+              "end_date": null
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-02-13",
+              "end_date": null
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-04",
+              "end_date": null
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2022-09-05",
+              "end_date": null
+            }
+          ],
+          "product_url": "https://www.gs4e.com/bachelor/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "14200",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2019
+            },
+            {
+              "amount": "14200",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "EU/NL € 14.200 (Bij eenmalige betaling: € 13.500)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Een studentenlening nodig? Neem contact op en plan een gesprek met een adviseur."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2021
+            },
+            {
+              "amount": "14200",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Niet-EU € 14.200 (Geen korting wegens VISA-aanvraagkosten)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Een studentenlening nodig? Neem contact op en plan een gesprek met een adviseur."
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2021
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Raamgracht 8, 1011 KK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8984863,
+              52.3696997
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1011 KK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Raamgracht",
+                "shortText": "Raamgracht",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1011 KK",
+                "shortText": "1011 KK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Raamgracht 8, 1011 KK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3683767697085,
+              "west": 4.897149219708498,
+              "north": 52.3710747302915,
+              "east": 4.899847180291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8984863,
+            52.3696997
+          ]
+        },
+        "hovi_id": "224",
+        "name": "Global School for Entrepreneurship, vestiging Amsterdam",
+        "street": "Raamgracht 8",
+        "zip": "1011 KK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3303",
+        "url": "https://www.globalschoolforentrepreneurship.com",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Master of Science in Scaling up",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70226",
+      "croho_name": "Master of Science in Scaling up",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "224",
+      "organization_hovi_id": "253",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Raamgracht 8, 1011 KK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8984863,
+              52.3696997
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1011 KK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Raamgracht",
+                "shortText": "Raamgracht",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1011 KK",
+                "shortText": "1011 KK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Raamgracht 8, 1011 KK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3683767697085,
+              "west": 4.897149219708498,
+              "north": 52.3710747302915,
+              "east": 4.899847180291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8984863,
+            52.3696997
+          ]
+        },
+        "hovi_id": "224",
+        "name": "Global School for Entrepreneurship, vestiging Amsterdam",
+        "street": "Raamgracht 8",
+        "zip": "1011 KK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3303",
+        "url": "https://www.globalschoolforentrepreneurship.com",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Software Development",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39172",
+      "croho_name": "Software Development",
+      "croho_sector": "techniek",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "224",
+      "organization_hovi_id": "253",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Raamgracht 8, 1011 KK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8984863,
+              52.3696997
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1011 KK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "8",
+                "shortText": "8",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Raamgracht",
+                "shortText": "Raamgracht",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1011 KK",
+                "shortText": "1011 KK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "8",
+            "formated": "Raamgracht 8, 1011 KK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3683767697085,
+              "west": 4.897149219708498,
+              "north": 52.3710747302915,
+              "east": 4.899847180291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8984863,
+            52.3696997
+          ]
+        },
+        "hovi_id": "224",
+        "name": "Global School for Entrepreneurship, vestiging Amsterdam",
+        "street": "Raamgracht 8",
+        "zip": "1011 KK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3303",
+        "url": "https://www.globalschoolforentrepreneurship.com",
+        "brinvest": null
+      }
+    }
+  ]
+}

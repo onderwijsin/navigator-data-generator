@@ -1,0 +1,43 @@
+{
+  "title": "EuroCollege Mbo & Hbo",
+  "code": "EUROC",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.facebook.com/EuroCollege.hbo.mbo/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "27GT",
+  "logoUrl": "https://www.kiesmbo.nl/media/4311/logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "EuroCollege Rotterdam",
+    "street": "Westblaak 139",
+    "zip": "3012 KJ",
+    "city": "Rotterdam",
+    "country": "Nederland",
+    "url": "https://www.eurocollege.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "27GT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.4745793,
+        51.9166632
+      ]
+    }
+  },
+  "locations": [
+    "27GT01",
+    "27GT02",
+    "27GT03",
+    "27GT05"
+  ],
+  "products": []
+}

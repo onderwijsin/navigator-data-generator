@@ -1,0 +1,35 @@
+{
+  "title": "Stichting Vakopleiding Techniek",
+  "code": "STICH",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30PY",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Het Riet 7",
+    "zip": "5431 NL",
+    "city": "Cuijk",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30PY01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.8716387,
+        51.7222234
+      ]
+    }
+  },
+  "locations": [
+    "30PY01"
+  ],
+  "products": []
+}

@@ -1,0 +1,841 @@
+{
+  "title": "Hogeschool KPZ",
+  "code": "KPZ",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Op KPZ kun je je ontwikkelen tot een uitzonderlijke leraar. Het studieprogramma is gevarieerd en door de overzichtelijke opzet weten studenten per periode wat er van ze verwacht wordt. Theorie en praktijk zijn nauw verbonden in deze opleiding. Je leert niet alleen de theorie individueel, maar je werkt ook samen in een studiegroep. Je leert veel van elkaar in de intervisie of supervisie groepen door elkaar feedback te geven en feedback te ontvangen. Op deze manier kun je je beter voorbereiden om later een goede leraar te worden. Tijdens het eerste studiejaar oriënteer je je in de praktijk (stage). Je gaat kijken of de opleiding en het beroep leraar basisonderwijs bij je past. Het tweede en derde jaar vormen de hoofdfase van de opleiding. Dan ga je dieper op de stof in. Ook in deze studiejaren ga je veel in de praktijk werken, soms individueel en soms in een leerteam. In het laatste studiejaar ga je twee dagen per week les geven aan de eigen groep: de zogenoemde Werk Plek Opleiding (WPO). Hier komen studeren en praktijk samen. Tevens ga je dan ook werken aan je afstudeeropdrachten."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "00IC",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "16",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "18",
+    "name": "Hogeschool KPZ, vestiging Zwolle",
+    "street": "Ten Oeverstraat 68",
+    "zip": "8012 EW",
+    "city": "ZWOLLE",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "59",
+    "url": "https://www.kpz.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Opleiding tot leraar basisonderwijs",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "18",
+      "organization_hovi_id": "16",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "practicum",
+            "project",
+            "research",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word leraar basisonderwijs met een eigen kleur en maak een verschil in het leven van kinderen! "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Hogeschool KPZ"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "KPZ is een kleine hogeschool in Zwolle waar je je direct thuis voelt en waar persoonlijk contact en oprechte aandacht voorop staan."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je leert hoe je kinderen stimuleert om zelf dingen te ontdekken en om het beste uit zichzelf te halen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze opleiding leraar basisonderwijs (pabo) biedt een praktijkgerichte aanpak, waarmee je de vaardigheden ontwikkelt om leerlingen te inspireren en te motiveren. Je leert lesgeven in verschillende vakgebieden, samenwerken met collega's en ouders, en het begeleiden van kinderen in hun ontwikkeling.  De opleiding wordt in voltijd en deeltijd (vierjarig en verkort traject) aangeboden. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "STAGE"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Tijdens de opleiding ga je je in het eerste studiejaar al oriënteren in de praktijk. Je gaat dan kijken of deze opleiding en dit beroep bij je passen. Het tweede en derde jaar vormen de hoofdfase van de opleiding; je gaat dan dieper op de stof in. Ook in deze studiejaren ga je veel in de praktijk werken. In het vierde en laatste jaar ga je twee dagen per week les geven aan de eigen groep: de zogenoemde WerkPlekOpleiding (WPO). Hier komen studeren en praktijk samen. Tevens ga je dan ook werken aan je afstudeeropdrachten. Ontwikkel je talent op KPZ, maak kennis!"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Op KPZ word je opgeleid tot leraar basisonderwijs. Na het afronden van de opleiding aan KPZ ben je startbekwaam om met kinderen van 4 – 14 jaar te werken."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.kpz.nl",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 50,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "850",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            },
+            {
+              "amount": "2060",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            },
+            {
+              "amount": "2083",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "integration_module",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "portfolio",
+            "poster_presentation",
+            "practicum",
+            "project",
+            "research",
+            "research_project",
+            "self_evaluation",
+            "self_study",
+            "tutorial",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Word leraar basisonderwijs met een eigen kleur en maak een verschil in het leven van kinderen! "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Hogeschool KPZ"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "KPZ is een kleine hogeschool in Zwolle waar je je direct thuis voelt en waar persoonlijk contact en oprechte aandacht voorop staan."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Je leert hoe je kinderen stimuleert om zelf dingen te ontdekken en om het beste uit zichzelf te halen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze opleiding leraar basisonderwijs (pabo) biedt een praktijkgerichte aanpak, waarmee je de vaardigheden ontwikkelt om leerlingen te inspireren en te motiveren. Je leert lesgeven in verschillende vakgebieden, samenwerken met collega's en ouders, en het begeleiden van kinderen in hun ontwikkeling.  De opleiding wordt in voltijd en deeltijd (vierjarig en verkort traject) aangeboden. "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "STAGE"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Tijdens de opleiding ga je je in het eerste studiejaar al oriënteren in de praktijk. Je gaat dan kijken of deze opleiding en dit beroep bij je passen. Het tweede en derde jaar vormen de hoofdfase van de opleiding; je gaat dan dieper op de stof in. Ook in deze studiejaren ga je veel in de praktijk werken. In het vierde en laatste jaar ga je twee dagen per week les geven aan de eigen groep: de zogenoemde WerkPlekOpleiding (WPO). Hier komen studeren en praktijk samen. Tevens ga je dan ook werken aan je afstudeeropdrachten. Ontwikkel je talent op KPZ, maak kennis!"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Op KPZ word je opgeleid tot leraar basisonderwijs. Na het afronden van de opleiding aan KPZ ben je startbekwaam om met kinderen van 4 – 14 jaar te werken."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "https://www.kpz.nl",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 50,
+              "period": 12
+            }
+          ],
+          "study_costs": [
+            {
+              "amount": "850",
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Type: study_materials, period: program"
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "1600",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2019
+            },
+            {
+              "amount": "1500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Ten Oeverstraat 68, 8012 EW, ZWOLLE, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.1072187,
+              52.5061664
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "8012 EW",
+            "administrativeArea": "Overijssel",
+            "raw": [
+              {
+                "longText": "68",
+                "shortText": "68",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Ten Oeverstraat",
+                "shortText": "Ten Oeverstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overijssel",
+                "shortText": "OV",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "8012 EW",
+                "shortText": "8012 EW",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "68",
+            "formated": "Ten Oeverstraat 68, 8012 EW Zwolle, Netherlands",
+            "viewport": {
+              "south": 52.50482681970851,
+              "west": 6.105928819708497,
+              "north": 52.5075247802915,
+              "east": 6.108626780291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.1072187,
+            52.5061664
+          ]
+        },
+        "hovi_id": "18",
+        "name": "Hogeschool KPZ, vestiging Zwolle",
+        "street": "Ten Oeverstraat 68",
+        "zip": "8012 EW",
+        "city": "ZWOLLE",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "59",
+        "url": "https://www.kpz.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "master Leiderschap en Innovatie Kind en Educatie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70212",
+      "croho_name": "Master Leiderschap en Innovatie Kind en Educatie",
+      "degrees": [
+        "Master of Arts"
+      ],
+      "croho_sector": "gedrag_en_maatschappij",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "18",
+      "organization_hovi_id": "16",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De master is bedoeld voor professionals die werken met kinderen van 0–14 jaar binnen het onderwijs, kinderopvang, sociaal werk, jeugdhulp en lokale overheden. De masteropleiding is gericht op een diversiteit van formele leiders, eindverantwoordelijken voor een organisatie eenheid, en informele leiders, innovatieve inhoudelijke gedreven professionals. Een (toekomstige) leider Kind en Educatie vervult drie cruciale rollen, namelijk civic entrepreneur (maatschappelijk ondernemer), boundary crosser (interpersoonlijk verbinder) en research-based designer (onderzoekend ontwerper). Als civic entrepreneur handelt een leider als een maatschappelijk ondernemer, die vanuit een duidelijke visie proactief werkt aan collectieve doelen. Het programma kent drie fases: het kernprogramma (fase een gedurende semester een en twee), het topprogramma met gevarieerd aanbod voor de verschillende professionals (fase twee gedurende semester drie en vier), en een specialisatiefase (fase drie gedurende semester vijf). Met name het specialisatieprogramma is grotendeels vraaggestuurd en geeft mogelijkheden tot organisch leren in kennis- en innovatiekringen, waarin zowel opleidingsdocenten als masterstudenten zitting hebben. Elke fase bestaat uit een aantal schakelunits."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In de master Leiderschap en Innovatie Kind en Educatie (MLIKE) staat een nieuwe en actuele visie op leiderschap centraal, waar formeel leiders en informeel leiders elkaar versterken."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [],
+          "product_url": "www.kpz.nl",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "8490",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Ten Oeverstraat 68, 8012 EW, ZWOLLE, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.1072187,
+              52.5061664
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "8012 EW",
+            "administrativeArea": "Overijssel",
+            "raw": [
+              {
+                "longText": "68",
+                "shortText": "68",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Ten Oeverstraat",
+                "shortText": "Ten Oeverstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overijssel",
+                "shortText": "OV",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "8012 EW",
+                "shortText": "8012 EW",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "68",
+            "formated": "Ten Oeverstraat 68, 8012 EW Zwolle, Netherlands",
+            "viewport": {
+              "south": 52.50482681970851,
+              "west": 6.105928819708497,
+              "north": 52.5075247802915,
+              "east": 6.108626780291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.1072187,
+            52.5061664
+          ]
+        },
+        "hovi_id": "18",
+        "name": "Hogeschool KPZ, vestiging Zwolle",
+        "street": "Ten Oeverstraat 68",
+        "zip": "8012 EW",
+        "city": "ZWOLLE",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "59",
+        "url": "https://www.kpz.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Pedagogisch Educatief Professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80142",
+      "croho_name": "Pedagogisch Educatief Professional",
+      "degrees": [
+        "Associate Degree"
+      ],
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "120",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "18",
+      "organization_hovi_id": "16",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Werk je met kinderen of jongeren en ben je toe aan een nieuwe uitdaging óf wil je de stap gaan maken om als professional met kinderen of jongeren te gaan werken? Volg dan de associate degree opleiding Pedagogisch Educatief Professional (PEP)! Deze opleiding is geschikt voor (aankomende) professionals in de kinderopvang, jeugdhulp onderwijs of welzijn en het is een opleiding waarmee je je kennis verdiept en vaardigheden vergroot. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De opleiding is in nauwe samenwerking met het werkveld ontwikkeld."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na het afronden van deze tweejarige deeltijd hbo-opleiding heb jij, dankzij je nieuwe kennis en vaardigheden, werkgevers veel te bieden. Als pedagogisch educatief professional bied jij ieder kind de mogelijkheid zich optimaal te ontwikkelen.Je bent bijvoorbeeld werkzaam op een integraal kindcentrum, waarbij je een verbindende rol aanneemt, je werkt als pedagogisch coach in de kinderopvang of als leerkrachtondersteuner in het onderwijs. Jij geeft vorm aan de ontwikkelingsbehoefte kinderen, werkt planmatig aan innovaties op de werkvloer en bent de spil in samenwerking met andere instanties.  "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na afronding van deze opleiding is het mogelijk om je te specialiseren. Mogelijke post-ad opleidingen zijn de modules tot pedagogisch coach en beleidsmedewerker en de verdiepingsmodules Taal en Rekenen. Vervolgopleidingen zijn o.a. de hbo-bacheloropleidingen leraar basisonderwijs (pabo) en social work."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.kpz.nl/studeren/ad-pedagogisch-educatief-professional/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "1500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2018
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Ten Oeverstraat 68, 8012 EW, ZWOLLE, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              6.1072187,
+              52.5061664
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "8012 EW",
+            "administrativeArea": "Overijssel",
+            "raw": [
+              {
+                "longText": "68",
+                "shortText": "68",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Ten Oeverstraat",
+                "shortText": "Ten Oeverstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zwolle",
+                "shortText": "Zwolle",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Overijssel",
+                "shortText": "OV",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "8012 EW",
+                "shortText": "8012 EW",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "68",
+            "formated": "Ten Oeverstraat 68, 8012 EW Zwolle, Netherlands",
+            "viewport": {
+              "south": 52.50482681970851,
+              "west": 6.105928819708497,
+              "north": 52.5075247802915,
+              "east": 6.108626780291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            6.1072187,
+            52.5061664
+          ]
+        },
+        "hovi_id": "18",
+        "name": "Hogeschool KPZ, vestiging Zwolle",
+        "street": "Ten Oeverstraat 68",
+        "zip": "8012 EW",
+        "city": "ZWOLLE",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "59",
+        "url": "https://www.kpz.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

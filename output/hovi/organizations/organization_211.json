@@ -1,0 +1,2404 @@
+{
+  "title": "Transnationale Universiteit Limburg",
+  "code": "TRANS",
+  "description": null,
+  "type": "universiteit",
+  "brin_code": "27YA",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "211",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "121",
+    "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+    "street": "Minderbroedersberg 4 tot 6",
+    "zip": "6211 LK",
+    "city": "MAASTRICHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "309",
+    "url": "http://www.tul.edu",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Data Science for Decision Making",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "60125",
+      "croho_name": "Data Science for Decision Making",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "natuur",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Project-Georiënteerd Leren (PGL)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze opleiding gebruikt de onderwijsmethode PGL. Je werkt in kleine groepen aan complexe en uitdagende projecten, waarbij je je opgedane kennis onmiddellijk toepast op problemen uit de praktijk. Zo ontwikkel je diverse vaardigheden als projectmanagement, schrijven, presenteren en in teamverband werken. We bieden vaardigheidsworkshops aan om deze competenties verder te ontwikkelen, want die zijn natuurlijk ook van belang voor je toekomstige carrière."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "colloquium",
+            "computer_exercise",
+            "gaming",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "practicum",
+            "project",
+            "research",
+            "research_project",
+            "self_study",
+            "theory",
+            "working_group"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Data science en big data zijn enorm belangrijk voor het bedrijfsleven. Deze masteropleiding verzorgt alle training die je nodig hebt om in deze gebieden actief te zijn. Dankzij onze uitgebreide opleiding, de praktische vaardigheden die je leert en de internationale oriëntatie van de master, gaat er een wereld voor je open. Na je afstuderen solliciteer je vaak met succes naar een baan, omdat je een probleemoplossende houding hebt in combinatie met moderne wetenschappelijke vaardigheden, en omdat je flexibel functioneert en in staat bent om complexe problemen op allerlei gebieden de modeleren en analyseren."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze alumni vonden banen als:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Manager Automotive Research Center bij Johnson Electric"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Creative Director bij Goal043 | Serious Games"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Assistant Professor bij het Department of Advanced Computing Sciences, Universiteit Maastricht"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "BI strategy and solutions manager bij Vodafone Duitsland"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Wetenschapper bij TNO"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Digital Analytics Services Coördinator bij PFSweb Europa"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Software Developer bij Thunderhead.com"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Data Scientist bij BigAlgo"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Researcher bij Thales Nederland"
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_reading",
+          "lang_exam_minimum_score": "6.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Bedenk je graag oplossingen voor complexe problemen? Zie je het als een uitdaging om patronen uit grote hoeveelheden data te vissen? Dan is een master in Data Science for Decision Making misschien wel iets voor jou. Tegenwoordig verzamelen veel bedrijven en organisaties allerlei soorten data. Ze proberen er nuttige informatie uit te halen en patronen en afwijkingen te herkennen. Data Science for Decision Making biedt je de wiskundige tools waarmee je deze datasets kunt modelleren en verwerken."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Het vakgebied vindt brede toepassing in het bedrijfsleven en de techniek, variërend van het plannen van klantenservice-medewerkers en het optimaliseren van toeleveringsketens, tot het modelleren van biologische processen en het extraheren van bruikbare informatie uit hersensignalen. Na je afstuderen ben je optimaal voorbereid op een carrière als datawetenschapper, onderzoeker of manager in veel verschillende sectoren. Vanaf september 2023 bieden we een specialisatie aan in Quantum Computing. Data Science for Decision Making en Artificial Intelligence zijn de enige masteropleidingen op deze gebieden die de specialisatie in Nederland aanbieden. Deze opleiding wordt gegeven door het Department of Advanced Computing Sciences van de Universiteit Maastricht. Geïnteresseerd? Lees hier meer: https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/data-science-decision-making"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-01-27",
+              "end_date": "2027-01-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/data-science-decision-making",
+          "scholarships": [
+            "um_brightlands_talent_scholarship",
+            "um_academic_achievement_scholarship"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Artificial Intelligence",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "66981",
+      "croho_name": "Artificial Intelligence",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "natuur",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": [
+            {
+              "capacities": false,
+              "grades": true,
+              "preEducation": true,
+              "testMethod": null,
+              "validFor": [
+                "international",
+                "outsideinstitute",
+                "ownstudents"
+              ]
+            }
+          ],
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Project-Georiënteerd Leren (PGL)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze opleiding gebruikt de onderwijsmethode PGL. Je werkt in kleine groepen aan complexe en uitdagende projecten, waarbij je je opgedane kennis onmiddellijk toepast op problemen uit de praktijk. Zo ontwikkel je diverse vaardigheden als projectmanagement, schrijven, presenteren en in teamverband werken. We bieden vaardigheidsworkshops aan om deze competenties verder te ontwikkelen, want die zijn natuurlijk ook van belang voor je toekomstige carrière."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "colloquium",
+            "computer_exercise",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_study",
+            "seminar",
+            "theory",
+            "traineeship",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je afstuderen kun je computeroplossingen voor problemen ontwikkelen en up-to-date wetenschappelijk en technologisch advies geven. Je kunt deze vaardigheden toepassen op problemen in de meest uiteenlopende settings. Zo kun je terechtkomen in een onderzoeksfunctie bij een universiteit, een onderzoeksinstituut of een onderzoeksgericht bedrijf. Maar de opleiding biedt je ook een goede basis voor een carrière als manager of consultant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Loopbaantrajecten"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Bedrijfsleven"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afgestudeerden met een achtergrond in Kunstmatige Intelligentie zijn een geweldige aanwinst voor bedrijven die grote hoeveelheden data verwerken. Ze werken er onder andere als softwareontwikkelaar, consultant of manager. Anderen beginnen een eigen bedrijf, waar ze bijvoorbeeld advies geven over het optimaliseren van bedrijfsprocessen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Universiteit of onderzoekscentrum"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sommige van onze afgestudeerden gaan door als wetenschapper, omdat ze hun kennis van onderwerpen als informatiebeheer of innovatief leren verder willen uitbreiden. Zij gaan voor een doctoraat en worden onderzoeker of docent in hun vakgebied. Dit betekent dat ze hun kennis delen, wetenschappelijk onderzoek publiceren, samenwerken met (internationale) partners en zich verzekeren van onderzoeksfinanciering."
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_reading",
+          "lang_exam_minimum_score": "6.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ben jij een analytische denker die graag met intelligente computersystemen werkt? Wil je meer weten over onderwerpen als datamining, machine learning en information retrieval? Dan is de master Artificial Intelligence echt iets voor jou! Je gebruikt en ontwikkelt computersystemen die leren van ervaringen, patronen herkennen in enorme hoeveelheden data en strategisch redeneren in complexe besluitvormingssituaties. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "De opleiding is flexibel: je stemt deze af op jouw interesses en ambities. Je leert van casussen uit de praktijk van organisaties die je daarmee in hun keuken laten kijken. Zo bereid je je goed voor op een toekomst als kunstmatige intelligentie specialist bij een onderzoeksinstituut of bedrijf.Vanaf september 2023 bieden we een specialisatie aan in Quantum Computing. Artificial Intelligence en Data Science for Decision Making zijn de enige masteropleidingen in dit werkveld die de specialisatie in Nederland aanbieden. Deze opleiding wordt gegeven door het Department of Advanced Computing Sciences van de Universiteit Maastricht. Geïnteresseerd? Lees hier meer: https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/artificial-intelligence"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Na je afstuderen kun je computeroplossingen voor problemen ontwikkelen en up-to-date wetenschappelijk en technologisch advies geven. Je kunt deze vaardigheden toepassen op problemen in de meest uiteenlopende settings. Zo kun je terechtkomen in een onderzoeksfunctie bij een universiteit, een onderzoeksinstituut of een onderzoeksgericht bedrijf. Maar de opleiding biedt je ook een goede basis voor een carrière als manager of consultant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Loopbaantrajecten"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Bedrijfsleven"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Afgestudeerden met een achtergrond in Kunstmatige Intelligentie zijn een geweldige aanwinst voor bedrijven die grote hoeveelheden data verwerken. Ze werken er onder andere als softwareontwikkelaar, consultant of manager. Anderen beginnen een eigen bedrijf, waar ze bijvoorbeeld advies geven over het optimaliseren van bedrijfsprocessen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Universiteit of onderzoekscentrum"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Sommige van onze afgestudeerden gaan door als wetenschapper, omdat ze hun kennis van onderwerpen als informatiebeheer of innovatief leren verder willen uitbreiden. Zij gaan voor een doctoraat en worden onderzoeker of docent in hun vakgebied. Dit betekent dat ze hun kennis delen, wetenschappelijk onderzoek publiceren, samenwerken met (internationale) partners en zich verzekeren van onderzoeksfinanciering."
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2025-01-27",
+              "end_date": "2027-01-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/artificial-intelligence",
+          "scholarships": [
+            "um_brightlands_talent_scholarship",
+            "um_academic_achievement_scholarship"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "https://www.maastrichtuniversity.nl/support/your-studies-begin/tuition-fees"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Biomedical Sciences",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "66990",
+      "croho_name": "Biomedical Sciences",
+      "degrees": [
+        "Master of Science"
+      ],
+      "croho_sector": "gezondheidszorg",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "admission_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/toelatingseisen",
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met Probleemgestuurd Onderwijs (PGO) leer je op een andere manier dan gebruikelijk aan universiteiten. Je werkt in kleine onderwijsgroepen, neemt deel aan practica en hebt (veel) minder college. Samen met zo’n twaalf tot vijftien medestudenten duik je onder begeleiding van een tutor in een vraagstuk uit de praktijk.Dankzij deze actieve manier van leren blijft kennis goed hangen én leer je essentiele vaardigheden. "
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "internship",
+            "laboratory_work",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "practicum",
+            "research",
+            "research_project",
+            "research_proposal",
+            "self_study"
+          ],
+          "job_perspective": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Biomedical Sciences is a fast-paced, cutting edge field that is currently enjoying ambitious support from the EU and wide-scale investments all over Europe. As a result, there is growing demand - and good labour market prospects - for highly specialised professionals in both academia and industry."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Studying biomedical sciences allows you to choose from a wide variety of careers in hospitals, universities and industry. Including governmental agencies, patent organisations, environmental agencies, research organisations, pharmaceutical or biotechnology companies and public health institutes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Read our alumni stories here: https://curriculum.maastrichtuniversity.nl/education/partner-program-master/master-biomedical-sciences/your-future"
+                  }
+                ]
+              }
+            ]
+          },
+          "lang_requirements_description": null,
+          "lang_exam": "ielts_overall_band",
+          "lang_exam_minimum_score": "6.5",
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ben je nieuwsgierig, creatief en vastbesloten om biomedische vraagstukken op te lossen? Ben je gefascineerd door de basisprincipes van biogeneeskunde en droom je ervan om wetenschapper te worden, te werken in een kliniek of ondernemer te worden? Dan is de masteropleiding Biomedical Sciences (BMS) misschien precies wat je zoekt. Door een mix van theoretische vakken, praktische trainingssessies en een stageperiode van één jaar, verken je de relatie tussen mensen en hun omgeving. Van molecuul, tot gen, cel en orgaan, individu en hele populaties. Je leert hoe nieuwe wetenschappelijke kennis wordt verkregen in fundamenteel en toegepast onderzoek, en hoe deze inzichten kunnen worden gebruikt voor patiënten. Na je afstuderen kun je een carrière nastreven als onderzoeker die ziektes en behandelingen bestudeert, zowel in de academische wereld als in de industrie."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heb je vragen voor een huidige student Biomedische Wetenschappen? Volg het Instagram-account van onze studentambassadeurs. Voor elke van de zes specialisaties binnen Biomedische Wetenschappen is er een studentambassadeur. https://www.instagram.com/umhealthmasterbiomed"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Biomedical Sciences is a fast-paced, cutting edge field that is currently enjoying ambitious support from the EU and wide-scale investments all over Europe. As a result, there is growing demand - and good labour market prospects - for highly specialised professionals in both academia and industry."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Studying biomedical sciences allows you to choose from a wide variety of careers in hospitals, universities and industry. Including governmental agencies, patent organisations, environmental agencies, research organisations, pharmaceutical or biotechnology companies and public health institutes."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Read our alumni stories here: https://curriculum.maastrichtuniversity.nl/education/partner-program-master/master-biomedical-sciences/your-future"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences",
+          "scholarships": [],
+          "tracks": [
+            {
+              "productForm": "fulltime",
+              "track": "12018"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "12019"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "12020"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "12021"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "12022"
+            },
+            {
+              "productForm": "fulltime",
+              "track": "12023"
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Genetics and Genomics",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze specialisatie is ontwikkeld om studenten een sterke basis en expertise te bieden op het gebied van genetica. De belangrijkste focus ligt op de toepassing van principes van genetica en genomica in wetenschappelijk onderzoek en in de kliniek, met specifieke aandacht voor kanker, cardiogenetica, neurogenetica, modelsystemen, forensische en gepersonaliseerde geneeskunde."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Biomedical Imaging",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze specialisatie is bedoeld voor studenten met een sterke interesse in het veld van biomedische beeldvorming en de brede toepassing ervan in het biomedische veld. Samen met experts op dit gebied richt je je op de toepassing van een breed scala aan beeldvormingstechnieken in biomedisch en (translationeel) klinisch onderzoek en gebruik je deze technieken om specifieke vragen te beantwoorden met betrekking tot oncologie, neurologie, cardiovasculaire ziekten en metabole aandoeningen, om er maar een paar te noemen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Tijdens stages krijg je de kans om bij te dragen aan projecten gerelateerd aan kanker, neurodegeneratieve, cardiovasculaire en metabole ziekten. De uitmuntendheid van de beeldvormingsinfrastructuur en expertise bij Maastricht UMC+ wordt wereldwijd erkend."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Inflammation and Pathophysiology",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Onze vergrijzende samenleving staat voor vele bedreigingen, waaronder oncologische, neurologische en cardiovasculaire problemen. Vaak hebben deze problemen een inflammatoire aard of worden ze veroorzaakt door infecties. Daarom heeft deze specialisatie tot doel een grondig, klinisch relevant begrip te ontwikkelen van verschillende mechanismen van ziekteontwikkeling. De specialisatie beschrijft ook actuele relevante diermodellen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We bereiden je voor om bij te dragen aan het begrijpen van ontsteking en pathologische bedreigingen, en nieuwe behandelingsstrategieën te ontwikkelen. De ontwikkeling omvat het manipuleren van het immuunsysteem om celtherapieën, antilichaamtherapie, vaccinatie, medicijnontwikkeling en gentherapie te ontwikkelen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Dit is de specialisatie voor jou:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "als je geïnteresseerd bent in het manipuleren van het immuunsysteem, en"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "als je een carrière wilt nastreven in de industrie (biotechnologie) of in de academische wereld."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Neuromodulation",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze specialisatie is ontwikkeld voor studenten die enthousiast zijn over het potentieel van neuromodulatie in wetenschappelijk onderzoek. We hopen nieuwsgierige en creatieve geesten aan te trekken die de principes van neuromodulatie willen leren, geïnspireerd willen raken door huidige klinische toepassingen en vervolgens willen bijdragen aan dit zeer interdisciplinaire veld."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Nutrition, Physical Activity and Metabolism",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Is dit de juiste specialisatie voor mij?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je oprecht geïnteresseerd bent in hoe voeding, lichamelijke activiteit en een sedentaire levensstijl van invloed zijn op de gezondheid..."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je geïnteresseerd bent in de mechanismen (van molecuul tot mens) die de (mal)adaptieve reacties van het menselijk lichaam op veranderingen in energiebeschikbaarheid en -vraag reguleren..."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je wilt weten hoe lichaamsbeweging en fysieke activiteit de gezondheid kunnen bevorderen..."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Als je enthousiast bent om de kennis op te doen die nodig is om nieuwe levensstijlinterventies te ontwerpen om de gezondheid te bevorderen..."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dan is dit de specialisatie voor jou!"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Regenerative Medicine",
+      "product_type": "specialization",
+      "product_level": "master",
+      "vendor": "hovi",
+      "location_hovi_id": "121",
+      "organization_hovi_id": "211",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Deze specialisatie is ontwikkeld voor studenten met interesse in een multidisciplinair veld dat tot doel heeft oplossingen te creëren voor het herstellen van de structuur en de functie van permanent beschadigde weefsels en organen door gebruik te maken van een combinatie van wetenschap en technologie. Regeneratieve geneeskunde (RG) is inherent translationeel en gebruikt basiskennis om echte klinische problemen op te lossen. Binnen deze specialisatie zullen de onderwerpen zich richten op zowel de moleculair-biologische (inclusief stamcelbiologie en gentherapie) als de technologische (inclusief weefseltechniek en biofabricagetechnologieën) aspecten, en de combinatie daarvan binnen een klinische context."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Stel je vragen aan onze studentambassadeur: https://www.instagram.com/umhealthmasterbiomed/"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-09-01",
+              "end_date": "2027-08-31"
+            }
+          ],
+          "product_url": "https://curriculum.maastrichtuniversity.nl/nl/onderwijs/partner-program-master/master-biomedical-sciences/specialisaties",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "19100",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": "Minderbroedersberg 4 tot 6, 6211 LK, MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6864884,
+              50.8471542
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "6211 LK",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "4",
+                "shortText": "4",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Minderbroedersberg",
+                "shortText": "Minderbroedersberg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Maastricht-Centrum",
+                "shortText": "Maastricht-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "6211 LK",
+                "shortText": "6211 LK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "4",
+            "formated": "Minderbroedersberg 4, 6211 LK Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8457939697085,
+              "west": 5.685155019708498,
+              "north": 50.8484919302915,
+              "east": 5.687852980291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6864884,
+            50.8471542
+          ]
+        },
+        "hovi_id": "121",
+        "name": "Transnationale Universiteit Limburg, vestiging Maastricht",
+        "street": "Minderbroedersberg 4 tot 6",
+        "zip": "6211 LK",
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "309",
+        "url": "http://www.tul.edu",
+        "brinvest": null
+      }
+    }
+  ]
+}

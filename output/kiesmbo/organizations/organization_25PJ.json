@@ -1,0 +1,40 @@
+{
+  "title": "Deltion College",
+  "code": "DELTI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.deltion.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25PJ",
+  "logoUrl": "https://www.kiesmbo.nl/media/3459/25pj.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Mozartlaan 15",
+    "zip": "8031 AA",
+    "city": "Zwolle",
+    "country": "Nederland",
+    "url": "http://www.deltion.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25PJ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.0839005,
+        52.520953
+      ]
+    }
+  },
+  "locations": [
+    "25PJ01"
+  ],
+  "products": []
+}

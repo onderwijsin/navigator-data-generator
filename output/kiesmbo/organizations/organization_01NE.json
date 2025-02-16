@@ -1,0 +1,35 @@
+{
+  "title": "IPC Dier Centr Directie",
+  "code": "IPC D",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "01NE",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Wesselseweg",
+    "street": "Wesselseweg 32",
+    "zip": "3771 PC",
+    "city": "BARNEVELD",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "01NE01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.6010812,
+        52.1446059
+      ]
+    }
+  },
+  "locations": [
+    "01NE01"
+  ],
+  "products": []
+}

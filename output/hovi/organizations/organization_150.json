@@ -1,0 +1,282 @@
+{
+  "title": "Hogeschool NOVI",
+  "code": "NOVI",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hogeschool NOVI is gericht op de individuele student. Voor iedere student wordt op basis van competenties, kennis en ervaring een persoonlijk studietraject opgesteld. Kernkwaliteiten van Hogeschool NOVI zijn: Praktijkgericht en mensgericht; Permanente educatie – een leven lang leren; Flexibel en creatief; Solide; Toepasbare kennis en ervaring; Vormend en vernieuwend. Action Learning, de gebruikte lesmethode, sluit hierop aan. Action Learning richt zich op het vergroten van het leervermogen van studenten en organisaties door actief leren te stimuleren. Dat kan door te werken met zelf ingebrachte vraagstukken -liefst uit de eigen praktijk-, door debat, door best practices uit te pluizen, door elkaars ervaringen te bespreken. Een NOVI-student gaat op onderzoek uit, zoekt oplossingen, past ze toe en evalueert gezamenlijk. Is het probleem nu opgelost en vooral: wat heb je ervan geleerd? Action Learning is zo de beste methode om zelfstandig te (blijven) leren en functioneren, want tijdens het Action Learning-proces neemt de student verantwoordelijkheid voor het eigen leerproces. Voor meer informatie: www.novi.nl of 030-7115615"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24HR",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "150",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "4",
+    "name": "Hogeschool NOVI, vestiging Maastricht",
+    "street": null,
+    "zip": null,
+    "city": "MAASTRICHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "7",
+    "url": "http://www.novi.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Informatie en Communicatie Technologie",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34671",
+      "croho_name": "Informatie en Communicatie Technologie",
+      "croho_sector": "techniek",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "4",
+      "organization_hovi_id": "150",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "MAASTRICHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.6909725,
+              50.8513682
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "",
+            "administrativeArea": "Limburg",
+            "raw": [
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Maastricht",
+                "shortText": "Maastricht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Limburg",
+                "shortText": "LI",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              }
+            ],
+            "displayName": "Maastricht",
+            "formated": "Maastricht, Netherlands",
+            "viewport": {
+              "south": 50.8038126,
+              "west": 5.638872399999999,
+              "north": 50.9117809,
+              "east": 5.7629404
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.6909725,
+            50.8513682
+          ]
+        },
+        "hovi_id": "4",
+        "name": "Hogeschool NOVI, vestiging Maastricht",
+        "street": null,
+        "zip": null,
+        "city": "MAASTRICHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "7",
+        "url": "http://www.novi.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Informatie en Communicatie Technologie",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34671",
+      "croho_name": "Informatie en Communicatie Technologie",
+      "croho_sector": "techniek",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "91",
+      "organization_hovi_id": "150",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Zonnebaan 9, 3542 EA, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.038730399999999,
+              52.11757919999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3542 EA",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "9",
+                "shortText": "9",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Zonnebaan",
+                "shortText": "Zonnebaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "West",
+                "shortText": "West",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3542 EA",
+                "shortText": "3542 EA",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "9",
+            "formated": "Zonnebaan 9, 3542 EA Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1161742197085,
+              "west": 5.037164369708497,
+              "north": 52.1188721802915,
+              "east": 5.039862330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.038730399999999,
+            52.11757919999999
+          ]
+        },
+        "hovi_id": "91",
+        "name": "Hogeschool NOVI, vestiging Utrecht",
+        "street": "Zonnebaan 9",
+        "zip": "3542 EA",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "196",
+        "url": "http://www.novi.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

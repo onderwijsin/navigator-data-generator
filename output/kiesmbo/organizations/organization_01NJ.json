@@ -1,0 +1,26 @@
+{
+  "title": "Terra MBO",
+  "code": "TERRA",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.mboterra.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "01NJ",
+  "logoUrl": "https://www.kiesmbo.nl/media/6027/mbo-terra-groot.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": null,
+  "locations": [
+    "01NJ02",
+    "01NJ03",
+    "01NJ04",
+    "01NJ99"
+  ],
+  "products": []
+}

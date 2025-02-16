@@ -1,0 +1,49 @@
+{
+  "title": "Hoornbeeck College",
+  "code": "HOORN",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.hoornbeeck.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "09MR",
+  "logoUrl": "https://www.kiesmbo.nl/media/4610/def_hbc_logo_leren-voor-het-leven.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Amersfoort",
+    "street": "Utrechtseweg 230",
+    "zip": "3818 ET",
+    "city": "Amersfoort",
+    "country": "Nederland",
+    "url": "https://www.hoornbeeck.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "09MR00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.3455888,
+        52.1374318
+      ]
+    }
+  },
+  "locations": [
+    "09MR00",
+    "09MR02",
+    "09MR03",
+    "09MR04",
+    "09MR06",
+    "09MR10",
+    "09MR11",
+    "09MR12",
+    "09MR13",
+    "09MR14"
+  ],
+  "products": []
+}

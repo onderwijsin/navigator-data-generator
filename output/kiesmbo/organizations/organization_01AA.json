@@ -1,0 +1,53 @@
+{
+  "title": "Landstede MBO",
+  "code": "LANDS",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.landstedembo.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "01AA",
+  "logoUrl": "https://www.kiesmbo.nl/media/3473/01aa.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "De Arend 4",
+    "street": "De Arend 4",
+    "zip": "8251 GR",
+    "city": "Dronten",
+    "country": "Nederland",
+    "url": "http://www.landstedembo.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "01AA11",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.7224318,
+        52.5327825
+      ]
+    }
+  },
+  "locations": [
+    "01AA00",
+    "01AA01",
+    "01AA02",
+    "01AA03",
+    "01AA04",
+    "01AA05",
+    "01AA06",
+    "01AA07",
+    "01AA08",
+    "01AA09",
+    "01AA11",
+    "01AA13",
+    "01AA45",
+    "01AA70"
+  ],
+  "products": []
+}

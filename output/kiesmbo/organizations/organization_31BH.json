@@ -1,0 +1,35 @@
+{
+  "title": "Breederzorg opleidingen",
+  "code": "BREED",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "31BH",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Verlengde Velmolen 11",
+    "zip": "5406 NT",
+    "city": "UDEN",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "31BH01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.6244149,
+        51.6469871
+      ]
+    }
+  },
+  "locations": [
+    "31BH01"
+  ],
+  "products": []
+}

@@ -1,0 +1,137 @@
+{
+  "title": "The Amsterdam Fashion Academy",
+  "code": "AFA",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you value small classes and personal attention, then the Amsterdam Fashion Academy is the ideal place to study for your Fashion BA. We are strongly committed to achieving excellence in learning, teaching and the wider student experience, to give our students the best possible preparation for their future lives and careers. Our approach to creative learning is unique, highly personalised and guaranteed to ensure you meet your potential. Our classes are small, with teaching and personal contact with your tutor every day, 5 days a week. We also encourage our students to come in whenever they want to work, talk or simply enjoy the Academy’s relaxed, creative and multi-cultural environment. Teaching is delivered by our enthusiastic and dedicated team of highly experienced international lecturers and includes a comprehensive range of subjects such as idea generation, design development, illustration, fashion forecasting, pattern cutting and construction, knitwear, millinery, written and verbal communication and critical analysis. To ensure that students are fully prepared for a career in fashion, we integrate professional skills across all areas of these degrees."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "9018",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "2018",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "343",
+    "name": "Vestiging Amsterdam",
+    "street": null,
+    "zip": null,
+    "city": null,
+    "country": null,
+    "vendor": "hovi",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Fashion Foundation Year",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "343",
+      "organization_hovi_id": "2018",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This exciting preparatory programme is designed to introduce you to the versatile world of fashion. This exciting preparatory programme is designed to introduce you to the versatile world of fashion. It will help you develop skills as well as personal qualities and attitudes that are essential when entering the fashion industry. The Fashion Foundation Year also prepares you for going on to study Fashion Design at degree level at the Amsterdam Fashion Academy. This is a great opportunity to study a wide range of essential skills needed for the design and production of both fashion and textiles in the stimulating fashion environment of the Amsterdam Fashion Academy. You develop your portfolio and gain a real understanding of the professional working practices and expectations of the fashion industry. Of course all of this is combined with learning to design and manufacture your own clothing and textiles. All activities are underpinned by a core of drawing and visualization skills. Obviously academic discipline – along with theory projects – forms the basis of this programme, which focuses on intensive learning."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "www.amsterdamfashionacademy.com",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "343",
+        "name": "Vestiging Amsterdam",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "BA Fashion and Textiles Design",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "343",
+      "organization_hovi_id": "2018",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "design_project",
+            "excursion",
+            "group_assignment",
+            "individual_assignment",
+            "portfolio",
+            "research_project",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "www.amsterdamfashionacademy.com",
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "343",
+        "name": "Vestiging Amsterdam",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

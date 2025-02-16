@@ -1,0 +1,40 @@
+{
+  "title": "NIPA Opleidingen",
+  "code": "NIPA ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.nipaopleidingen.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25TP",
+  "logoUrl": "https://www.kiesmbo.nl/media/7403/logo-nipa-opleidingen-2-pink.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "NIPA Opleidingen",
+    "street": "Ommelseweg  48",
+    "zip": "5721WV",
+    "city": "Asten",
+    "country": "Nederland",
+    "url": "https://www.nipaopleidingen.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25TP01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.7495897,
+        51.4157804
+      ]
+    }
+  },
+  "locations": [
+    "25TP01"
+  ],
+  "products": []
+}

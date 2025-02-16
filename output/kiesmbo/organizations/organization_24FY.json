@@ -1,0 +1,35 @@
+{
+  "title": "IVIO@School",
+  "code": "IVIO@",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "24FY",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Pascallaan 71",
+    "zip": "8218 NJ",
+    "city": "LELYSTAD",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "24FY01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.4966615,
+        52.4740667
+      ]
+    }
+  },
+  "locations": [
+    "24FY01"
+  ],
+  "products": []
+}

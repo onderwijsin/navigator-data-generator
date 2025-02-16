@@ -1,0 +1,35 @@
+{
+  "title": "Amice Academy B.V.",
+  "code": "AMICE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "32CT",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Amice Academy B.V.",
+    "street": "Hogebrinkerweg 17 a",
+    "zip": "3871KM",
+    "city": "HOEVELAKEN",
+    "country": "Nederland",
+    "url": "https://amice.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "32CT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.468214,
+        52.177443
+      ]
+    }
+  },
+  "locations": [
+    "32CT01"
+  ],
+  "products": []
+}

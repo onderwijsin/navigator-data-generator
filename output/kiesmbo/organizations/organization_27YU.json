@@ -1,0 +1,59 @@
+{
+  "title": "ROC van Twente",
+  "code": "ROC V",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://rocvantwente.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "27YU",
+  "logoUrl": "https://www.kiesmbo.nl/media/3505/27yu.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Gieterij",
+    "street": "Gieterij 200",
+    "zip": "7553 VZ",
+    "city": "Hengelo",
+    "country": "Nederland",
+    "url": "www.rocvantwente.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "27YU05",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.7889236,
+        52.2599857
+      ]
+    }
+  },
+  "locations": [
+    "27YU01",
+    "27YU03",
+    "27YU05",
+    "27YU07",
+    "27YU08",
+    "27YU09",
+    "27YU12",
+    "27YU15",
+    "27YU16",
+    "27YU19",
+    "27YU04",
+    "27YU21",
+    "27YU22",
+    "27YU23",
+    "27YU27",
+    "27YU28",
+    "27YU29",
+    "27YU30",
+    "27YU31",
+    "27YU32"
+  ],
+  "products": []
+}

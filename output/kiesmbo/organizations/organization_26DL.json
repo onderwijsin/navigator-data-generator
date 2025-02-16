@@ -1,0 +1,35 @@
+{
+  "title": "Kappersacademie",
+  "code": "KAPPE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26DL",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Geleenstraat 62",
+    "zip": "6411 HT",
+    "city": "Heerlen",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26DL01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.9762408,
+        50.8867649
+      ]
+    }
+  },
+  "locations": [
+    "26DL01"
+  ],
+  "products": []
+}

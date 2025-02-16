@@ -1,0 +1,35 @@
+{
+  "title": "Instituut Schoevers bv",
+  "code": "INSTI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "24GP",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Papiermolen 10",
+    "zip": "3994 DK",
+    "city": "Houten",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "24GP01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1744125,
+        52.026811
+      ]
+    }
+  },
+  "locations": [
+    "24GP01"
+  ],
+  "products": []
+}

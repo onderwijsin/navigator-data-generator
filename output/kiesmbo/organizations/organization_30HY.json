@@ -1,0 +1,35 @@
+{
+  "title": "Heering Consultancy Opleidingen",
+  "code": "HEERI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30HY",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Hessenweg 189",
+    "zip": "3791 PG",
+    "city": "Achterveld",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30HY01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.4764314,
+        52.1423036
+      ]
+    }
+  },
+  "locations": [
+    "30HY01"
+  ],
+  "products": []
+}

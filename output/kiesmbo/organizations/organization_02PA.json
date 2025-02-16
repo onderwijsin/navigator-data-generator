@@ -1,0 +1,40 @@
+{
+  "title": "Mediacollege Amsterdam",
+  "code": "MEDIA",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.ma-web.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "02PA",
+  "logoUrl": "https://www.kiesmbo.nl/media/6568/mediacollege-amsterdam_stacked-logo_white-background_colour_rgb.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Mediacollege Amsterdam mbo Contactweg",
+    "street": "Contactweg 36",
+    "zip": "1014 AN",
+    "city": "Amsterdam",
+    "country": "Nederland",
+    "url": "http://www.ma-web.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "02PA01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.8558589,
+        52.3930365
+      ]
+    }
+  },
+  "locations": [
+    "02PA01"
+  ],
+  "products": []
+}

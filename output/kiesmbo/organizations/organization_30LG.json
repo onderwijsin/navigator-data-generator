@@ -1,0 +1,43 @@
+{
+  "title": "Instituut Memo",
+  "code": "INSTI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.instituutmemo.nl/site/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "30LG",
+  "logoUrl": "https://www.kiesmbo.nl/media/6674/logo-instituut-memo-officieel.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Instituut Memo - Zoetermeer",
+    "street": "Storkstraat 6",
+    "zip": "2722 NN",
+    "city": "Zoetermeer",
+    "country": "Nederland",
+    "url": "https://www.instituutmemo.nl/site/opleidingen/doktersassistente-opleiding/",
+    "vendor": "kiesmbo",
+    "brinvest": "30LG04",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.5137534,
+        52.0530857
+      ]
+    }
+  },
+  "locations": [
+    "30LG01",
+    "30LG02",
+    "30LG03",
+    "30LG04"
+  ],
+  "products": []
+}

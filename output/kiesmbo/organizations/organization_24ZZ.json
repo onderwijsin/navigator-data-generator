@@ -1,0 +1,48 @@
+{
+  "title": "Graafschap College",
+  "code": "GRAAF",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://graafschapcollege.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "24ZZ",
+  "logoUrl": "https://www.kiesmbo.nl/media/7705/logo-graafschap-college-logoset-cmyk_logo-fc.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Locatie J.F. Kennedylaan",
+    "street": "J.F. Kennedylaan 49",
+    "zip": "7001 EA",
+    "city": "Doetinchem",
+    "country": "Nederland",
+    "url": "http://www.graafschapcollege.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "24ZZ02",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.2989244,
+        51.9674898
+      ]
+    }
+  },
+  "locations": [
+    "24ZZ02",
+    "24ZZ04",
+    "24ZZ05",
+    "24ZZ06",
+    "24ZZ07",
+    "24ZZ11",
+    "24ZZ12",
+    "24ZZ15",
+    "24ZZ16"
+  ],
+  "products": []
+}

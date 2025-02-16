@@ -1,0 +1,35 @@
+{
+  "title": "M & M Opleidingen B.V.",
+  "code": "M & M",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30KC",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Randstad 2135",
+    "zip": "1314 BG",
+    "city": "Almere",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30KC01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.2224385,
+        52.3790504
+      ]
+    }
+  },
+  "locations": [
+    "30KC01"
+  ],
+  "products": []
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Talland College",
+  "code": "TALLA",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://talland.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25PT",
+  "logoUrl": "https://www.kiesmbo.nl/media/7741/tallandcollege_logo_paars_pms_266u.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Locatie Alkmaar",
+    "street": "Kruseman van Eltenweg 4",
+    "zip": "1817 BC",
+    "city": "Alkmaar",
+    "country": "Nederland",
+    "url": "https://www.talland.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "25PT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.7422633,
+        52.6393689
+      ]
+    }
+  },
+  "locations": [
+    "25PT01",
+    "25PT02",
+    "25PT03",
+    "25PT04",
+    "25PT05",
+    "25PT06",
+    "25PT07"
+  ],
+  "products": []
+}

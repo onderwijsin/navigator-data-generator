@@ -1,0 +1,45 @@
+{
+  "title": "Ter AA",
+  "code": "TER A",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://ter-aa.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25LJ",
+  "logoUrl": "https://www.kiesmbo.nl/media/7923/ter-aa_logo_cmyk-corporate.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Keizerin Marialaan",
+    "street": "Keizerin Marialaan 2",
+    "zip": "5702 NR",
+    "city": "Helmond",
+    "country": "Nederland",
+    "url": "http://www.ter-aa.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25LJ00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.6570282,
+        51.487485
+      ]
+    }
+  },
+  "locations": [
+    "25LJ00",
+    "25LJ01",
+    "25LJ03",
+    "25LJ07",
+    "25LJ08",
+    "25LJ09"
+  ],
+  "products": []
+}

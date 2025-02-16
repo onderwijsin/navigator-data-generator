@@ -1,0 +1,35 @@
+{
+  "title": "Trent Professional",
+  "code": "TRENT",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "27RG",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Puntegaalstraat 115",
+    "zip": "3024 EB",
+    "city": "ROTTERDAM",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "27RG01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.4630709,
+        51.9072788
+      ]
+    }
+  },
+  "locations": [
+    "27RG01"
+  ],
+  "products": []
+}

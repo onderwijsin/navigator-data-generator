@@ -1,0 +1,40 @@
+{
+  "title": "I AM College",
+  "code": "I AM ",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.iamcollege.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "31GJ",
+  "logoUrl": "https://www.kiesmbo.nl/media/4340/logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Aambeeldstraat 10",
+    "zip": "1021 KB",
+    "city": "Amsterdam",
+    "country": "Nederland",
+    "url": "https://www.iamcollege.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "31GJ01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.9265853,
+        52.3842641
+      ]
+    }
+  },
+  "locations": [
+    "31GJ01"
+  ],
+  "products": []
+}

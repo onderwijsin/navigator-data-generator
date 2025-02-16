@@ -1,0 +1,58 @@
+{
+  "title": "Noorderpoort",
+  "code": "NOORD",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://noorderpoort.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25LW",
+  "logoUrl": "https://www.kiesmbo.nl/media/7411/logo-noorderpoort.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Noorderpoort Bestuursbureau",
+    "street": "Verzetsstrijderslaan 4",
+    "zip": "9727 CE",
+    "city": "Groningen",
+    "country": "Nederland",
+    "url": "https://noorderpoort.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25LW00",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.5523133,
+        53.2067202
+      ]
+    }
+  },
+  "locations": [
+    "25LW00",
+    "25LW01",
+    "25LW02",
+    "25LW04",
+    "25LW05",
+    "25LW06",
+    "25LW07",
+    "25LW08",
+    "25LW09",
+    "25LW10",
+    "25LW11",
+    "25LW13",
+    "25LW14",
+    "25LW15",
+    "25LW16",
+    "25LW17",
+    "25LW18",
+    "25LW20",
+    "25LW21"
+  ],
+  "products": []
+}

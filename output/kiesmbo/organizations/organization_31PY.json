@@ -1,0 +1,40 @@
+{
+  "title": "Amsterdam Training Point",
+  "code": "AMSTE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://amsterdamtrainingpoint.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "31PY",
+  "logoUrl": "https://www.kiesmbo.nl/media/7843/logo-atp-security.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Cas Oorthuyskade 196",
+    "zip": "1087DP",
+    "city": "Amsterdam",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "31PY01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.9904939,
+        52.3606004
+      ]
+    }
+  },
+  "locations": [
+    "31PY01"
+  ],
+  "products": []
+}

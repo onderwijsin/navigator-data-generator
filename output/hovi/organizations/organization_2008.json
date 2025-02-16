@@ -1,0 +1,1805 @@
+{
+  "title": "ICRA",
+  "code": "ICRA",
+  "description": null,
+  "type": "internationaal onderwijs",
+  "brin_code": "9008",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "2008",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "337",
+    "name": "Vestiging Wageningen",
+    "street": null,
+    "zip": null,
+    "city": null,
+    "country": null,
+    "vendor": "hovi",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Making Competency-based Education Work for youth employment in the agri-sector",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-04-17",
+              "end_date": "2023-06-28"
+            }
+          ],
+          "product_url": "http://www.icra.global/courses/making-education-work",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Research Work - Solving complex agri-food problems through action research",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-04-17",
+              "end_date": "2023-06-29"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-research-work",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2022
+            },
+            {
+              "amount": "4974",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2022
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Booster l'Agribusiness :  Construire des relations d'affaires pour des profits durables",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "numerus_fixus_capacity": 25,
+          "numerus_fixus_tries": 0,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous négocier de meilleures offres ? Voulez-vous être en mesure de créer un climat de confiance qui débouche sur des relations commerciales durables ? Alors, c’est le module de formation qu’il vous faut !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "En tant que "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "professionnel de l’agribusiness"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", vous souhaitez développer votre carrière et votre entreprise de la manière la plus efficace possible. Avec ce "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "cours"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", à la fois en ligne et en présentiel, vous allez développer toutes les compétences nécessaires pour accélérer votre impact au sein des chaînes de valeurs agricoles et agroalimentaires. Êtes-vous prêts ? "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "La prochaine étape de votre carrière"
+                  },
+                  {
+                    "type": "text",
+                    "text": " est à portée de main avec l’"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "iCRA"
+                  },
+                  {
+                    "type": "text",
+                    "text": " !"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Le contenu de formation : "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences et concepts entrepreneuriaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer de la valeur marchande"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire et maintenir des relations d’affaires"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mise en place de réseaux locaux d’entreprises ;"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Etudes de cas réels : apprentissage des partenariats public-privé visant les entreprises de transformation locales, approvisionnement auprès des agriculteurs locaux"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Compétences de courtage et de facilitation"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Négociation commerciale et gestion des conflits"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "L’art de l’écoute"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Développement de contrats durable et marketing"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Les services d’appui entrepreneuriaux et le coaching"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-15",
+              "end_date": "2024-06-15"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-lagro-business/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "6947",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Booster l’Apprentissage",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours est une combinaison de formations en ligne et en face à face. En combinant des sessions de groupe, des exercices individuels et un coaching personnel, vous vivrez ce que vos participants vivront lors de votre formation. Tout ce que vous apprenez peut être mis en pratique immédiatement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours vous aidera à concevoir et à dispenser des formations en ligne et en face à face de manière à ce que vous vous sentiez en confiance et que les participants obtiennent les résultats souhaités."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "computer_exercise",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "oral_presentation",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours se concentre sur la conception et la mise en œuvre d'une formation (en ligne) qui a un impact sur vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Comment combiner au mieux la formation en ligne et la formation en face à face."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Voulez-vous être un formateur qui"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "crée une atmosphère interactive et s'appuie sur les expériences de vos participants ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "fait travailler le groupe de manière autonome, motivée et ciblée pendant les sessions en ligne ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "obtient un retour des participants sur l'application de ce qu'ils ont appris et donc de meilleures performances dans leur travail ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ce cours a un effet immédiat car vous n'apprenez pas seulement des compétences essentielles mais vous les appliquez directement en utilisant l'une de vos formations comme étude de cas. À la fin du programme, vous aurez (re)conçu et dispensé des sessions de formation mixtes, combinant des sessions de groupe en ligne et en face à face. Vous êtes prêt à commencer à dispenser des formations qui ont un impact et apportent un changement dans la vie de vos participants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules Conception:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en groupe en face à face"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Formation en ligne : synchrone et asynchrone"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Réaliser le mélange parfait : mélanger la formation en ligne et en groupe"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Modules l'Animation :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Des explications percutantes"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Guider les discussions didactiques"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Motiver les participants"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Créer des liens et récolter des résultats d'apprentissage"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Donner un retour d'information"
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2023-09-29"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-blended-training-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work Plus - Annual trajectory",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "practice",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2023-09-01",
+              "end_date": "2024-05-30"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work-plus",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "6497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Booster l'Agribusiness :  Facilitation & Coaching",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Construire la confiance dans des partenariats durables pour une croissance durable"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Êtes-vous un professionnel de l'agribusiness qui souhaite améliorer ses compétences de facilitateur et de coach pour mieux construire et gérer des partenariats, avoir un impact profond non seulement sur les acteurs individuels, mais sur l'ensemble des chaînes d'approvisionnement agricoles ?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Une formation intensive d'une semaine au Bénin et de 3 mois de sessions interactives en ligne. Grâce à des sessions en direct, des travaux pratiques individuels et en groupe, un mentorat personnel et un retour d'information individuel de la part de nos formateurs, vous apprendrez à.. :"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- instaurer la confiance entre les parties prenantes qui travaillent ensemble dans la chaîne d'approvisionnement"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Faciliter la collaboration et maintenir l'engagement de chacun pour atteindre des objectifs communs"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- aider les parties prenantes à trouver ou à redéfinir une vision ou une orientation commune"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Gérer les désaccords et aider les parties prenantes à prendre des décisions sur la base d'un terrain d'entente et de principes gagnant-gagnant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "- Accompagner la mise en œuvre des activités et permettre aux acteurs impliqués de trouver leurs propres solutions partagées."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Au cours de cette formation, vous pourrez développer vos compétences de manière pratique et appliquer tout ce que vous aurez appris à votre propre cas concret."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Apres ce cours vous devenirez un professionnel reconnu par votre expertise.  De gagner un revenu confortable et d’être capable de choisir les projets les plus excitants."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Vous recevrez des conseils pratiques pour obtenir des revenus stable pour votre entreprise ou services d’accompagnement."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vous apprendrez à créer un climat de confiance pour établir des relations commerciales durables entre les agriculteurs, les agro-entrepreneurs, les fournisseurs de crédits, les fournisseurs d’intrants et les fournisseurs de services."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Vous améliorerez vos compétences en négociation vous rendant ainsi plus confiant dans la rédaction de contrats, ouvrant la voie à de meilleures affaires."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Vous recevrez un certificat á la fin du cours"
+                  }
+                ]
+              }
+            ]
+          },
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-lagribusiness/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "nfp",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work - Facilitation and Coaching",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": true,
+          "numerus_fixus_capacity": 25,
+          "numerus_fixus_tries": 0,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Booster l'Education: l'apprentissage basé sur la pratique",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Le contenu de la formation:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "La partie du cours en ligne (à temps partiel) y compris des sessions en groupe, des affectations, du coaching et des commentaires individuels et une période de formation en face à face au Pays-Bas sera incluse d'une semaine."
+                  }
+                ]
+              }
+            ]
+          },
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-02-01",
+              "end_date": "2024-06-01"
+            }
+          ],
+          "product_url": "https://www.icra.global/fr/formations/booster-leducation/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Education Work",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-04-15",
+              "end_date": "2024-04-26"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-education-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Research Work",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "oral_presentation",
+            "poster_presentation",
+            "self_evaluation",
+            "self_study",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-04-15",
+              "end_date": "2024-04-26"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-research-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "3747",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Training Work",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "colloquium",
+            "computer_modeling",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "lecture",
+            "oral_presentation",
+            "practice",
+            "self_evaluation",
+            "self_study",
+            "working_group",
+            "workshop"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-05-01",
+              "end_date": "2024-05-24"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-training-work/",
+          "scholarships": [],
+          "tuition_fees": [
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "eu",
+              "year": 2023
+            },
+            {
+              "amount": "2497",
+              "definitive": false,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2023
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work: 3-month Edition",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2024-10-01",
+              "end_date": "2025-02-28"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Making Agribusiness Work: Facilitation and Coaching",
+      "product_type": "course",
+      "product_level": "post-graduate",
+      "vendor": "hovi",
+      "location_hovi_id": "337",
+      "organization_hovi_id": "2008",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "self_study",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2025-02-01",
+              "end_date": "2025-05-31"
+            }
+          ],
+          "product_url": "https://www.icra.global/courses/making-agribusiness-work/",
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "institutional",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "eu",
+              "year": 2024
+            },
+            {
+              "amount": "4797",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "course",
+              "tuitionFeeType": "non-eu",
+              "year": 2024
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "337",
+        "name": "Vestiging Wageningen",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

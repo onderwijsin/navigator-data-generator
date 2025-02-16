@@ -1,0 +1,35 @@
+{
+  "title": "Beroepsopleidingen Procesindustrie",
+  "code": "BEROE",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26ED",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Loire 150",
+    "zip": "2491 AK",
+    "city": "Den Haag",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "26ED01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.3961136,
+        52.0708857
+      ]
+    }
+  },
+  "locations": [
+    "26ED01"
+  ],
+  "products": []
+}

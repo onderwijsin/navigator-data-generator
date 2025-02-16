@@ -1,0 +1,41 @@
+{
+  "title": "Notenboom",
+  "code": "NOTEN",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.notenboom.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "24GE",
+  "logoUrl": "https://www.kiesmbo.nl/media/6185/notenboom-logo-cmyk.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Eindhoven",
+    "street": "Beukenlaan 145",
+    "zip": "5616 VD",
+    "city": "Eindhoven",
+    "country": "Nederland",
+    "url": "http://www.notenboom.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "24GE01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.4497397,
+        51.4421179
+      ]
+    }
+  },
+  "locations": [
+    "24GE01",
+    "24GE04"
+  ],
+  "products": []
+}

@@ -1,0 +1,1870 @@
+{
+  "title": "Hogeschool Bestuursacademie Nederland",
+  "code": "LUZAC",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In de afgelopen 30 jaar hebben we onze opleidingsmethode steeds verbeterd en geactualiseerd. Daarbij gaan we nog altijd uit van 3 pijlers: 1.Kleinschalig onderwijs Dat betekent kleine groepen, waardoor we ons onderwijs goed kunnen afstemmen op jouw leerbehoefte. Bovendien leer je op deze manier als vanzelf hoe je in groepen projectmatig samenwerkt. Je ontwikkelt skills waar je straks in het bedrijfsleven veel aan hebt! 2.Persoonlijke aandacht Omdat we ons onderwijs zo kleinschalig houden, ben je bij ons geen nummer maar onze belangrijkste klant. We hebben alle mogelijkheden om jou persoonlijk te begeleiden en dat doen we dan ook. Met een vaste studiecoach die je gedurende je studie begeleidt. 3.Maximaal rendement Die persoonlijke aandacht zorgt ervoor dat je met plezier en zonder belemmeringen de eindstreep haalt. Of je nu een jaar bij ons doorbrengt of een volledige studie volgt, samen zorgen we ervoor dat je het maximale uit jezelf haalt, zodat jij de hoogste kans van slagen hebt."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "24FW",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "162",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "3",
+    "name": "Luzac Hogeschool B.V., vestiging Utrecht",
+    "street": "Daltonlaan 100",
+    "zip": "3584 BK",
+    "city": "UTRECHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "6",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Business Administration",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39226",
+      "croho_name": "Business Administration",
+      "degrees": [
+        "Bachelor of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "3",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met onze HBO Bachelor of Business Administration ontdek je hoe het bedrijfsleven in elkaar steekt en verdiep je je in actuele ontwikkelingen. Projectmanagement, financieel management, marketing en bedrijfskundige processen zijn onderwerpen die voorbijkomen. Naast de theoretische kennis die je opdoet, maak je je ook de communicatieve en professionele vaardigheden eigen die nodig zijn om goed te kunnen functioneren in een commerciële werkomgeving. De opleiding duurt 4 jaar en is stapsgewijs opgebouwd. Je start het eerste jaar met je Propedeuse. In het derde jaar kies je een afstudeerrichting: Small Business en Ondernemen, Commercieel Management of International Business om je meer specialiseren. Je sluit de opleiding af met het officieel erkende getuigschrift ‘HBO Bachelor of Business Administration’."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.luzac.nl/hogeschool/onze-opleidingen/hbo-bachelor-of-business-administration/",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Daltonlaan 100, 3584 BK, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1588527,
+              52.08746439999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3584 BJ",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Daltonlaan",
+                "shortText": "Daltonlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Oost",
+                "shortText": "Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3584 BJ",
+                "shortText": "3584 BJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Daltonlaan 100, 3584 BJ Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.0861962197085,
+              "west": 5.157659419708497,
+              "north": 52.0888941802915,
+              "east": 5.160357380291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1588527,
+            52.08746439999999
+          ]
+        },
+        "hovi_id": "3",
+        "name": "Luzac Hogeschool B.V., vestiging Utrecht",
+        "street": "Daltonlaan 100",
+        "zip": "3584 BK",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "6",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Business Administration",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39226",
+      "croho_name": "Business Administration",
+      "degrees": [
+        "Bachelor of Business Administration"
+      ],
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "212",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Met onze HBO Bachelor of Business Administration ontdek je hoe het bedrijfsleven in elkaar steekt en verdiep je je in actuele ontwikkelingen. Projectmanagement, financieel management, marketing en bedrijfskundige processen zijn onderwerpen die voorbijkomen. Naast de theoretische kennis die je opdoet, maak je je ook de communicatieve en professionele vaardigheden eigen die nodig zijn om goed te kunnen functioneren in een commerciële werkomgeving. De opleiding duurt 4 jaar en is stapsgewijs opgebouwd. Je start het eerste jaar met je Propedeuse. In het derde jaar kies je een afstudeerrichting: Small Business en Ondernemen, Commercieel Management of International Business om je meer specialiseren. Je sluit de opleiding af met het officieel erkende getuigschrift ‘HBO Bachelor of Business Administration’."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.luzac.nl/hogeschool",
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Teleportboulevard 100, 1043 EJ, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8395702,
+              52.3873969
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1043 EJ",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Teleportboulevard",
+                "shortText": "Teleportboulevard",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Westpoort",
+                "shortText": "Westpoort",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1043 EJ",
+                "shortText": "1043 EJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Teleportboulevard 100, 1043 EJ Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3860936197085,
+              "west": 4.838361919708498,
+              "north": 52.3887915802915,
+              "east": 4.841059880291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8395702,
+            52.3873969
+          ]
+        },
+        "hovi_id": "212",
+        "name": "Luzac Hogeschool B.V., vestiging Amsterdam",
+        "street": "Teleportboulevard 100",
+        "zip": "1043 EJ",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3290",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Business Administration",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39226",
+      "croho_name": "Business Administration",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "213",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Kennedyplein 204, 5611 ZT, EINDHOVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.4803497,
+              51.4440159
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5611 ZT",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "204",
+                "shortText": "204",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kennedyplein",
+                "shortText": "Kennedyplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5611 ZT",
+                "shortText": "5611 ZT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "204",
+            "formated": "Kennedyplein 204, 5611 ZT Eindhoven, Netherlands",
+            "viewport": {
+              "south": 51.4426973197085,
+              "west": 5.478737269708498,
+              "north": 51.4453952802915,
+              "east": 5.481435230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.4803497,
+            51.4440159
+          ]
+        },
+        "hovi_id": "213",
+        "name": "Luzac Hogeschool B.V., vestiging Eindhoven",
+        "street": "Kennedyplein 204",
+        "zip": "5611 ZT",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3291",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Business Administration",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "39226",
+      "croho_name": "Business Administration",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "214",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Strevelsweg 700-205 6e-verdieping, 3083 AS, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.493942100000001,
+              51.8879587
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3083 AS",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "700",
+                "shortText": "700",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Strevelsweg",
+                "shortText": "Strevelsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Feijenoord",
+                "shortText": "Feijenoord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3083 AS",
+                "shortText": "3083 AS",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "700",
+            "formated": "Strevelsweg 700, 3083 AS Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.8866698197085,
+              "west": 4.492498569708498,
+              "north": 51.8893677802915,
+              "east": 4.495196530291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.493942100000001,
+            51.8879587
+          ]
+        },
+        "hovi_id": "214",
+        "name": "Luzac Hogeschool B.V., vestiging Rotterdam",
+        "street": "Strevelsweg 700-205 6e-verdieping",
+        "zip": "3083 AS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3292",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34408",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "3",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Daltonlaan 100, 3584 BK, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1588527,
+              52.08746439999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3584 BJ",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Daltonlaan",
+                "shortText": "Daltonlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Oost",
+                "shortText": "Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3584 BJ",
+                "shortText": "3584 BJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Daltonlaan 100, 3584 BJ Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.0861962197085,
+              "west": 5.157659419708497,
+              "north": 52.0888941802915,
+              "east": 5.160357380291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1588527,
+            52.08746439999999
+          ]
+        },
+        "hovi_id": "3",
+        "name": "Luzac Hogeschool B.V., vestiging Utrecht",
+        "street": "Daltonlaan 100",
+        "zip": "3584 BK",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "6",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70194",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "3",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Daltonlaan 100, 3584 BK, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1588527,
+              52.08746439999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3584 BJ",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Daltonlaan",
+                "shortText": "Daltonlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Oost",
+                "shortText": "Oost",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3584 BJ",
+                "shortText": "3584 BJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Daltonlaan 100, 3584 BJ Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.0861962197085,
+              "west": 5.157659419708497,
+              "north": 52.0888941802915,
+              "east": 5.160357380291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1588527,
+            52.08746439999999
+          ]
+        },
+        "hovi_id": "3",
+        "name": "Luzac Hogeschool B.V., vestiging Utrecht",
+        "street": "Daltonlaan 100",
+        "zip": "3584 BK",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "6",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34408",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "212",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Teleportboulevard 100, 1043 EJ, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8395702,
+              52.3873969
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1043 EJ",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Teleportboulevard",
+                "shortText": "Teleportboulevard",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Westpoort",
+                "shortText": "Westpoort",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1043 EJ",
+                "shortText": "1043 EJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Teleportboulevard 100, 1043 EJ Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3860936197085,
+              "west": 4.838361919708498,
+              "north": 52.3887915802915,
+              "east": 4.841059880291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8395702,
+            52.3873969
+          ]
+        },
+        "hovi_id": "212",
+        "name": "Luzac Hogeschool B.V., vestiging Amsterdam",
+        "street": "Teleportboulevard 100",
+        "zip": "1043 EJ",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3290",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70194",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "212",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Teleportboulevard 100, 1043 EJ, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8395702,
+              52.3873969
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1043 EJ",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "100",
+                "shortText": "100",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Teleportboulevard",
+                "shortText": "Teleportboulevard",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Westpoort",
+                "shortText": "Westpoort",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1043 EJ",
+                "shortText": "1043 EJ",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "100",
+            "formated": "Teleportboulevard 100, 1043 EJ Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3860936197085,
+              "west": 4.838361919708498,
+              "north": 52.3887915802915,
+              "east": 4.841059880291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8395702,
+            52.3873969
+          ]
+        },
+        "hovi_id": "212",
+        "name": "Luzac Hogeschool B.V., vestiging Amsterdam",
+        "street": "Teleportboulevard 100",
+        "zip": "1043 EJ",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3290",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34408",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "213",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Kennedyplein 204, 5611 ZT, EINDHOVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.4803497,
+              51.4440159
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5611 ZT",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "204",
+                "shortText": "204",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kennedyplein",
+                "shortText": "Kennedyplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5611 ZT",
+                "shortText": "5611 ZT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "204",
+            "formated": "Kennedyplein 204, 5611 ZT Eindhoven, Netherlands",
+            "viewport": {
+              "south": 51.4426973197085,
+              "west": 5.478737269708498,
+              "north": 51.4453952802915,
+              "east": 5.481435230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.4803497,
+            51.4440159
+          ]
+        },
+        "hovi_id": "213",
+        "name": "Luzac Hogeschool B.V., vestiging Eindhoven",
+        "street": "Kennedyplein 204",
+        "zip": "5611 ZT",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3291",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70194",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "213",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Kennedyplein 204, 5611 ZT, EINDHOVEN, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.4803497,
+              51.4440159
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5611 ZT",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "204",
+                "shortText": "204",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Kennedyplein",
+                "shortText": "Kennedyplein",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Centrum",
+                "shortText": "Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Eindhoven",
+                "shortText": "Eindhoven",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5611 ZT",
+                "shortText": "5611 ZT",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "204",
+            "formated": "Kennedyplein 204, 5611 ZT Eindhoven, Netherlands",
+            "viewport": {
+              "south": 51.4426973197085,
+              "west": 5.478737269708498,
+              "north": 51.4453952802915,
+              "east": 5.481435230291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.4803497,
+            51.4440159
+          ]
+        },
+        "hovi_id": "213",
+        "name": "Luzac Hogeschool B.V., vestiging Eindhoven",
+        "street": "Kennedyplein 204",
+        "zip": "5611 ZT",
+        "city": "EINDHOVEN",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3291",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34408",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "214",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Strevelsweg 700-205 6e-verdieping, 3083 AS, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.493942100000001,
+              51.8879587
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3083 AS",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "700",
+                "shortText": "700",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Strevelsweg",
+                "shortText": "Strevelsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Feijenoord",
+                "shortText": "Feijenoord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3083 AS",
+                "shortText": "3083 AS",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "700",
+            "formated": "Strevelsweg 700, 3083 AS Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.8866698197085,
+              "west": 4.492498569708498,
+              "north": 51.8893677802915,
+              "east": 4.495196530291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.493942100000001,
+            51.8879587
+          ]
+        },
+        "hovi_id": "214",
+        "name": "Luzac Hogeschool B.V., vestiging Rotterdam",
+        "street": "Strevelsweg 700-205 6e-verdieping",
+        "zip": "3083 AS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3292",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Bestuurskunde",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70194",
+      "croho_name": "Bestuurskunde",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "214",
+      "organization_hovi_id": "162",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Strevelsweg 700-205 6e-verdieping, 3083 AS, ROTTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.493942100000001,
+              51.8879587
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3083 AS",
+            "administrativeArea": "Zuid-Holland",
+            "raw": [
+              {
+                "longText": "700",
+                "shortText": "700",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Strevelsweg",
+                "shortText": "Strevelsweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Feijenoord",
+                "shortText": "Feijenoord",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Rotterdam",
+                "shortText": "Rotterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Zuid-Holland",
+                "shortText": "ZH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3083 AS",
+                "shortText": "3083 AS",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "700",
+            "formated": "Strevelsweg 700, 3083 AS Rotterdam, Netherlands",
+            "viewport": {
+              "south": 51.8866698197085,
+              "west": 4.492498569708498,
+              "north": 51.8893677802915,
+              "east": 4.495196530291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.493942100000001,
+            51.8879587
+          ]
+        },
+        "hovi_id": "214",
+        "name": "Luzac Hogeschool B.V., vestiging Rotterdam",
+        "street": "Strevelsweg 700-205 6e-verdieping",
+        "zip": "3083 AS",
+        "city": "ROTTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3292",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

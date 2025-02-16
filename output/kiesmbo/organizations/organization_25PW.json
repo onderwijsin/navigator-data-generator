@@ -1,0 +1,34 @@
+{
+  "title": "Drenthe College",
+  "code": "DRENT",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.drenthecollege.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25PW",
+  "logoUrl": "https://www.kiesmbo.nl/media/4191/drenthe-college.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": null,
+  "locations": [
+    "25PW01",
+    "25PW07",
+    "25PW17",
+    "25PW22",
+    "25PW26",
+    "25PW28",
+    "25PW41",
+    "25PW42",
+    "25PW02",
+    "25PW03",
+    "25PW43",
+    "25PW44"
+  ],
+  "products": []
+}

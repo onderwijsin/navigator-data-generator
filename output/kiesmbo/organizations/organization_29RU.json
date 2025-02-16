@@ -1,0 +1,35 @@
+{
+  "title": "Bouwradius Training & Advies BV",
+  "code": "BOUWR",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "29RU",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Baron de Coubertinlaan 33",
+    "zip": "2719 EN",
+    "city": "Zoetermeer",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "29RU01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.480513,
+        52.0454267
+      ]
+    }
+  },
+  "locations": [
+    "29RU01"
+  ],
+  "products": []
+}

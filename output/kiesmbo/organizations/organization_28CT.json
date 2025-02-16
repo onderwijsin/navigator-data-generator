@@ -1,0 +1,35 @@
+{
+  "title": "Europort Business School",
+  "code": "EUROP",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "28CT",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Schaatsbaan 61-91",
+    "zip": "3013 AR",
+    "city": "Rotterdam",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "28CT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.4653401,
+        51.9234764
+      ]
+    }
+  },
+  "locations": [
+    "28CT01"
+  ],
+  "products": []
+}

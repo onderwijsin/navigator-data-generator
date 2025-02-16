@@ -1,0 +1,35 @@
+{
+  "title": "Technicom B.V.",
+  "code": "TECHN",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "27VT",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Koddeweg 43-45",
+    "zip": "3194 DH",
+    "city": "Hoogvliet Rotterdam",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "27VT01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.3798303,
+        51.8656144
+      ]
+    }
+  },
+  "locations": [
+    "27VT01"
+  ],
+  "products": []
+}

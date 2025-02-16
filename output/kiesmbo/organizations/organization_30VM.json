@@ -1,0 +1,35 @@
+{
+  "title": "OPPstap",
+  "code": "OPPST",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "30VM",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Olympiadelaan 2",
+    "zip": "1183 WN",
+    "city": "Amstelveen",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "30VM01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.8820383,
+        52.3105356
+      ]
+    }
+  },
+  "locations": [
+    "30VM01"
+  ],
+  "products": []
+}

@@ -1,0 +1,35 @@
+{
+  "title": "VARIVA OPLEIDINGEN B.V.",
+  "code": "VARIV",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "28CP",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Van Gijselstraat 2",
+    "zip": "5712 HE",
+    "city": "Someren",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "28CP01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.7074179,
+        51.3828095
+      ]
+    }
+  },
+  "locations": [
+    "28CP01"
+  ],
+  "products": []
+}

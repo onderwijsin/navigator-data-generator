@@ -1,0 +1,298 @@
+{
+  "title": "Hogeschool voor Toegepaste Filosofie (HTF)",
+  "code": "HTF",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "31PT",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "264",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "228",
+    "name": "Hogeschool voor Toegepaste Filosofie (HTF), vestiging Utrecht",
+    "street": "Australiëlaan 25",
+    "zip": "3526 AB",
+    "city": "UTRECHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "3308",
+    "url": "https://www.hogeschoolvoortoegepastefilosofie.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Toegepast Filosoof",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "35528",
+      "croho_name": "Toegepast Filosoof",
+      "croho_sector": "taal_en_cultuur",
+      "credits": "240",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "228",
+      "organization_hovi_id": "264",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Australiëlaan 25, 3526 AB, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1015368,
+              52.0643203
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3526 AB",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "25",
+                "shortText": "25",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Australiëlaan",
+                "shortText": "Australiëlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Zuid-West",
+                "shortText": "Zuidwest",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3526 AB",
+                "shortText": "3526 AB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "25",
+            "formated": "Australiëlaan 25, 3526 AB Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.06293461970849,
+              "west": 5.100149769708498,
+              "north": 52.06563258029149,
+              "east": 5.102847730291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1015368,
+            52.0643203
+          ]
+        },
+        "hovi_id": "228",
+        "name": "Hogeschool voor Toegepaste Filosofie (HTF), vestiging Utrecht",
+        "street": "Australiëlaan 25",
+        "zip": "3526 AB",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3308",
+        "url": "https://www.hogeschoolvoortoegepastefilosofie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Toegepaste Filosofie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70228",
+      "croho_name": "Toegepaste Filosofie",
+      "croho_sector": "taal_en_cultuur",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "228",
+      "organization_hovi_id": "264",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Australiëlaan 25, 3526 AB, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1015368,
+              52.0643203
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3526 AB",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "25",
+                "shortText": "25",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Australiëlaan",
+                "shortText": "Australiëlaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Zuid-West",
+                "shortText": "Zuidwest",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3526 AB",
+                "shortText": "3526 AB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "25",
+            "formated": "Australiëlaan 25, 3526 AB Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.06293461970849,
+              "west": 5.100149769708498,
+              "north": 52.06563258029149,
+              "east": 5.102847730291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1015368,
+            52.0643203
+          ]
+        },
+        "hovi_id": "228",
+        "name": "Hogeschool voor Toegepaste Filosofie (HTF), vestiging Utrecht",
+        "street": "Australiëlaan 25",
+        "zip": "3526 AB",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3308",
+        "url": "https://www.hogeschoolvoortoegepastefilosofie.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Zadkine",
+  "code": "ZADKI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.zadkine.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25LP",
+  "logoUrl": "https://www.kiesmbo.nl/media/6691/zadkine-logo_rgb.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Rotterdam - Benthemplein",
+    "street": "Benthemplein 15",
+    "zip": "3032 CC",
+    "city": "Rotterdam",
+    "country": "Nederland",
+    "url": "https://www.zadkine.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "25LP05",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.4751708,
+        51.9279566
+      ]
+    }
+  },
+  "locations": [
+    "25LP01",
+    "25LP02",
+    "25LP03",
+    "25LP05",
+    "25LP08",
+    "25LP13",
+    "25LP18",
+    "25LP19",
+    "25LP20",
+    "25LP23",
+    "25LP04",
+    "25LP12",
+    "25LP24"
+  ],
+  "products": []
+}

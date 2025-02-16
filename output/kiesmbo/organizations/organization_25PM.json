@@ -1,0 +1,44 @@
+{
+  "title": "ROC A12",
+  "code": "ROC A",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.a12.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25PM",
+  "logoUrl": "https://www.kiesmbo.nl/media/3489/25pm.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "ROC A12",
+    "street": "Reehorsterweg 80",
+    "zip": "6717 LG",
+    "city": "Ede",
+    "country": "Nederland",
+    "url": "https://www.a12.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25PM05",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.6659299,
+        52.0211138
+      ]
+    }
+  },
+  "locations": [
+    "25PM01",
+    "25PM08",
+    "25PM10",
+    "25PM11",
+    "25PM05"
+  ],
+  "products": []
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Aeres MBO",
+  "code": "AERES",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.aeresmbo.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25GV",
+  "logoUrl": "https://www.kiesmbo.nl/media/3450/25gv.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Aeres MBO Leeuwarden",
+    "street": "Jansoniusstraat 2a",
+    "zip": "8934 BM",
+    "city": "Leeuwarden",
+    "country": "Nederland",
+    "url": "https://www.aeresmbo.nl/leeuwarden",
+    "vendor": "kiesmbo",
+    "brinvest": "25GV33",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.805744,
+        53.1938435
+      ]
+    }
+  },
+  "locations": [
+    "25GV00",
+    "25GV01",
+    "25GV02",
+    "25GV03",
+    "25GV04",
+    "25GV05",
+    "25GV11",
+    "25GV30",
+    "25GV31",
+    "25GV32",
+    "25GV33",
+    "25GV35",
+    "25GV36"
+  ],
+  "products": []
+}

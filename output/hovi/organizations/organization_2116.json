@@ -1,0 +1,70 @@
+{
+  "title": "Saba University School of Medicine",
+  "code": null,
+  "description": null,
+  "type": "universiteit",
+  "brin_code": "30VF",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "2116",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "498",
+    "name": "Saba University School of Medicine, vestiging Diverse locaties",
+    "street": null,
+    "zip": null,
+    "city": null,
+    "country": null,
+    "vendor": "hovi",
+    "vestiging_SK123_id": "3210",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Medicine",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "60514",
+      "croho_name": "Medicine",
+      "croho_sector": "gezondheidszorg",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "498",
+      "organization_hovi_id": "2116",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "498",
+        "name": "Saba University School of Medicine, vestiging Diverse locaties",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3210",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

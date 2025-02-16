@@ -1,0 +1,1299 @@
+{
+  "title": "International Institute of Social Studies of Erasmus University Rotterdam (ISS)",
+  "code": "ISS",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Institute of Social Studies (ISS) is an international postgraduate school and one of the oldest and largest centres for the comparative study and research of social, political and economic development and change. ISS is part of Erasmus University Rotterdam. The ISS provides top-quality education in the social sciences to postgraduate professionals, mostly from developing countries and countries in transition. The courses  all taught in English  provide knowledge and insights acquired in a number of fields including development economics, sociology, politics, public policy and management, governance, gender, employment, population, social security, children and youth, and human rights. Every year, the ISS is host to hundreds of students participating in its PhD, Masters and Diploma programmes. Over 10.000 students from more than 160 countries have participated in the Institute's programmes. The staff is drawn from around thirty countries from all over the world. The multicultural community at the ISS offers an excellent learning environment both inside and outside the classroom, in which students can gain from each others’ diverse experience."
+          }
+        ]
+      }
+    ]
+  },
+  "type": "onderzoeksuniversiteit",
+  "brin_code": "9016",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "2016",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "342",
+    "name": "Vestiging Den Haag",
+    "street": null,
+    "zip": null,
+    "city": null,
+    "country": null,
+    "vendor": "hovi",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Erasmus Mundus Master in Public Policy (Mundus MAPP)",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2014-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2015-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2016-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2017-08-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "2018-08-31"
+            }
+          ],
+          "scholarships": [
+            "erasmus_mundus_programme_action_1",
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "11000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "22000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Social Policy",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "product_url": "http://www.iss.nl/MA-Programme",
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Governance and Development Policy",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "atlantis_eu_us_cooperation_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "PhD in Development Studies",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "group_discussion",
+            "literature_study",
+            "oral_presentation",
+            "research",
+            "self_study",
+            "seminar"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2013-01-01",
+              "end_date": "2016-12-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-01-01",
+              "end_date": "2017-12-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-01-01",
+              "end_date": "2018-12-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-01-01",
+              "end_date": "2019-12-31"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2017-01-01",
+              "end_date": "2020-12-31"
+            }
+          ],
+          "scholarships": [
+            "mena_scholarship_programme_msp"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "32000",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Human Rights, Gender and Conflict Studies: Social Justice Perspe…",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Agrarian, Food and Environmental Studies",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2016-12-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "0217-12-15"
+            }
+          ],
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "skill",
+            "stuned_scholarship_programme",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MA in Development Studies major in Economics of Development",
+      "product_type": "course",
+      "vendor": "hovi",
+      "location_hovi_id": "342",
+      "organization_hovi_id": "2016",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [
+            "case_study",
+            "excursion",
+            "group_assignment",
+            "group_discussion",
+            "individual_assignment",
+            "lecture",
+            "literature_study",
+            "oral_presentation",
+            "project",
+            "research",
+            "self_study",
+            "tutorial",
+            "working_group"
+          ],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [
+            {
+              "application_deadline": null,
+              "starting_date": "2012-09-03",
+              "end_date": "2013-12-13"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2013-09-02",
+              "end_date": "2014-12-12"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2014-09-01",
+              "end_date": "2015-12-11"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2015-08-31",
+              "end_date": "2015-12-09"
+            },
+            {
+              "application_deadline": null,
+              "starting_date": "2016-09-05",
+              "end_date": "2017-12-15"
+            }
+          ],
+          "scholarships": [
+            "colfuturo_scholarship_loan_programme",
+            "iss_hardship_fund",
+            "iss_scholarship_fund_for_excellent_students",
+            "japan_world_bank_graduate_scholarship_program",
+            "stuned_scholarship_programme",
+            "skill",
+            "conacyt_national_council_for_science_and_technology",
+            "mena_scholarship_programme_msp",
+            "orange_tulip_scholarship_programme"
+          ],
+          "tuition_fees": [
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2012
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "10125",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2010
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2013
+            },
+            {
+              "amount": "13500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2014
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2015
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "institutional",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "non-eu",
+              "year": 2016
+            },
+            {
+              "amount": "14500",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2016
+            }
+          ]
+        }
+      ],
+      "location": {
+        "location_address": null,
+        "location_components": null,
+        "location_data": null,
+        "hovi_id": "342",
+        "name": "Vestiging Den Haag",
+        "street": null,
+        "zip": null,
+        "city": null,
+        "country": null,
+        "vendor": "hovi",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spring Instituut",
+  "code": "SPRIN",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "31HL",
+  "logoUrl": "https://www.kiesmbo.nl/media/6523/logo-in-vierkant-500-bij-500-002.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "(Heel Nederland)",
+    "street": "Bennekomseweg 43",
+    "zip": "6717 LL",
+    "city": "Ede",
+    "country": "Nederland",
+    "url": "https://www.springinstituut.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "31HL01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.671808,
+        52.0237644
+      ]
+    }
+  },
+  "locations": [
+    "31HL01"
+  ],
+  "products": []
+}

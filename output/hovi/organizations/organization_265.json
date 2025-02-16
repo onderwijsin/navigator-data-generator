@@ -1,0 +1,433 @@
+{
+  "title": "Academica University of Applied Sciences",
+  "code": "CLION",
+  "description": null,
+  "type": "hogeschool",
+  "brin_code": "31RK",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "265",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "406",
+    "name": "C-LiON Hoger Onderwijs, vestiging Amsterdam",
+    "street": "Westermarkt 2",
+    "zip": "1016 DK",
+    "city": "AMSTERDAM",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "3311",
+    "url": null,
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Innovation & Leadership in Education",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70215",
+      "croho_name": "Innovation & Leadership in Education",
+      "croho_sector": "gedrag_en_maatschappij",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "406",
+      "organization_hovi_id": "265",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Westermarkt 2, 1016 DK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8847867,
+              52.3748284
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1016 DK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Westermarkt",
+                "shortText": "Westermarkt",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1016 DK",
+                "shortText": "1016 DK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Westermarkt 2, 1016 DK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3734073697085,
+              "west": 4.883292369708498,
+              "north": 52.37610533029149,
+              "east": 4.885990330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8847867,
+            52.3748284
+          ]
+        },
+        "hovi_id": "406",
+        "name": "C-LiON Hoger Onderwijs, vestiging Amsterdam",
+        "street": "Westermarkt 2",
+        "zip": "1016 DK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3311",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "MBA Growing Sustainable Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70225",
+      "croho_name": "MBA Leadership in Sustainability",
+      "croho_sector": "economie",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "406",
+      "organization_hovi_id": "265",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Westermarkt 2, 1016 DK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8847867,
+              52.3748284
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1016 DK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Westermarkt",
+                "shortText": "Westermarkt",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1016 DK",
+                "shortText": "1016 DK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Westermarkt 2, 1016 DK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3734073697085,
+              "west": 4.883292369708498,
+              "north": 52.37610533029149,
+              "east": 4.885990330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8847867,
+            52.3748284
+          ]
+        },
+        "hovi_id": "406",
+        "name": "C-LiON Hoger Onderwijs, vestiging Amsterdam",
+        "street": "Westermarkt 2",
+        "zip": "1016 DK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3311",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Didactisch Educatief Professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80166",
+      "croho_name": "Didactisch Educatief Professional",
+      "croho_sector": "onderwijs",
+      "credits": "120",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "406",
+      "organization_hovi_id": "265",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Westermarkt 2, 1016 DK, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.8847867,
+              52.3748284
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1016 DK",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "2",
+                "shortText": "2",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Westermarkt",
+                "shortText": "Westermarkt",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam-Centrum",
+                "shortText": "Amsterdam-Centrum",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1016 DK",
+                "shortText": "1016 DK",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2",
+            "formated": "Westermarkt 2, 1016 DK Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3734073697085,
+              "west": 4.883292369708498,
+              "north": 52.37610533029149,
+              "east": 4.885990330291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.8847867,
+            52.3748284
+          ]
+        },
+        "hovi_id": "406",
+        "name": "C-LiON Hoger Onderwijs, vestiging Amsterdam",
+        "street": "Westermarkt 2",
+        "zip": "1016 DK",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3311",
+        "url": null,
+        "brinvest": null
+      }
+    }
+  ]
+}

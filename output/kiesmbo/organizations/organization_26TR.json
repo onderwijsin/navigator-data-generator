@@ -1,0 +1,37 @@
+{
+  "title": "PROFIT Opleidingen volwassenen educatie",
+  "code": "PROFI",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "26TR",
+  "logoUrl": "https://www.kiesmbo.nl/media/3689/26tr.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Amstelveen",
+    "street": "Stadsplein 97",
+    "zip": "1181 ZM",
+    "city": "Amstelveen",
+    "country": "Nederland",
+    "url": "http://www.profitopleidingen.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "26TR03",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.8606908,
+        52.3028388
+      ]
+    }
+  },
+  "locations": [
+    "26TR01",
+    "26TR02",
+    "26TR03"
+  ],
+  "products": []
+}

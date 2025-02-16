@@ -1,0 +1,35 @@
+{
+  "title": "Leidse Onderwijsinstellingen BV",
+  "code": "LEIDS",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "brin_code": "24LK",
+  "logoUrl": null,
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Hoofdlocatie",
+    "street": "Leidsedreef 2",
+    "zip": "2352 BA",
+    "city": "Leiderdorp",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "24LK01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.5182557,
+        52.1692394
+      ]
+    }
+  },
+  "locations": [
+    "24LK01"
+  ],
+  "products": []
+}

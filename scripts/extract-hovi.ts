@@ -6,11 +6,19 @@ import Text from '@tiptap/extension-text';
 import Bold from '@tiptap/extension-bold';
 import Italic from '@tiptap/extension-italic';
 import dotenv from 'dotenv';
-import fs from 'fs';
 import { degrees } from '../static/degrees';
 import type { Product, ProductForm, Organization, Location } from '../types';
 import {ofetch} from 'ofetch'
 import type { paths } from '../hovi';
+
+import * as fs from 'fs';
+import * as path from 'path';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const directoryPathOrganizations = path.resolve(__dirname, '../output/hovi/organizations');
+
 
 // Load environment variables from .env file
 dotenv.config();
@@ -27,7 +35,7 @@ const get = async (path: string) => {
             headers: {
                 Authorization: 'Bearer ' + token
             }
-        }).then(res => res.json());
+        })
     } catch (err) {
         console.log(err);
         console.log('error in: ' + path);
@@ -131,10 +139,16 @@ const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{org
 // Fetch organization IDs
 const organizationIds: paths['/organization']['get']['responses']['200']['content']['application/json'] = await get('/organization');
 
-// Read existing files and filter out already processed organization IDs
-const existingFiles = fs.readdirSync('../output/hovi');
+// Check if the directory exists, if not, create it
+if (!fs.existsSync(directoryPathOrganizations)) {
+    fs.mkdirSync(directoryPathOrganizations, { recursive: true });
+}
+
+// Now you can safely read the directory
+const files = fs.readdirSync(directoryPathOrganizations);
+
 const existingOrganizationIds = new Set(
-    existingFiles
+    files
         .filter(file => file.startsWith('organization_') && file.endsWith('.json'))
         .map(file => file.replace('organization_', '').replace('.json', ''))
 );
@@ -314,18 +328,16 @@ const locationData = await Promise.all(uniqueLocations.map(async location => {
     return {
         "location_address": getAddress(location),
         "location_components": components,
-        "location_data": {
+        "location_data": !!components ? {
             type: "Point",
             coordinates: components?.geometry.coordinates
-        },
+        } : null,
         ...location
     }
 }))
 
 // Write unique locations to file
-fs.writeFileSync('../output/hovi/locations/locations_with_geodata.json', JSON.stringify(locationData, null, 2));
-
-
+fs.writeFileSync(path.resolve(__dirname, '../output/hovi/locations/locations_with_geodata.json'), JSON.stringify(locationData, null, 2));
 
 // Write organization data to file
 const validOrganizations = organizations.filter(org => org !== null);
@@ -345,6 +357,5 @@ const organizationData = validOrganizations.map(org => {
 
 
 organizationData.forEach(org => {
-    const filePath = `../output/hovi/organization_${org.hovi_id}.json`;
-    fs.writeFileSync(filePath, JSON.stringify(org, null, 2));
+    fs.writeFileSync(path.resolve(__dirname, `../output/hovi/organizations/organization_${org.hovi_id}.json`), JSON.stringify(org, null, 2));
 })

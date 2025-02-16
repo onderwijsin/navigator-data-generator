@@ -1,0 +1,23 @@
+{
+  "title": "Flair scholingstrajecten",
+  "code": "FLAIR",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "www.flairscholing.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "31RE",
+  "logoUrl": "https://www.kiesmbo.nl/media/6593/logo-flair.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": null,
+  "locations": [
+    "31RE01"
+  ],
+  "products": []
+}

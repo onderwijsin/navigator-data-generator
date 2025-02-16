@@ -1,0 +1,54 @@
+{
+  "title": "ROC Midden Nederland",
+  "code": "ROC M",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.rocmn.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "25LH",
+  "logoUrl": "https://www.kiesmbo.nl/media/6581/rocmn_logo_blauw_witte_achtergrond.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Brandenburchdreef",
+    "street": "Brandenburchdreef 20",
+    "zip": "3562 CS",
+    "city": "Utrecht",
+    "country": "Nederland",
+    "url": "http://www.rocmn.nl/",
+    "vendor": "kiesmbo",
+    "brinvest": "25LH10",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1210452,
+        52.1191271
+      ]
+    }
+  },
+  "locations": [
+    "25LH01",
+    "25LH02",
+    "25LH03",
+    "25LH04",
+    "25LH05",
+    "25LH10",
+    "25LH12",
+    "25LH13",
+    "25LH14",
+    "25LH15",
+    "25LH16",
+    "25LH17",
+    "25LH20",
+    "25LH21",
+    "25LH22"
+  ],
+  "products": []
+}

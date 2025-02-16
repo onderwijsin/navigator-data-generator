@@ -1,0 +1,41 @@
+{
+  "title": "GO-college exclusieve techniekopleider",
+  "code": "GO-CO",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.gocollege.nl",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "30VR",
+  "logoUrl": "https://www.kiesmbo.nl/media/6214/go-logo-fc.jpg?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Locatie Oude-Tonge",
+    "street": "Boezemweg 13 S",
+    "zip": "3255 MC",
+    "city": "Oude-Tonge",
+    "country": "Nederland",
+    "url": "https://gocollege.nl",
+    "vendor": "kiesmbo",
+    "brinvest": "30VR01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        4.2222346,
+        51.69329
+      ]
+    }
+  },
+  "locations": [
+    "30VR01",
+    "30VR02"
+  ],
+  "products": []
+}

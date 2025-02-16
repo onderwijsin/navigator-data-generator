@@ -1,0 +1,51 @@
+{
+  "title": "Capabel Onderwijs",
+  "code": "CAPAB",
+  "description": null,
+  "type": "mbo",
+  "phone": null,
+  "email": null,
+  "website": [
+    {
+      "url": "https://www.capabel.nl/",
+      "lang": "Nederlands"
+    }
+  ],
+  "brin_code": "27RC",
+  "logoUrl": "https://www.kiesmbo.nl/media/5817/capabel-logo.png?width=500&upscale=false",
+  "vendor": "kiesmbo",
+  "hovi_id": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Utrecht",
+    "street": "Australielaan 14-16",
+    "zip": "3526 AB",
+    "city": "Utrecht",
+    "country": "Nederland",
+    "url": "https://www.capabel.nl/vestigingen/utrecht",
+    "vendor": "kiesmbo",
+    "brinvest": "27RC01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        5.1030544,
+        52.0643927
+      ]
+    }
+  },
+  "locations": [
+    "27RC01",
+    "27RC02",
+    "27RC03",
+    "27RC04",
+    "27RC06",
+    "27RC07",
+    "27RC09",
+    "27RC10",
+    "27RC11",
+    "27RC12",
+    "27RC13",
+    "27RC14"
+  ],
+  "products": []
+}

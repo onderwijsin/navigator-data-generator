@@ -1,0 +1,1330 @@
+{
+  "title": "Marnix Academie",
+  "code": "MARN",
+  "description": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Krijg jij energie van kinderen? Wil jij ze graag leren rekenen, schrijven, tekenen en uitleggen waarom olie op water drijft en pinguïns niet kunnen vliegen? Wil jij ze voorbereiden op hun toekomst waarin ze respect hebben voor hun omgeving? Dan is de pabo op de Marnix Academie iets voor jou. De Marnix Academie is een lerarenopleiding voor het basisonderwijs. De lerarenopleiding is veelomvattend. Je bent zowel creatief en theoretisch als praktisch bezig. Op de Marnix Academie leer je niet alleen lesgeven in allerlei vakken, maar ook hoe je elk kind het beste onderwijs biedt. We hebben een voltijdopleiding, die staat voor vier boeiende, leerzame jaren. De eerste twee jaar bestudeer je de vakken die je op de basisschool geeft en leer je alles wat je over basisschoolleerlingen moet weten. De laatste twee jaar kies je een richting die je het leukste vindt. Ga jij voor kleuters? Of juist groep 8? Alles mag!"
+          }
+        ]
+      }
+    ]
+  },
+  "type": "hogeschool",
+  "brin_code": "10IZ",
+  "vendor": "hovi",
+  "logoUrl": null,
+  "hovi_id": "36",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "main_location": {
+    "hovi_id": "29",
+    "name": "Marnix Academie, vestiging Utrecht",
+    "street": "Vogelsanglaan 1",
+    "zip": "3571 ZM",
+    "city": "UTRECHT",
+    "country": "NL",
+    "vendor": "hovi",
+    "vestiging_SK123_id": "79",
+    "url": "http://www.marnixacademie.nl",
+    "brinvest": null
+  },
+  "products": [
+    {
+      "title": "Lerarenopleiding basisonderwijs",
+      "product_type": "croho_program",
+      "product_level": "bachelor",
+      "croho": "34808",
+      "croho_name": "Opleiding tot leraar Basisonderwijs",
+      "degrees": [
+        "Bachelor of Education"
+      ],
+      "croho_sector": "onderwijs",
+      "credits": "240",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Marnix Academie in Utrecht is als zelfstandige hogeschool gespecialiseerd in de Lerarenopleiding Basisonderwijs. Krijg jij energie van kinderen? Wil jij ze graag leren rekenen, schrijven, tekenen en uitleggen waarom olie op water drijft en pinguïns niet kunnen vliegen? Wil jij ze voorbereiden op hun toekomst waarin ze respect hebben voor hun omgeving? Dan is de pabo op de Marnix Academie iets voor jou! Waarom Marnix? Omdat studeren aan de Marnix Academie past bij jouw zelfbewuste, ambitieuze en open karakter. Wij leiden studenten op die meer dan alleen leraar willen zijn. Want kinderen verdienen goed onderwijs. Maar jij natuurlijk ook! De Marnix Academie in Utrecht is als zelfstandige hogeschool gespecialiseerd in de Lerarenopleiding Basisonderwijs. Wij leveren geen standaardleraren af, maar zeer bekwame, betrokken en bevlogen docenten met lef. Bij de Marnix Academie krijg je les van leerkrachten die zelf voor de basisschoolklas hebben gestaan. Zij weten als geen ander hoe ze jou het beste kunnen voorbereiden. Je krijgt de meest actuele vakkennis en leert hoe je onderwijs- en leerprocessen moet vormgeven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.marnixacademie.nl/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 40,
+              "period": 12
+            }
+          ],
+          "tuition_fees": [
+            {
+              "amount": "2530",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2024
+            },
+            {
+              "amount": "2601",
+              "definitive": true,
+              "description": null,
+              "tuitionFeePeriod": "year",
+              "tuitionFeeType": "legal",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "De Marnix Academie in Utrecht is als zelfstandige hogeschool gespecialiseerd in de Lerarenopleiding Basisonderwijs. Krijg jij energie van kinderen? Wil jij ze graag leren rekenen, schrijven, tekenen en uitleggen waarom olie op water drijft en pinguïns niet kunnen vliegen? Wil jij ze voorbereiden op hun toekomst waarin ze respect hebben voor hun omgeving? Dan is de pabo op de Marnix Academie iets voor jou! Waarom Marnix? Omdat studeren aan de Marnix Academie past bij jouw zelfbewuste, ambitieuze en open karakter. Wij leiden studenten op die meer dan alleen leraar willen zijn. Want kinderen verdienen goed onderwijs. Maar jij natuurlijk ook! De Marnix Academie in Utrecht is als zelfstandige hogeschool gespecialiseerd in de Lerarenopleiding Basisonderwijs. Wij leveren geen standaardleraren af, maar zeer bekwame, betrokken en bevlogen docenten met lef. Bij de Marnix Academie krijg je les van leerkrachten die zelf voor de basisschoolklas hebben gestaan. Zij weten als geen ander hoe ze jou het beste kunnen voorbereiden. Je krijgt de meest actuele vakkennis en leert hoe je onderwijs- en leerprocessen moet vormgeven."
+                  }
+                ]
+              }
+            ]
+          },
+          "product_result": null,
+          "application_deadlines": [],
+          "product_url": "https://www.marnixacademie.nl/",
+          "scholarships": [],
+          "study_advices": [
+            {
+              "binding": true,
+              "minimumECTS": 40,
+              "period": 12
+            }
+          ]
+        },
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Leren en Innoveren",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "44135",
+      "croho_name": "Leren en Innoveren",
+      "croho_sector": "onderwijs",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Passend Meesterschap",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "49288",
+      "croho_name": "Passend Meesterschap",
+      "croho_sector": "onderwijs",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Educational Leadership",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70139",
+      "croho_name": "Educational Leadership",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Onderwijs & Technologie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70217",
+      "croho_name": "Onderwijs & Technologie",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Onderwijs & Technologie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70217",
+      "croho_name": "Onderwijs & Technologie",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "434",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Deurneseweg 11, 5707 AH, HELMOND, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.7108737,
+              51.4704363
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "5709 AH",
+            "administrativeArea": "Noord-Brabant",
+            "raw": [
+              {
+                "longText": "11",
+                "shortText": "11",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Deurneseweg",
+                "shortText": "Deurneseweg",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Helmond",
+                "shortText": "Helmond",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Helmond",
+                "shortText": "Helmond",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Brabant",
+                "shortText": "NB",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "5709 AH",
+                "shortText": "5709 AH",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "11",
+            "formated": "Deurneseweg 11, 5709 AH Helmond, Netherlands",
+            "viewport": {
+              "south": 51.4690824197085,
+              "west": 5.709611069708497,
+              "north": 51.47178038029149,
+              "east": 5.712309030291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.7108737,
+            51.4704363
+          ]
+        },
+        "hovi_id": "434",
+        "name": "Marnix Academie, vestiging Helmond",
+        "street": "Deurneseweg 11",
+        "zip": "5707 AH",
+        "city": "HELMOND",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "499",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Onderwijs & Technologie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70217",
+      "croho_name": "Onderwijs & Technologie",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "432",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Rubenslaan 2-6, 1816 MB, ALKMAAR, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.718098299999999,
+              52.62720179999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1816 MB",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "2-6",
+                "shortText": "2-6",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Rubenslaan",
+                "shortText": "Rubenslaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Alkmaar",
+                "shortText": "Alkmaar",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Alkmaar",
+                "shortText": "Alkmaar",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1816 MB",
+                "shortText": "1816 MB",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "2-6",
+            "formated": "Rubenslaan 2-6, 1816 MB Alkmaar, Netherlands",
+            "viewport": {
+              "south": 52.6258594697085,
+              "west": 4.716667919708498,
+              "north": 52.6285574302915,
+              "east": 4.719365880291503
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.718098299999999,
+            52.62720179999999
+          ]
+        },
+        "hovi_id": "432",
+        "name": "Marnix Academie, vestiging Alkmaar",
+        "street": "Rubenslaan 2-6",
+        "zip": "1816 MB",
+        "city": "ALKMAAR",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3312",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Onderwijs & Technologie",
+      "product_type": "croho_program",
+      "product_level": "master",
+      "croho": "70217",
+      "croho_name": "Onderwijs & Technologie",
+      "croho_sector": "onderwijs",
+      "financing": "private",
+      "vendor": "hovi",
+      "location_hovi_id": "433",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Jan Tooropstraat 136, 1061 AD, AMSTERDAM, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              4.837229499999999,
+              52.36755549999999
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "1061 AD",
+            "administrativeArea": "Noord-Holland",
+            "raw": [
+              {
+                "longText": "136",
+                "shortText": "136",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Jan Tooropstraat",
+                "shortText": "Jan Tooropstraat",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Amsterdam Nieuw-West",
+                "shortText": "Amsterdam Nieuw-West",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Amsterdam",
+                "shortText": "Amsterdam",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Noord-Holland",
+                "shortText": "NH",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "1061 AD",
+                "shortText": "1061 AD",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "136",
+            "formated": "Jan Tooropstraat 136, 1061 AD Amsterdam, Netherlands",
+            "viewport": {
+              "south": 52.3661662197085,
+              "west": 4.835749319708497,
+              "north": 52.3688641802915,
+              "east": 4.838447280291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            4.837229499999999,
+            52.36755549999999
+          ]
+        },
+        "hovi_id": "433",
+        "name": "Marnix Academie, vestiging Amsterdam",
+        "street": "Jan Tooropstraat 136",
+        "zip": "1061 AD",
+        "city": "AMSTERDAM",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "3313",
+        "url": null,
+        "brinvest": null
+      }
+    },
+    {
+      "title": "Pedagogisch Educatief Professional",
+      "product_type": "croho_program",
+      "product_level": "associate",
+      "croho": "80142",
+      "croho_name": "Pedagogisch Educatief Professional",
+      "croho_sector": "gedrag_en_maatschappij",
+      "credits": "120",
+      "financing": "government",
+      "vendor": "hovi",
+      "location_hovi_id": "29",
+      "organization_hovi_id": "36",
+      "product_forms": [
+        {
+          "admission_description": null,
+          "admission_selections": null,
+          "admission_tests": null,
+          "instruction_mode_description": null,
+          "instruction_modes": [],
+          "job_perspective": null,
+          "lang_requirements_description": null,
+          "numerus_fixus": false,
+          "product_description": null,
+          "product_result": null,
+          "application_deadlines": [],
+          "scholarships": []
+        }
+      ],
+      "location": {
+        "location_address": "Vogelsanglaan 1, 3571 ZM, UTRECHT, NL",
+        "location_components": {
+          "geometry": {
+            "coordinates": [
+              5.1329535,
+              52.1035044
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "country": "NL",
+            "postalCode": "3571 ZM",
+            "administrativeArea": "Utrecht",
+            "raw": [
+              {
+                "longText": "1",
+                "shortText": "1",
+                "types": [
+                  "street_number"
+                ]
+              },
+              {
+                "longText": "Vogelsanglaan",
+                "shortText": "Vogelsanglaan",
+                "types": [
+                  "route"
+                ]
+              },
+              {
+                "longText": "Noordoost",
+                "shortText": "Noord-Oos",
+                "types": [
+                  "political",
+                  "sublocality",
+                  "sublocality_level_1"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "locality",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "Utrecht",
+                "types": [
+                  "administrative_area_level_2",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Utrecht",
+                "shortText": "UT",
+                "types": [
+                  "administrative_area_level_1",
+                  "political"
+                ]
+              },
+              {
+                "longText": "Netherlands",
+                "shortText": "NL",
+                "types": [
+                  "country",
+                  "political"
+                ]
+              },
+              {
+                "longText": "3571 ZM",
+                "shortText": "3571 ZM",
+                "types": [
+                  "postal_code"
+                ]
+              }
+            ],
+            "displayName": "1",
+            "formated": "Vogelsanglaan 1, 3571 ZM Utrecht, Netherlands",
+            "viewport": {
+              "south": 52.1022599697085,
+              "west": 5.131771169708498,
+              "north": 52.1049579302915,
+              "east": 5.134469130291502
+            }
+          },
+          "type": "Feature"
+        },
+        "location_data": {
+          "type": "Point",
+          "coordinates": [
+            5.1329535,
+            52.1035044
+          ]
+        },
+        "hovi_id": "29",
+        "name": "Marnix Academie, vestiging Utrecht",
+        "street": "Vogelsanglaan 1",
+        "zip": "3571 ZM",
+        "city": "UTRECHT",
+        "country": "NL",
+        "vendor": "hovi",
+        "vestiging_SK123_id": "79",
+        "url": "http://www.marnixacademie.nl",
+        "brinvest": null
+      }
+    }
+  ]
+}
