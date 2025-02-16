@@ -25,6 +25,7 @@ The extraction script outputs all data on an organization level as JSON files.
 - [ ] Assign main location for each organization based on the number of products that use that location
 
    **NEXT UP**
+- [ ] move helper functions to a utils file
 - [ ] Construct Directus collection schemas based on output types
 - [ ] Consider whether to split products into multiple sub collections (such as `Degrees`). Need to analyze the repetitive datapoints where collections might be needed.
 - [ ] Write the Directus seeding script
