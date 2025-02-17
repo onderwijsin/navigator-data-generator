@@ -13,6 +13,7 @@ type Organization = {
     vendor: 'hovi' | 'kiesmbo' | string,
     hovi_id: string | null,
     main_location: Location | null,
+    locations?: string[]
     products: Array<Product & { location: Location | null }>
 }
 
@@ -99,6 +100,7 @@ type Location = {
     url: string | null // webLink.nl
     vestiging_SK123_id?: string
     vendor: 'hovi' | 'kiesmbo' | string,
+    organization_hovi_id?: string | null,
 
     brinvest: string | null
 }
@@ -138,3 +140,5 @@ type GeoFields = {
         coordinates: [number, number]
     } | null,
 }
+
+type LocationWithGeoData = Location & GeoFields

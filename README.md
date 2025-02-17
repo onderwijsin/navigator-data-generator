@@ -18,17 +18,19 @@ The extraction script outputs all data on an organization level as JSON files.
 
 ## TODOs
 - [x] For each location, fetch location components via the Google Geocoding API
+- [x] finish seeding script and data standardization for Datahub (i.e. all models except `Product` and `ProductForm`)
+- [x] Assign main location for each organization based on the number of products that use that location
+- [x] Construct Directus collection schemas based on output types
+- [x] - [ ] Write the Directus seeding script
 
    **ONGOING**
-- [ ] We'll also need to extract data from KiesMBO. That means we'll also need to standardize the data. 
+- [x] We'll also need to extract data from KiesMBO. That means we'll also need to standardize the data. 
 - [ ] Shitty thing is: the KIESMBO and HOVI schema's are reversed. `Locations` are a prop of `Products` for HOVI. `Studies` (or `Products`) are a prop of `Locations` for KiesMBO. HOVI schema makes for sense
-- [ ] Assign main location for each organization based on the number of products that use that location
 
    **NEXT UP**
 - [ ] move helper functions to a utils file
-- [ ] Construct Directus collection schemas based on output types
+- [ ] Sanitize the data. Properly format emails and phones, websites etc
 - [ ] Consider whether to split products into multiple sub collections (such as `Degrees`). Need to analyze the repetitive datapoints where collections might be needed.
-- [ ] Write the Directus seeding script
 - [ ] Currently, all data is being processed. This is fine for datahub, but for Onderwijsloket, we want to be able to filter education-related data. This will probably be a CROHO code filter.
 - [ ] There's also `Product` data that neither exists in HOVI, nor KiesMBO, but that do result in a relevant qualification. These are 'ZiB programs' and 'educatieve minoren'. These will be added manually in Directus. We however do need to condiser how this data will fit in the schema, before writing the seeding script.
 
@@ -46,3 +48,7 @@ KiesMBO.nl is in opdracht van het Ministerie van Onderwijs, Cultuur en Wetenscha
 KiesMBO.nl wordt voortdurend ververst met actuele cijfers en informatie van de scholen en SBB over beroepen, opleidingen en de arbeidsmarkt. Om aan te sluiten op de belevingswereld van de doelgroep, zijn jongeren gedurende het gehele proces van de ontwikkeling van de portal nauw betrokken.  
 
 [API DOCS](https://gateway-portal.s-bb.nl/api-details#api=kiesmbo-api&operation=Export)
+
+
+## Notes
+- In Datahub, Organization have location fields for their main locations. There is also a M2M field to store all of the organizations locations. Ideally, the main location would be defined in a relationship as well, but Directus Map Layouts don't support related geodata. For Onderwijsloket, this layout is not necessary!

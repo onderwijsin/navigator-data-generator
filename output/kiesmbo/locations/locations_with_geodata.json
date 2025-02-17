@@ -51621,10 +51621,10 @@
         "displayName": "17",
         "formated": "Burgakker 17, 5281 CH Boxtel, Netherlands",
         "viewport": {
-          "south": 51.58537381970849,
-          "west": 5.324387319708497,
-          "north": 51.58807178029149,
-          "east": 5.327085280291501
+          "south": 51.5853760697085,
+          "west": 5.324419719708497,
+          "north": 51.58807403029149,
+          "east": 5.327117680291502
         }
       },
       "type": "Feature"

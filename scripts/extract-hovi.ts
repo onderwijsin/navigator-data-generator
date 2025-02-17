@@ -121,7 +121,7 @@ const transformHoviProductToProduct = (hoviProduct: paths['/organization/{organi
 
 // Function to transform HoviLocation to Location
 const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json']): Location => {
-    const { locationId, locationName, visitorAddress, vestigingSK123Id, webLink } = hoviLocation;
+    const { locationId, locationName, visitorAddress, vestigingSK123Id, webLink, organization } = hoviLocation;
     return {
         hovi_id: locationId || null,
         name: locationName?.nl || null,
@@ -132,7 +132,8 @@ const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{org
         vendor: 'hovi',
         vestiging_SK123_id: vestigingSK123Id,
         url: webLink?.nl || null,
-        brinvest: null
+        brinvest: null,
+        organization_hovi_id: organization
     };
 };
 

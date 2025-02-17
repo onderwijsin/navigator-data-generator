@@ -35,6 +35,25 @@ fs.writeFileSync(path.resolve(__dirname, '../output/kiesmbo/export/export_v2.jso
 import { components } from '../kiesmbo';
 const { schools } = response;
 
+
+const transformLocationData = (location: components['schemas']['location']) => {
+    return {
+        hovi_id: null,
+        name: location.name || null,
+        street: location.street ? location.street + ' ' + location.houseNumber : null,
+        zip: location.zipCode || null,
+        city: location.city || null,
+        country: 'Nederland',
+        url: location.website || null,
+        vendor: 'kiesmbo',
+        brinvest: location.brinvest || null,
+        location_data: location.geoCoordinate  && location.geoCoordinate.latitude && location.geoCoordinate.longitude ? {
+            type: "Point",
+            coordinates: [location.geoCoordinate.longitude, location.geoCoordinate.latitude]
+        } : null
+    }
+}
+
 const globalLocations: Location[] = []
 
 const organizations: Organization[] = (schools as Array<components['schemas']['school']>).map(school => {
@@ -44,21 +63,7 @@ const organizations: Organization[] = (schools as Array<components['schemas']['s
 
     (school.locations as Array<components['schemas']['location']>).forEach(location => {
         if (location.brinvest) brinvests.push(location.brinvest)
-        const data = {
-            hovi_id: null,
-            name: location.name || null,
-            street: location.street ? location.street + ' ' + location.houseNumber : null,
-            zip: location.zipCode || null,
-            city: location.city || null,
-            country: 'Nederland',
-            url: location.website || null,
-            vendor: 'kiesmbo',
-            brinvest: location.brinvest || null,
-            location_data: location.geoCoordinate  && location.geoCoordinate.latitude && location.geoCoordinate.longitude ? {
-                type: "Point",
-                coordinates: [location.geoCoordinate.longitude, location.geoCoordinate.latitude]
-            } : null
-        }
+        const data = transformLocationData(location)
 
         globalLocations.push(data)
 
@@ -71,6 +76,12 @@ const organizations: Organization[] = (schools as Array<components['schemas']['s
         // TODO map studies to Products
         // TODO map location to Products
     })
+
+    if (!main_location) {
+        main_location = !school.locations?.length ? null : transformLocationData((school.locations as Array<components['schemas']['location']>).reduce((prev, current) => {
+            return (prev.studies?.length || 0) > (current.studies?.length || 0) ? prev : current;
+        }, school.locations[0]));
+    }
 
     return {
         title: school.name || null,

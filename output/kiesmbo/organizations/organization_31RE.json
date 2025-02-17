@@ -15,7 +15,24 @@
   "logoUrl": "https://www.kiesmbo.nl/media/6593/logo-flair.png?width=500&upscale=false",
   "vendor": "kiesmbo",
   "hovi_id": null,
-  "main_location": null,
+  "main_location": {
+    "hovi_id": null,
+    "name": "Flair scholingstrajecten",
+    "street": "Bieslookstraat 31",
+    "zip": "9731 HH",
+    "city": "Groningen",
+    "country": "Nederland",
+    "url": null,
+    "vendor": "kiesmbo",
+    "brinvest": "31RE01",
+    "location_data": {
+      "type": "Point",
+      "coordinates": [
+        6.602421199999999,
+        53.2336622
+      ]
+    }
+  },
   "locations": [
     "31RE01"
   ],
