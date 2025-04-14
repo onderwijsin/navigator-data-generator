@@ -11,7 +11,7 @@ After cloning the project, make sure you install the dependencies
 pnpm install
 ```
 
-You will also need a `.env` file containg secrets and other config options. Please refer to the example file in the project root. You can enable caching via the `.env`, **this is highly recommended for local development**, since you'll be fetching a lot of data!
+You will also need a `.env` file containg secrets and other config options. Please refer to the example file in the project root. You can enable caching via the `.env`, **this is highly recommended for local development**, since you'll be fetching a lot of data! This project uses over 100MB of data, which is fetched through 10K+ api requests.
 
 Secondly, you will want to make sure you're types a up to date.
 

@@ -79,3 +79,5 @@ prettyLocs.forEach(location => locationSheet.addRow(location));
 
 // Write the workbook to a file
 await workbook.xlsx.writeFile(path.resolve(outputDir, 'data.xlsx'));
+
+console.log('Data written to data.xlsx');

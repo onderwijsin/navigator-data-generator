@@ -22,50 +22,74 @@ if (cacheEnabled && !fs.existsSync(cacheDir)) {
     fs.mkdirSync(cacheDir, { recursive: true });
 }
 
+// Create a queue to manage rate-limited requests
+const requestQueue: (() => Promise<void>)[] = [];
+let isProcessingQueue = false;
+
+const processQueue = async () => {
+    if (isProcessingQueue) return; // Prevent multiple queue processors
+    isProcessingQueue = true;
+
+    while (requestQueue.length > 0) {
+        const nextRequest = requestQueue.shift(); // Get the next request
+        if (nextRequest) {
+            await nextRequest(); // Execute the request
+            await delay(1000 / rate_limit); // Enforce rate limit
+        }
+    }
+
+    isProcessingQueue = false;
+};
 
 // Function to fetch data from the Hovi API
-const get = async (apiPath: string) => {
-    try {
-        const now = Date.now();
-        const cacheFile = path.resolve(cacheDir, encodeURIComponent(apiPath) + '.json');
+const get = async (apiPath: string): Promise<any> => {
+    const now = Date.now();
+    const cacheFile = path.resolve(cacheDir, encodeURIComponent(apiPath) + '.json');
 
-        // Check if the response is already cached
-        if (cacheEnabled && fs.existsSync(cacheFile)) {
-            console.log(`Cache hit for ${apiPath}`);
-            const cachedData = JSON.parse(fs.readFileSync(cacheFile, 'utf-8'));
+    // Check if the response is already cached
+    if (cacheEnabled && fs.existsSync(cacheFile)) {
+        const cachedData = JSON.parse(fs.readFileSync(cacheFile, 'utf-8'));
 
-            // Check if the cache has expired
-            if (now - cachedData.timestamp < CACHE_TTL) {
-                return cachedData.data; // Return cached data if it's still valid
-            } else {
-                console.log(`Cache expired for ${apiPath}`);
-            }
+        // Check if the cache has expired
+        if (now - cachedData.timestamp < CACHE_TTL) {
+            return cachedData.data; // Return cached data if it's still valid
         }
-        
-        // If not cached, fetch the data
-        await delay(1000 / rate_limit); // Delay to adhere to rate limit
-        const response = await ofetch(joinURL(hovi.baseUrl, apiPath), {
-            headers: {
-                Authorization: 'Bearer ' + hovi.token
+
+        // Cache is expired. No need to delete it, as it will be updated on the next request
+    }
+
+    // If not cached or expired, add the request to the queue
+    return new Promise((resolve, reject) => {
+        requestQueue.push(async () => {
+            try {
+                const response = await ofetch(joinURL(hovi.baseUrl, apiPath), {
+                    headers: {
+                        Authorization: 'Bearer ' + hovi.token
+                    }
+                });
+
+                console.log(`Fetched data from Hovi API: ${apiPath}`);
+
+                // Cache the response to a file
+                if (cacheEnabled) {
+                    const cacheContent = {
+                        timestamp: now,
+                        data: response
+                    };
+                    fs.writeFileSync(cacheFile, JSON.stringify(cacheContent, null, 2));
+                }
+
+                resolve(response);
+            } catch (err) {
+                console.log('Error fetching data from Hovi in: ' + apiPath);
+                console.error(err);
+                reject(err);
             }
         });
-        
 
-        // Cache the response to a file
-        if (cacheEnabled) {
-            // Cache the response to a file with a timestamp
-            const cacheContent = {
-                timestamp: now,
-                data: response
-            };
-            fs.writeFileSync(cacheFile, JSON.stringify(cacheContent, null, 2));
-        }
-
-        return response;
-    } catch (err) {
-        console.log('error fetching data from hovi in: ' + path);
-        console.error(err);
-    }
+        // Start processing the queue
+        processQueue();
+    });
 };
 
 // Type helpers. Mostly shorthands
@@ -201,7 +225,8 @@ async function fetchOrganizationDetails(
                 locations,
             };
         } catch (err) {
-            console.log(`Error processing organizationId ${organizationId}:`, err);
+            console.log(`Error processing organizationId ${organizationId}:`);
+            console.error(err);
             return null;
         }
 }
@@ -209,8 +234,9 @@ async function fetchOrganizationDetails(
 
 export const useRawHoviData = async () => {
     const ids = await fetchOrganizationIds();
-    const testIds = ids.slice(0, 1);
-    const organizations = await Promise.all(testIds.map(async ({ organizationId, brin, shortCode, brinName }) => {
+
+
+    const organizations = await Promise.all(ids.map(async ({ organizationId, brin, shortCode, brinName }) => {
         const data = await fetchOrganizationDetails(organizationId);
         console.log(`Fetched data for organizationId ${organizationId}`);
         return data;

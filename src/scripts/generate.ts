@@ -71,6 +71,8 @@ if (vendor.includes('hovi')) {
         for (const org of organizations) {
             fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${org.organization.organizationId}.json`), JSON.stringify(org, null, 2));
         }
+
+        console.log('JSON data written to files');
     }
     if (outputFormat.includes('excel')) {
         const organizationsWithOnlyDetails = organizations.map(org => org.organization)
@@ -94,6 +96,8 @@ if (vendor.includes('hovi')) {
 
         // Write the workbook to a file
         await workbook.xlsx.writeFile(path.resolve(outputDir, 'data.xlsx'));
+
+        console.log('Excel data written to data.xlsx');
     }
 }
 
