@@ -1,6 +1,28 @@
 # Extract HOVI and KiesMBO data
-The Hovi and KiesMBO APIs contains data about higher education in the Netherlands. This tool fetches particular data models and transforms them into something more useful. The primary goal is to seed the data into a Directus instance [Datahub](https://datahub.onderwijs.in). From there we want to extract a subset of the data into the Directus instance for Onderwijsloket.
+The Hovi and KiesMBO APIs contains data about higher education in the Netherlands. The aim of this project is to utilize this data.
 
+## Project setup
+Requirements:
+- pnpm@10.6.0
+- node v22
+
+After cloning the project, make sure you install the dependencies
+```bash
+pnpm install
+```
+
+You will also need a `.env` file containg secrets and other config options. Please refer to the example file in the project root. You can enable caching via the `.env`, **this is highly recommended for local development**, since you'll be fetching a lot of data!
+
+Secondly, you will want to make sure you're types a up to date.
+
+```bash
+pnpm typegen
+```
+
+For a succesfull type generation, you need an active session token from Sbb. This sucks, but there is (AFAIK) no way around it. To acquire a session token, you'll need to log into [SBB Gateway](https://gateway-portal.s-bb.nl). Credentials can be found is the shared credentials list.
+
+
+## Data models
 Data models that are processed for HOVI
 - `Organizations`
   - `Products`
@@ -13,26 +35,22 @@ Data models that are processed for Kies MBO
   - `Locations`
     - `Studies` (aka `Products`)
 
-The extraction script outputs all data on an organization level as JSON files.
+These data models are then transformed (and enriched) into a standardized data model. These models can be found in `./src/types/index.d.ts`
 
+## Working with this project
+This project has two types of 'output:
+1. You can generate data and output it into a specifiec file format (currently, json and excel are supported)
+2. You can extend this project by utilizing the composables it exposes
 
-## TODOs
-- [x] For each location, fetch location components via the Google Geocoding API
-- [x] finish seeding script and data standardization for Datahub (i.e. all models except `Product` and `ProductForm`)
-- [x] Assign main location for each organization based on the number of products that use that location
-- [x] Construct Directus collection schemas based on output types
-- [x] - [ ] Write the Directus seeding script
+### Generating data
+You can generate data files by running `pnpm generate`. There are three flags you can utilize:
+- `--vendor`: a comma seperated string of vendors to include
+- `--output`: a comma seperated string of output file types (`excel` or `json`)
+- `--outDir`: where to save the files to disk
 
-   **ONGOING**
-- [x] We'll also need to extract data from KiesMBO. That means we'll also need to standardize the data. 
-- [ ] Shitty thing is: the KIESMBO and HOVI schema's are reversed. `Locations` are a prop of `Products` for HOVI. `Studies` (or `Products`) are a prop of `Locations` for KiesMBO. HOVI schema makes for sense
+Have a look at this project's `package.json` scripts for proper usage.
 
-   **NEXT UP**
-- [ ] move helper functions to a utils file
-- [ ] Sanitize the data. Properly format emails and phones, websites etc
-- [ ] Consider whether to split products into multiple sub collections (such as `Degrees`). Need to analyze the repetitive datapoints where collections might be needed.
-- [ ] Currently, all data is being processed. This is fine for datahub, but for Onderwijsloket, we want to be able to filter education-related data. This will probably be a CROHO code filter.
-- [ ] There's also `Product` data that neither exists in HOVI, nor KiesMBO, but that do result in a relevant qualification. These are 'ZiB programs' and 'educatieve minoren'. These will be added manually in Directus. We however do need to condiser how this data will fit in the schema, before writing the seeding script.
+## Working with composables
 
 
 ## About HOVI

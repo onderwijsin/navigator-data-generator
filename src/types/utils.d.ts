@@ -1,0 +1,1 @@
+export type Vendor = 'hovi' | 'kiesmbo' | 'self' | string

@@ -6,11 +6,19 @@
   "license": "ISC",
   "main": "index.ts",
   "type": "module",
+  "packageManager": "pnpm@10.6.0",
   "scripts": {
     "extract-hovi": "tsx ./scripts/extract-hovi.ts",
     "extract-mbo": "tsx ./scripts/extract-kiesmbo.ts",
     "directus": "tsx ./scripts/directus.ts",
-    "datahub": "tsx ./scripts/directus_datahub.ts"
+    "datahub": "tsx ./scripts/directus_datahub.ts",
+    "wolf": "tsx ./src/scripts/hovi.excel.ts",
+    "typegen": "tsx ./src/scripts/generateTypes.ts",
+    "generate": "tsx ./src/scripts/generate.ts",
+    "generate:hovi": "pnpm generate --vendor=hovi --output=json,excel --outDir=./output/hovi",
+    "generate:kiesmbo": "pnpm generate --vendor=kiesmbo --output=excel --outDir=./output/kiesmbo",
+    "generate:all": "pnpm generate --vendor=hovi,kiesmbo --output=json --outDir=./output/all",
+    "generate:basic":  "tsx ./src/scripts/generate.basic.ts"
   },
   "devDependencies": {
     "@directus/sdk": "^19.0.1",
@@ -22,12 +30,25 @@
     "@tiptap/extension-paragraph": "^2.11.5",
     "@tiptap/extension-text": "^2.11.5",
     "@tiptap/html": "^2.11.5",
+    "@types/minimist": "^1.2.5",
+    "@types/node": "^22.14.1",
+    "defu": "^6.1.4",
     "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
+    "minimist": "^1.2.8",
     "ofetch": "^1.4.1",
+    "openapi-typescript": "^7.6.1",
     "tsx": "^4.19.2",
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.3",
+    "ufo": "^1.6.1",
+    "zod": "^3.24.2"
   },
   "engines": {
     "node": ">=22.0.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
   }
 }
