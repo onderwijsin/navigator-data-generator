@@ -2,14 +2,23 @@ import dotenv from 'dotenv';
 import { useConfig } from "../lib/use-config";
 import { ofetch } from "ofetch";
 import type { paths } from "../types/hovi";
+import type { HOrganizationList } from "../types/hovi.short";
 import type { Vendor } from "../types/utils";
 import { joinURL } from "ufo";
-import defu from "defu";
+import type {
+    HOrganization,
+    HProductIds,
+    HLocationIds,
+    HLocation,
+    HProduct,
+    HProductList,
+    HDegrees
+} from '../types/hovi.short'
 
 dotenv.config();
 const { hovi } = useConfig();
 
-const rate_limit = 50;
+const rate_limit = hovi.rateLimit || 20; // Rate limit for Hovi API requests
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
 const cacheEnabled = process.env.ENABLE_CACHE === 'true'
@@ -100,26 +109,12 @@ type OrganizationList = {
     brinName?: string
 }[]
 
-type Organization = paths['/organization/{organizationId}']['get']['responses']['200']['content']['application/json']
-type ProductIds = paths['/organization/{organizationId}/product']['get']['responses']['200']['content']['application/json']
-type LocationIds = paths['/organization/{organizationId}/location']['get']['responses']['200']['content']['application/json']
-type Location = paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json']
-type Product = paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json']
-type ProductWithLocation = Omit<Product, 'location'> & { location: Location | null }
-type ProductList = Array<ProductWithLocation>
 
-
-/**  
- * Array to store all unique locations. 
- * After processing all organizations, this array will be used to fetch location data from Google Apis for each unique location
- * 
- */
-const globalLocations: Location[] = []
 
 
 // Fetch degrees
-async function fetchDegrees(): Promise<paths['/domain/degree']['get']['responses']['200']['content']['application/json']> {
-    const response: paths['/domain/degree']['get']['responses']['200']['content']['application/json'] = await get('/domain/degree');
+export async function fetchDegrees(): Promise<HDegrees> {
+    const response: HDegrees = await get('/domain/degree');
     if (!response) {
         throw new Error('Failed to fetch degrees');
     }
@@ -127,7 +122,7 @@ async function fetchDegrees(): Promise<paths['/domain/degree']['get']['responses
 }
 
 // Fetch organization IDs
-async function fetchOrganizationIds(): Promise<OrganizationList> {
+export async function fetchOrganizationIds(): Promise<OrganizationList> {
     const response: paths['/organization']['get']['responses']['200']['content']['application/json'] = await get('/organization');
     if (!response) {
         throw new Error('Failed to fetch organization IDs');
@@ -138,48 +133,28 @@ async function fetchOrganizationIds(): Promise<OrganizationList> {
 
 
 // Fetch organization details
-async function fetchOrganizationDetails(
-    organizationId: string
-): Promise<{
-    organization: Organization & {
-        vendor: Vendor
-        mainLocation: Location['locationId'] | null
-    },
-    products: ProductList,
-    locations: Location[]
-} | null> {
+export async function fetchOrganizationDetails(
+    organizationId: string,
+): Promise<HOrganizationList[number] | null> {
     try {
-            const organization: Organization = await get(`/organization/${organizationId}`);
+            const organization: HOrganization = await get(`/organization/${organizationId}`);
             // const { brin, brinName, description, organizationType, shortCode, phone, email, webLink } = organization;
     
             // Fetch product and location IDs for the organization
-            const productIds: ProductIds = await get(`/organization/${organizationId}/product`);
-            const locationIds: LocationIds = await get(`/organization/${organizationId}/location`);
+            const productIds: HProductIds = await get(`/organization/${organizationId}/product`);
+            const locationIds: HLocationIds = await get(`/organization/${organizationId}/location`);
     
-            // Fetch locations and add them to the global locations array
-            const locations = await Promise.all(locationIds.map(async ({ locationId }): Promise<Location> => {
-                const location: Location = await get(`/organization/${organizationId}/location/${locationId}`);
-                
-                // Add locations to global locations array, or merge with existing entries
-                const index = globalLocations.findIndex(loc => loc.locationId === location.locationId);
-                if (index === -1) {
-                    globalLocations.push(location);
-                } else {
-                    globalLocations[index] = defu(globalLocations[index], location );
-                }
-
+            // Fetch locations
+            const locations = await Promise.all(locationIds.map(async ({ locationId }): Promise<HLocation> => {
+                const location: HLocation = await get(`/organization/${organizationId}/location/${locationId}`);
                 return location
             }));
 
     
             // Transform products and associate them with locations
-            const products = await Promise.all(productIds.map(async ({ productId }): Promise<ProductWithLocation> => {
-                const product: Product = await get(`/organization/${organizationId}/product/${productId}`);
-                const location = locations.find(location => location.locationId === product.location) || null
-                return {
-                    ...product,
-                    location
-                };
+            const products = await Promise.all(productIds.map(async ({ productId }): Promise<HProduct> => {
+                const product: HProduct = await get(`/organization/${organizationId}/product/${productId}`);
+                return product
             }));
     
             /**
@@ -187,28 +162,28 @@ async function fetchOrganizationDetails(
              * @param products - Array of products with location data.
              * @returns The most used location.
              */
-            function getMostUsedLocation(products: ProductList): Location | null {
-                const locationCount: { [key: string]: { location: Location, count: number } } = {};
+            function getMostUsedLocation(products: HProductList): string | null {
+                const locationCount: { [key: string]: number } = {};
     
                 products.forEach(product => {
                     if (product.location) {
-                        const locationKey = JSON.stringify(product.location);
+                        const locationKey = product.location
                         if (locationCount[locationKey]) {
-                            locationCount[locationKey].count++;
+                            locationCount[locationKey]++;
                         } else {
-                            locationCount[locationKey] = { location: product.location, count: 1 };
+                            locationCount[locationKey] = 1;
                         }
                     }
                 });
     
-                let mostUsedLocation: Location | null = null;
+                let mostUsedLocation: string | null = null;
                 let maxCount = 0;
     
                 for (const key in locationCount) {
                     const entry = locationCount[key];
-                    if (entry && entry.count > maxCount) {
-                        maxCount = entry.count;
-                        mostUsedLocation = entry.location;
+                    if (typeof entry === 'number' && entry > maxCount) {
+                        maxCount = entry;
+                        mostUsedLocation = key;
                     }
                 }
     
@@ -219,7 +194,7 @@ async function fetchOrganizationDetails(
                 organization: {
                     ...organization,
                     vendor: 'hovi' satisfies Vendor,
-                    mainLocation: getMostUsedLocation(products)?.locationId,
+                    mainLocation: getMostUsedLocation(products),
                 },
                 products,
                 locations,
@@ -229,27 +204,4 @@ async function fetchOrganizationDetails(
             console.error(err);
             return null;
         }
-}
-
-
-export const useRawHoviData = async () => {
-    const ids = await fetchOrganizationIds();
-
-
-    const organizations = await Promise.all(ids.map(async ({ organizationId, brin, shortCode, brinName }) => {
-        const data = await fetchOrganizationDetails(organizationId);
-        console.log(`Fetched data for organizationId ${organizationId}`);
-        return data;
-    }));
-
-    const notNullOrganizations = organizations.filter(org => org !== null)
-
-    const degrees = await fetchDegrees()
-
-    return {
-        organizations: notNullOrganizations,
-        products: notNullOrganizations.flatMap(org => org?.products || []),
-        locations: globalLocations,
-        degrees
-    }
 }

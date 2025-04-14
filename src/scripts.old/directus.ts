@@ -1,1 +1,0 @@
-// TODO transform json files to directus payloads

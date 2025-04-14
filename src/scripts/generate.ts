@@ -4,7 +4,7 @@ import z from 'zod';
 import * as fs from 'fs';
 import * as path from 'path';
 
-import { useRawHoviData } from '../utils/extractHovi';
+import { useRawHovi, useHovi } from '../lib/use-hovi';
 import ExcelJS from 'exceljs';
 
 // Ensure the directory exists
@@ -16,32 +16,37 @@ function ensureDirSync(dirPath: string) {
 
 const args = minimist(process.argv.slice(2), {
   string: ['vendor', 'output', 'outDir'],
+  boolean: ['raw'], // 👈 declare it as a boolean
   default: {
     output: 'json',
-    outDir: './output'
+    outDir: './output',
+    raw: false
   }
 });
 
 const vendors = args.vendor?.split(',') ?? [];
 const output = args.output?.split(',') ?? [];;
 const outDir = args.outDir;
+const raw = args.raw;
 
 const schema = z.object({
     vendor: z.array(z.enum(['kiesmbo', 'hovi'])),
     output: z.array(z.enum(['json', 'excel'])),
-    outDir: z.string()
+    outDir: z.string(),
+    raw: z.boolean()
 });
 
 const parsedArgs = schema.safeParse({
     vendor: vendors,
     output,
-    outDir
+    outDir,
+    raw
 });
 if (!parsedArgs.success) {
     console.error('Invalid arguments:', JSON.stringify(parsedArgs.error.format(), null, 2));
     process.exit(1);
 }
-const { vendor, output: outputFormat, outDir: out } = parsedArgs.data;
+const { vendor, output: outputFormat, outDir: out, raw: isRaw } = parsedArgs.data;
 
 const outputDir = path.join(process.cwd(), out);
 
@@ -52,7 +57,12 @@ if (vendor.length === 0) {
 ensureDirSync(outputDir)
 
 if (vendor.includes('hovi')) {
-    const { locations, organizations, products } = await useRawHoviData();
+    const { locations, organizations, products } = isRaw ? await useRawHovi() : await useHovi();
+
+    if (!organizations.length) {
+        console.error('No organizations found');
+        process.exit(1);
+    }
 
     if (outputFormat.includes('json')) {
         // Ensure directories exist
@@ -69,13 +79,15 @@ if (vendor.includes('hovi')) {
 
         // For redundancy, write each organization including related products and locations to a separate file
         for (const org of organizations) {
-            fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${org.organization.organizationId}.json`), JSON.stringify(org, null, 2));
+            fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${
+                'organization' in org ? org.organization.organizationId : org.hovi_id 
+            }.json`), JSON.stringify(org, null, 2));
         }
 
         console.log('JSON data written to files');
     }
     if (outputFormat.includes('excel')) {
-        const organizationsWithOnlyDetails = organizations.map(org => org.organization)
+        const organizationsWithOnlyDetails = organizations.map(org => 'organization' in org ? org.organization : org);
 
         const workbook = new ExcelJS.Workbook();
 

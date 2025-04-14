@@ -6,7 +6,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import { useRawHoviData } from '../utils/extractHovi';
+import { useRawHovi } from '../lib/use-hovi';
 import ExcelJS from 'exceljs';
 
 // Ensure the directory exists
@@ -16,7 +16,7 @@ function ensureDirSync(dirPath: string) {
     }
 }
 
-const { locations, organizations, products, degrees } = await useRawHoviData();
+const { locations, organizations, products, degrees } = await useRawHovi();
 const outputDir = path.join(process.cwd(), './output/hovi');
 ensureDirSync(outputDir)
 
@@ -54,7 +54,7 @@ const prettyProducts = products.map(product => ({
     credits: product.credits,
     accreditations: (product.accreditations || []).map(acc => acc.accrOrganization).join(', '),
     financing: product.financing,
-    locationId: product.location?.locationId,
+    locationId: product.location,
     opleidingSK123Id: product.opleidingSK123Id,
     organizationId: product.organization,
 }))

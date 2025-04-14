@@ -1,12 +1,15 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+import crohoCodes from './croho_codes';
+
 export default {
     hovi: {
         token: process.env.HOVI_TOKEN as string,
         baseUrl: 'https://api.hovi.nl/api/4',
         oasUrl: 'https://api.hovi.nl/api/4/openapi.json',
         rateLimit: 20, // requests per second
+        crohoCodes
     },
 
     kiesmbo: {
@@ -26,6 +29,7 @@ export default {
 
     google: {
         apiKey: process.env.GOOGLE_API_KEY as string,
+        useDummyData: process.env.USE_GOOGLE_DUMMY_DATA === 'true',
     }
 
 

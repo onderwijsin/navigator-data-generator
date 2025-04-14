@@ -13,6 +13,8 @@ pnpm install
 
 You will also need a `.env` file containg secrets and other config options. Please refer to the example file in the project root. You can enable caching via the `.env`, **this is highly recommended for local development**, since you'll be fetching a lot of data! This project uses over 100MB of data, which is fetched through 10K+ api requests.
 
+Also, working with transformed HOVI data utilizes the Google Maps and Google Geocoding api. Although this data is cached, it's still quite expensive. Please only use the transformer for production purposes!! In dev mode, use can enable `USE_GOOGLE_DUMMY_DATA` env variable.
+
 Secondly, you will want to make sure you're types a up to date.
 
 ```bash
@@ -43,15 +45,19 @@ This project has two types of 'output:
 2. You can extend this project by utilizing the composables it exposes
 
 ### Generating data
-You can generate data files by running `pnpm generate`. There are three flags you can utilize:
+You can generate data files by running `pnpm generate`. There are flags you can utilize:
 - `--vendor`: a comma seperated string of vendors to include
 - `--output`: a comma seperated string of output file types (`excel` or `json`)
 - `--outDir`: where to save the files to disk
+- `--raw`: whether to export raw API data (otherwise, data is transformed and normalized)
 
 Have a look at this project's `package.json` scripts for proper usage.
 
-## Working with composables
-
+### Working with composables
+The lib directory exposes several composables to work with:
+- `useConfig` returns configuration settings
+- `useRawHovi` returns an object containing raw data fetched from the HOVI api. Contains four properties: `organizations`, `locations`, `products`, `degrees`. Please refer to the `hovi.short.d.ts` fiel for type definitions.
+- `useHovi` returns an object containing transformed Hovi data, enriched with geospatial data from Google. Contains three properties: `organizations`, `locations`, `products`. Please refer to the `index.d.ts` fiel for type definitions.
 
 ## About HOVI
 De Hoger Onderwijs Voorlichtingsinformatie-standaard (HOVI-standaard) is een infrastructuur voor opleidingsinformatie. De focus ligt op informatiestromen rondom het aanbieden van opleidingsinformatie voor voorlichtingsdoeleinden, en is met name gericht op de informatie die noodzakelijkerwijs door de instellingen voor HO moet worden aangeleverd. De HOVI-infrastructuur levert een gestandaardiseerd systeem voor informatie-overdracht over onderwijsinstellingen, opleidingen en evenementen in het Hoger Onderwijs.

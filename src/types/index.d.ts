@@ -1,4 +1,5 @@
 import { degrees } from './src/static/degrees'
+import { Vendor } from './utils'
 
 type Organization = {
     title: string | null,
@@ -10,16 +11,17 @@ type Organization = {
     website: { url : string, lang: 'Nederlands' | 'Engels' | 'Overig' }[] | null,
     brin_code: string | null,
     logoUrl: string | null,
-    vendor: 'hovi' | 'kiesmbo' | string,
+    vendor: Vendor,
     hovi_id: string | null,
-    main_location: Location | null,
-    locations?: string[]
-    products: Array<Product & { location: Location | null }>
+    main_location: string | null,
+    products: Array<Product>
+    locations: Array<LocationWithGeoData>
 }
 
 
 type ProductForm = {
-    product_form: string, // TODO make enum
+    product_form: 'duaal' | 'voltijd' | 'deeltijd',
+    vendor: Vendor,
     admission_description?: any, // tiptap JSON (nl only)
     admission_selections?: {
         capacities?: boolean,
@@ -85,7 +87,7 @@ type Product = {
     croho_sector?: string | null,
     credits?: string,
     financing?: string | null,
-    vendor: 'hovi' | 'kiesmbo' | string,
+    vendor: Vendor,
     location_hovi_id?: string | null,
     organization_hovi_id?: string | null,
     product_forms: ProductForm[]
@@ -100,9 +102,8 @@ type Location = {
     country: string | null
     url: string | null // webLink.nl
     vestiging_SK123_id?: string
-    vendor: 'hovi' | 'kiesmbo' | string,
+    vendor: Vendor,
     organization_hovi_id?: string | null,
-
     brinvest: string | null
 }
 
