@@ -29,7 +29,7 @@ export default {
 
     google: {
         apiKey: process.env.GOOGLE_API_KEY as string,
-        useDummyData: process.env.USE_GOOGLE_DUMMY_DATA === 'true',
+        useDummyData: process.env.USE_GOOGLE_DUMMY_DATA !== 'false',
     }
 
 

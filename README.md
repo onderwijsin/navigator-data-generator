@@ -1,78 +1,103 @@
-# Extract HOVI and KiesMBO data
-The Hovi and KiesMBO APIs contains data about higher education in the Netherlands. The aim of this project is to utilize this data.
+# Extract HOVI and KiesMBO Data
 
-## Project setup
-Requirements:
-- pnpm@10.6.0
-- node v22
+This project fetches and processes data from the HOVI and KiesMBO APIs, which provide information about higher education in the Netherlands. The goal is to normalize and utilize this data for various tooling.
 
-After cloning the project, make sure you install the dependencies
+## Project Setup
+
+**Requirements:**
+- `pnpm@10.6.0`
+- `Node.js v22.0.0` (or higher)
+
+After cloning the project, install the dependencies:
+
 ```bash
 pnpm install
 ```
 
-You will also need a `.env` file containg secrets and other config options. Please refer to the example file in the project root. You can enable caching via the `.env`, **this is highly recommended for local development**, since you'll be fetching a lot of data! This project uses over 100MB of data, which is fetched through 10K+ api requests.
+Then, modify then `config.ts` file in the root of the project.
 
-Also, working with transformed HOVI data utilizes the Google Maps and Google Geocoding api. Although this data is cached, it's still quite expensive. Please only use the transformer for production purposes!! In dev mode, use can enable `USE_GOOGLE_DUMMY_DATA` env variable.
+You’ll need a `.env` file with secrets and config options. Use the provided `.env.example` in the project root as a reference. **Enable caching via the `.env` for local development — highly recommended!** This project fetches over 100MB of data through 10K+ API requests.
 
-Secondly, you will want to make sure you're types a up to date.
+> ⚠️ If you are using transformed data (which you mostly are) Google Maps and Google Geocoding APIs will be used. Even if cache is enabled, this can get expensive upon first fetch. Use the transformer **only in production**! For development, set the `USE_GOOGLE_DUMMY_DATA` environment variable.
+
+Before continuing, generate the types:
 
 ```bash
 pnpm typegen
 ```
 
-For a succesfull type generation, you need an active session token from Sbb. This sucks, but there is (AFAIK) no way around it. To acquire a session token, you'll need to log into [SBB Gateway](https://gateway-portal.s-bb.nl). Credentials can be found is the shared credentials list.
+For this to work, you’ll need an active session token from SBB, which you can only get via the GUI. Unfortunately, this is required and there’s no known workaround. Log into the [SBB Gateway](https://gateway-portal.s-bb.nl) to retrieve the token. Credentials can be found in the shared credentials list.
 
+## Data Models
+These data models are fetched from the external sources.
 
-## Data models
-Data models that are processed for HOVI
+### HOVI
+
 - `Organizations`
   - `Products`
     - `Location`
     - `ProductForms`
     - `Degrees`
 
-Data models that are processed for Kies MBO
+### KiesMBO
+
 - `Schools`
   - `Locations`
     - `Studies` (aka `Products`)
 
-These data models are then transformed (and enriched) into a standardized data model. These models can be found in `./src/types/index.d.ts`
+These models are transformed and enriched into a standardized data model located in [`./src/types/index.d.ts`](./src/types/index.d.ts).
 
-## Working with this project
-This project has two types of 'output:
-1. You can generate data and output it into a specifiec file format (currently, json and excel are supported)
-2. You can extend this project by utilizing the composables it exposes
+## Working with This Project
 
-### Generating data
-You can generate data files by running `pnpm generate`. There are flags you can utilize:
-- `--vendor`: a comma seperated string of vendors to include
-- `--output`: a comma seperated string of output file types (`excel` or `json`)
-- `--outDir`: where to save the files to disk
-- `--raw`: whether to export raw API data (otherwise, data is transformed and normalized)
+This project has two primary use cases:
 
-Have a look at this project's `package.json` scripts for proper usage.
+1. **Generate output files** — export data in various formats (JSON, Excel).
+2. **Use composables** — work with internal utilities and raw/transformed data.
 
-### Working with composables
-The lib directory exposes several composables to work with:
-- `useConfig` returns configuration settings
-- `useRawHovi` returns an object containing raw data fetched from the HOVI api. Contains four properties: `organizations`, `locations`, `products`, `degrees`. Please refer to the `hovi.short.d.ts` fiel for type definitions.
-- `useHovi` returns an object containing transformed Hovi data, enriched with geospatial data from Google. Contains three properties: `organizations`, `locations`, `products`. Please refer to the `index.d.ts` fiel for type definitions.
+### Generating Data
+
+Generate data files using:
+
+```bash
+pnpm generate
+```
+
+Available flags:
+- `--vendor` – comma-separated list of vendors to include
+- `--output` – comma-separated list of output formats (`json`, `excel`)
+- `--outDir` – path to write output files relative to project root
+- `--raw` – export raw API data instead of transformed/normalized data
+
+Check `package.json` scripts for example usages.
+
+### Using Composables
+
+The `lib` directory exposes several composables:
+
+- `useConfig` – returns project configuration from config file
+- `useRawHovi` – fetches raw data from the HOVI API  
+  Returns: `organizations`, `locations`, `products`, `degrees`  
+  Types: see `hovi.short.d.ts`
+- `useHovi` – returns transformed HOVI data (with geospatial enrichment)  
+  Returns: `organizations`, `locations`, `products`  
+  Types: see `index.d.ts`
 
 ## About HOVI
-De Hoger Onderwijs Voorlichtingsinformatie-standaard (HOVI-standaard) is een infrastructuur voor opleidingsinformatie. De focus ligt op informatiestromen rondom het aanbieden van opleidingsinformatie voor voorlichtingsdoeleinden, en is met name gericht op de informatie die noodzakelijkerwijs door de instellingen voor HO moet worden aangeleverd. De HOVI-infrastructuur levert een gestandaardiseerd systeem voor informatie-overdracht over onderwijsinstellingen, opleidingen en evenementen in het Hoger Onderwijs.
 
-[API DOCS](https://api.hovi.nl/hovi-api-test/)
+De Hoger Onderwijs Voorlichtingsinformatie-standaard (HOVI-standaard) is een infrastructuur voor opleidingsinformatie. De focus ligt op informatiestromen rondom het aanbieden van opleidingsinformatie voor voorlichtingsdoeleinden, met name gericht op de informatie die door instellingen voor het Hoger Onderwijs moet worden aangeleverd. HOVI biedt een gestandaardiseerd systeem voor overdracht van informatie over instellingen, opleidingen en evenementen.
+
+👉 [HOVI API Docs](https://api.hovi.nl/hovi-api-test/)
 
 ## About KiesMBO
-KiesMBO is dé mbo-portal voor studie- en beroepskeuze. KiesMBO.nl toont jongeren, hun ouders en docenten hoe het mbo werkt, de talloze mogelijkheden die het mbo biedt en helpt bij het maken van een goede keuze voor een mooie toekomst.
 
-KiesMBO.nl is in opdracht van het Ministerie van Onderwijs, Cultuur en Wetenschap ontwikkeld door de Samenwerkingsorganisatie Beroepsonderwijs Bedrijfsleven (SBB), in samenwerking met de MBO Raad, de VO-raad, het georganiseerd bedrijfsleven en jongerenorganisaties. 
+KiesMBO is dé mbo-portal voor studie- en beroepskeuze. De site helpt jongeren, ouders en docenten begrijpen hoe het mbo werkt, welke mogelijkheden het biedt en hoe je een passende keuze maakt voor de toekomst.
 
-KiesMBO.nl wordt voortdurend ververst met actuele cijfers en informatie van de scholen en SBB over beroepen, opleidingen en de arbeidsmarkt. Om aan te sluiten op de belevingswereld van de doelgroep, zijn jongeren gedurende het gehele proces van de ontwikkeling van de portal nauw betrokken.  
+KiesMBO is een initiatief van het Ministerie van Onderwijs, Cultuur en Wetenschap, uitgevoerd door SBB in samenwerking met de MBO Raad, VO-Raad, bedrijfsleven en jongerenorganisaties.
 
-[API DOCS](https://gateway-portal.s-bb.nl/api-details#api=kiesmbo-api&operation=Export)
+De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de arbeidsmarkt, continu aangeleverd door scholen en SBB. Jongeren zijn actief betrokken bij de ontwikkeling van de site.
+
+👉 [KiesMBO API Docs](https://gateway-portal.s-bb.nl/api-details#api=kiesmbo-api&operation=Export)
 
 
-## Notes
-- In Datahub, Organization have location fields for their main locations. There is also a M2M field to store all of the organizations locations. Ideally, the main location would be defined in a relationship as well, but Directus Map Layouts don't support related geodata. For Onderwijsloket, this layout is not necessary!
+## 🛠️ Needs fixing
+- [ ] Why is rate limit not repected in queue processing? 
