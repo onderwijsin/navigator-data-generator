@@ -18,19 +18,19 @@ The `useHovi` composable is a high-level utility function designed to fetch, tra
 
 ```typescript
 export const useHovi: (opt?: { filterByCrohoCodes?: boolean }) => Promise<{
-  _organizations: TransformedOrganization[];
-  _products: TransformedProduct[];
-  _locations: TransformedLocation[];
+  _organizations: Organization[];
+  _products: Product[];
+  _locations: Location[];
   _degrees: HDegrees | null;
   addGeoDataToLocation: (location: Location) => Promise<LocationWithGeoData>;
-  getOrganizationById: (id: string) => TransformedOrganization | null;
-  getLocationById: (id: string) => TransformedLocation | null;
-  getProductById: (id: string) => TransformedProduct | null;
-  getAllOrganizations: () => TransformedOrganization[];
-  getAllLocations: () => TransformedLocation[];
-  getAllProducts: () => TransformedProduct[];
+  getOrganizationById: (id: string) => Organization | null;
+  getLocationById: (id: string) => Location | null;
+  getProductById: (id: string) => Product | null;
+  getAllOrganizations: () => Organization[];
+  getAllLocations: () => Location[];
+  getAllProducts: () => dProduct[];
   getAllDegrees: () => HDegrees | null;
-  getOrganizationDetails: (organizationId: string) => OrganizationDetails | null;
+  getOrganizationDetails: (organizationId: string) => Organization & { locations: Location[], products: Product[] } | null;
 }>
 ```
 ### Parameters
