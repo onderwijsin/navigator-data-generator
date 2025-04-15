@@ -16,21 +16,21 @@ function ensureDirSync(dirPath: string) {
     }
 }
 
-const { locations, organizations, products, degrees } = await useRawHovi();
+const { _locations, _organizations, _products, _degrees } = await useRawHovi();
 const outputDir = path.join(process.cwd(), './output/hovi');
 ensureDirSync(outputDir)
 
-const prettyOrgs = organizations.map(org => ({
-    organizationId: org.organization.organizationId,
-    name: org.organization.brinName?.nl || org.organization.brinName?.en || '',
-    brin: org.organization.brin,
-    type: org.organization.organizationType,
-    shortCode: org.organization.shortCode,
-    mainLocation: org.organization.mainLocation,
-    vendor: org.organization.vendor,
+const prettyOrgs = _organizations.map(org => ({
+    organizationId: org.organizationId,
+    name: org.brinName?.nl || org.brinName?.en || '',
+    brin: org.brin,
+    type: org.organizationType,
+    shortCode: org.shortCode,
+    mainLocation: org.mainLocation,
+    vendor: org.vendor,
 }))
 
-const prettyLocs = locations.map(loc => ({
+const prettyLocs = _locations.map(loc => ({
     locationId: loc.locationId,
     locationName: loc.locationName?.nl || loc.locationName?.en || '',
     city: loc.courseCityName,
@@ -40,7 +40,7 @@ const prettyLocs = locations.map(loc => ({
     visitorAddress: loc.visitorAddress,
 }))
 
-const prettyProducts = products.map(product => ({
+const prettyProducts = _products.map(product => ({
     productId: product.productId,
     croho: product.croho,
     crohoName: product.crohoName?.nl || product.crohoName?.en || '',
@@ -50,7 +50,7 @@ const prettyProducts = products.map(product => ({
     productType: product.productType,
     productForms: product.productForms?.map(form => form.productForm).join(', '),
     programLevel: product.programLevel,
-    degrees: product.degrees?.map(degree => degrees.find(d => d.rowkey === degree)?.title?.nl || '').join(', '),
+    degrees: product.degrees?.map(degree => _degrees?.find(d => d.rowkey === degree)?.title?.nl || '').join(', '),
     credits: product.credits,
     accreditations: (product.accreditations || []).map(acc => acc.accrOrganization).join(', '),
     financing: product.financing,

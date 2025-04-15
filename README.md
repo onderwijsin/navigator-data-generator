@@ -66,21 +66,14 @@ Available flags:
 - `--vendor` – comma-separated list of vendors to include
 - `--output` – comma-separated list of output formats (`json`, `excel`)
 - `--outDir` – path to write output files relative to project root
-- `--raw` – export raw API data instead of transformed/normalized data
+- `--raw` – export raw API data instead of transformed/normalized data (boolean)
+- `--croho` - filter data set by provided croho codes in config files. Usefull for filtering education related data (boolean)
 
 Check `package.json` scripts for example usages.
 
 ### Using Composables
 
-The `lib` directory exposes several composables:
-
-- `useConfig` – returns project configuration from config file
-- `useRawHovi` – fetches raw data from the HOVI API  
-  Returns: `organizations`, `locations`, `products`, `degrees`  
-  Types: see `hovi.short.d.ts`
-- `useHovi` – returns transformed HOVI data (with geospatial enrichment)  
-  Returns: `organizations`, `locations`, `products`  
-  Types: see `index.d.ts`
+The `lib` directory exposes several composables. You can find detailed documentation on how to use these in the docs directory.
 
 ## About HOVI
 
@@ -100,4 +93,4 @@ De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de a
 
 
 ## 🛠️ Needs fixing
-- [ ] Why is rate limit not repected in queue processing? 
+- [ ]

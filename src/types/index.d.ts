@@ -14,8 +14,8 @@ type Organization = {
     vendor: Vendor,
     hovi_id: string | null,
     main_location: string | null,
-    products: Array<Product>
-    locations: Array<LocationWithGeoData>
+    product_ids: string[],
+    location_ids: string[],
 }
 
 
@@ -78,6 +78,7 @@ type ProductForm = {
 }
 
 type Product = {
+    hovi_id: string | null,
     title: string,
     product_type: string,
     product_level?: string | null,

@@ -8,7 +8,8 @@ export default {
         token: process.env.HOVI_TOKEN as string,
         baseUrl: 'https://api.hovi.nl/api/4',
         oasUrl: 'https://api.hovi.nl/api/4/openapi.json',
-        rateLimit: 20, // requests per second
+        rateLimit: 20, // bacthes per second
+        batchSize: 20, // max number of parallel requests
         crohoCodes
     },
 

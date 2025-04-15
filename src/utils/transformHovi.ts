@@ -1,6 +1,6 @@
 import type { Product, ProductForm, Organization, LocationWithGeoData, Location } from "../types";
 import type { paths } from "../types/hovi";
-import type { HOrganizationList } from "../types/hovi.short";
+import type { HOrganizationExtended } from "../types/hovi.short";
 
 // Tiptap extensions
 import { generateJSON } from '@tiptap/html';
@@ -14,13 +14,28 @@ import Italic from '@tiptap/extension-italic';
 import { fetchDegrees } from "./extractHovi";
 import { fetchLocationComponents, getAddress } from "./geolocation";
 
-const degrees = await fetchDegrees();
+const degrees = await fetchDegrees() || [];
 
-if (!degrees) {
-    throw new Error('Degrees not found');
-}
 
-// Transforms a HOVI product form to a ProductForm
+/**
+ * Transforms a HOVI product form into a `ProductForm` object.
+ *
+ * @param form - The HOVI product form object to transform.
+ * @returns A `ProductForm` object containing transformed data, including:
+ * - `product_form`: The type of product form (e.g., 'voltijd', 'deeltijd', 'duaal').
+ * - `vendor`: The vendor name ('hovi').
+ * - Various descriptions and details, such as admission requirements, job perspectives, and tuition fees.
+ *
+ * @example
+ * const hoviProductForm = {
+ *   productForm: "dual",
+ *   admissionDescription: { nl: "Admission details" },
+ *   tuitionFees: [{ description: { nl: "Fee details" } }]
+ * };
+ *
+ * const productForm = transformProductForm(hoviProductForm);
+ * console.log(productForm.product_form); // "duaal"
+ */
 const transformProductForm = (form: paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json']['productForms'][number]): ProductForm => ({
     product_form: form.productForm === 'dual' ? 'duaal' : form.productForm === 'parttime' ? 'deeltijd' : 'voltijd',
     vendor: 'hovi',
@@ -81,10 +96,27 @@ const transformProductForm = (form: paths['/organization/{organizationId}/produc
 });
 
 /**
-* Transforms a HOVI product to a Product
-* Note because we'll need to async fetch degrees, we'll need to wrap this fn in async await
-*/
+ * Transforms a HOVI product into a `Product` object.
+ *
+ * @param hoviProduct - The HOVI product object to transform.
+ * @returns A promise that resolves to a `Product` object containing transformed data, including:
+ * - `title`: The product name.
+ * - `product_type`, `product_level`, `croho`, `croho_name`: Various product details.
+ * - `degrees`: A list of degree titles associated with the product.
+ * - `product_forms`: Transformed product forms.
+ *
+ * @example
+ * const hoviProduct = {
+ *   productName: { nl: "Example Product" },
+ *   productType: "bachelor",
+ *   degrees: ["degree1", "degree2"]
+ * };
+ *
+ * const product = await transformHoviProductToProduct(hoviProduct);
+ * console.log(product.title); // "Example Product"
+ */
 export const transformHoviProductToProduct = async (hoviProduct: paths['/organization/{organizationId}/product/{productId}']['get']['responses']['200']['content']['application/json']): Promise<Product> => ({
+        hovi_id: hoviProduct.productId || null,
         title: hoviProduct.productName?.nl || '',
         product_type: hoviProduct.productType,
         product_level: hoviProduct.productLevel,
@@ -100,8 +132,23 @@ export const transformHoviProductToProduct = async (hoviProduct: paths['/organiz
         product_forms: hoviProduct.productForms?.map(transformProductForm) || [] 
 });
 
-// Transforms a HOVI location to a Location
-const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json'] | null): Location | null => {
+/**
+ * Transforms a HOVI location into a `Location` object.
+ *
+ * @param hoviLocation - The HOVI location object to transform.
+ * @returns A `Location` object containing transformed data, or `null` if the input is invalid.
+ *
+ * @example
+ * const hoviLocation = {
+ *   locationId: "123",
+ *   locationName: { nl: "Example Location" },
+ *   visitorAddress: { street: "Main Street", zip: "12345", city: "Example City" }
+ * };
+ *
+ * const location = transformHoviLocationToLocation(hoviLocation);
+ * console.log(location.name); // "Example Location"
+ */
+export const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{organizationId}/location/{locationId}']['get']['responses']['200']['content']['application/json'] | null): Location | null => {
     if (!hoviLocation) return null
     const { locationId, locationName, visitorAddress, vestigingSK123Id, webLink, organization } = hoviLocation;
     return {
@@ -119,31 +166,66 @@ const transformHoviLocationToLocation = (hoviLocation: paths['/organization/{org
     };
 };
 
-// Transforms a HOVI organization to an Organization
-export const transformHoviOrganizationToOrganization = async (hoviOrganization: HOrganizationList[number]): Promise<Organization> => {
-    const { organization, products, locations } = hoviOrganization;
-    const { organizationId, brin, brinName, description, organizationType, shortCode, phone, email, webLink, mainLocation } = organization;
+/**
+ * Enhances a location object with geolocation data, including address components
+ * and geographical coordinates.
+ *
+ * @param location - The location object to enhance with geolocation data.
+ * @returns A promise that resolves to the enhanced location object, including:
+ * - `location_address`: The formatted address of the location.
+ * - `location_components`: Detailed address components fetched from geolocation services.
+ * - `location_data`: Geographical data in GeoJSON format, including coordinates.
+ * - All original properties of the input location.
+ *
+ * @example
+ * const location = {
+ *   hovi_id: "123",
+ *   name: "Example Location",
+ *   street: "Main Street 1",
+ *   zip: "12345",
+ *   city: "Example City",
+ *   country: "Netherlands",
+ *   vendor: "hovi"
+ * };
+ *
+ * const enhancedLocation = await addGeoDataToLocation(location);
+ * console.log(enhancedLocation.location_data.coordinates); // [longitude, latitude]
+ */
+export const addGeoDataToLocation = async (location: Location) => {
+    const components = await (fetchLocationComponents(location))
+    return {
+        "location_address": getAddress(location),
+        "location_components": components,
+        "location_data": !!components ? {
+            type: "Point",
+            coordinates: components?.geometry.coordinates
+        } : null,
+        ...location
+    }
+}
 
-    /**
-     * We still need to apply some magic to locations
-     * First we transform them
-     * Then we fetch the location components from Google Apis
-     * And merge the data into an object of type LocationWithGeoData
-     */
-    const locationsWithGeoData = await Promise.all(locations.map(async (rawLocation) => {
-        const location = transformHoviLocationToLocation(rawLocation);
-        if (!location) return null;
-        const components = await (fetchLocationComponents(location))
-        return {
-            "location_address": getAddress(location),
-            "location_components": components,
-            "location_data": !!components ? {
-                type: "Point",
-                coordinates: components?.geometry.coordinates
-            } : null,
-            ...location
-        }
-    }));
+/**
+ * Transforms a HOVI organization into an `Organization` object.
+ *
+ * @param hoviOrganization - The HOVI organization object to transform.
+ * @returns A promise that resolves to an `Organization` object containing transformed data, including:
+ * - `title`: The organization name.
+ * - `type`: The type of organization (e.g., 'universiteit', 'hogeschool').
+ * - `brin_code`: The BRIN code of the organization.
+ * - `product_ids`, `location_ids`: Lists of associated product and location IDs.
+ *
+ * @example
+ * const hoviOrganization = {
+ *   organizationId: "123",
+ *   brinName: { nl: "Example University" },
+ *   organizationType: "university"
+ * };
+ *
+ * const organization = await transformHoviOrganizationToOrganization(hoviOrganization);
+ * console.log(organization.title); // "Example University"
+ */
+export const transformHoviOrganizationToOrganization = async (hoviOrganization: HOrganizationExtended): Promise<Organization> => {
+    const { organizationId, brin, brinName, description, organizationType, shortCode, phone, email, webLink, mainLocation } = hoviOrganization;
 
     return {
         title: brinName?.nl || brinName?.en || null,
@@ -162,8 +244,11 @@ export const transformHoviOrganizationToOrganization = async (hoviOrganization: 
             url: value,
             lang: key === 'nl' ? 'Nederlands' : key === 'en' ? 'Engels' : 'Overig'
         })) : null,
-        main_location: locations.find(location => location.locationId === mainLocation)?.locationId || null,
-        products: await Promise.all(products.map(transformHoviProductToProduct)),
-        locations: locationsWithGeoData.filter(location => !!location) as LocationWithGeoData[],
+        main_location: mainLocation || null,
+        product_ids: hoviOrganization.productIds.filter(Boolean) as string[],
+        location_ids: hoviOrganization.locationIds.filter(Boolean) as string[],
+        // main_location: locations.find(location => location.locationId === mainLocation)?.locationId || null,
+        // products: await Promise.all(products.map(transformHoviProductToProduct)),
+        // locations: locationsWithGeoData.filter(location => !!location) as LocationWithGeoData[],
     } satisfies Organization;
 }

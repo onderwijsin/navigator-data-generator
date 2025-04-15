@@ -7,6 +7,8 @@ import * as path from 'path';
 import { useRawHovi, useHovi } from '../lib/use-hovi';
 import ExcelJS from 'exceljs';
 
+import { logger } from '../lib/use-errors';
+import { c } from 'openapi-typescript';
 // Ensure the directory exists
 function ensureDirSync(dirPath: string) {
     if (!fs.existsSync(dirPath)) {
@@ -16,11 +18,12 @@ function ensureDirSync(dirPath: string) {
 
 const args = minimist(process.argv.slice(2), {
   string: ['vendor', 'output', 'outDir'],
-  boolean: ['raw'], // 👈 declare it as a boolean
+  boolean: ['raw', 'croho'], // 👈 declare it as a boolean
   default: {
     output: 'json',
     outDir: './output',
-    raw: false
+    raw: false,
+    croho: false
   }
 });
 
@@ -28,25 +31,28 @@ const vendors = args.vendor?.split(',') ?? [];
 const output = args.output?.split(',') ?? [];;
 const outDir = args.outDir;
 const raw = args.raw;
+const croho = args.croho;
 
 const schema = z.object({
     vendor: z.array(z.enum(['kiesmbo', 'hovi'])),
     output: z.array(z.enum(['json', 'excel'])),
     outDir: z.string(),
-    raw: z.boolean()
+    raw: z.boolean(),
+    croho: z.boolean()
 });
 
 const parsedArgs = schema.safeParse({
     vendor: vendors,
     output,
     outDir,
-    raw
+    raw,
+    croho
 });
 if (!parsedArgs.success) {
     console.error('Invalid arguments:', JSON.stringify(parsedArgs.error.format(), null, 2));
     process.exit(1);
 }
-const { vendor, output: outputFormat, outDir: out, raw: isRaw } = parsedArgs.data;
+const { vendor, output: outputFormat, outDir: out, raw: isRaw, croho: filterByCrohoCodes } = parsedArgs.data;
 
 const outputDir = path.join(process.cwd(), out);
 
@@ -57,7 +63,7 @@ if (vendor.length === 0) {
 ensureDirSync(outputDir)
 
 if (vendor.includes('hovi')) {
-    const { locations, organizations, products } = isRaw ? await useRawHovi() : await useHovi();
+    const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawHovi({filterByCrohoCodes}) : await useHovi({filterByCrohoCodes});
 
     if (!organizations.length) {
         console.error('No organizations found');
@@ -80,9 +86,12 @@ if (vendor.includes('hovi')) {
         // For redundancy, write each organization including related products and locations to a separate file
         for (const org of organizations) {
             fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${
-                'organization' in org ? org.organization.organizationId : org.hovi_id 
+                'organizationId' in org ? org.organizationId : 'hovi_id' in org ? org.hovi_id : 'unknown'
             }.json`), JSON.stringify(org, null, 2));
         }
+
+        // Write the logger data to a file
+        fs.writeFileSync(path.resolve(outputDir, `logs.json`), JSON.stringify(logger.getLogs(), null, 2));
 
         console.log('JSON data written to files');
     }
@@ -110,6 +119,9 @@ if (vendor.includes('hovi')) {
         await workbook.xlsx.writeFile(path.resolve(outputDir, 'data.xlsx'));
 
         console.log('Excel data written to data.xlsx');
+
+        // Write the logger data to a file
+        fs.writeFileSync(path.resolve(outputDir, `logs.json`), JSON.stringify(logger.getLogs(), null, 2));
     }
 }
 
