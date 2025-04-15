@@ -95,4 +95,6 @@ De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de a
 
 
 ## 🛠️ Needs fixing
-- [ ]
+- [ ] Implement transformer for KiesMBP
+- [ ] create docs for KiesMBO composables
+- [ ] The KiesMBO data set sucks! We'll probably need to add some hardcoded stuff in the transformer
