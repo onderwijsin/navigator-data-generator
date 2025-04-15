@@ -2,6 +2,29 @@ import type { paths, components } from "./kiesmbo"
 export type Export = {
     schools: Array<MOrganization & { locations: Array<MLocation & { studies: Array<MProduct>, opendays: Array<MOpenDay> }> }>
 }
+
+export type StudiesExport = {
+    Data: Array<{
+        Name: string
+        StudyNumber: string,
+        Crebo: string
+    }>
+}
+
+export type StudyDetails = {
+    Name: string
+    StudyNumber: string,
+    Crebo: string
+    Intro?: string
+    Url?: string
+    Interests: string[]
+    Workplaces: string[]
+    Talents: string[]
+    Images: string[]
+    Profile: string
+}
+
+
 export type MOrganization = {
     brin?: string | null;
     name?: string | null;
@@ -46,7 +69,7 @@ type Url = {
 };
 
 type MProduct = {
-    crebo?: string | null;
+    crebo: string | null;
     learningPaths?: string[] | null;
     startingFebruary?: boolean | null;
     startingSeptember?: boolean | null;
@@ -72,4 +95,16 @@ type MProductExtended = MProduct & {
     product_id: string;
     organization_id: string
     location_ids: string[];
+
+    // From study details, but lowercased
+    name: string
+    studyNumber: string,
+    crebo: string
+    intro?: string
+    urlKiesMbo?: string
+    interests: string[]
+    workplaces: string[]
+    talents: string[]
+    images: string[]
+    profile: string
 }

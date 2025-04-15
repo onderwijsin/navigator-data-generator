@@ -1,8 +1,9 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
-import crohoCodes from './croho_codes';
-import creboCodes from './crebo_codes';
+import crohoCodes from './config/croho_codes';
+import creboCodes from './config/crebo_codes';
+import studyNumbers from './config/study_numbers'
 
 export default {
     hovi: {
@@ -11,14 +12,17 @@ export default {
         oasUrl: 'https://api.hovi.nl/api/4/openapi.json',
         rateLimit: 20, // bacthes per second
         batchSize: 20, // max number of parallel requests
-        crohoCodes
+        crohoCodes,
+        studyNumbers
     },
 
     kiesmbo: {
         creboCodes,
         userId: process.env.KIESMBO_USER_ID as string,
         token: process.env.KIESMBO_TOKEN as string,
-        baseUrl: 'https://gateway.s-bb.nl/kiesmbo/api/v2',
+        baseUrl: 'https://gateway.s-bb.nl/kiesmbo/api',
+        rateLimit: 20, // bacthes per second
+        batchSize: 50, // max number of parallel requests
         /** 
          * NOTE: This sucks, but we first need to extract a sesison token from the GUI at
          * @link https://gateway-portal.s-bb.nl/api-details#api=kiesmbo-api
