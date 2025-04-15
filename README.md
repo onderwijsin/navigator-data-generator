@@ -28,6 +28,8 @@ pnpm typegen
 
 For this to work, you’ll need an active session token from SBB, which you can only get via the GUI. Unfortunately, this is required and there’s no known workaround. Log into the [SBB Gateway](https://gateway-portal.s-bb.nl) to retrieve the token. Credentials can be found in the shared credentials list.
 
+> Note on type generation: the OAS from KiesMBO API sucks! It's got missing props, mistakes in the casing used for components, and faulty nesting for schema's (to name a few issues). The OAS is basically useless for generating types. I have left the type generation in place, but the code does not use the auto generated types. Instead, it relies on the hardcoded types from `kiesmbo.short.d.ts` and casts the API response to these types.
+
 ## Data Models
 These data models are fetched from the external sources.
 

@@ -2,6 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import crohoCodes from './croho_codes';
+import creboCodes from './crebo_codes';
 
 export default {
     hovi: {
@@ -14,6 +15,7 @@ export default {
     },
 
     kiesmbo: {
+        creboCodes,
         userId: process.env.KIESMBO_USER_ID as string,
         token: process.env.KIESMBO_TOKEN as string,
         baseUrl: 'https://gateway.s-bb.nl/kiesmbo/api/v2',

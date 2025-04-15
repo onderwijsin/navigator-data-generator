@@ -38,6 +38,37 @@ async function processHovi () {
     
 }
 
+
+const pascalToCamelOrLowercase = (str: string): string => {
+    // Check if the string is entirely uppercase
+    if (str === str.toUpperCase()) {
+        return str.toLowerCase(); // Convert to lowercase
+    }
+    // Convert PascalCase to camelCase
+    return str.charAt(0).toLowerCase() + str.slice(1);
+};
+  
+const transformComponentProps = (components: Record<string, any>): Record<string, any> => {
+    // Iterate over schemas, securitySchemes, or any top-level component categories
+    Object.keys(components).forEach((componentCategory) => {
+        const schemas = components[componentCategory];
+        // Iterate over each schema/component (e.g., FullExport, School)
+        Object.keys(schemas).forEach((componentName) => {
+            const component = schemas[componentName];
+            if (component.properties) {
+                // Transform only the properties object keys
+                const updatedProperties: Record<string, any> = {};
+                Object.keys(component.properties).forEach((propName) => {
+                    const newPropName = pascalToCamelOrLowercase(propName);
+                    updatedProperties[newPropName] = transformComponentProps(component.properties[propName]); // Recursively transform nested properties
+                });
+                component.properties = updatedProperties;
+            }
+        });
+    });
+    return components;
+};
+
 async function processKiesMBO () {
     try {
         const kiesmboOAS = await ofetch(kiesmbo.oasUrl, {
@@ -52,6 +83,16 @@ async function processKiesMBO () {
         if (!fs.existsSync(specsDir)) {
             fs.mkdirSync(specsDir, { recursive: true });
         }
+
+        // Next we'll need to work some magic to get the OAS to be valid
+        // The issue lies in the PascalCasing of the OAS components, which does not represent the actual data (which is camelCased)
+        const components = kiesmboOAS.components;
+        const updatedComponents = transformComponentProps(components);
+
+        // Update the OAS with the transformed components
+        kiesmboOAS.components = updatedComponents;
+
+
         // Write the OAS to a file
         fs.writeFileSync(path.join(specsDir, 'kiesmbo_oas.json'), JSON.stringify(kiesmboOAS, null, 2));
 

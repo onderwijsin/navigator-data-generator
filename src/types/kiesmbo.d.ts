@@ -124,92 +124,92 @@ export interface components {
     schemas: {
         FullExport: {
             /** Format: date-time */
-            LastUpdated?: string;
-            Schools?: components["schemas"]["School"][];
-            Studies?: components["schemas"]["Study"][];
+            lastUpdated?: string;
+            schools?: components["schemas"]["School"][];
+            studies?: components["schemas"]["Study"][];
         };
         FullExportV2: {
             /** Format: date-time */
-            LastUpdated?: string;
-            Schools?: components["schemas"]["School"][];
-            Studies?: components["schemas"]["StudyV2"][];
+            lastUpdated?: string;
+            schools?: components["schemas"]["School"][];
+            studies?: components["schemas"]["StudyV2"][];
         };
         School: {
-            BRIN?: string;
-            Name?: string;
-            Website?: string;
-            Locations?: components["schemas"]["Location"][];
+            brin?: string;
+            name?: string;
+            website?: string;
+            locations?: components["schemas"]["Location"][];
         };
         Study: {
-            Crebo?: string;
-            CreboName?: string;
-            StudyNumber?: string;
-            Profession?: string;
-            ProfessionNumber?: string;
+            crebo?: string;
+            creboName?: string;
+            studyNumber?: string;
+            profession?: string;
+            professionNumber?: string;
             /** Format: int32 */
-            Level?: number;
-            Duration?: string;
-            Introtext?: string;
-            YoutubeVideoCode?: string;
+            level?: number;
+            duration?: string;
+            introtext?: string;
+            youtubeVideoCode?: string;
         };
         StudyV2: {
-            Crebo?: string;
-            CreboName?: string;
-            StudyNumber?: string;
-            Profession?: string;
-            ProfessionNumber?: string;
+            crebo?: string;
+            creboName?: string;
+            studyNumber?: string;
+            profession?: string;
+            professionNumber?: string;
             /** Format: int32 */
-            Level?: number;
-            Duration?: string;
-            Introtext?: string;
-            YoutubeVideoCode?: string;
-            EducationContent?: string;
+            level?: number;
+            duration?: string;
+            introtext?: string;
+            youtubeVideoCode?: string;
+            educationContent?: string;
         };
         Location: {
-            BRINVEST?: string;
-            Name?: string;
-            IsMainLocation?: boolean;
-            Street?: string;
-            HouseNumber?: string;
-            ZipCode?: string;
-            City?: string;
-            Province?: string;
-            Website?: string;
-            Studies?: components["schemas"]["LocationStudy"][];
-            Opendays?: components["schemas"]["LocationOpenday"][];
+            brinvest?: string;
+            name?: string;
+            isMainLocation?: boolean;
+            street?: string;
+            houseNumber?: string;
+            zipCode?: string;
+            city?: string;
+            province?: string;
+            website?: string;
+            studies?: components["schemas"]["LocationStudy"][];
+            opendays?: components["schemas"]["LocationOpenday"][];
         };
         LocationStudy: {
-            Crebo?: string;
-            LearningPaths?: string[];
-            StartingFebruary?: boolean;
-            StartingSeptember?: boolean;
-            StartingAnytime?: boolean;
-            HasNumerusFixus?: boolean;
-            Urls?: components["schemas"]["StudyUrl"][];
+            crebo?: string;
+            learningPaths?: string[];
+            startingFebruary?: boolean;
+            startingSeptember?: boolean;
+            startingAnytime?: boolean;
+            hasNumerusFixus?: boolean;
+            urls?: components["schemas"]["StudyUrl"][];
         };
         LocationOpenday: {
             /** Format: date-time */
-            StartDate?: string;
+            startDate?: string;
             /** Format: date-time */
-            EndDate?: string;
-            Url?: string;
-            Type?: string;
-            IsOnline?: boolean;
-            IsGeneralOpenDay?: boolean;
+            endDate?: string;
+            url?: string;
+            type?: string;
+            isOnline?: boolean;
+            isGeneralOpenDay?: boolean;
         };
         StudyUrl: {
-            Title?: string;
-            Url?: string;
+            title?: string;
+            url?: string;
         };
         StudiesExportV2: {
             /** Format: date-time */
-            LastUpdated?: string;
-            Studies?: components["schemas"]["StudyV2"][];
+            lastUpdated?: string;
+            studies?: components["schemas"]["StudyV2"][];
         };
         ApiResult: {
-            HasError?: boolean;
-            ErrorMessage?: string;
-            Data?: Record<string, never>;
+            hasError?: boolean;
+            errorMessage?: string;
+            data?: Record<string, never>;
         };
     };
     responses: never;

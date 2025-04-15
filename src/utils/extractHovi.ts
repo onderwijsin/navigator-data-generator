@@ -14,7 +14,7 @@ import type {
     HProductList,
     HDegrees
 } from '../types/hovi.short'
-import { logger } from '../lib/use-errors';
+import { safeAsync } from '../utils/fetch';
 
 dotenv.config();
 const { hovi } = useConfig();
@@ -33,36 +33,6 @@ if (cacheEnabled && !fs.existsSync(cacheDir)) {
     fs.mkdirSync(cacheDir, { recursive: true });
 }
 
-/**
- * A utility function to safely execute asynchronous operations with error handling.
- * Logs errors and returns `null` if the operation fails.
- *
- * @template T - The type of the value returned by the asynchronous operation.
- * @param fn - A function that returns a promise to execute.
- * @param logContext - An object containing context for logging errors.
- * @param logContext.method - The name of the method or operation being executed.
- * @param logContext.id - An optional identifier for the operation (e.g., an ID related to the operation).
- * @returns A promise that resolves to the result of the operation, or `null` if an error occurs.
- *
- * @example
- * const result = await safeAsync(() => fetchData(), { method: 'fetchData', id: '123' });
- * if (result) {
- *   console.log('Data fetched successfully:', result);
- * } else {
- *   console.log('Failed to fetch data.');
- * }
- */
-async function safeAsync<T>(
-    fn: () => Promise<T>,
-    logContext: { method: string; id?: string }
-): Promise<T | null> {
-    try {
-        return await fn();
-    } catch (err) {
-        logger.log(err as Error, logContext.method, logContext.id || 'unknown_id', 'hovi');
-        return null;
-    }
-}
 
 // Create a queue to manage rate-limited requests
 const requestQueue: (() => Promise<void>)[] = [];
@@ -215,7 +185,7 @@ function getMostUsedLocation(products: HProductList): string | null {
 export async function fetchDegrees(): Promise<HDegrees | null> {
     return safeAsync(
         () => get('/domain/degree'),
-        { method: 'fetchDegrees' }
+        { method: 'fetchDegrees', vendor: 'hovi' }
     );
 }
 
@@ -224,21 +194,21 @@ export async function fetchOrganizationIds(): Promise<OrganizationList | null> {
     return safeAsync(async () => {
         const response: paths['/organization']['get']['responses']['200']['content']['application/json'] = await get('/organization');
         return response.filter(org => !!org.brin && !!org.organizationId) as OrganizationList;
-    }, { method: 'fetchOrganizationIds' });
+    }, { method: 'fetchOrganizationIds', vendor: 'hovi'  });
 }
 
 // Fetch locations for organization by ID
 async function fetchLocationsForOrganization(organizationId: string): Promise<HLocation[]> {
     const locationIds: HLocationIds = await safeAsync(
         () => get(`/organization/${organizationId}/location`),
-        { method: 'fetchLocationsForOrganization:list', id: organizationId }
+        { method: 'fetchLocationsForOrganization:list', id: organizationId, vendor: 'hovi'  }
     ) || [];
 
     const locations = await Promise.all(
         locationIds.map(({ locationId }) =>
             safeAsync(
                 () => get(`/organization/${organizationId}/location/${locationId}`),
-                { method: 'fetchLocationsForOrganization:single', id: locationId }
+                { method: 'fetchLocationsForOrganization:single', id: locationId, vendor: 'hovi'  }
             )
         )
     );
@@ -251,14 +221,14 @@ async function fetchLocationsForOrganization(organizationId: string): Promise<HL
 async function fetchProductsForOrganization(organizationId: string): Promise<HProduct[]> {
     const productIds: HProductIds = await safeAsync(
         () => get(`/organization/${organizationId}/product`),
-        { method: 'fetchProductsForOrganization:list', id: organizationId }
+        { method: 'fetchProductsForOrganization:list', id: organizationId, vendor: 'hovi'  }
     ) || [];
 
     const products = await Promise.all(
         productIds.map(({ productId }) =>
             safeAsync(
                 () => get(`/organization/${organizationId}/product/${productId}`),
-                { method: 'fetchProductsForOrganization:single', id: productId }
+                { method: 'fetchProductsForOrganization:single', id: productId, vendor: 'hovi'  }
             )
         )
     );
@@ -290,5 +260,5 @@ export async function fetchOrganizationDetails(
             products,
             locations,
         };
-    }, { method: 'fetchOrganizationDetails', id: organizationId });
+    }, { method: 'fetchOrganizationDetails', id: organizationId, vendor: 'hovi'  });
 }
