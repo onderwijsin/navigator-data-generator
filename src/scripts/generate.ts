@@ -24,7 +24,7 @@ const args = minimist(process.argv.slice(2), {
     output: 'json',
     outDir: './output',
     raw: false,
-    croho: false
+    filter: false
   }
 });
 
@@ -70,23 +70,24 @@ if (vendor.includes('hovi')) {
         console.error('No organizations found');
         process.exit(1);
     }
+    const hoviDir = path.resolve(outputDir, 'hovi');
 
     if (outputFormat.includes('json')) {
         // Ensure directories exist
-        ensureDirSync(path.resolve(outputDir, 'locations'));
-        ensureDirSync(path.resolve(outputDir, 'organizations'));
-        ensureDirSync(path.resolve(outputDir, 'products'));
+        ensureDirSync(path.resolve(hoviDir, 'locations'));
+        ensureDirSync(path.resolve(hoviDir, 'organizations'));
+        ensureDirSync(path.resolve(hoviDir, 'products'));
         
         // First write the locations to a file
-        fs.writeFileSync(path.resolve(outputDir, `locations/locations.json`), JSON.stringify(locations, null, 2));
+        fs.writeFileSync(path.resolve(hoviDir, `locations/locations.json`), JSON.stringify(locations, null, 2));
         // Then write the organizations to a file
-        fs.writeFileSync(path.resolve(outputDir, `organizations/organizations.json`), JSON.stringify(organizations, null, 2));
+        fs.writeFileSync(path.resolve(hoviDir, `organizations/organizations.json`), JSON.stringify(organizations, null, 2));
         // Then write the products to a file
-        fs.writeFileSync(path.resolve(outputDir, `products/products.json`), JSON.stringify(products, null, 2));
+        fs.writeFileSync(path.resolve(hoviDir, `products/products.json`), JSON.stringify(products, null, 2));
 
         // For redundancy, write each organization including related products and locations to a separate file
         for (const org of organizations) {
-            fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${
+            fs.writeFileSync(path.resolve(hoviDir, `organizations/organization_${
                 'organizationId' in org ? org.organizationId : 'hovi_id' in org ? org.hovi_id : 'unknown'
             }.json`), JSON.stringify(org, null, 2));
         }
@@ -114,7 +115,7 @@ if (vendor.includes('hovi')) {
         locations.forEach(location => locationSheet.addRow(location));
 
         // Write the workbook to a file
-        await workbook.xlsx.writeFile(path.resolve(outputDir, 'data.xlsx'));
+        await workbook.xlsx.writeFile(path.resolve(hoviDir, 'data.xlsx'));
 
         console.log('Excel data written to data.xlsx');
     }
@@ -123,21 +124,22 @@ if (vendor.includes('hovi')) {
 if (vendor.includes('kiesmbo')) {
     const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawKiesMbo({ filterByCreboCodes: useFilter, filterByStudyNumbers: useFilter }) : await useKiesMbo({ filterByCreboCodes: useFilter, filterByStudyNumbers: useFilter });
 
+    const kiesMboDir = path.resolve(outputDir, 'kiesmbo');
     if (outputFormat.includes('json')) {
-        ensureDirSync(path.resolve(outputDir, 'locations'));
-        ensureDirSync(path.resolve(outputDir, 'organizations'));
-        ensureDirSync(path.resolve(outputDir, 'products'));
+        ensureDirSync(path.resolve(kiesMboDir, 'locations'));
+        ensureDirSync(path.resolve(kiesMboDir, 'organizations'));
+        ensureDirSync(path.resolve(kiesMboDir, 'products'));
 
         // First write the locations to a file
-        fs.writeFileSync(path.resolve(outputDir, `locations/locations.json`), JSON.stringify(locations, null, 2));
+        fs.writeFileSync(path.resolve(kiesMboDir, `locations/locations.json`), JSON.stringify(locations, null, 2));
         // Then write the organizations to a file
-        fs.writeFileSync(path.resolve(outputDir, `organizations/organizations.json`), JSON.stringify(organizations, null, 2));
+        fs.writeFileSync(path.resolve(kiesMboDir, `organizations/organizations.json`), JSON.stringify(organizations, null, 2));
         // Then write the products to a file
-        fs.writeFileSync(path.resolve(outputDir, `products/products.json`), JSON.stringify(products, null, 2));
+        fs.writeFileSync(path.resolve(kiesMboDir, `products/products.json`), JSON.stringify(products, null, 2));
 
         // For redundancy, write each organization including related products and locations to a separate file
         for (const org of organizations) {
-            fs.writeFileSync(path.resolve(outputDir, `organizations/organization_${
+            fs.writeFileSync(path.resolve(kiesMboDir, `organizations/organization_${
                 'organization_id' in org ? org.organization_id : 'unknown'
             }.json`), JSON.stringify(org, null, 2));
         }
@@ -165,7 +167,7 @@ if (vendor.includes('kiesmbo')) {
         locations.forEach(location => locationSheet.addRow(location));
 
         // Write the workbook to a file
-        await workbook.xlsx.writeFile(path.resolve(outputDir, 'data.xlsx'));
+        await workbook.xlsx.writeFile(path.resolve(kiesMboDir, 'data.xlsx'));
 
         console.log('Excel data written to data.xlsx');
     }
@@ -173,5 +175,5 @@ if (vendor.includes('kiesmbo')) {
 
 if (!!vendor.length) {
     // Write the logs to a file
-    fs.writeFileSync(path.resolve(outputDir, `logs.json`), JSON.stringify(logger.getLogs(), null, 2));
+    fs.writeFileSync(path.resolve(outputDir, `logs_${Date.now()}.json`), JSON.stringify(logger.getLogs(), null, 2));
 }

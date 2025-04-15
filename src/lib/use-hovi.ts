@@ -10,8 +10,7 @@ type Options = {
 /** Returns an object containing all raw data from HOVI */
 export const useRawHovi = async (opt?: Options) => {
     const { filterByCrohoCodes = false } = opt || {};
-    const orgs = await fetchOrganizationIds();
-    const ids = orgs?.slice(0, 1)
+    const ids = await fetchOrganizationIds();
 
     if (!ids) {
         console.error('No organization IDs found');
@@ -32,7 +31,6 @@ export const useRawHovi = async (opt?: Options) => {
         const { organizationId } = org;
 
         const data = await fetchOrganizationDetails(organizationId);
-        console.log(`Fetched data for organizationId ${organizationId}`);
         if (!data) continue
         organizations.push(data)
     }

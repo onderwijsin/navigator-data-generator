@@ -88,9 +88,11 @@ const get = async <T>(apiPath: string): Promise<T | null> => {
             try {
                 const response = await ofetch(joinURL(kiesmbo.baseUrl, apiPath), {
                     headers: {
-                        'Ocp-Apim-Subscription-Key': kiesmbo.token,
+                        'Ocp-Apim-Subscription-Key': apiPath.includes('/v2') ? kiesmbo.tokenV2 : kiesmbo.tokenV1,
                     }
                 });
+
+                console.log(`Fetched data from KiesMBO API: ${apiPath}`);
         
                 // Cache the response to a file
                 if (cacheEnabled && response && !response.HasError) {

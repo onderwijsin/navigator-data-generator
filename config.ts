@@ -19,7 +19,8 @@ export default {
         creboCodes,
         studyNumbers,
         userId: process.env.KIESMBO_USER_ID as string,
-        token: process.env.KIESMBO_TOKEN as string,
+        tokenV1: process.env.KIESMBO_TOKEN_V1 as string,
+        tokenV2: process.env.KIESMBO_TOKEN_V2 as string,
         baseUrl: 'https://gateway.s-bb.nl/kiesmbo/api',
         rateLimit: 20, // bacthes per second
         batchSize: 50, // max number of parallel requests
