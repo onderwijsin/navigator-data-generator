@@ -32,14 +32,14 @@ const vendors = args.vendor?.split(',') ?? [];
 const output = args.output?.split(',') ?? [];;
 const outDir = args.outDir;
 const raw = args.raw;
-const croho = args.croho;
+const filter = args.filter;
 
 const schema = z.object({
     vendor: z.array(z.enum(['kiesmbo', 'hovi'])),
     output: z.array(z.enum(['json', 'excel'])),
     outDir: z.string(),
     raw: z.boolean(),
-    croho: z.boolean()
+    filter: z.boolean()
 });
 
 const parsedArgs = schema.safeParse({
@@ -47,13 +47,13 @@ const parsedArgs = schema.safeParse({
     output,
     outDir,
     raw,
-    croho
+    filter
 });
 if (!parsedArgs.success) {
     console.error('Invalid arguments:', JSON.stringify(parsedArgs.error.format(), null, 2));
     process.exit(1);
 }
-const { vendor, output: outputFormat, outDir: out, raw: isRaw, croho: filterByCrohoCodes } = parsedArgs.data;
+const { vendor, output: outputFormat, outDir: out, raw: isRaw, filter: useFilter } = parsedArgs.data;
 
 const outputDir = path.join(process.cwd(), out);
 
@@ -64,7 +64,7 @@ if (vendor.length === 0) {
 ensureDirSync(outputDir)
 
 if (vendor.includes('hovi')) {
-    const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawHovi({filterByCrohoCodes}) : await useHovi({filterByCrohoCodes});
+    const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawHovi({filterByCrohoCodes: useFilter}) : await useHovi({filterByCrohoCodes: useFilter});
 
     if (!organizations.length) {
         console.error('No organizations found');
@@ -121,7 +121,7 @@ if (vendor.includes('hovi')) {
 }
 
 if (vendor.includes('kiesmbo')) {
-    const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawKiesMbo() : await useKiesMbo();
+    const { _locations: locations, _organizations: organizations, _products: products } = isRaw ? await useRawKiesMbo({ filterByCreboCodes: useFilter, filterByStudyNumbers: useFilter }) : await useKiesMbo({ filterByCreboCodes: useFilter, filterByStudyNumbers: useFilter });
 
     if (outputFormat.includes('json')) {
         ensureDirSync(path.resolve(outputDir, 'locations'));

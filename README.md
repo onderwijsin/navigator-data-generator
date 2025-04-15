@@ -18,7 +18,7 @@ Then, modify then `config.ts` file in the root of the project.
 
 You’ll need a `.env` file with secrets and config options. Use the provided `.env.example` in the project root as a reference. **Enable caching via the `.env` for local development — highly recommended!** This project fetches over 100MB of data through 10K+ API requests.
 
-> ⚠️ If you are using transformed data (which you mostly are) Google Maps and Google Geocoding APIs will be used. Even if cache is enabled, this can get expensive upon first fetch. Use the transformer **only in production**! For development, set the `USE_GOOGLE_DUMMY_DATA` environment variable.
+> ⚠️ The `addGeoDataToLocation` method utilizes Google Maps and Google Geocoding APIs. Even if cache is enabled, this can get expensive if you apply this method frequently. Use the method **only in production**! For development, set the `USE_GOOGLE_DUMMY_DATA` environment variable to circumvent actual api calls.
 
 Before continuing, generate the types:
 
@@ -46,6 +46,7 @@ These data models are fetched from the external sources.
 - `Schools`
   - `Locations`
     - `Studies` (aka `Products`)
+      - `StudyDetails`
 
 These models are transformed and enriched into a standardized data model located in [`./src/types/index.d.ts`](./src/types/index.d.ts).
 
@@ -95,6 +96,7 @@ De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de a
 
 
 ## 🛠️ Needs fixing
-- [ ] Implement transformer for KiesMBP
+- [ ] Modify the output types to sometwhat satisfy the KiesMBO schemaq
+- [ ] Implement transformer for KiesMBO
 - [ ] create docs for KiesMBO composables
 - [ ] The KiesMBO data set sucks! We'll probably need to add some hardcoded stuff in the transformer

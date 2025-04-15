@@ -13,11 +13,11 @@ export default {
         rateLimit: 20, // bacthes per second
         batchSize: 20, // max number of parallel requests
         crohoCodes,
-        studyNumbers
     },
 
     kiesmbo: {
         creboCodes,
+        studyNumbers,
         userId: process.env.KIESMBO_USER_ID as string,
         token: process.env.KIESMBO_TOKEN as string,
         baseUrl: 'https://gateway.s-bb.nl/kiesmbo/api',

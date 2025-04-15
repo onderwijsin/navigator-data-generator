@@ -10,8 +10,8 @@
   "scripts": {
     "typegen": "tsx ./src/scripts/generateTypes.ts",
     "generate": "tsx ./src/scripts/generate.ts",
-    "generate:hovi": "pnpm generate --vendor=hovi --output=json --outDir=./output/hovi --croho",
-    "generate:kiesmbo": "pnpm generate --vendor=kiesmbo --output=json --outDir=./output/kiesmbo",
+    "generate:hovi": "pnpm generate --vendor=hovi --output=json --outDir=./output/hovi --filter",
+    "generate:kiesmbo": "pnpm generate --vendor=kiesmbo --output=json --outDir=./output/kiesmbo --filter",
     "generate:all": "pnpm generate --vendor=hovi,kiesmbo --output=json --outDir=./output/all",
     "generate:basic": "tsx ./src/scripts/generate.basic.ts"
   },
