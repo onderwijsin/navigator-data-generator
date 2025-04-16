@@ -2,7 +2,6 @@ import dotenv from 'dotenv';
 import { useConfig } from "../lib/use-config";
 import { ofetch } from "ofetch";
 import type { Export, MOrganizationExtended, MLocationExtended, MProductExtended, StudiesExport, StudyDetails } from "../types/kiesmbo.short";
-import type { Vendor } from "../types/utils";
 import defu from 'defu';
 import { joinURL } from "ufo";
 import { slugify } from '.';
@@ -119,12 +118,28 @@ const get = async <T>(apiPath: string): Promise<T | null> => {
 
 
 // Fetch organization details
-export async function fetchData() {
-    return safeAsync(async () => {
+export async function fetchData(options: {
+    filterByCreboCodes: boolean,
+    creboCodes: string[],
+    filterByStudyNumbers: boolean,
+    studyNumbers: string[],
+}) {
+    const { filterByCreboCodes, creboCodes, filterByStudyNumbers, studyNumbers } = options;
+
+    const data = await safeAsync(async () => {
         const exportData = await get<Export>('/v2/export');
         const studyData = await get<StudiesExport>('/v1/studies').then(async (res) => {
             if (!res) return null
-            const data = await Promise.all(res.Data.map(async (study) => {
+
+            // Only fetch details for studies that match the filter criteria
+            const filteredData = res.Data.filter((study) => {
+                if (filterByCreboCodes && !!creboCodes.length && !creboCodes.includes(study.Crebo)) return false
+                if (filterByStudyNumbers && !!studyNumbers.length && !studyNumbers.includes(study.StudyNumber)) return false
+                return true
+            });
+
+            // Fetch details for each study in the filtered data
+            const data = await Promise.all(filteredData.map(async (study) => {
                 const details = await get<{ Data: StudyDetails}>(`/v1/studies/${study.StudyNumber}`);
                 if (!details) return null
                 return {
@@ -132,6 +147,8 @@ export async function fetchData() {
                     ...details.Data
                 }
             }))
+
+            // Filter out any null values from the fetched details
             return data.filter((item) => item !== null);
         });
 
@@ -154,115 +171,103 @@ export async function fetchData() {
                 const { studies, opendays, ...restLocation } = location;
                 if (!restLocation.brinvest) return
                 const location_id = restLocation.brinvest;
-                location_ids.push(location_id);
-                locations.push({
-                    ...restLocation,
-                    location_id: location_id,
-                    organization_ids: [org.brin as string],
-                });
+
+                // A variable to track if the location has active products
+                let isActiveLocation = false;
 
                 studies.forEach((product) => {
-                    if (!product.crebo) return
+                    // Check if the product matches crebo filter criteria
+                    if (!product.crebo || (filterByCreboCodes && !!creboCodes.length && creboCodes.includes(product.crebo))) return
+                    
+                    // Find the corresponding study in the studyData
+                    const study = studyData.find((study) => study.Crebo === product.crebo);
+                    // If no study is found, this means the study was filtered based on the filterByStudyNumbers criteria, 
+                    // so skip this product
+                    if (!study) return
+
                     // Create a unique product ID and add it to the product_ids array
                     const product_id  = `${product.crebo}_${org.name ? slugify(org.name) : org.brin}`;
                     if (!product_ids.includes(product_id)) product_ids.push(product_id);
-                    const study = studyData.find((study) => study.Crebo === product.crebo);
-                    if (!study) return
-                    // console.log({
-                    //     ...product,
-                    //     product_id: product_id,
-                    //     location_ids: [location_id],
-                    //     organization_id: org.brin as string,
-                    //     name: study.Name,
-                    //     studyNumber: study.StudyNumber,
-                    //     crebo: study.Crebo,
-                    //     intro: study.Intro,
-                    //     urlKiesMbo: study.Url,
-                    //     interests: study.Interests,
-                    //     workplaces: study.Workplaces,
-                    //     talents: study.Talents,
-                    //     images: study.Images,
-                    //     profile: study.Profile,
-                    // })
-                    products.push({
-                        ...product,
-                        product_id: product_id,
-                        location_ids: [location_id],
-                        organization_id: org.brin as string,
-                        name: study.Name,
-                        studyNumber: study.StudyNumber,
-                        crebo: study.Crebo,
-                        intro: study.Intro,
-                        urlKiesMbo: study.Url,
-                        interests: study.Interests,
-                        workplaces: study.Workplaces,
-                        talents: study.Talents,
-                        images: study.Images,
-                        profile: study.Profile,
-                    });
+                    
+                    const index = products.findIndex((p) => p.product_id === product_id);
+
+                    // If the product already exists, update its location_ids (if the id is not already present)
+                    if (index !== -1 && !(products[index] as MProductExtended).location_ids.includes(location_id)) {
+                        (products[index] as MProductExtended).location_ids.push(location_id);
+                        return
+                    } else if (index === -1) {
+                        // If the product doesn't exist, create a new one
+                        products.push({
+                            ...product,
+                            product_id: product_id,
+                            location_ids: [location_id],
+                            organization_id: org.brin as string,
+                            name: study.Name,
+                            studyNumber: study.StudyNumber,
+                            crebo: study.Crebo,
+                            intro: study.Intro,
+                            urlKiesMbo: study.Url,
+                            interests: study.Interests,
+                            workplaces: study.Workplaces,
+                            talents: study.Talents,
+                            images: study.Images,
+                            profile: study.Profile,
+                        });
+                    }
+                    
+                    isActiveLocation = true; // Mark the location as having active products
                 });
+
+                if (!isActiveLocation) return // Skip if no active products
+
+                if (!location_ids.includes(location_id)) location_ids.push(location_id);
+                const index = locations.findIndex((l) => l.location_id === location_id);
+
+                // If the location already exists, merge it with the new data
+                if (index !== -1) {
+                    locations[index] = defu(
+                        locations[index],
+                        {
+                            ...restLocation,
+                            location_id: location_id,
+                            organization_ids: [org.brin as string],
+                        }
+                    )
+                } else {
+                    // If the location doesn't exist, create a new one
+                    locations.push({
+                        ...restLocation,
+                        location_id: location_id,
+                        organization_ids: [org.brin as string],
+                    });
+                }
+                
             })
 
-            organizations.push({
-                ...rest,
-                location_ids: location_ids,
-                product_ids: product_ids,
-                organization_id: org.brin as string,
-            });
+            // Only add the organization if there are associated products
+            if (!!product_ids.length) {
+                organizations.push({
+                    ...rest,
+                    location_ids: location_ids,
+                    product_ids: product_ids,
+                    organization_id: org.brin as string,
+                });
+            }
         })
 
-
-        // Remove duplicates from organizations, products, and locations
-        const uniqueProducts: MProductExtended[] = []
-        const uniqueLocations: MLocationExtended[] = []
-
-        // Helper function to merge arrays and keep only unique values
-        function mergeUniqueArrays(arr1: string[], arr2: string[]): string[] {
-            return Array.from(new Set([...arr1, ...arr2]));
-        }
-
-        // Process products
-        const productMap = new Map<string, MProductExtended>();
-        for (const product of products) {
-            if (productMap.has(product.product_id)) {
-                const existingProduct = productMap.get(product.product_id)!;
-                productMap.set(
-                    product.product_id,
-                    defu(product, {
-                        ...existingProduct,
-                        location_ids: mergeUniqueArrays(existingProduct.location_ids, product.location_ids),
-                    })
-                );
-            } else {
-                productMap.set(product.product_id, product);
-            }
-        }
-        uniqueProducts.push(...productMap.values());
-
-        // Process locations
-        const locationMap = new Map<string, MLocationExtended>();
-        for (const location of locations) {
-            if (locationMap.has(location.location_id)) {
-                const existingLocation = locationMap.get(location.location_id)!;
-                locationMap.set(
-                    location.location_id,
-                    defu(location, {
-                        ...existingLocation,
-                        organization_ids: mergeUniqueArrays(existingLocation.organization_ids, location.organization_ids),
-                    })
-                );
-            } else {
-                locationMap.set(location.location_id, location);
-            }
-        }
-        uniqueLocations.push(...locationMap.values());
-
-        
-       
         return {
             organizations,
-            products: uniqueProducts,
-            locations: uniqueLocations,
+            products,
+            locations,
         };
     }, { method: 'fetchData', vendor: 'kiesmbo'  });
+
+    if (!data) {
+        return {
+            organizations: [],
+            products: [],
+            locations: [],
+        }
+    }
+    return data
 }

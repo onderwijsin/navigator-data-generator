@@ -197,7 +197,7 @@ export async function fetchOrganizationIds(): Promise<OrganizationList | null> {
     }, { method: 'fetchOrganizationIds', vendor: 'hovi'  });
 }
 
-// Fetch locations for organization by ID
+// Fetch locations for organization by ID and provided location IDs (which come from product)
 async function fetchLocationsForOrganization(organizationId: string, locationIds: string[]): Promise<HLocation[]> {
 
     const locations = await Promise.all(
@@ -263,14 +263,13 @@ export async function fetchOrganizationDetails(
         // which is not the same as all locations of the organization
         const locations = await fetchLocationsForOrganization(
             organizationId,
-            products.map(product => product.location).filter(location => typeof location === 'string')
+            Array.from(new Set(products.map(product => product.location).filter(location => typeof location === 'string')))
         );
        
 
         return {
             organization: {
                 ...organization,
-                vendor: 'hovi' satisfies Vendor,
                 mainLocation: getMostUsedLocation(products),
                 locationIds: locations.map(location => location.locationId),
                 productIds: products.map(product => product.productId),

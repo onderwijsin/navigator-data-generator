@@ -1,5 +1,4 @@
 import { fetchData } from "../utils/extractKiesMbo";
-import type { HOrganizationDetailsList } from "../types/hovi.short";
 import { transformHoviOrganizationToOrganization, transformHoviProductToProduct, transformHoviLocationToLocation, addGeoDataToLocation } from "../utils/transformHovi";
 import { useConfig } from "./use-config";
 
@@ -11,41 +10,24 @@ type Options = {
 /** Returns an object containing all raw data from HOVI */
 export const useRawKiesMbo = async (opt?: Options) => {
     const { filterByCreboCodes = false, filterByStudyNumbers = false } = opt || {};
-    const data = await fetchData();
+    const { creboCodes, studyNumbers } = useConfig().kiesmbo;
+    const data = await fetchData({
+        filterByCreboCodes,
+        creboCodes,
+        filterByStudyNumbers,
+        studyNumbers,
+    });
 
-    if (!data) {
-        console.error('No data found');
-        // FIXME
-        // this should not happen, but it can. I think we just want to abort the process at this point.
-        // But how to do that grafefully?
-        return {
-            _organizations: [],
-            _products: [],
-            _locations: [],
-        }
+    if (!data?.organizations?.length) {
+        console.error('No data found for KiesMBO. This should not happen!');
     }
 
     let { organizations: _organizations, locations: _locations, products: _products } = data;
 
-    const { creboCodes, studyNumbers } = useConfig().kiesmbo;
-    if (filterByCreboCodes && !!creboCodes.length) {
-        console.log(`Filtering by crebo codes: ${creboCodes}`);
-        _products = _products.filter(product => product.crebo && creboCodes.includes(product.crebo))
-        _organizations = _organizations.filter(org => _products.some(product => product.organization_id === org.organization_id))
-        _locations = _locations.filter(location => _products.some(product => product.location_ids.includes(location.location_id)))
-    }
-
-    if (filterByCreboCodes && !!studyNumbers.length) {
-        console.log(`Filtering by study numbers: ${studyNumbers}`);
-        _products = _products.filter(product => product.studyNumber && studyNumbers.includes(product.studyNumber))
-        _organizations = _organizations.filter(org => _products.some(product => product.organization_id === org.organization_id))
-        _locations = _locations.filter(location => _products.some(product => product.location_ids.includes(location.location_id)))
-    }
-
     return {
-        _organizations,
-        _products,
-        _locations,
+        _organizations: data.organizations,
+        _products: data.products,
+        _locations: data.locations,
     }
 }
 

@@ -9,7 +9,6 @@ export type HProduct = paths['/organization/{organizationId}/product/{productId}
 export type HProductList = Array<HProduct>
 export type HDegrees = paths['/domain/degree']['get']['responses']['200']['content']['application/json']
 export type HOrganizationExtended = HOrganization & {
-    vendor: Vendor
     mainLocation: HLocation['locationId'] | null
     locationIds: HLocation['locationId'][]
     productIds: HProduct['productId'][]

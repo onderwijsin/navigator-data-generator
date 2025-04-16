@@ -31,7 +31,9 @@ export const useRawHovi = async (opt?: Options) => {
                 crohoCodes: useConfig().hovi.crohoCodes,
             }
         );
-        if (!data) continue
+
+        // If there are no products for the organization, skip it
+        if (!data || !data.products.length) continue
 
         const { organization, products, locations } = data;
         _organizations.push(organization);

@@ -96,7 +96,7 @@ De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de a
 
 
 ## 🛠️ Needs fixing
-- [ ] Modify the output types to sometwhat satisfy the KiesMBO schemaq
+- [ ] Modify the output types to sometwhat satisfy the KiesMBO schemas
 - [ ] Implement transformer for KiesMBO
 - [ ] create docs for KiesMBO composables
 - [ ] The KiesMBO data set sucks! We'll probably need to add some hardcoded stuff in the transformer
