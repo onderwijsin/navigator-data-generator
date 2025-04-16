@@ -2,27 +2,26 @@
 
 This project fetches and processes data from the HOVI and KiesMBO APIs, which provide information about higher education in the Netherlands. The goal is to normalize and utilize this data for various tooling.
 
----
-
 ## Table of Contents
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
-- [Data Models](#data-models)
-  - [HOVI](#hovi)
-  - [KiesMBO](#kiesmbo)
-- [Working with This Project](#working-with-this-project)
-- [Filtering the Data Sets](#filtering-the-data-sets)
-- [Generating Data](#generating-data)
-- [Using Composables](#using-composables)
-- [Working with (TipTap) Content](#working-with-tiptap-content)
-- [Caching](#caching)
-- [API Key Safety](#api-key-safety)
-- [About HOVI](#about-hovi)
-- [About KiesMBO](#about-kiesmbo)
-- [Needs Improvement](#needs-improvement)
+- [Extract HOVI and KiesMBO Data with the Navigator Data Generator](#extract-hovi-and-kiesmbo-data-with-the-navigator-data-generator)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Prerequisites](#prerequisites)
+  - [Project Setup](#project-setup)
+  - [Data Models](#data-models)
+    - [HOVI](#hovi)
+    - [KiesMBO](#kiesmbo)
+  - [Working with This Project](#working-with-this-project)
+  - [Filtering the Data Sets](#filtering-the-data-sets)
+  - [Generating Data](#generating-data)
+  - [Using Composables](#using-composables)
+  - [Working with (TipTap) Content](#working-with-tiptap-content)
+  - [Caching](#caching)
+  - [API Key Safety](#api-key-safety)
+  - [About HOVI](#about-hovi)
+  - [About KiesMBO](#about-kiesmbo)
+  - [Needs Improvement](#needs-improvement)
 
----
 
 ## Features
 - Makes working with data from KiesMBO and HOVI a breeze
@@ -36,7 +35,7 @@ This project fetches and processes data from the HOVI and KiesMBO APIs, which pr
 
 > **Why the name Navigator Data Generator?** This tool was primarily developed for the [onderwijsnavigator of Het Onderwijsloket](https://onderwijsloket.com/navigator)! But we decided to open source it, because it might be useful to others as well!
 
----
+
 
 ## Prerequisites
 To work with this project, **you'll need valid API keys** for:
@@ -44,7 +43,7 @@ To work with this project, **you'll need valid API keys** for:
 - [HOVI](https://api.hovi.nl/) with read access to all entities
 - [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview) (if you're working with the `addGeoDataToLocation` method)
 
----
+
 
 ## Project Setup
 
@@ -74,7 +73,7 @@ For this to work, you’ll need an active session token from SBB, which you can 
 
 > **Note on type generation:** The OAS from KiesMBO API is not very consistent, making it pretty much useless for dynamically generating types. The type generation script is included, but the code relies on the hardcoded types from `kiesmbo.hardcoded.d.ts` and casts the API response to these types.
 
----
+
 
 ## Data Models
 These data models are fetched from the external sources.
@@ -96,7 +95,7 @@ These models are transformed and enriched into a standardized data model located
 
 > Although this makes for a standardized output, it does not mean that both data sets are equally rich: in general, the HOVI dataset contains more information than the KiesMBO dataset. One thing to note is that the HOVI dataset natively contains `ProductForms`. KiesMBO does not, which means they are generated at runtime based op `learningPaths` (BOL, BBL), and therefore each `ProductForm` for KiesMBO mostly contains the same data.
 
----
+
 
 ## Working with This Project
 
@@ -105,7 +104,7 @@ This project has two primary use cases:
 1. **Generate output files** — export data in various formats (JSON, Excel).
 2. **Use composables** — work with internal utilities and raw/transformed data.
 
----
+
 
 ## Filtering the Data Sets
 If you don't need access to the entire HOVI or KiesMBO data set, you can update your config file to apply filters. These filters are on the product level (i.e. you're specifying which products to include), and propagate to locations and organizations.
@@ -115,7 +114,7 @@ If you don't need access to the entire HOVI or KiesMBO data set, you can update 
 
 > Note that applying filters will significantly decrease the number of outgoing requests 👌
 
----
+
 
 ## Generating Data
 
@@ -134,7 +133,7 @@ Available flags:
 
 Check `package.json` scripts for example usages.
 
----
+
 
 ## Using Composables
 
@@ -191,7 +190,7 @@ console.log('Filtered Organizations:', filteredOrganizations);
 ```
 
 
----
+
 
 ## Working with (TipTap) Content
 When transforming data, any RTF or HTML strings from HOVI and KIESMBO are serialized as [Tiptap](https://tiptap.dev/docs) documents of type `JSONContent`. This makes it easier to render the content in a way you see fit!
@@ -202,13 +201,13 @@ When working with these content objects, you can choose any of the following str
 3. Generate plain text from the JSON with Tiptap's [`generateText()`](https://github.com/ueberdosis/tiptap/pull/1875) utility (not recommended, since you'll lose any context)
 4. Use one of TipTap's renderers (more info in [Tiptap Docs](https://tiptap.dev/docs/editor/getting-started/install))
 
----
+
 
 ## Caching
 
 If caching is enabled (`ENABLE_CACHE=true` in your `.env`), API responses are stored locally in the `.cache/` directory and reused if still valid (see `CACHE_TTL`). This can greatly speed up development and reduce API usage. Cached files are organized by vendor and data type.
 
----
+
 
 ## API Key Safety
 
@@ -216,7 +215,7 @@ If caching is enabled (`ENABLE_CACHE=true` in your `.env`), API responses are st
 
 Keep your secrets safe! Use `.env` for local development and ensure it is listed in your `.gitignore`.
 
----
+
 
 ## About HOVI
 
@@ -226,7 +225,7 @@ De Hoger Onderwijs Voorlichtingsinformatie-standaard (HOVI-standaard) is een inf
 
 👉 [HOVI API Docs](https://api.hovi.nl/hovi-api-test/)
 
----
+
 
 ## About KiesMBO
 
@@ -240,9 +239,9 @@ De portal bevat actuele cijfers en informatie over beroepen, opleidingen en de a
 
 👉 [KiesMBO API Docs](https://gateway-portal.s-bb.nl/api-details#api=kiesmbo-api&operation=Export)
 
----
+
 
 ## Needs Improvement
 - [ ] Make abstraction of cacheable requests. Currently, this logic is applied separately in `extractHovi`, `extractKiesMbo`, and `geolocation`.
 
----
+
