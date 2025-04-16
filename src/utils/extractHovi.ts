@@ -198,14 +198,10 @@ export async function fetchOrganizationIds(): Promise<OrganizationList | null> {
 }
 
 // Fetch locations for organization by ID
-async function fetchLocationsForOrganization(organizationId: string): Promise<HLocation[]> {
-    const locationIds: HLocationIds = await safeAsync(
-        () => get(`/organization/${organizationId}/location`),
-        { method: 'fetchLocationsForOrganization:list', id: organizationId, vendor: 'hovi'  }
-    ) || [];
+async function fetchLocationsForOrganization(organizationId: string, locationIds: string[]): Promise<HLocation[]> {
 
     const locations = await Promise.all(
-        locationIds.map(({ locationId }) =>
+        locationIds.map((locationId) =>
             safeAsync(
                 () => get(`/organization/${organizationId}/location/${locationId}`),
                 { method: 'fetchLocationsForOrganization:single', id: locationId, vendor: 'hovi'  }
@@ -218,11 +214,22 @@ async function fetchLocationsForOrganization(organizationId: string): Promise<HL
 }
 
 // Fetch products for organization by ID
-async function fetchProductsForOrganization(organizationId: string): Promise<HProduct[]> {
-    const productIds: HProductIds = await safeAsync(
+async function fetchProductsForOrganization(
+    organizationId: string,
+    options: {
+        filterByCrohoCodes: boolean;
+        crohoCodes: string[];
+    }
+): Promise<HProduct[]> {
+    let productIds: HProductIds = await safeAsync(
         () => get(`/organization/${organizationId}/product`),
         { method: 'fetchProductsForOrganization:list', id: organizationId, vendor: 'hovi'  }
     ) || [];
+
+    if (options.filterByCrohoCodes && !!options.crohoCodes.length) {
+        // Filter products by croho codes
+        productIds = productIds.filter(product => !!product.croho && options.crohoCodes.includes(product.croho));
+    }
 
     const products = await Promise.all(
         productIds.map(({ productId }) =>
@@ -241,13 +248,24 @@ async function fetchProductsForOrganization(organizationId: string): Promise<HPr
 // Fetch organization details
 export async function fetchOrganizationDetails(
     organizationId: string,
+    options: {
+        filterByCrohoCodes: boolean;
+        crohoCodes: string[];
+    }
 ): Promise<HOrganizationDetailsList[number] | null> {
     return safeAsync(async () => {
         const organization: HOrganization = await get(`/organization/${organizationId}`);
 
-        // Fetch product and location for the organization
-        const locations = await fetchLocationsForOrganization(organizationId);
-        const products = await fetchProductsForOrganization(organizationId);
+        // First fetch all products for the organization.
+        // If crohofilters are applied, only those products are returned
+        const products = await fetchProductsForOrganization(organizationId, options);
+        // Fetch all locations associated with the products
+        // which is not the same as all locations of the organization
+        const locations = await fetchLocationsForOrganization(
+            organizationId,
+            products.map(product => product.location).filter(location => typeof location === 'string')
+        );
+       
 
         return {
             organization: {

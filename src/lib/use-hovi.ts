@@ -1,5 +1,5 @@
 import { fetchOrganizationIds, fetchOrganizationDetails, fetchDegrees } from "../utils/extractHovi";
-import type { HOrganizationDetailsList } from "../types/hovi.short";
+import type { HLocation, HOrganizationExtended, HProduct } from "../types/hovi.short";
 import { transformHoviOrganizationToOrganization, transformHoviProductToProduct, transformHoviLocationToLocation, addGeoDataToLocation } from "../utils/transformHovi";
 import { useConfig } from "./use-config";
 
@@ -10,48 +10,33 @@ type Options = {
 /** Returns an object containing all raw data from HOVI */
 export const useRawHovi = async (opt?: Options) => {
     const { filterByCrohoCodes = false } = opt || {};
-    const ids = await fetchOrganizationIds();
+    const ids = await fetchOrganizationIds() || []
 
-    if (!ids) {
-        console.error('No organization IDs found');
-        // FIXME
-        // this should not happen, but it can. I think we just want to abort the process at this point. 
-        // But how to do that grafefully?
-        return {
-            _organizations: [],
-            _products: [],
-            _locations: [],
-            _degrees: []
-        }
+    if (!ids.length) {
+        console.error('No organizations found in useRawHovi. This should not happen!');
     }
 
-    const organizations: HOrganizationDetailsList = []
+    const _organizations: HOrganizationExtended[] = []
+    const _products: HProduct[] = []
+    const _locations: HLocation[] = []
+    const _degrees = await fetchDegrees()
 
     for (const org of ids) {
         const { organizationId } = org;
 
-        const data = await fetchOrganizationDetails(organizationId);
+        const data = await fetchOrganizationDetails(
+            organizationId,
+            {
+                filterByCrohoCodes,
+                crohoCodes: useConfig().hovi.crohoCodes,
+            }
+        );
         if (!data) continue
-        organizations.push(data)
-    }
 
-    const { crohoCodes } = useConfig().hovi;
-    const notNullOrganizations = organizations.filter(org => org !== null)
-    const _degrees = await fetchDegrees()
-
-    let _organizations = notNullOrganizations.flatMap(org => org?.organization || [])
-    let _products = notNullOrganizations.flatMap(org => org?.products || [])
-    let _locations = notNullOrganizations.flatMap(org => org?.locations || [])
-
-    // If filterByCrohoCodes is true, we need to filter the entore data set by the configured croho codes
-    // These codes are stored in product, therefore we need to filter the products by the croho codes
-    // and then filter the organizations by the products
-    // AND we need to filter the locations by the products
-    if (filterByCrohoCodes) {
-        console.log(`Filtering by croho codes: ${crohoCodes}`);
-        _products = _products.filter(product => product.croho && crohoCodes.includes(product.croho))
-        _organizations = _organizations.filter(org => _products.some(product => product.organization === org.organizationId))
-        _locations = _locations.filter(location => _products.some(product => product.location === location.locationId))
+        const { organization, products, locations } = data;
+        _organizations.push(organization);
+        _products.push(...products);
+        _locations.push(...locations);
     }
 
     return {

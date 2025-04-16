@@ -1,6 +1,10 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
+
+/** 
+ * NOTE: at a later time, we would want to fetch these from the Directus API
+ */
 import crohoCodes from './config/croho_codes';
 import creboCodes from './config/crebo_codes';
 import studyNumbers from './config/study_numbers'
