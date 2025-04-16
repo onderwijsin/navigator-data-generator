@@ -66,7 +66,6 @@ export const useKiesMbo = async (opt?: Options) => {
          * instead of accessing this store directly.
          */
         _products: transformedProducts,
-       
 
         // Methods
         /**
@@ -77,15 +76,15 @@ export const useKiesMbo = async (opt?: Options) => {
          * @returns A promise that resolves to the enhanced location object.
          *
          * @example
-         * const location = { hovi_id: "123", name: "Example Location" };
+         * const location = { brinvest: "123", name: "Example Location" };
          * const enhancedLocation = await addGeoDataToLocation(location);
          * console.log(enhancedLocation.location_data.coordinates); // [longitude, latitude]
          */
         addGeoDataToLocation,
         /**
-         * Retrieves an organization by its HOVI ID.
+         * Retrieves an organization by its KiesMBO organization ID.
          *
-         * @param id - The HOVI ID of the organization to retrieve.
+         * @param id - The KiesMBO organization ID to retrieve. This is equal to the org BRIN
          * @returns The organization object if found, or `null` if not found.
          *
          * @example
@@ -96,7 +95,7 @@ export const useKiesMbo = async (opt?: Options) => {
         /**
          * Retrieves a location by its brinvest code.
          *
-         * @param id - The brinvest of the location to retrieve.
+         * @param id - The brinvest code of the location to retrieve.
          * @returns The location object if found, or `null` if not found.
          *
          * @example
@@ -105,9 +104,10 @@ export const useKiesMbo = async (opt?: Options) => {
          */
         getLocationById: (id: string) => transformedLocations.find(location => location.brinvest === id) || null,
         /**
-         * Retrieves a product by its HOVI ID.
+         * Retrieves a product product ID. The product ID is calculated at runtime
+         * with this pattern: `${product.crebo}_${org.brin}_${location_id}`;
          *
-         * @param id - The HOVI ID of the product to retrieve.
+         * @param id - The product ID to retrieve.
          * @returns The product object if found, or `null` if not found.
          *
          * @example
@@ -116,7 +116,7 @@ export const useKiesMbo = async (opt?: Options) => {
          */
         getProductById: (id: string) => transformedProducts.find(product => product.kiesmbo_id === id) || null,
         /**
-         * Retrieves all transformed organizations.
+         * Retrieves all transformed organizations from KiesMBO.
          *
          * @returns An array of all transformed organization objects.
          *
@@ -126,7 +126,7 @@ export const useKiesMbo = async (opt?: Options) => {
          */
         getAllOrganizations: () => transformedOrganizations,
         /**
-         * Retrieves all transformed locations.
+         * Retrieves all transformed locations from KiesMBO.
          *
          * @returns An array of all transformed location objects.
          *
@@ -136,7 +136,7 @@ export const useKiesMbo = async (opt?: Options) => {
          */
         getAllLocations: () => transformedLocations,
         /**
-         * Retrieves all transformed products.
+         * Retrieves all transformed products from KiesMBO.
          *
          * @returns An array of all transformed product objects.
          *
@@ -149,7 +149,7 @@ export const useKiesMbo = async (opt?: Options) => {
          * Retrieves detailed information about an organization, including its associated
          * products and locations.
          *
-         * @param organizationId - The HOVI ID of the organization to retrieve details for.
+         * @param organizationId - The KiesMBO organization ID to retrieve details for. This is equal to the org BRIN
          * @returns An object containing the organization, its products, and its locations,
          * or `null` if the organization is not found.
          *

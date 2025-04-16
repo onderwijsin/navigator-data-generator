@@ -167,23 +167,21 @@ console.log(details?.locations.length); // 5
 ```typescript
 import { useHovi } from '../lib/use-hovi';
 
-(async () => {
-  const hovi = await useHovi();
+const hovi = await useHovi();
 
-  const organizations = hovi.getAllOrganizations();
-  console.log('Organizations:', organizations);
+const organizations = hovi.getAllOrganizations();
+console.log('Organizations:', organizations);
 
-  const location = hovi.getLocationById("456");
-  console.log('Location:', location);
+const location = hovi.getLocationById("456");
+console.log('Location:', location);
 
-  const enhancedLocation = await hovi.addGeoDataToLocation(location);
-  console.log('Enhanced Location:', enhancedLocation);
+const enhancedLocation = await hovi.addGeoDataToLocation(location);
+console.log('Enhanced Location:', enhancedLocation);
 
-  // With filtering by CROHO codes
-  const filteredHovi = await useHovi({ filterByCrohoCodes: true });
-  const filteredOrganizations = filteredHovi.getAllOrganizations();
-  console.log('Filtered Organizations:', filteredOrganizations);
-})();
+// With filtering by CROHO codes
+const filteredHovi = await useHovi({ filterByCrohoCodes: true });
+const filteredOrganizations = filteredHovi.getAllOrganizations();
+console.log('Filtered Organizations:', filteredOrganizations);
 ```
 
 

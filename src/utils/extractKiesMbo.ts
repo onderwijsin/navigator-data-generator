@@ -21,8 +21,8 @@ if (cacheEnabled && !fs.existsSync(cacheDir)) {
 import { safeAsync } from './fetch'
 
 const delay = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
-const rate_limit = kiesmbo.rateLimit || 20; // Rate limit for Hovi API requests
-const batch_size = kiesmbo.batchSize || 20; // Batch size for Hovi API requests
+const rate_limit = kiesmbo.rateLimit || 20; // Rate limit for API requests
+const batch_size = kiesmbo.batchSize || 20; // Batch size for API requests
 
 // Create a queue to manage rate-limited requests
 const requestQueue: (() => Promise<void>)[] = [];
@@ -65,6 +65,15 @@ const processQueue = async () => {
     isProcessingQueue = false;
 };
 
+/**
+ * Makes a GET request to the KiesMBO API with optional caching and rate limiting.
+ * If caching is enabled and a valid cache exists, returns cached data.
+ * Otherwise, queues the request, fetches the data, and caches the result.
+ *
+ * @template T - The expected response type.
+ * @param apiPath - The API path to fetch data from.
+ * @returns A promise resolving to the fetched data or null if an error occurs.
+ */
 const get = async <T>(apiPath: string): Promise<T | null> => {
     const now = Date.now();
     const cacheFile = path.resolve(cacheDir, encodeURIComponent(apiPath) + '.json');
@@ -104,7 +113,7 @@ const get = async <T>(apiPath: string): Promise<T | null> => {
 
                 resolve(response as T);
             } catch (err) {
-                console.log('Error fetching data from Hovi in: ' + apiPath);
+                console.log('Error fetching data from KiesMBO in: ' + apiPath);
                 console.error(err);
                 reject(err);
             }
@@ -115,7 +124,13 @@ const get = async <T>(apiPath: string): Promise<T | null> => {
     });
 }
 
-
+/**
+ * Finds the main location from a list of locations, based on the number of studies.
+ * Returns the 'brinvest' code of the location with the most studies.
+ *
+ * @param locations - Array of locations, each with an array of studies.
+ * @returns The 'brinvest' code of the main location, or null if not found.
+ */
 function findMainLocation (locations: Array<MLocation & { studies: MProduct[] }>): string | null {
     if (!locations || !locations[0]) return null;
     return locations.reduce((maxLoc, loc) => {
@@ -126,7 +141,18 @@ function findMainLocation (locations: Array<MLocation & { studies: MProduct[] }>
 }
 
 
-// Fetch organization details
+/**
+ * Fetches and processes data from the KiesMBO API, including organizations, locations, and products.
+ * Applies optional filtering by crebo codes and/or study numbers.
+ * Returns structured data for use in the application.
+ *
+ * @param options - Filtering options:
+ *   - filterByCreboCodes: Whether to filter by crebo codes.
+ *   - creboCodes: List of crebo codes to filter by.
+ *   - filterByStudyNumbers: Whether to filter by study numbers.
+ *   - studyNumbers: List of study numbers to filter by.
+ * @returns An object containing arrays of organizations, products, and locations.
+ */
 export async function fetchData(options: {
     filterByCreboCodes: boolean,
     creboCodes: string[],
