@@ -1,4 +1,4 @@
-import { useConfig } from "../lib/use-config";
+import { useConfig } from "../composables/use-config";
 import { ofetch } from "ofetch";
 import openapiTS, { astToString } from "openapi-typescript";
 

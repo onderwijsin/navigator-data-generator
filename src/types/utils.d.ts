@@ -1,1 +1,1 @@
-export type Vendor = 'hovi' | 'kiesmbo' | 'self' | string
+export type Vendor = 'hovi' | 'kiesmbo' | 'onderwijsloket'

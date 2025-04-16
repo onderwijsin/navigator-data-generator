@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import { useConfig } from "../lib/use-config";
+import { useConfig } from "../composables/use-config";
 import { ofetch } from "ofetch";
 import type { Location } from '../types';
 import type { GeocodeResponse } from '../types/geolocation';
@@ -196,5 +196,43 @@ export const fetchLocationComponents = async (loc: Location) => {
         console.error('Error fetching geocode data for location:', loc.hovi_id);
         console.error(error);
         return null;
+    }
+}
+
+/**
+ * Enhances a location object with geolocation data, including address components
+ * and geographical coordinates.
+ *
+ * @param location - The location object to enhance with geolocation data.
+ * @returns A promise that resolves to the enhanced location object, including:
+ * - `location_address`: The formatted address of the location.
+ * - `location_components`: Detailed address components fetched from geolocation services.
+ * - `location_data`: Geographical data in GeoJSON format, including coordinates.
+ * - All original properties of the input location.
+ *
+ * @example
+ * const location = {
+ *   hovi_id: "123",
+ *   name: "Example Location",
+ *   street: "Main Street 1",
+ *   zip: "12345",
+ *   city: "Example City",
+ *   country: "Netherlands",
+ *   vendor: "hovi"
+ * };
+ *
+ * const enhancedLocation = await addGeoDataToLocation(location);
+ * console.log(enhancedLocation.location_data.coordinates); // [longitude, latitude]
+ */
+export const addGeoDataToLocation = async (location: Location) => {
+    const components = await (fetchLocationComponents(location))
+    return {
+        "location_address": getAddress(location),
+        "location_components": components,
+        "location_data": !!components ? {
+            type: "Point",
+            coordinates: components?.geometry.coordinates
+        } : null,
+        ...location
     }
 }

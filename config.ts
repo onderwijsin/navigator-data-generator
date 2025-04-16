@@ -1,10 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config();
 
-
-/** 
- * NOTE: at a later time, we would want to fetch these from the Directus API
- */
 import crohoCodes from './config/croho_codes';
 import creboCodes from './config/crebo_codes';
 import studyNumbers from './config/study_numbers'
@@ -43,6 +39,4 @@ export default {
         apiKey: process.env.GOOGLE_API_KEY as string,
         useDummyData: process.env.USE_GOOGLE_DUMMY_DATA !== 'false',
     }
-
-
 }

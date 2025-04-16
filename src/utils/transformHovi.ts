@@ -1,4 +1,4 @@
-import type { Product, ProductForm, Organization, LocationWithGeoData, Location } from "../types";
+import type { Product, ProductForm, Organization, Location } from "../types";
 import type { paths } from "../types/hovi";
 import type { HOrganizationExtended } from "../types/hovi.short";
 
@@ -12,10 +12,8 @@ import Bold from '@tiptap/extension-bold';
 import Italic from '@tiptap/extension-italic';
 
 import { fetchDegrees } from "./extractHovi";
-import { fetchLocationComponents, getAddress } from "./geolocation";
 
 const degrees = await fetchDegrees() || [];
-
 
 /**
  * Transforms a HOVI product form into a `ProductForm` object.
@@ -129,7 +127,8 @@ export const transformHoviProductToProduct = async (hoviProduct: paths['/organiz
         vendor: 'hovi',
         location_hovi_id: hoviProduct.location,
         organization_hovi_id: hoviProduct.organization,
-        product_forms: hoviProduct.productForms?.map(transformProductForm) || [] 
+        product_forms: hoviProduct.productForms?.map(transformProductForm) || [],
+        kiesmbo_id: null,
 });
 
 /**
@@ -162,47 +161,11 @@ export const transformHoviLocationToLocation = (hoviLocation: paths['/organizati
         vestiging_SK123_id: vestigingSK123Id,
         url: webLink?.nl || null,
         brinvest: null,
-        organization_hovi_id: organization
+        organization_hovi_id: organization,
+        organization_kiesmbo_id: null,
     };
 };
 
-/**
- * Enhances a location object with geolocation data, including address components
- * and geographical coordinates.
- *
- * @param location - The location object to enhance with geolocation data.
- * @returns A promise that resolves to the enhanced location object, including:
- * - `location_address`: The formatted address of the location.
- * - `location_components`: Detailed address components fetched from geolocation services.
- * - `location_data`: Geographical data in GeoJSON format, including coordinates.
- * - All original properties of the input location.
- *
- * @example
- * const location = {
- *   hovi_id: "123",
- *   name: "Example Location",
- *   street: "Main Street 1",
- *   zip: "12345",
- *   city: "Example City",
- *   country: "Netherlands",
- *   vendor: "hovi"
- * };
- *
- * const enhancedLocation = await addGeoDataToLocation(location);
- * console.log(enhancedLocation.location_data.coordinates); // [longitude, latitude]
- */
-export const addGeoDataToLocation = async (location: Location) => {
-    const components = await (fetchLocationComponents(location))
-    return {
-        "location_address": getAddress(location),
-        "location_components": components,
-        "location_data": !!components ? {
-            type: "Point",
-            coordinates: components?.geometry.coordinates
-        } : null,
-        ...location
-    }
-}
 
 /**
  * Transforms a HOVI organization into an `Organization` object.
@@ -238,6 +201,7 @@ export const transformHoviOrganizationToOrganization = async (hoviOrganization: 
         vendor: 'hovi',
         logoUrl: null,
         hovi_id: organizationId || null,
+        kies_mbo_id: null,
         phone: phone || null,
         email: email || null,
         website: !!webLink ? Object.entries(webLink).map(([key, value]) => ({
@@ -247,8 +211,5 @@ export const transformHoviOrganizationToOrganization = async (hoviOrganization: 
         main_location: mainLocation || null,
         product_ids: hoviOrganization.productIds.filter(Boolean) as string[],
         location_ids: hoviOrganization.locationIds.filter(Boolean) as string[],
-        // main_location: locations.find(location => location.locationId === mainLocation)?.locationId || null,
-        // products: await Promise.all(products.map(transformHoviProductToProduct)),
-        // locations: locationsWithGeoData.filter(location => !!location) as LocationWithGeoData[],
     } satisfies Organization;
 }

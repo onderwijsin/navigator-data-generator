@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
-import { useConfig } from "../lib/use-config";
+import { useConfig } from "../composables/use-config";
 import { ofetch } from "ofetch";
-import type { Export, MOrganizationExtended, MLocationExtended, MProductExtended, StudiesExport, StudyDetails } from "../types/kiesmbo.short";
+import type { Export, MOrganizationExtended, MLocationExtended, MProductExtended, StudiesExport, StudyDetails, MLocation, MProduct } from "../types/kiesmbo.hardcoded";
 import defu from 'defu';
 import { joinURL } from "ufo";
 import { slugify } from '.';
@@ -116,6 +116,15 @@ const get = async <T>(apiPath: string): Promise<T | null> => {
 }
 
 
+function findMainLocation (locations: Array<MLocation & { studies: MProduct[] }>): string | null {
+    if (!locations || !locations[0]) return null;
+    return locations.reduce((maxLoc, loc) => {
+        const studiesCount = Array.isArray(loc.studies) ? loc.studies.length : 0;
+        const maxStudiesCount = Array.isArray(maxLoc.studies) ? maxLoc.studies.length : 0;
+        return studiesCount > maxStudiesCount ? loc : maxLoc;
+    }, locations[0]).brinvest || '';
+}
+
 
 // Fetch organization details
 export async function fetchData(options: {
@@ -162,9 +171,10 @@ export async function fetchData(options: {
         const products: MProductExtended[] = []
 
         exportData.schools.forEach((org) => {
-            if (!org.brin) return
+            if (!org.brin || !org.name) return
             const { locations: locs, ...rest } = org;
             const location_ids: string[] = []
+            let main_location = locs.find(loc => loc.isMainLocation)?.brinvest || findMainLocation(locs)
             const product_ids: string[] = []
 
             locs.forEach((location) => {
@@ -186,21 +196,19 @@ export async function fetchData(options: {
                     if (!study) return
 
                     // Create a unique product ID and add it to the product_ids array
-                    const product_id  = `${product.crebo}_${org.name ? slugify(org.name) : org.brin}`;
+                    const product_id  = `${product.crebo}_${org.brin}_${location_id}`;
                     if (!product_ids.includes(product_id)) product_ids.push(product_id);
                     
                     const index = products.findIndex((p) => p.product_id === product_id);
 
-                    // If the product already exists, update its location_ids (if the id is not already present)
-                    if (index !== -1 && !(products[index] as MProductExtended).location_ids.includes(location_id)) {
-                        (products[index] as MProductExtended).location_ids.push(location_id);
-                        return
-                    } else if (index === -1) {
+                    // add product (if the id is not already present)
+                    if (index === -1) {
                         // If the product doesn't exist, create a new one
                         products.push({
                             ...product,
+                            learningPaths: product.learningPaths.filter(Boolean),
                             product_id: product_id,
-                            location_ids: [location_id],
+                            location_id,
                             organization_id: org.brin as string,
                             name: study.Name,
                             studyNumber: study.StudyNumber,
@@ -230,7 +238,7 @@ export async function fetchData(options: {
                         {
                             ...restLocation,
                             location_id: location_id,
-                            organization_ids: [org.brin as string],
+                            organization_id: org.brin
                         }
                     )
                 } else {
@@ -238,7 +246,7 @@ export async function fetchData(options: {
                     locations.push({
                         ...restLocation,
                         location_id: location_id,
-                        organization_ids: [org.brin as string],
+                        organization_id: org.brin
                     });
                 }
                 
@@ -248,6 +256,7 @@ export async function fetchData(options: {
             if (!!product_ids.length) {
                 organizations.push({
                     ...rest,
+                    main_location,
                     location_ids: location_ids,
                     product_ids: product_ids,
                     organization_id: org.brin as string,

@@ -26,8 +26,8 @@ export type StudyDetails = {
 
 
 export type MOrganization = {
-    brin?: string | null;
-    name?: string | null;
+    brin: string;
+    name: string;
     website?: string | null;
     logoUrl?: string | null;
 };
@@ -47,7 +47,7 @@ type GeoCoordinate = {
 };
 
 type MLocation = {
-    brinvest?: string | null;
+    brinvest: string;
     name?: string | null;
     isMainLocation?: boolean | null;
     street?: string | null;
@@ -70,7 +70,7 @@ type Url = {
 
 type MProduct = {
     crebo: string | null;
-    learningPaths?: string[] | null;
+    learningPaths: string[];
     startingFebruary?: boolean | null;
     startingSeptember?: boolean | null;
     startingAnytime?: boolean | null;
@@ -79,6 +79,7 @@ type MProduct = {
 };
 
 type MOrganizationExtended = MOrganization & {
+    main_location: string | null;
     /** id is equal to brinvest + orgName */
     location_ids: string[];
     /** id is equal to crebo + orgName */
@@ -87,14 +88,14 @@ type MOrganizationExtended = MOrganization & {
 }
 
 type MLocationExtended = MLocation & {
-    organization_ids: string[];
+    organization_id: string;
     location_id: string
 }
 
 type MProductExtended = MProduct & {
     product_id: string;
     organization_id: string
-    location_ids: string[];
+    location_id: string;
 
     // From study details, but lowercased
     name: string

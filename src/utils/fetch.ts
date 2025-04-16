@@ -1,4 +1,4 @@
-import { logger } from "../lib/use-errors";
+import { logger } from "../composables/use-errors";
 import { Vendor } from "../types/utils";
 /**
  * A utility function to safely execute asynchronous operations with error handling.

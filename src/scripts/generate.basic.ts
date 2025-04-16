@@ -6,7 +6,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-import { useRawHovi } from '../lib/use-hovi';
+import { useRawHovi } from '../composables/use-hovi';
 import ExcelJS from 'exceljs';
 
 // Ensure the directory exists
@@ -26,8 +26,7 @@ const prettyOrgs = _organizations.map(org => ({
     brin: org.brin,
     type: org.organizationType,
     shortCode: org.shortCode,
-    mainLocation: org.mainLocation,
-    vendor: org.vendor,
+    mainLocation: org.mainLocation
 }))
 
 const prettyLocs = _locations.map(loc => ({

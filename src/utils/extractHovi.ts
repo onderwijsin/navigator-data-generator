@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import { useConfig } from "../lib/use-config";
+import { useConfig } from "../composables/use-config";
 import { ofetch } from "ofetch";
 import type { paths } from "../types/hovi";
 import type { HOrganizationDetailsList } from "../types/hovi.short";
@@ -152,7 +152,7 @@ type OrganizationList = {
  * @param products - Array of products with location data.
  * @returns The most used location.
  */
-function getMostUsedLocation(products: HProductList): string | null {
+function getMostUsedLocation(products: Array<Record<string, any> & { location?: string | null }>): string | null {
     const locationCount: { [key: string]: number } = {};
 
     products.forEach(product => {

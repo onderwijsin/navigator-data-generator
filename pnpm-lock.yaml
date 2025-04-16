@@ -8,9 +8,6 @@ importers:
 
   .:
     devDependencies:
-      '@directus/sdk':
-        specifier: ^19.0.1
-        version: 19.1.0
       '@tiptap/core':
         specifier: ^2.11.5
         version: 2.11.7(@tiptap/pm@2.11.7)
@@ -81,10 +78,6 @@ packages:
   '@babel/helper-validator-identifier@7.25.9':
     resolution: {integrity: sha512-Ed61U6XJc3CVRfkERJWDz4dJwKe7iLmmJsbOGu9wSloNSFttHV0I8g6UAgb7qnK5ly5bGLPd4oXZlxCdANBOWQ==}
     engines: {node: '>=6.9.0'}
-
-  '@directus/sdk@19.1.0':
-    resolution: {integrity: sha512-Nqem9BsvvGyVtAa69mGPtoMoMVkZxdIREdsWvvTzNF4/1XqaFfEiFL7PhtUNfc46/Nufus2+QUKYQbNiAWe3ZA==}
-    engines: {node: '>=22'}
 
   '@esbuild/aix-ppc64@0.25.2':
     resolution: {integrity: sha512-wCIboOL2yXZym2cgm6mlA742s9QeJ8DjGVaL39dLN4rRwrOgOyYSnOaFPhKZGLb2ngj4EyfAFjsNJwPXZvseag==}
@@ -857,8 +850,6 @@ snapshots:
       picocolors: 1.1.1
 
   '@babel/helper-validator-identifier@7.25.9': {}
-
-  '@directus/sdk@19.1.0': {}
 
   '@esbuild/aix-ppc64@0.25.2':
     optional: true
