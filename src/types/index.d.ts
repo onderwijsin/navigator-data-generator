@@ -58,7 +58,7 @@ type ProductForm = {
         starting_date: string | null,
         end_date: string | null
     }[],
-    product_url?: string,
+    product_url?: string | null,
     scholarships?: string[],
     study_advices?: {
         binding?: boolean,

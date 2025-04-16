@@ -114,7 +114,7 @@ export const useKiesMbo = async (opt?: Options) => {
          * const product = getProductById("789");
          * console.log(product?.title); // "Example Product"
          */
-        getProductById: (id: string) => transformedProducts.find(product => product.product_id === id) || null,
+        getProductById: (id: string) => transformedProducts.find(product => product.kiesmbo_id === id) || null,
         /**
          * Retrieves all transformed organizations.
          *
@@ -162,7 +162,7 @@ export const useKiesMbo = async (opt?: Options) => {
             const organization = transformedOrganizations.find(org => org.kies_mbo_id === organizationId);
             if (!organization) return null;
 
-            const products = transformedProducts.filter(product => product.organization_id === organizationId);
+            const products = transformedProducts.filter(product => product.organization_kiesmbo_id === organizationId);
             const locations = transformedLocations.filter(location => location.organization_kiesmbo_id === organizationId);
 
             return {

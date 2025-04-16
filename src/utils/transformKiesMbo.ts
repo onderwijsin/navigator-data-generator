@@ -40,6 +40,16 @@ function formatProductForm (form: string): ProductFormKey {
 }
 
 function getFormUrl (path: string, product: MProductExtended): string {
+    if (product.urls?.length === 1 && product.urls[0]) return product.urls[0].url || ''
+
+    // Try to find path related url
+    const url = product.urls.find(url => url.url && url.url.toLowerCase().includes(path.toLowerCase()))
+    // If found, return it
+    if (url.url) return url.url
+
+    // Otherwise return the first url as a default
+    if (product.urls[0]?.url) return product.urls[0].url
+
     return ''
 }
 
@@ -54,11 +64,11 @@ function getProductForms (product: MProductExtended): ProductForm[] {
         return {
             product_form: form,
             vendor: 'kiesmbo',
-            numerus_fixus: product.hasNumerusFixus,
+            numerus_fixus: !!product.hasNumerusFixus,
             product_description: product.intro ? generateJSON(product.intro, [
                 Document, Paragraph, Text, Bold, Link, Italic
             ]) : null,
-            product_url: product.urlKiesMbo || null
+            product_url: url || null,
         }
     })
 }
